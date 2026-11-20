@@ -1,3 +1,8 @@
+import { promises as fs } from "fs";
+import os from "os";
+import path from "path";
+let cacheDirectory: string;
+const originalCacheDirectory = process.env.ANIME_MAPPING_CACHE_DIR;
 type ResolverModule = typeof import("../src/request");
 type MappingsModule = typeof import("../src/anime-mappings");
 let request: ResolverModule;
@@ -14,14 +19,21 @@ function mockDatasets(fribb: unknown = rows, animeApi = tsv) {
     fetchMock.mockImplementation(async (url: string) => new Response(url.includes("Fribb") ? JSON.stringify(fribb) : animeApi));
 }
 
-beforeEach(() => {
+beforeEach(async () => {
+    cacheDirectory = await fs.mkdtemp(path.join(os.tmpdir(), "resolver-cache-"));
+    process.env.ANIME_MAPPING_CACHE_DIR = cacheDirectory;
     jest.resetModules();
     request = require("../src/request");
     mappings = require("../src/anime-mappings");
     fetchMock = jest.spyOn(global, "fetch");
     mockDatasets();
 });
-afterEach(() => jest.restoreAllMocks());
+afterEach(async () => {
+    jest.restoreAllMocks();
+    if (originalCacheDirectory === undefined) delete process.env.ANIME_MAPPING_CACHE_DIR; else process.env.ANIME_MAPPING_CACHE_DIR = originalCacheDirectory;
+    if (path.dirname(cacheDirectory) !== path.resolve(os.tmpdir())) throw new Error("Unsafe cleanup");
+    await fs.rm(cacheDirectory, { recursive: true, force: true });
+});
 
 it("uses Norman's verified Kitsu ID without searching or shortening its title", async () => {
     const resolver = new request.IdResolver(request.IdSource.ANILIST, "205289", "Norman the Snowman: Kodomo-tachi no Hitotsuboshi", 2026, "movie");
@@ -87,9 +99,9 @@ it.each(["", "0", "-1", "1x", "1.5", "9007199254740992"])("rejects invalid sourc
 });
 
 it("throws on mapping-provider failure and allows a later retry instead of caching a false identity", async () => {
-    fetchMock.mockResolvedValue(new Response("unavailable", { status: 503 }));
+    fetchMock.mockResolvedValue(new Response("unavailable", { status: 400 }));
     const resolver = new request.IdResolver(request.IdSource.ANILIST, "1");
-    await expect(resolver.resolveImdb()).rejects.toThrow("HTTP 503");
+    await expect(resolver.resolveImdb()).rejects.toThrow("HTTP 400");
     mockDatasets();
     expect(await resolver.resolveImdb()).toBe("tt1234567");
     expect(fetchMock).toHaveBeenCalledTimes(4);

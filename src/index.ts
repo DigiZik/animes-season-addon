@@ -1,3 +1,4 @@
+import { writeMappingReport } from "./anime-mappings";
 import { Season, monthToSeason } from "./query";
 import { Stremio } from "./stremio";
 import type { TitleType } from "./request";
@@ -47,7 +48,9 @@ async function main() {
 (async () => {
     try {
         await main();
+        await writeMappingReport();
     } catch (error) {
+        await writeMappingReport().catch(() => {});
         console.error("Fatal error while generating catalogs — aborting without writing partial/empty data:", error);
         process.exitCode = 1;
     }

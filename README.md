@@ -92,12 +92,49 @@ Kitsu link is missing, conflicting, or shared by distinct AniList entries, the
 original `anilist:` ID is retained. There are no fuzzy title searches or shortened
 name guesses. Each entry records its original `anilistId` for auditing.
 
-Both mapping datasets are downloaded once per generator process and indexed in
-memory, rather than fetched for every title. Mapping download failures stop the
-refresh and retain the previous deployment. Legacy title/IMDb patches cannot
-overwrite these native identities. Titles without a supported stream mapping may
-remain unavailable for playback until providers add one; they are never replaced
-with an unrelated film.
+Fribb is the primary mapping source. The animeApi overlay fills gaps only when
+native identity fields agree and the added IDs are not already owned by another
+anime. Conflicting MAL, AniDB, Simkl, or Kitsu evidence retains the original
+AniList identity. TMDB movie and TV numbers are kept in separate namespaces.
+Provider-level provenance records which dataset supplied accepted links. Here,
+"verified" means an explicit, consistent cross-reference, not independent proof.
+
+The resolver builds an in-memory index once and reuses chosen IDs. There are no
+per-title mapping requests. Legacy title/IMDb patches cannot overwrite native IDs.
+Titles without a supported stream mapping can remain unavailable for playback
+until providers add one; they are never replaced with an unrelated film.
+
+### Mapping cache and fallback
+
+Refresh runs restore ignored `.cache/mappings/` snapshots through GitHub Actions
+cache. Each provider is checked with one conditional GET. A `304` response reuses
+validated data without downloading its body. New data is validated before an
+atomic snapshot replacement, keeping bodies, timestamps, and ETags together.
+
+Transient connection failures, HTTP 429, and selected server errors receive at
+most two retries. Backoff starts at 250 ms; short Retry-After values are respected.
+Each attempt has a maximum 20-second timeout within a 45-second download budget
+per provider. Long Retry-After values defer to fallback instead of holding a run.
+
+| Situation | Behaviour |
+| --- | --- |
+| Download fails; validated snapshot is within the age limit | Use that snapshot and report degraded operation |
+| Snapshot is too old or corrupt | Refuse it; a successful origin revalidation can make an old snapshot usable |
+| Fribb unavailable without a usable snapshot | Stop the refresh; keep the previous public deployment |
+| animeApi unavailable without a usable snapshot | Continue with Fribb; preserve AniList IDs where links are missing |
+| No AniList seasonal data | Stop the refresh; mapping snapshots do not replace seasonal data |
+
+The default fallback age limit is **7 days** since the last successful download or
+origin revalidation. Fallback use never renews that timestamp. Set repository
+variable `MAPPING_CACHE_MAX_AGE_DAYS` to an integer from **1–30** to change it.
+Actions cache is an optimisation and may be evicted; a cache miss fetches fresh
+data. Publish-only runs make no mapping requests or mapping-cache transfers.
+
+Each refresh emits one aggregate mapping report in the Actions log and job
+summary: source status and age, download attempts and bytes, conflicts, and native
+fallback counts. The detailed report is saved locally as
+`.cache/mapping-report.json`. Cached files contain public mapping data only;
+they are excluded from Git and the Pages artifact.
 
 **How yearly catalogs work:** The current year combines the four existing season
 files in Winter → Spring → Summer → Fall order. Each title keeps its first
@@ -155,9 +192,10 @@ if GitHub reports that state. Upstream code changes are not merged automatically
 | Setting | Where to set it | Default |
 | --- | --- | --- |
 | `PAGINATION_PAGE_SIZE` | GitHub repository → Settings → Secrets and variables → Actions → Variables | `20` |
+| `MAPPING_CACHE_MAX_AGE_DAYS` | GitHub repository → Actions → Variables; maximum fallback age, 1–30 days | `7` |
 | `CATALOG_LIST_ITEMS_SIZE` | Your AIOmetadata environment | `20` |
 
-**Keep these values equal.** AIOmetadata sends `skip` and `genre` but no requested
+**Keep the two page-size values equal.** AIOmetadata sends `skip` and `genre` but no requested
 page size, so the public catalog cannot detect your setting automatically.
 
 After changing the repository variable, manually run the publishing workflow.
@@ -211,6 +249,7 @@ npm run verify:ids
 | `npm run test:offline` | Run deterministic tests, including pagination, current-year defaults, and HTTP checks |
 | `npm test` | Run all test suites |
 | `npm run verify:ids` | Check native IDs, AniList provenance, and movie playback IDs without provider requests |
+| `npm run benchmark:ids` | Compare the resolver with commit `b318225` using cached snapshots and controlled HTTP conditions |
 | `npm run audit:ids` | Audit every source catalog against current ID cross-references; writes `.cache/id-audit.json` |
 
 To audit or repair catalog identities manually:
@@ -227,6 +266,9 @@ The audit deduplicates checks by AniList identity and validates all files before
 applying repairs. Its report distinguishes IDs missing from current cross-references
 from confirmed title mismatches; absence alone does not prove an old ID was wrong.
 Routine Pages builds use the offline ID check instead of repeating the network audit.
+
+See [resolver benchmarks](docs/mapping-performance.md) for measured improvements,
+tradeoffs, and reproduction commands.
 
 To validate another page size in PowerShell:
 

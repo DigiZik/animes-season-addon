@@ -11,9 +11,10 @@
     "hard-clean": "rm -rf build node_modules",
     "build:pages": "tsc && node build/src/current-year.js && node build/src/pagination.js",
     "verify:pages": "node build/src/verify-pages.js",
-    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js build/tests/current-year.test.js build/tests/request.test.js build/tests/audit-ids.test.js",
+    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js build/tests/current-year.test.js build/tests/request.test.js build/tests/audit-ids.test.js build/tests/mapping-cache.test.js",
     "audit:ids": "tsc && node build/src/audit-ids.js",
-    "verify:ids": "node build/src/audit-ids.js --verify-native"
+    "verify:ids": "node build/src/audit-ids.js --verify-native",
+    "benchmark:ids": "npm run build && node scripts/benchmark-mappings.cjs"
   },
   "repository": {
     "type": "git",

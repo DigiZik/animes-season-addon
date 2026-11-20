@@ -40,3 +40,9 @@ The audit used these input SHA-256 hashes:
 fribb.json  5e1b838cee57430c5c8594c98fa9216686c67bd2df83d9eb0bdd6c1c2a060fae
 animeapi.tsv  80eb77cdf464f5fa15b38964461c6c7dca6aaf356795e9d0276b356af436b501
 ```
+
+## Follow-up conflict audit — v1.3.0
+
+The stronger cross-field audit checks MAL, AniDB, Simkl and Kitsu agreement before accepting overlay links. It found two additional ambiguous entries: SHORT PEACE (AniList 17677) and Whistle! (AniList 183). Both retain their original AniList IDs. All 64 files and 6,956 entries were re-audited; 6,389 distinct anime remain, 272 retain AniList IDs, and the final audit requires no further changes. All metadata and ordering match b318225. The original three reported repairs remain correct.
+
+See [performance and verification results](mapping-performance.md) for the 169-test validation and benchmark comparison.

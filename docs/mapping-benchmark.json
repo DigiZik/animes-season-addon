@@ -1,0 +1,77 @@
+{
+  "baseline": "b318225020decbedaa89fa81ba5fd685f48a259d",
+  "node": "v24.12.0",
+  "platform": "win32/x64",
+  "samples": 5,
+  "fixture": {
+    "bytes": 14137114,
+    "uniqueAnilist": 20928,
+    "sha256": {
+      "fribb": "5e1b838cee57430c5c8594c98fa9216686c67bd2df83d9eb0bdd6c1c2a060fae",
+      "animeApi": "80eb77cdf464f5fa15b38964461c6c7dca6aaf356795e9d0276b356af436b501"
+    }
+  },
+  "conditions": "Loopback HTTP, 64 KiB chunks every 5 ms per source; fresh process per sample; median; outage retries have sleep disabled.",
+  "runs": [
+    {
+      "mode": "cold",
+      "implementation": "baseline",
+      "success": true,
+      "loadMs": 1937.5041999999999,
+      "lookup100kMs": 15.44340000000011,
+      "retainedHeapMiB": 15.632408142089844,
+      "requests": 2,
+      "responseBodyBytes": 14137114
+    },
+    {
+      "mode": "cold",
+      "implementation": "current",
+      "success": true,
+      "loadMs": 2022.9976,
+      "lookup100kMs": 2.163499999999658,
+      "retainedHeapMiB": 18.36058807373047,
+      "requests": 2,
+      "responseBodyBytes": 14137114
+    },
+    {
+      "mode": "unchanged",
+      "implementation": "baseline",
+      "success": true,
+      "loadMs": 1932.191,
+      "lookup100kMs": 16.530199999999923,
+      "retainedHeapMiB": 15.573814392089844,
+      "requests": 2,
+      "responseBodyBytes": 14137114
+    },
+    {
+      "mode": "unchanged",
+      "implementation": "current",
+      "success": true,
+      "loadMs": 345.9098,
+      "lookup100kMs": 2.1777999999999906,
+      "retainedHeapMiB": 17.536170959472656,
+      "requests": 2,
+      "responseBodyBytes": 0
+    },
+    {
+      "mode": "outage",
+      "implementation": "baseline",
+      "success": false,
+      "loadMs": 27.9334,
+      "lookup100kMs": null,
+      "retainedHeapMiB": 1.9157028198242188,
+      "requests": 2,
+      "responseBodyBytes": 8
+    },
+    {
+      "mode": "outage",
+      "implementation": "current",
+      "success": true,
+      "loadMs": 290.6366,
+      "lookup100kMs": 2.440599999999961,
+      "retainedHeapMiB": 17.72374725341797,
+      "requests": 6,
+      "responseBodyBytes": 24
+    }
+  ]
+}

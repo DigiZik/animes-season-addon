@@ -31,14 +31,14 @@ export class IdResolver {
         private readonly source: IdSource,
         private readonly id: string,
         // Kept for callers of the old constructor. Names are never identity evidence.
-        _name?: string, _year?: number, _type?: TitleType, _preprocessName?: (name: string) => string
+        _name?: string, _year?: number, private readonly type?: TitleType, _preprocessName?: (name: string) => string
     ) {}
 
     private async resolveMapping(): Promise<AnimeMapping | undefined> {
         const source = SOURCES[this.source];
         if (!source || (source === "imdb" ? !/^tt\d{7,10}$/.test(this.id) : !positiveId(this.id))) return undefined;
         if (!this.mapping) {
-            this.mapping = loadAnimeMappings().then(index => index.lookup(source, String(this.id)))
+            this.mapping = loadAnimeMappings().then(index => index.lookup(source, String(this.id), this.type))
                 .catch(error => { this.mapping = undefined; throw error; });
         }
         return this.mapping;

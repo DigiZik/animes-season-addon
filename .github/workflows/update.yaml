@@ -25,6 +25,7 @@ jobs:
     permissions:
       contents: write
     env:
+      MAPPING_CACHE_MAX_AGE_DAYS: ${{ vars.MAPPING_CACHE_MAX_AGE_DAYS || '7' }}
       PAGINATION_PAGE_SIZE: ${{ vars.PAGINATION_PAGE_SIZE || '20' }}
     steps:
       - uses: actions/checkout@v4
@@ -37,9 +38,24 @@ jobs:
       - run: npm ci --no-audit --no-fund
       - name: Run offline tests and type checks
         run: npm run test:offline
+      - name: Restore validated mapping snapshots
+        id: mapping-cache
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs)
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/mappings
+          key: ${{ runner.os }}-anime-mappings-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            ${{ runner.os }}-anime-mappings-v1-
       - name: Refresh source catalogs
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs)
         run: npm start
+      - name: Save validated mapping snapshots
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs)
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/mappings
+          key: ${{ steps.mapping-cache.outputs.cache-primary-key }}
       - name: Build paginated site
         run: npm run build:pages
       - name: Verify native anime identities

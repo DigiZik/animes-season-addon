@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
-import { AnimeMappings, loadAnimeMappings, positiveId, readMappingSnapshots } from "./anime-mappings";
+import { AnimeMappings, loadAnimeMappings, positiveId, readMappingSnapshots, writeMappingReport } from "./anime-mappings";
 
 type Entry = { id: string; type: string; name: string; poster?: string; anilistId?: number; behaviorHints?: { defaultVideoId?: string } };
 type CatalogFile = { relative: string; text: string; data: { metas: Entry[] } };
@@ -65,7 +65,7 @@ export async function auditIds(options: { root?: string; mappings: AnimeMappings
                 let finding = findings.get(key);
                 if (!finding) {
                     finding = { anilistId, name: meta.name, previousId: meta.id, replacement: preferred,
-                        reason: preferred.startsWith("anilist:") ? (options.mappings.get(anilistId)?.kitsu.size ? "conflicting-kitsu-links" : "no-kitsu-link") : "unverified-previous-id", files: [] };
+                        reason: options.mappings.get(anilistId)?.conflicted ? "conflicting-native-links" : preferred.startsWith("anilist:") ? (options.mappings.get(anilistId)?.kitsu.size ? "conflicting-kitsu-links" : "no-kitsu-link") : "unverified-previous-id", files: [] };
                     findings.set(key, finding);
                 }
                 finding.files.push(file.relative.split(path.sep).join("/"));
@@ -113,7 +113,8 @@ if (require.main === module) {
         const reportPath = path.resolve(".cache", "id-audit.json");
         await fs.mkdir(path.dirname(reportPath), { recursive: true });
         await fs.writeFile(reportPath, JSON.stringify(report, null, 2) + "\n");
+        await writeMappingReport(mappings);
         const { findings, ...summary } = report;
         console.log(`Catalog identity audit: ${JSON.stringify(summary)}; report: ${reportPath}`);
-    })().catch(error => { console.error((error as Error).message); process.exitCode = 1; });
+    })().catch(async error => { await writeMappingReport().catch(() => {}); console.error((error as Error).message); process.exitCode = 1; });
 }
