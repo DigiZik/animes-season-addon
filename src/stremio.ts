@@ -1,13 +1,14 @@
-import { TitleType } from "name-to-imdb";
+import type { TitleType } from "./request";
 import { promises as fs } from "fs";
 import path from "path";
 import { Season, Sorting, createSortedSeasonList, monthToSeason, query } from "./query";
-import { Anilist, IdResolver, IdSource, Imdb } from "./request";
+import { Anilist, IdResolver, IdSource } from "./request";
 export type Meta = {
     id: string;
     type: TitleType;
     name: string;
     poster: string;
+    anilistId?: number;
     behaviorHints?: {
         defaultVideoId: string;
     }
@@ -28,7 +29,7 @@ export class Catalog {
      * Create a file at path with the contents of metas
      */
     async writeToFile() {
-        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => m?.id?.startsWith("tt") || m?.id?.startsWith("kitsu"))}, null, 2));
+        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => /^(?:tt\d{7,10}|kitsu:[1-9]\d*|anilist:[1-9]\d*)$/.test(m?.id))}, null, 2));
     }
 
     describe({genres, tags, description}: {genres: string[], tags: string[], description: string}) {
@@ -53,18 +54,15 @@ export class Catalog {
             const originalName = anime.title.english ?? anime.title.romaji;
             let description = this.describe(anime);
             let fromAnilist = new IdResolver(IdSource.ANILIST, anime.id, originalName, anime.seasonYear, type, Stremio.removeSeasonDetails);
-            let imdbId = await fromAnilist.resolveImdb();
-            let id = imdbId;
-            if (!imdbId) {
-                id = await fromAnilist.resolveKitsu();
-            }
+            const id = await fromAnilist.resolveAnimeId();
+            if (!id) throw new Error(`No safe identity for AniList ${anime.id}`);
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
             switch (type) {
                 case "movie":
-                    this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description} as Meta);
+                    this.addMeta({id,type,name:originalName,poster,anilistId:Number(anime.id), behaviorHints:{defaultVideoId:id}, description} as Meta);
                     break;
                 default:
-                    this.addMeta({id,type,name:originalName,poster, description} as Meta);
+                    this.addMeta({id,type,name:originalName,poster,anilistId:Number(anime.id), description} as Meta);
             }
         }
     }
@@ -192,7 +190,7 @@ export class Manifest implements AbstractManifest {
             resources: ["catalog"],
             types: ["movie","series"],
             catalogs: [],
-            idPrefixes: ["tt","kitsu"]
+            idPrefixes: ["tt","kitsu","anilist"]
           } as AbstractManifest);
     }
     static async fromFile(filePath: string) : Promise<Manifest> {

@@ -81,8 +81,23 @@ when you need fresh provider data, including the first refresh after a year chan
 
 **Where the data comes from:** The generator queries AniList's GraphQL API using
 `seasonYear` and `season`, sorted by `POPULARITY_DESC`. AniList assigns season
-membership; the generator does not scrape the AniChart website. IMDb/Kitsu ID
-mapping connects those entries to metadata clients can use.
+membership; the generator does not scrape the AniChart website. Verified anime ID mappings connect those entries to metadata clients can use.
+
+### Verified anime identities
+
+Catalog entries use an unambiguous `kitsu:` ID from the
+[Fribb](https://github.com/Fribb/anime-lists) and
+[animeApi](https://github.com/nattadasu/animeApi) cross-reference datasets. If a
+Kitsu link is missing, conflicting, or shared by distinct AniList entries, the
+original `anilist:` ID is retained. There are no fuzzy title searches or shortened
+name guesses. Each entry records its original `anilistId` for auditing.
+
+Both mapping datasets are downloaded once per generator process and indexed in
+memory, rather than fetched for every title. Mapping download failures stop the
+refresh and retain the previous deployment. Legacy title/IMDb patches cannot
+overwrite these native identities. Titles without a supported stream mapping may
+remain unavailable for playback until providers add one; they are never replaced
+with an unrelated film.
 
 **How yearly catalogs work:** The current year combines the four existing season
 files in Winter → Spring → Summer → Fall order. Each title keeps its first
@@ -185,6 +200,7 @@ npm ci
 npm run test:offline
 npm run build:pages
 npm run verify:pages
+npm run verify:ids
 ```
 
 | Command | Purpose |
@@ -193,7 +209,24 @@ npm run verify:pages
 | `npm run build:pages` | Prepare current-year defaults from saved seasonal files, then build `.pages/` without provider requests |
 | `npm run verify:pages` | Check the generated site's catalogs, traversal, originals, and size |
 | `npm run test:offline` | Run deterministic tests, including pagination, current-year defaults, and HTTP checks |
-| `npm test` | Run all tests, including the original tests that use external services |
+| `npm test` | Run all test suites |
+| `npm run verify:ids` | Check native IDs, AniList provenance, and movie playback IDs without provider requests |
+| `npm run audit:ids` | Audit every source catalog against current ID cross-references; writes `.cache/id-audit.json` |
+
+To audit or repair catalog identities manually:
+
+```sh
+npm run audit:ids
+npm run audit:ids -- --repair
+npm run build:pages
+npm run verify:ids
+npm run verify:pages
+```
+
+The audit deduplicates checks by AniList identity and validates all files before
+applying repairs. Its report distinguishes IDs missing from current cross-references
+from confirmed title mismatches; absence alone does not prove an old ID was wrong.
+Routine Pages builds use the offline ID check instead of repeating the network audit.
 
 To validate another page size in PowerShell:
 
@@ -222,6 +255,7 @@ before making local changes because scheduled runs may have added data commits.
 | Only one page appears | Import `/paginated/manifest.json`, match both page-size settings, and refresh AIOmetadata/client caches |
 | Anime Years still requires a filter | Refresh or re-import the manifest and clear the previously selected year |
 | A new year is missing | Run the workflow with **Refresh AniList data** enabled and inspect its result |
+| An unrelated film appears after an ID repair | Refresh AIOmetadata's catalog cache and your client library; changing only artwork does not fix a stale source ID |
 | Titles look unchanged after deployment | Wait for AIOmetadata's catalog cache to expire or refresh it, then refresh the client library |
 | The refresh fails | Open the failed run in **Actions**; the previous published catalogs remain available |
 
@@ -234,6 +268,7 @@ repository and workflow logs. `.env` and `.env.*` are ignored by Git.
 
 - [victorgveloso/animes-season-addon](https://github.com/victorgveloso/animes-season-addon) — original generator and historical catalog data.
 - [AniList](https://anilist.co/) — anime metadata and seasonal membership.
+- [Fribb/anime-lists](https://github.com/Fribb/anime-lists) and [nattadasu/animeApi](https://github.com/nattadasu/animeApi) — verified anime cross-reference data.
 - [AIOmetadata](https://github.com/cedya77/aiometadata) — metadata integration.
 - [Stremio](https://www.stremio.com/) — the addon manifest and catalog protocol.
 

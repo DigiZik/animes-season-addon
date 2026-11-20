@@ -1,4 +1,4 @@
-import { TitleType } from "name-to-imdb";
+import type { TitleType } from "./request";
 
 export enum Season {
     WINTER = "WINTER", // December to February

@@ -42,6 +42,8 @@ jobs:
         run: npm start
       - name: Build paginated site
         run: npm run build:pages
+      - name: Verify native anime identities
+        run: npm run verify:ids
       - name: Verify every published catalog and filter
         run: npm run verify:pages
       - name: Commit updated source catalogs

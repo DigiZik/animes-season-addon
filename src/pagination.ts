@@ -159,7 +159,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     const sources = await readSources(root, manifest);
     const paginated = JSON.parse(JSON.stringify(manifest)) as Manifest;
     paginated.id = PAGINATED_ID;
-    paginated.version = "1.1.0";
+    paginated.version = "1.2.0";
     paginated.name = `${manifest.name} (Paginated)`;
     for (const catalog of paginated.catalogs) {
         catalog.extra = [...(catalog.extra || []).filter(extra => extra.name !== "skip"), { name: "skip", isRequired: false }];

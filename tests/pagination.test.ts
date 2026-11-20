@@ -81,7 +81,7 @@ it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i
     expect(result.bytes).toBeLessThan(1_000_000_000);
     const manifest = await json(".pages/paginated/manifest.json");
     expect(manifest.id).toBe("com.digizik.animes-season-addon.paginated");
-    expect(manifest.version).toBe("1.1.0");
+    expect(manifest.version).toBe("1.2.0");
     expect(manifest.name).toBe("Anime (Paginated)");
     for (let i = 0; i < catalogs.length; i++) {
         expect(manifest.catalogs[i].extra[0]).toEqual(catalogs[i].extra[0]);
@@ -172,7 +172,7 @@ it("rejects invalid manifests, unsafe paths, page sizes, and oversized sites", a
     await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("Invalid manifest");
 });
 
-it.each([20, 30, 50])("paginates the real 2025 archive into 195 unique titles at size %i", async pageSize => {
+it.each([20, 30, 50])("paginates the repaired 2025 archive without losing anime identities at size %i", async pageSize => {
     const sourcePath = path.resolve(__dirname, "../../catalog/series/archive_anime_seasons/genre=2025.json");
     const data = JSON.parse(await fs.readFile(sourcePath, "utf8"));
     expect(data.metas).toHaveLength(200);
@@ -189,14 +189,14 @@ it.each([20, 30, 50])("paginates the real 2025 archive into 195 unique titles at
         seen.add(key);
         return true;
     });
-    expect(expected).toHaveLength(195);
+    expect(expected).toHaveLength(new Set(data.metas.map((meta: any) => meta.anilistId)).size);
     const collected = [];
-    for (let skip = 0; skip < 195; skip += pageSize) {
+    for (let skip = 0; skip < expected.length; skip += pageSize) {
         const page = await json(`.pages/paginated/catalog/series/archive_anime_seasons/skip=${skip}&genre=2025.json`);
         collected.push(...page.metas);
     }
     expect(collected).toEqual(expected);
-    const terminal = Math.ceil(195 / pageSize) * pageSize;
+    const terminal = Math.ceil(expected.length / pageSize) * pageSize;
     expect(await json(`.pages/paginated/catalog/series/archive_anime_seasons/skip=${terminal}&genre=2025.json`)).toEqual({ metas: [] });
 });
 

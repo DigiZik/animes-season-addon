@@ -1,6 +1,6 @@
 import { Season, monthToSeason } from "./query";
 import { Stremio } from "./stremio";
-import { TitleType } from 'name-to-imdb';
+import type { TitleType } from "./request";
 import { Patches } from "./patch";
 import { prepareCurrentYear } from "./current-year";
 

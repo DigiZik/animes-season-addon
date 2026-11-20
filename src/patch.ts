@@ -58,6 +58,8 @@ export class Patches {
     
     applyPatches(catalog: Catalog, type: string, season: string) {
         catalog.getMetas().forEach(meta => {
+            // Legacy title/IMDb patches must not replace an identity verified from AniList.
+            if (meta.anilistId && /^(?:kitsu|anilist):[1-9]\d*$/.test(meta.id)) return;
             console.log(`Applying patch for ${meta.name} ${meta.id}`);
             const patch = this.patches[type][season]?.get(meta.name);
             console.log(patch);

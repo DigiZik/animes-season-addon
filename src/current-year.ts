@@ -18,7 +18,8 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
     const years = Array.from({ length: year - 2000 }, (_, index) => String(year - index));
     const pending: { file: string; body: string }[] = [];
     const counts: Record<string, number> = {};
-    const before = JSON.stringify(manifest.catalogs);
+    const before = JSON.stringify({ catalogs: manifest.catalogs, idPrefixes: manifest.idPrefixes });
+    manifest.idPrefixes = [...new Set([...(manifest.idPrefixes || []), "anilist"])];
     for (const type of ["series", "movie"]) {
         const catalog = manifest.catalogs.find((entry: any) => entry.type === type && entry.id === "archive_anime_seasons");
         const genre = catalog?.extra?.find((extra: any) => extra.name === "genre");
@@ -42,7 +43,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
         genre.options = years;
         genre.isRequired = false;
     }
-    if (JSON.stringify(manifest.catalogs) !== before) {
+    if (JSON.stringify({ catalogs: manifest.catalogs, idPrefixes: manifest.idPrefixes }) !== before) {
         const match = /^(\d+)\.(\d+)\.(\d+)$/.exec(manifest.version);
         if (!match) throw new Error("Cannot update invalid manifest version.");
         manifest.version = `${match[1]}.${match[2]}.${Number(match[3]) + 1}`;

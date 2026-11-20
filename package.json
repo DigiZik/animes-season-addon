@@ -11,7 +11,9 @@
     "hard-clean": "rm -rf build node_modules",
     "build:pages": "tsc && node build/src/current-year.js && node build/src/pagination.js",
     "verify:pages": "node build/src/verify-pages.js",
-    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js build/tests/current-year.test.js"
+    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js build/tests/current-year.test.js build/tests/request.test.js build/tests/audit-ids.test.js",
+    "audit:ids": "tsc && node build/src/audit-ids.js",
+    "verify:ids": "node build/src/audit-ids.js --verify-native"
   },
   "repository": {
     "type": "git",
@@ -34,7 +36,5 @@
     "jest": "^29.5.0",
     "typescript": "^5.0.4"
   },
-  "dependencies": {
-    "name-to-imdb": "^3.0.4"
-  }
+  "dependencies": {}
 }
