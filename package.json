@@ -8,7 +8,10 @@
     "test": "tsc && jest build",
     "build": "tsc",
     "clean": "rm -rf build",
-    "hard-clean": "rm -rf build node_modules"
+    "hard-clean": "rm -rf build node_modules",
+    "build:pages": "tsc && node build/src/pagination.js",
+    "verify:pages": "node build/src/verify-pages.js",
+    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js"
   },
   "repository": {
     "type": "git",
