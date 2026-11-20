@@ -111,7 +111,7 @@ AniList → catalog generator → pagination and validation → GitHub Pages
 
 | Trigger | Refreshes AniList data | Builds and publishes |
 | --- | --- | --- |
-| Daily at 04:30 UTC / 12:30 PM Singapore time | Yes | Yes |
+| Daily at 04:30 UTC  | Yes | Yes |
 | Push to `main` | No | Yes |
 | Manual workflow run | If the refresh option is checked | Yes |
 
@@ -234,7 +234,7 @@ repository and workflow logs. `.env` and `.env.*` are ignored by Git.
 
 - [victorgveloso/animes-season-addon](https://github.com/victorgveloso/animes-season-addon) — original generator and historical catalog data.
 - [AniList](https://anilist.co/) — anime metadata and seasonal membership.
-- [AIOmetadata](https://github.com/cedya77/aiometadata) — metadata integration and inspiration for this README's layout.
+- [AIOmetadata](https://github.com/cedya77/aiometadata) — metadata integration.
 - [Stremio](https://www.stremio.com/) — the addon manifest and catalog protocol.
 
 The source package declares the ISC license. Provider data remains subject to its
