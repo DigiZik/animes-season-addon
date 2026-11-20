@@ -3,12 +3,12 @@ import path from "path";
 import assert from "assert";
 import { parsePageSize } from "./pagination";
 
-export async function verifyPages(root = process.cwd(), pageSize = parsePageSize(process.env.PAGINATION_PAGE_SIZE)) {
-    const output = path.join(root, ".pages");
+export async function verifyPages(root = process.cwd(), pageSize = parsePageSize(process.env.PAGINATION_PAGE_SIZE), options: { output?: string; expectedId?: string } = {}) {
+    const output = options.output || path.join(root, ".pages");
     const read = async (relative: string) => JSON.parse(await fs.readFile(path.join(output, relative), "utf8"));
     const original = JSON.parse(await fs.readFile(path.join(root, "manifest.json"), "utf8"));
     const manifest = await read("paginated/manifest.json");
-    assert.equal(manifest.id, "com.digizik.animes-season-addon.paginated");
+    assert.equal(manifest.id, options.expectedId || "com.digizik.animes-season-addon.paginated");
     assert.equal(manifest.catalogs.length, original.catalogs.length);
     let variants = 0;
     let titles = 0;
@@ -70,8 +70,8 @@ export async function verifyPages(root = process.cwd(), pageSize = parsePageSize
 }
 
 if (require.main === module) {
-    verifyPages().then(result => console.log(`Verified Pages artifact: ${JSON.stringify(result)}`)).catch(error => {
-        console.error(`Pages verification failed: ${(error as Error).message}`);
-        process.exitCode = 1;
-    });
+    const root = process.cwd();
+    Promise.all([verifyPages(root), verifyPages(path.join(root, "cinemeta"), 100, {output:path.join(root, ".pages/cinemeta"),expectedId:"com.digizik.animes-season-addon.cinemeta.paginated"})])
+        .then(([aiometadata,cinemeta]) => console.log(`Verified both exports: ${JSON.stringify({aiometadata,cinemeta})}`))
+        .catch(error => { console.error(error.message); process.exitCode=1; });
 }

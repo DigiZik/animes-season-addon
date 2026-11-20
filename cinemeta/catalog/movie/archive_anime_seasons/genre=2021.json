@@ -1,0 +1,190 @@
+{
+  "metas": [
+    {
+      "id": "tt13544716",
+      "type": "movie",
+      "name": "My Hero Academia: World Heroes' Mission",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg"
+    },
+    {
+      "id": "tt12735338",
+      "type": "movie",
+      "name": "Words Bubble Up Like Soda Pop",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107625-2UIAI4TRwXz0.jpg"
+    },
+    {
+      "id": "tt13651628",
+      "type": "movie",
+      "name": "BELLE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127271-juJIu4WFTM8q.png"
+    },
+    {
+      "id": "tt13884144",
+      "type": "movie",
+      "name": "The Seven Deadly Sins: Cursed by Light",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png"
+    },
+    {
+      "id": "tt12007484",
+      "type": "movie",
+      "name": "Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116756-jIU2HrnEsDjR.jpg"
+    },
+    {
+      "id": "tt14402928",
+      "type": "movie",
+      "name": "KAKUSHIGOTO Theatrical Edition",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127227-tEJFrD2XfvTz.jpg"
+    },
+    {
+      "id": "tt13871024",
+      "type": "movie",
+      "name": "KINMOZA The Movie: Thank you!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116676-SmbBAKOS6XUw.jpg"
+    },
+    {
+      "id": "tt14264308",
+      "type": "movie",
+      "name": "BanG Dream! FILM LIVE 2nd Stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116610-CliKhWCWvvKc.jpg"
+    },
+    {
+      "id": "tt13681790",
+      "type": "movie",
+      "name": "Ryoma! The Prince of Tennis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113254-XmphpjR4LO7f.jpg"
+    },
+    {
+      "id": "tt14331144",
+      "type": "movie",
+      "name": "JUJUTSU KAISEN 0",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg"
+    },
+    {
+      "id": "tt13424422",
+      "type": "movie",
+      "name": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png"
+    },
+    {
+      "id": "tt15052770",
+      "type": "movie",
+      "name": "Summer Ghost",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130050-7tcgvLV2w3xH.jpg"
+    },
+    {
+      "id": "tt13064272",
+      "type": "movie",
+      "name": "Sing a Bit of Harmony",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg"
+    },
+    {
+      "id": "tt13057626",
+      "type": "movie",
+      "name": "Child of Kamiari Month",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118390-PEZaKViELb9y.jpg"
+    },
+    {
+      "id": "tt14292584",
+      "type": "movie",
+      "name": "ARIA The BENEDIZIONE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130558-8M8TeqrmQAbq.jpg"
+    },
+    {
+      "id": "tt13409496",
+      "type": "movie",
+      "name": "Hula Fulla Dance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125841-UODyqabwgKEb.jpg"
+    },
+    {
+      "id": "tt15392166",
+      "type": "movie",
+      "name": "Ghost in the Shell: SAC_2045 Sustainable War",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg"
+    },
+    {
+      "id": "tt15801562",
+      "type": "movie",
+      "name": "Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135864-pdE2Ur3cb6gn.jpg"
+    },
+    {
+      "id": "tt10766468",
+      "type": "movie",
+      "name": "Gintama: THE VERY FINAL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114129-RLgSuh6YbeYx.jpg"
+    },
+    {
+      "id": "tt12439230",
+      "type": "movie",
+      "name": "Seitokai Yakuindomo Movie 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113692-N7hUICpi9sIa.jpg"
+    },
+    {
+      "id": "tt13210990",
+      "type": "movie",
+      "name": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124132-1CMeg6ZKv09Q.jpg"
+    },
+    {
+      "id": "tt13749654",
+      "type": "movie",
+      "name": "ARIA The CREPUSCOLO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117556-SbGBjNw0MDp2.jpg"
+    },
+    {
+      "id": "tt13884166",
+      "type": "movie",
+      "name": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131770-thmn0mH6eDS7.jpg"
+    },
+    {
+      "id": "tt12439248",
+      "type": "movie",
+      "name": "Pompo: The Cinéphile",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99900-YpWbTgc4wr7A.jpg"
+    },
+    {
+      "id": "tt13593042",
+      "type": "movie",
+      "name": "Revue Starlight: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113024-nYBWjqoI4ZVc.png"
+    },
+    {
+      "id": "tt13288678",
+      "type": "movie",
+      "name": "Mobile Suit Gundam Hathaway",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105595-40ugr6S9NfOb.jpg"
+    },
+    {
+      "id": "tt12642574",
+      "type": "movie",
+      "name": "Knights of Sidonia: Love Woven in the Stars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99730-pG6lazHo6pKG.jpg"
+    },
+    {
+      "id": "tt12093860",
+      "type": "movie",
+      "name": "Case Closed: The Scarlet Bullet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113653-HY0suLnhIlA6.png"
+    },
+    {
+      "id": "tt10358782",
+      "type": "movie",
+      "name": "The Journey",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110224-lham5kQX7UGu.png"
+    },
+    {
+      "id": "tt13048312",
+      "type": "movie",
+      "name": "Farewell, My Dear Cramer: First Touch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123645-gaFgdv8Sx8mX.jpg"
+    },
+    {
+      "id": "tt13385804",
+      "type": "movie",
+      "name": "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121026-IdeSxOsJ84HB.png"
+    }
+  ]
+}

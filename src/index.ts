@@ -1,28 +1,24 @@
-import { writeMappingReport } from "./anime-mappings";
-import { Season, monthToSeason } from "./query";
+import { monthToSeason } from "./query";
 import { Stremio } from "./stremio";
-import type { TitleType } from "./request";
-import { Patches } from "./patch";
+import type { TitleType } from "./native-meta";
 import { prepareCurrentYear } from "./current-year";
 
 async function main() {
     const today = new Date();
     const currentYear = today.getFullYear();
     const manifest = await Stremio.createManifestIfNotExists(".");
-    const promises = [];
-    const patchCtl = new Patches();
-    patchCtl.loadCatalogManualFixPatches();
+    const catalogs = [];
     for (const titleType of ["series", "movie"] as TitleType[]) {
         const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
         for (const season of manifest.getSeasons()) {
             console.log(`Generating catalog for season ${season} ${titleType}`);
             const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
             await catalog.populate(currentYear, season, titleType);
-            patchCtl.applyPatches(catalog, titleType, season);
-            promises.push(catalog.writeToFile());
+
+            catalogs.push(catalog);
             if (season === monthToSeason(today.getMonth())) {
                 catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
-                promises.push(defaultCatalog.writeToFile());
+                catalogs.push(defaultCatalog);
             }
         }
         if (currentYear > manifest.getLastUpdate().getFullYear()) {
@@ -31,9 +27,9 @@ async function main() {
                 const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/archive_anime_seasons/genre=${year}.json`);
                 for (const season of manifest.getSeasons()) {
                     await catalog.populate(year, season, titleType);
-                    patchCtl.applyPatches(catalog, titleType, year.toString());
+
                 }
-                promises.push(catalog.writeToFile());
+                catalogs.push(catalog);
             }
         }
     }
@@ -41,16 +37,14 @@ async function main() {
         console.log(`Updating manifest`);
         await manifest.update(today);
     }
-    await Promise.all(promises);
+    await Promise.all(catalogs.map(catalog => catalog.writeToFile()));
     await prepareCurrentYear(process.cwd(), today);
 }
 
 (async () => {
     try {
         await main();
-        await writeMappingReport();
     } catch (error) {
-        await writeMappingReport().catch(() => {});
         console.error("Fatal error while generating catalogs — aborting without writing partial/empty data:", error);
         process.exitCode = 1;
     }

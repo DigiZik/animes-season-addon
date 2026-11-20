@@ -1,0 +1,592 @@
+{
+  "metas": [
+    {
+      "id": "tt0444745",
+      "type": "series",
+      "name": "Princess Tutu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx721-yuQXUgrLoQ96.jpg"
+    },
+    {
+      "id": "tt0402716",
+      "type": "series",
+      "name": "Witch Hunter ROBIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7-6uh1fPvbgS9t.png"
+    },
+    {
+      "id": "tt0373605",
+      "type": "series",
+      "name": "She, The Ultimate Weapon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx529-oJs7fcvpnhyN.png"
+    },
+    {
+      "id": "tt0852880",
+      "type": "series",
+      "name": "Samurai Deeper Kyo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/419.jpg"
+    },
+    {
+      "id": "tt0361140",
+      "type": "series",
+      "name": ".hack//Liminality",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/299.jpg"
+    },
+    {
+      "id": "tt2340966",
+      "type": "series",
+      "name": "Nurse Witch Komugi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/615.jpg"
+    },
+    {
+      "id": "tt0378730",
+      "type": "series",
+      "name": "Yukikaze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1080-f56ixGzYinVs.png"
+    },
+    {
+      "id": "tt0443717",
+      "type": "series",
+      "name": "UFO Ultramaiden Valkyrie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1127.jpg"
+    },
+    {
+      "id": "tt0960287",
+      "type": "series",
+      "name": "Dragon Drive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/296.jpg"
+    },
+    {
+      "id": "tt0159175",
+      "type": "series",
+      "name": "Lupin the 3rd Episode 0: The First Contact",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1418-rbvZTYqbFx2F.jpg"
+    },
+    {
+      "id": "tt0421391",
+      "type": "series",
+      "name": "Demon Lord Dante",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1628-KeT91CSV2RCm.jpg"
+    },
+    {
+      "id": "tt0498436",
+      "type": "series",
+      "name": "Haré+Guu Deluxe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/254.jpg"
+    },
+    {
+      "id": "tt0433669",
+      "type": "series",
+      "name": "Ground Defense Force Mao-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/980.jpg"
+    },
+    {
+      "id": "tt1071154",
+      "type": "series",
+      "name": "Shrine of the Morning Mist",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx231-UJnVQhD8oKAW.png"
+    },
+    {
+      "id": "tt0872175",
+      "type": "series",
+      "name": "G-on Riders",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1623-7KeHUChcwkiv.png"
+    },
+    {
+      "id": "tt2107575",
+      "type": "series",
+      "name": "Tokimeki Fushigi Diary★Ultra Maniac",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/179.jpg"
+    },
+    {
+      "id": "tt0142183",
+      "type": "series",
+      "name": "Macross XX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5051.jpg"
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "Naruto",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg"
+    },
+    {
+      "id": "tt0380113",
+      "type": "series",
+      "name": "Haibane Renmei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx387-eewftYhOOFVP.png"
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg"
+    },
+    {
+      "id": "tt0168366",
+      "type": "series",
+      "name": "Pokémon Advanced",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1564-1KniCPyGiu0W.png"
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx93-3b9jdMQjxEFf.png"
+    },
+    {
+      "id": "tt0429363",
+      "type": "series",
+      "name": "GetBackers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132-DBhi3KQASjLU.png"
+    },
+    {
+      "id": "tt0161952",
+      "type": "series",
+      "name": "Saint Seiya: The Hades Chapter - Sanctuary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1257-tZuA879PQLZe.png"
+    },
+    {
+      "id": "tt1294022",
+      "type": "series",
+      "name": "Pokémon Chronicles",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2363-hxC1f2VfyYbb.png"
+    },
+    {
+      "id": "tt0377210",
+      "type": "series",
+      "name": "Kiddy Grade",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx274-pFKbRi3Tg6PH.png"
+    },
+    {
+      "id": "tt0337769",
+      "type": "series",
+      "name": "Mahoromatic: Something More Beautiful",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx277-BbXji9c9d9mH.jpg"
+    },
+    {
+      "id": "tt0377237",
+      "type": "series",
+      "name": "OVERMAN King Gainer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1792-G7LtuJsDqpub.jpg"
+    },
+    {
+      "id": "tt5776342",
+      "type": "series",
+      "name": "Hanada Shounen-shi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2004-oLBclDWKkroa.png"
+    },
+    {
+      "id": "tt2074708",
+      "type": "series",
+      "name": "Hungry Heart: Wild Striker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17-6kqIbdUk3dgi.png"
+    },
+    {
+      "id": "tt0404597",
+      "type": "series",
+      "name": "Duel Masters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1685-56q9vP5NAKd2.jpg"
+    },
+    {
+      "id": "tt0395393",
+      "type": "series",
+      "name": "Heat Guy J",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx958-LvnrhL7SjfRL.jpg"
+    },
+    {
+      "id": "tt0434712",
+      "type": "series",
+      "name": "Petite Princess Yucie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx327-wiB9azurNfU3.png"
+    },
+    {
+      "id": "tt0425686",
+      "type": "series",
+      "name": "Super Heavy God Gravion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b833-4XonZorOk8If.png"
+    },
+    {
+      "id": "tt0833572",
+      "type": "series",
+      "name": "Galaxy Angel A",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/653.jpg"
+    },
+    {
+      "id": "tt1179815",
+      "type": "series",
+      "name": "Sister Princess RePure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx835-zwS3iHfCpo95.png"
+    },
+    {
+      "id": "tt1071676",
+      "type": "series",
+      "name": "Piano: The Melody of a Young Girl's Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx328-uHjU8mQh9O3X.png"
+    },
+    {
+      "id": "tt27385805",
+      "type": "series",
+      "name": "Platonic Chain",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b611-mS5HCy57fQBq.jpg"
+    },
+    {
+      "id": "tt0192943",
+      "type": "series",
+      "name": "Knight Hunters Eternity",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx446-RSMnmUSP8iZo.png"
+    },
+    {
+      "id": "tt0309226",
+      "type": "series",
+      "name": "Vandread Gekitou-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1111.jpg"
+    },
+    {
+      "id": "tt1234589",
+      "type": "series",
+      "name": "Bomberman Jetters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx751-70V5sG6HJQUr.png"
+    },
+    {
+      "id": "tt2575176",
+      "type": "series",
+      "name": "Mega Man: Upon a Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1854-8qWMEFsdFcWw.jpg"
+    },
+    {
+      "id": "tt0111056",
+      "type": "series",
+      "name": "Saiyuki Interactive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4476.jpg"
+    },
+    {
+      "id": "tt2120450",
+      "type": "series",
+      "name": "Strange Steel Fairy Rouran",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1947.jpg"
+    },
+    {
+      "id": "tt0318895",
+      "type": "series",
+      "name": "Hamtaro: Hamtaro's Birthday! - 3000 Hammy Steps in Search of Mommy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2399.jpg"
+    },
+    {
+      "id": "tt3425836",
+      "type": "series",
+      "name": "Shin Seiki Den Mars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1712-v6gs8NM01x8R.jpg"
+    },
+    {
+      "id": "tt0328739",
+      "type": "series",
+      "name": "Full Metal Panic!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx71-Fi08vs7xNBMW.png"
+    },
+    {
+      "id": "tt0366848",
+      "type": "series",
+      "name": "Please☆Teacher!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195-0qMiRJbg60Tc.png"
+    },
+    {
+      "id": "tt0426719",
+      "type": "series",
+      "name": "Hunter x Hunter: Yorknew City",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137-u17pWQRTZfKn.jpg"
+    },
+    {
+      "id": "tt0364863",
+      "type": "series",
+      "name": "RahXephon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165-TBPrUsYj4SUL.jpg"
+    },
+    {
+      "id": "tt1223625",
+      "type": "series",
+      "name": "Kanon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144-YdWsrDNssRIX.png"
+    },
+    {
+      "id": "tt0328733",
+      "type": "series",
+      "name": "Beyblade V-Force",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1669-BivChts2kGsj.png"
+    },
+    {
+      "id": "tt0279570",
+      "type": "series",
+      "name": "Love Hina Again",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190-oapgxvKLl3uW.png"
+    },
+    {
+      "id": "tt0353685",
+      "type": "series",
+      "name": "Macross Zero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194-WGTjEMUnjGaW.jpg"
+    },
+    {
+      "id": "tt1160947",
+      "type": "series",
+      "name": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b976-UFu2ce0hl6O8.png"
+    },
+    {
+      "id": "tt0303503",
+      "type": "series",
+      "name": "Ojamajo Doremi Dokkaan!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b353-7ssC6w5bSLMO.png"
+    },
+    {
+      "id": "tt0341985",
+      "type": "series",
+      "name": "Ultimate Muscle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1707.jpg"
+    },
+    {
+      "id": "tt1170225",
+      "type": "series",
+      "name": "Green Green OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/881.jpg"
+    },
+    {
+      "id": "tt0447590",
+      "type": "series",
+      "name": "Mirage of Blaze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1019.jpg"
+    },
+    {
+      "id": "tt1576820",
+      "type": "series",
+      "name": "Patapata Hikousen no Bouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/708.jpg"
+    },
+    {
+      "id": "tt3377984",
+      "type": "series",
+      "name": "Nana: Seven of Seven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx623-4vLVAsUbQDO0.png"
+    },
+    {
+      "id": "tt2078640",
+      "type": "series",
+      "name": "I''s",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1084.jpg"
+    },
+    {
+      "id": "tt1202772",
+      "type": "series",
+      "name": "Aquarian Age - Sign for Evolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1224.jpg"
+    },
+    {
+      "id": "tt0338455",
+      "type": "series",
+      "name": "SPACE PIRATE CAPTAIN HERLOCK: OUTSIDE LEGEND - The Endless Odyssey",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1081-FW0DHatfkBma.jpg"
+    },
+    {
+      "id": "tt3508332",
+      "type": "series",
+      "name": "Happy World!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/319.jpg"
+    },
+    {
+      "id": "tt4147616",
+      "type": "series",
+      "name": "Urda",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1102.jpg"
+    },
+    {
+      "id": "tt34289228",
+      "type": "series",
+      "name": "Sakura Wars: ~Su~Mi~Re~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1999.jpg"
+    },
+    {
+      "id": "tt15307204",
+      "type": "series",
+      "name": "Shootfighter Tekken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2797.jpg"
+    },
+    {
+      "id": "tt2637542",
+      "type": "series",
+      "name": "Wind: a breath of heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2015.jpg"
+    },
+    {
+      "id": "tt1381179",
+      "type": "series",
+      "name": "Harmagedon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1705-DZLUVw9Pj3UX.png"
+    },
+    {
+      "id": "tt0326672",
+      "type": "series",
+      "name": "Chobits",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx59-0J95ZHgt4uyP.jpg"
+    },
+    {
+      "id": "tt0339955",
+      "type": "series",
+      "name": "Azumanga Daioh",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx66-1LTNhVTnttZv.png"
+    },
+    {
+      "id": "tt0327386",
+      "type": "series",
+      "name": "The Twelve Kingdoms",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153-pLhZPQCYk7hl.png"
+    },
+    {
+      "id": "tt0469008",
+      "type": "series",
+      "name": "Tokyo Mew Mew",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx687-ougpIBcWwva0.png"
+    },
+    {
+      "id": "tt0316975",
+      "type": "series",
+      "name": "Digimon Frontier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1132-sAQyMO3rSg69.jpg"
+    },
+    {
+      "id": "tt0398412",
+      "type": "series",
+      "name": "Magical Shopping Arcade Abenobashi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/306-o0cw2vphUh6b.jpg"
+    },
+    {
+      "id": "tt0823967",
+      "type": "series",
+      "name": "Full Moon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx122-v7o2GtrjTC6w.jpg"
+    },
+    {
+      "id": "tt0339953",
+      "type": "series",
+      "name": "Ai Yori Aoshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx53-GPDXGvbhg4w5.png"
+    },
+    {
+      "id": "tt0380120",
+      "type": "series",
+      "name": "Jing: King of Bandits",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107-w685twC2xgyr.jpg"
+    },
+    {
+      "id": "tt0426265",
+      "type": "series",
+      "name": "TRAVA: FIST PLANET",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1980-ehsctCAVsUU7.jpg"
+    },
+    {
+      "id": "tt0346414",
+      "type": "series",
+      "name": "Tenshi na Konamaiki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200-xPxQtMoeRfyr.jpg"
+    },
+    {
+      "id": "tt1547413",
+      "type": "series",
+      "name": "Tokyo Underground",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175-ccHowbNQMcdm.png"
+    },
+    {
+      "id": "tt0331154",
+      "type": "series",
+      "name": "Tenchi Muyou! GXP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1133.jpg"
+    },
+    {
+      "id": "tt0433710",
+      "type": "series",
+      "name": "HAPPY☆LESSON (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx260-8Jw78seti49u.jpg"
+    },
+    {
+      "id": "tt0328338",
+      "type": "series",
+      "name": "Rizelmine",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/197.jpg"
+    },
+    {
+      "id": "tt0857298",
+      "type": "series",
+      "name": "Pita-Ten",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162-mYmCcLeO1QQh.jpg"
+    },
+    {
+      "id": "tt0796127",
+      "type": "series",
+      "name": "Mirmo Zibang!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1744.jpg"
+    },
+    {
+      "id": "tt3389064",
+      "type": "series",
+      "name": "Whistle!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/183.jpg"
+    },
+    {
+      "id": "tt0315011",
+      "type": "series",
+      "name": "Gun Frontier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1706.jpg"
+    },
+    {
+      "id": "tt4146020",
+      "type": "series",
+      "name": "Cosplay Complex",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx982-iP6ktKL8h846.png"
+    },
+    {
+      "id": "tt0420138",
+      "type": "series",
+      "name": "Lupin III: Return of Pycal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1427.jpg"
+    },
+    {
+      "id": "tt0305596",
+      "type": "series",
+      "name": "Gate Keepers 21",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/128.jpg"
+    },
+    {
+      "id": "tt0111351",
+      "type": "series",
+      "name": "Taiho Shichauzo No Mercy!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2010.jpg"
+    },
+    {
+      "id": "tt4145978",
+      "type": "series",
+      "name": "Araiso Private High School Student Council Executive Committee",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx425-bWnEbDMZ2NdG.png"
+    },
+    {
+      "id": "tt0320828",
+      "type": "series",
+      "name": "Atashin'chi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3006.jpg"
+    },
+    {
+      "id": "tt0988819",
+      "type": "series",
+      "name": "In a Distant Time OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/647.jpg"
+    },
+    {
+      "id": "tt0291343",
+      "type": "series",
+      "name": "Megami Kouhosei Special Curriculum",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/887.jpg"
+    },
+    {
+      "id": "tt0385396",
+      "type": "series",
+      "name": "Daigunder",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3271-pAR44qv8TWyk.png"
+    }
+  ]
+}

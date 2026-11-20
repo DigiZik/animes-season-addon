@@ -5,16 +5,14 @@
   "main": "build/src/index.js",
   "scripts": {
     "start": "tsc && node build/src/index.js",
-    "test": "tsc && jest build",
+    "test": "npm run test:offline",
     "build": "tsc",
-    "clean": "rm -rf build",
-    "hard-clean": "rm -rf build node_modules",
-    "build:pages": "tsc && node build/src/current-year.js && node build/src/pagination.js",
+    "build:pages": "tsc && node build/src/current-year.js && node build/src/build-pages.js",
     "verify:pages": "node build/src/verify-pages.js",
-    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/stremio.test.js build/tests/query.test.js build/tests/patch.test.js build/tests/resilience.test.js build/tests/current-year.test.js build/tests/request.test.js build/tests/audit-ids.test.js build/tests/mapping-cache.test.js",
-    "audit:ids": "tsc && node build/src/audit-ids.js",
-    "verify:ids": "node build/src/audit-ids.js --verify-native",
-    "benchmark:ids": "npm run build && node scripts/benchmark-mappings.cjs"
+    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/current-year.test.js build/tests/query.test.js build/tests/resilience.test.js build/tests/stremio.test.js build/tests/native-meta.test.js build/tests/cinemeta.test.js build/tests/verify-ids.test.js",
+    "verify:ids": "node build/src/verify-ids.js",
+    "benchmark:ids": "npm run build && node scripts/benchmark-ids.cjs",
+    "export:cinemeta": "tsc && node build/src/cinemeta.js"
   },
   "repository": {
     "type": "git",

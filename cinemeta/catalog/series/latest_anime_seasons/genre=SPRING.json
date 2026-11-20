@@ -1,0 +1,304 @@
+{
+  "metas": [
+    {
+      "id": "tt32550889",
+      "type": "series",
+      "name": "Witch Hat Atelier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg"
+    },
+    {
+      "id": "tt5607616",
+      "type": "series",
+      "name": "Re:ZERO -Starting Life in Another World- Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg"
+    },
+    {
+      "id": "tt9054364",
+      "type": "series",
+      "name": "That Time I Got Reincarnated as a Slime Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg"
+    },
+    {
+      "id": "tt37532356",
+      "type": "series",
+      "name": "Daemons of the Shadow Realm",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg"
+    },
+    {
+      "id": "tt31889371",
+      "type": "series",
+      "name": "Wistoria: Wand and Sword Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg"
+    },
+    {
+      "id": "tt7263328",
+      "type": "series",
+      "name": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png"
+    },
+    {
+      "id": "tt37532971",
+      "type": "series",
+      "name": "I Made Friends with the Second Prettiest Girl in My Class",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg"
+    },
+    {
+      "id": "tt39122769",
+      "type": "series",
+      "name": "MARRIAGETOXIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg"
+    },
+    {
+      "id": "tt39123061",
+      "type": "series",
+      "name": "The Ramparts of Ice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg"
+    },
+    {
+      "id": "tt9679542",
+      "type": "series",
+      "name": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg"
+    },
+    {
+      "id": "tt19064770",
+      "type": "series",
+      "name": "The Angel Next Door Spoils Me Rotten2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg"
+    },
+    {
+      "id": "tt39443176",
+      "type": "series",
+      "name": "Gals Can't Be Kind to Otaku!?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg"
+    },
+    {
+      "id": "tt39122671",
+      "type": "series",
+      "name": "I Want to End this Love Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg"
+    },
+    {
+      "id": "tt40548519",
+      "type": "series",
+      "name": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg"
+    },
+    {
+      "id": "tt36593277",
+      "type": "series",
+      "name": "The Warrior Princess and the Barbaric King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg"
+    },
+    {
+      "id": "tt19223420",
+      "type": "series",
+      "name": "Farming Life in Another World 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png"
+    },
+    {
+      "id": "tt39443399",
+      "type": "series",
+      "name": "KILL BLUE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg"
+    },
+    {
+      "id": "tt37729351",
+      "type": "series",
+      "name": "Mistress Kanan is Devilishly Easy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg"
+    },
+    {
+      "id": "tt34119820",
+      "type": "series",
+      "name": "The Beginning After the End Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg"
+    },
+    {
+      "id": "tt39267868",
+      "type": "series",
+      "name": "Agents of the Four Seasons: Dance of Spring",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg"
+    },
+    {
+      "id": "tt11147852",
+      "type": "series",
+      "name": "Dorohedoro Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173172-404XnuOS0DhR.jpg"
+    },
+    {
+      "id": "tt39229633",
+      "type": "series",
+      "name": "LIAR GAME",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png"
+    },
+    {
+      "id": "tt11034066",
+      "type": "series",
+      "name": "Welcome to Demon School! Iruma-kun Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg"
+    },
+    {
+      "id": "tt10885406",
+      "type": "series",
+      "name": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My Hero Academia More",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-RNYmxUVVz3Z2.png"
+    },
+    {
+      "id": "tt39403976",
+      "type": "series",
+      "name": "NEEDY GIRL OVERDOSE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png"
+    },
+    {
+      "id": "tt38797595",
+      "type": "series",
+      "name": "Akane-banashi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg"
+    },
+    {
+      "id": "tt39443960",
+      "type": "series",
+      "name": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg"
+    },
+    {
+      "id": "tt38273912",
+      "type": "series",
+      "name": "Botan Kamiina Fully Blossoms When Drunk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187869-LUn3dyTzuKUq.jpg"
+    },
+    {
+      "id": "tt38840807",
+      "type": "series",
+      "name": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg"
+    },
+    {
+      "id": "tt40546935",
+      "type": "series",
+      "name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg"
+    },
+    {
+      "id": "tt37182080",
+      "type": "series",
+      "name": "Go For It, Nakamura-kun!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg"
+    },
+    {
+      "id": "tt38363695",
+      "type": "series",
+      "name": "Petals of Reincarnation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg"
+    },
+    {
+      "id": "tt31131310",
+      "type": "series",
+      "name": "Mission: Yozakura Family Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg"
+    },
+    {
+      "id": "tt38895862",
+      "type": "series",
+      "name": "Yowayowa Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg"
+    },
+    {
+      "id": "tt39123043",
+      "type": "series",
+      "name": "The Classroom of the Black Cat and a Witch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png"
+    },
+    {
+      "id": "tt39122622",
+      "type": "series",
+      "name": "Haibara's Teenage New Game+",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png"
+    },
+    {
+      "id": "tt23132598",
+      "type": "series",
+      "name": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg"
+    },
+    {
+      "id": "tt39122552",
+      "type": "series",
+      "name": "Always a Catch!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg"
+    },
+    {
+      "id": "tt11448214",
+      "type": "series",
+      "name": "Rent-a-Girlfriend Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png"
+    },
+    {
+      "id": "tt33086804",
+      "type": "series",
+      "name": "Rooster Fighter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg"
+    },
+    {
+      "id": "tt40547960",
+      "type": "series",
+      "name": "My Ribdiculous Reincarnation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg"
+    },
+    {
+      "id": "tt37577523",
+      "type": "series",
+      "name": "MAO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg"
+    },
+    {
+      "id": "tt39122739",
+      "type": "series",
+      "name": "Kusunoki's Garden of Gods",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg"
+    },
+    {
+      "id": "tt39122702",
+      "type": "series",
+      "name": "Killed again, Mr. Detective.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg"
+    },
+    {
+      "id": "tt40546998",
+      "type": "series",
+      "name": "Even a Replica Can Fall in Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg"
+    },
+    {
+      "id": "tt28100731",
+      "type": "series",
+      "name": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg"
+    },
+    {
+      "id": "tt41395364",
+      "type": "series",
+      "name": "Marika's Love Meter Malfunction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg"
+    },
+    {
+      "id": "tt39229727",
+      "type": "series",
+      "name": "SNOWBALL EARTH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg"
+    },
+    {
+      "id": "tt37388613",
+      "type": "series",
+      "name": "A Hundred Scenes of AWAJIMA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-BwdlSMEXGZWz.png"
+    }
+  ]
+}

@@ -1,70 +1,26 @@
-import type { TitleType } from "./request";
 import { promises as fs } from "fs";
 import path from "path";
-import { Season, Sorting, createSortedSeasonList, monthToSeason, query } from "./query";
-import { Anilist, IdResolver, IdSource } from "./request";
-export type Meta = {
-    id: string;
-    type: TitleType;
-    name: string;
-    poster: string;
-    anilistId?: number;
-    behaviorHints?: {
-        defaultVideoId: string;
-    }
-}
+import { Season, createSortedSeasonList, monthToSeason, query } from "./query";
+import { Anilist } from "./request";
+import { fallbackMeta, Meta, TitleType, validateMeta } from "./native-meta";
+export type { Meta } from "./native-meta";
+
 export class Catalog {
     private metas: Meta[] = [];
     constructor(private pathFile: string) {}
-        
-    addMeta(meta: Meta) {
-        this.metas.push(meta);
-    }
-
-    getMetas() : Meta[] {
-        return this.metas;
-    }
-
-    /**
-     * Create a file at path with the contents of metas
-     */
+    addMeta(meta: Meta) { this.metas.push(meta); }
+    getMetas(): Meta[] { return this.metas; }
     async writeToFile() {
-        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => /^(?:tt\d{7,10}|kitsu:[1-9]\d*|anilist:[1-9]\d*)$/.test(m?.id))}, null, 2));
+        for (const meta of this.metas) validateMeta(meta);
+        await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }, null, 2) + "\n");
     }
-
-    describe({genres, tags, description}: {genres: string[], tags: string[], description: string}) {
-        let result = "Genres: " + genres.join(", ");
-        const isSpoilerFree = (tag:any) => !tag.isMediaSpoiler && !tag.isGeneralSpoiler;
-        result += "\nTags:" + tags.filter(isSpoilerFree).map(({name}:any) => name).join("/");
-        result += `\n${description}` ?? "";
-        return result;
-    }
-
-    async populate(year:number, season:Season, type:TitleType) {
-        const q = query(year, season, Sorting.POPULARITY_DESC, type);
-        const anilist = new Anilist();
-        const response = await anilist.fetch(q); // throws AnilistApiError on API failure
+    async populate(year: number, season: Season, type: TitleType) {
+        const response = await new Anilist().fetch(query(year, season, type));
         const results = response?.data?.Page?.media;
-        if (!Array.isArray(results)) {
-            throw new Error(
-                `Unexpected Anilist response shape for ${type}/${season}/${year}: missing data.Page.media`
-            );
-        }
-        for (const anime of results) {
-            const originalName = anime.title.english ?? anime.title.romaji;
-            let description = this.describe(anime);
-            let fromAnilist = new IdResolver(IdSource.ANILIST, anime.id, originalName, anime.seasonYear, type, Stremio.removeSeasonDetails);
-            const id = await fromAnilist.resolveAnimeId();
-            if (!id) throw new Error(`No safe identity for AniList ${anime.id}`);
-            const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
-            switch (type) {
-                case "movie":
-                    this.addMeta({id,type,name:originalName,poster,anilistId:Number(anime.id), behaviorHints:{defaultVideoId:id}, description} as Meta);
-                    break;
-                default:
-                    this.addMeta({id,type,name:originalName,poster,anilistId:Number(anime.id), description} as Meta);
-            }
-        }
+        if (!Array.isArray(results)) throw new Error(`Unexpected AniList response for ${type}/${season}/${year}: missing data.Page.media`);
+        // Validate the full response before appending; never leave a partly parsed season.
+        const metas = results.map(anime => fallbackMeta(anime, type, year));
+        this.metas.push(...metas);
     }
 }
 export type CatalogExtra = {
@@ -190,7 +146,7 @@ export class Manifest implements AbstractManifest {
             resources: ["catalog"],
             types: ["movie","series"],
             catalogs: [],
-            idPrefixes: ["tt","kitsu","anilist"]
+            idPrefixes: ["anilist"]
           } as AbstractManifest);
     }
     static async fromFile(filePath: string) : Promise<Manifest> {
@@ -241,37 +197,18 @@ export class Stremio {
         const dir = path.dirname(manifestPath);
         let manifest: Manifest;
         try {
-            await fs.stat(dir);
-            await fs.stat(manifestPath);
             manifest = await Manifest.fromFile(manifestPath);
-            console.log(`Manifest found at ${manifestPath}`);
-            
         } catch (error) {
+            if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
             await fs.mkdir(dir, { recursive: true });
             manifest = Manifest.default(manifestPath);
             await manifest.writeToFile();
-            console.log(`Manifest created at ${manifestPath}`); 
         }
         return manifest;
     }
     static async createCatalogIfNotExists(filePath: string) : Promise<Catalog> {
         const dir = path.dirname(`${this.baseDir}/catalog/${filePath}`);
-        try {
-            await fs.stat(dir);
-        } catch (error) {
-            await fs.mkdir(dir, { recursive: true });
-        }
+        await fs.mkdir(dir, { recursive: true });
         return new Catalog(`${this.baseDir}/catalog/${filePath}`);
-    }
-    static removeSeasonDetails(base: string): string {
-        const stopWords = [
-            "", ":", "season", "arc", "chapters", "chapter", "final", "1st", "2nd", "3rd", "1", "2", "3", 
-            "-", "–", "—", "’", "'", "special", "the", "part"
-        ];
-        for (let index = 4; index < 215; index++) {
-            stopWords.push(`${index}`);
-            stopWords.push(`${index}th`);
-        }
-        return base.toLowerCase().split(" ").map(word => word.trim()).filter(word => !stopWords.includes(word)).join(" ");
     }
 }

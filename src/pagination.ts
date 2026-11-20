@@ -21,7 +21,7 @@ type Manifest = {
     [key: string]: unknown;
 };
 type Source = { catalog: Catalog; genre?: string; serialized: string[]; prefixBytes: number[] };
-export type BuildOptions = { root?: string; pageSize?: number; maxBytes?: number };
+export type BuildOptions = { root?: string; pageSize?: number; maxBytes?: number; paginatedId?: string; offsetStep?: number };
 export type BuildResult = { outputDir: string; pageSize: number; catalogs: number; variants: number; files: number; bytes: number };
 
 export function parsePageSize(value: string | undefined): number {
@@ -123,12 +123,12 @@ function pagePaths(source: Source, skip?: number): string[] {
         path.join(base, `genre=${source.genre}&skip=${skip}.json`)];
 }
 
-function* pages(sources: Source[], pageSize: number): Generator<{ paths: string[]; body: string }> {
+function* pages(sources: Source[], pageSize: number, offsetStep: number): Generator<{ paths: string[]; body: string }> {
     for (const source of sources) {
         const body = (skip: number) => '{"metas":[' + source.serialized.slice(skip, skip + pageSize).join(",") + ']}';
         const first = body(0);
         yield { paths: pagePaths(source), body: first };
-        for (let skip = 0; skip <= source.serialized.length + pageSize; skip++) {
+        for (let skip = 0; skip <= source.serialized.length + pageSize; skip += offsetStep) {
             yield { paths: pagePaths(source, skip), body: skip === 0 ? first : body(skip) };
         }
     }
@@ -152,14 +152,16 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     const root = path.resolve(options.root || process.cwd());
     const pageSize = options.pageSize ?? parsePageSize(process.env.PAGINATION_PAGE_SIZE);
     if (!Number.isSafeInteger(pageSize) || pageSize <= 0) throw new Error("PAGINATION_PAGE_SIZE must be a positive safe integer.");
+    const offsetStep = options.offsetStep ?? 1;
+    if (offsetStep !== 1 && offsetStep !== pageSize) throw new Error("Offset step must be one or the page size.");
     const maxBytes = Math.min(options.maxBytes ?? PAGES_MAX_BYTES, PAGES_MAX_BYTES);
     if (!Number.isSafeInteger(maxBytes) || maxBytes <= 0) throw new Error("Invalid Pages size limit.");
     const manifest = await readJson(path.join(root, "manifest.json"));
     validateManifest(manifest);
     const sources = await readSources(root, manifest);
     const paginated = JSON.parse(JSON.stringify(manifest)) as Manifest;
-    paginated.id = PAGINATED_ID;
-    paginated.version = "1.3.0";
+    paginated.id = options.paginatedId || PAGINATED_ID;
+    paginated.version = "1.4.0";
     paginated.name = `${manifest.name} (Paginated)`;
     for (const catalog of paginated.catalogs) {
         catalog.extra = [...(catalog.extra || []).filter(extra => extra.name !== "skip"), { name: "skip", isRequired: false }];
@@ -192,9 +194,10 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
         };
         bytes += pageBytes(0);
         files++;
-        for (let skip = 0; skip < count; skip++) bytes += pageBytes(skip) * aliases;
-        bytes += 12 * (pageSize + 1) * aliases;
-        files += (count + pageSize + 1) * aliases;
+        for (let skip = 0; skip < count; skip += offsetStep) bytes += pageBytes(skip) * aliases;
+        const offsets = Math.floor((count + pageSize) / offsetStep) + 1;
+        bytes += 12 * (offsets - Math.ceil(count / offsetStep)) * aliases;
+        files += offsets * aliases;
         checkBudget();
     }
     const outputDir = path.resolve(root, ".pages");
@@ -221,7 +224,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     await Promise.all([...pageDirectories].map(directory => fs.mkdir(directory, { recursive: true })));
     // Bound filesystem pressure and queued payloads instead of queueing the whole site.
     let pending: Promise<void>[] = [];
-    for (const page of pages(sources, pageSize)) {
+    for (const page of pages(sources, pageSize, offsetStep)) {
         for (const relative of page.paths) {
             const target = path.join(outputDir, relative);
             pending.push(fs.writeFile(target, page.body));

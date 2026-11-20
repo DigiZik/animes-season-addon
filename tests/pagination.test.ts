@@ -81,7 +81,7 @@ it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i
     expect(result.bytes).toBeLessThan(1_000_000_000);
     const manifest = await json(".pages/paginated/manifest.json");
     expect(manifest.id).toBe("com.digizik.animes-season-addon.paginated");
-    expect(manifest.version).toBe("1.3.0");
+    expect(manifest.version).toBe("1.4.0");
     expect(manifest.name).toBe("Anime (Paginated)");
     for (let i = 0; i < catalogs.length; i++) {
         expect(manifest.catalogs[i].extra[0]).toEqual(catalogs[i].extra[0]);
@@ -189,7 +189,7 @@ it.each([20, 30, 50])("paginates the repaired 2025 archive without losing anime 
         seen.add(key);
         return true;
     });
-    expect(expected).toHaveLength(new Set(data.metas.map((meta: any) => meta.anilistId)).size);
+    expect(expected).toHaveLength(new Set(data.metas.map((meta: any) => meta.id)).size);
     const collected = [];
     for (let skip = 0; skip < expected.length; skip += pageSize) {
         const page = await json(`.pages/paginated/catalog/series/archive_anime_seasons/skip=${skip}&genre=2025.json`);

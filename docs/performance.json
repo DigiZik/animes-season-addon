@@ -1,0 +1,36 @@
+{
+  "baseline": "59024c06fa04b7df377909270c0107f938a64da2",
+  "node": "v24.12.0",
+  "platform": "win32/x64",
+  "samples": 7,
+  "uniqueSourceIds": 6389,
+  "conditions": "Fresh processes; median; JSON parsing, indexing and one selection per source ID; excludes disk reads, HTTP, fallback metadata, pagination and deployment.",
+  "results": [
+    {
+      "mode": "baseline",
+      "milliseconds": 192.3563,
+      "heapMiB": 16.419525146484375,
+      "selectedIds": 6389
+    },
+    {
+      "mode": "native",
+      "milliseconds": 0.7024000000000008,
+      "heapMiB": 0.0251617431640625,
+      "selectedIds": 6389
+    },
+    {
+      "mode": "cinemeta",
+      "milliseconds": 29.990699999999997,
+      "heapMiB": 0.7368698120117188,
+      "selectedIds": 4430
+    }
+  ],
+  "artifact": {
+    "previousNativeBytes": 217234501,
+    "nativeBytes": 44748506,
+    "cinemetaBytes": 3111925,
+    "combinedBytes": 47860431,
+    "nativeFiles": 16332,
+    "cinemetaFiles": 428
+  }
+}

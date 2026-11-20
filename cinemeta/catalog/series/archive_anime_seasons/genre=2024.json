@@ -1,0 +1,1144 @@
+{
+  "metas": [
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png"
+    },
+    {
+      "id": "tt21621494",
+      "type": "series",
+      "name": "Delicious in Dungeon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-LEK6pAXtI03D.jpg"
+    },
+    {
+      "id": "tt7263328",
+      "type": "series",
+      "name": "Classroom of the Elite Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
+    },
+    {
+      "id": "tt21209804",
+      "type": "series",
+      "name": "MASHLE: MAGIC AND MUSCLES Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg"
+    },
+    {
+      "id": "tt30024091",
+      "type": "series",
+      "name": "A Sign of Affection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg"
+    },
+    {
+      "id": "tt13311344",
+      "type": "series",
+      "name": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png"
+    },
+    {
+      "id": "tt15237152",
+      "type": "series",
+      "name": "The Wrong Way to Use Healing Magic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137908-50af3lKVbst2.jpg"
+    },
+    {
+      "id": "tt16156736",
+      "type": "series",
+      "name": "Chained Soldier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141821-lkVTjKqL4BU2.jpg"
+    },
+    {
+      "id": "tt21423786",
+      "type": "series",
+      "name": "The Dangers in My Heart Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-JVyN7PHel5K9.jpg"
+    },
+    {
+      "id": "tt28480255",
+      "type": "series",
+      "name": "Ninja Kamui",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151639-7KqJ7BgaM9Mx.png"
+    },
+    {
+      "id": "tt23029874",
+      "type": "series",
+      "name": "Hokkaido Gals Are Super Adorable!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155963-kOnLUDAEamUe.jpg"
+    },
+    {
+      "id": "tt28685624",
+      "type": "series",
+      "name": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168374-WAEBeVAegRnw.jpg"
+    },
+    {
+      "id": "tt29605390",
+      "type": "series",
+      "name": "Gushing Over Magical Girls",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162780-brAdNEROhZdG.jpg"
+    },
+    {
+      "id": "tt30495119",
+      "type": "series",
+      "name": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163076-zwNndcqDSEGs.jpg"
+    },
+    {
+      "id": "tt30177477",
+      "type": "series",
+      "name": "The Unwanted Undead Adventurer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147642-SztpXNn9ke6P.jpg"
+    },
+    {
+      "id": "tt30089363",
+      "type": "series",
+      "name": "The Witch and the Beast",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153818-FWvl0RL6vDbq.png"
+    },
+    {
+      "id": "tt30146725",
+      "type": "series",
+      "name": "My Instant Death Ability is Overpowered",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158028-gQ2vnz7LEb0E.jpg"
+    },
+    {
+      "id": "tt1799631",
+      "type": "series",
+      "name": "Blue Exorcist -Shimane Illuminati Saga-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158931-QAQMtWKunvy3.jpg"
+    },
+    {
+      "id": "tt13103028",
+      "type": "series",
+      "name": "Bottom-Tier Character Tomozaki 2nd Stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143866-75E3G6nYEUVr.jpg"
+    },
+    {
+      "id": "tt13483212",
+      "type": "series",
+      "name": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156131-aZPpDX61BIeo.jpg"
+    },
+    {
+      "id": "tt30495098",
+      "type": "series",
+      "name": "The Foolish Angel Dances with the Devil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164244-cOP5eMVqVIew.jpg"
+    },
+    {
+      "id": "tt29510641",
+      "type": "series",
+      "name": "Metallic Rouge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162985-3J7PrG5oO67v.jpg"
+    },
+    {
+      "id": "tt30488398",
+      "type": "series",
+      "name": "Tales of Wedding Rings",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160389-2f6SosbyUpxX.jpg"
+    },
+    {
+      "id": "tt30644010",
+      "type": "series",
+      "name": "The Weakest Tamer Began a Journey to Pick Up Trash",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156891-bw91QNdptQEG.jpg"
+    },
+    {
+      "id": "tt28454318",
+      "type": "series",
+      "name": "BUCCHIGIRI?!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165254-wBEQkOQD3ok9.jpg"
+    },
+    {
+      "id": "tt26713948",
+      "type": "series",
+      "name": "ISHURA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161476-ukTxAPHib1Fg.jpg"
+    },
+    {
+      "id": "tt27524116",
+      "type": "series",
+      "name": "Sasaki and Peeps",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152682-p91VzQq75uZV.jpg"
+    },
+    {
+      "id": "tt29467317",
+      "type": "series",
+      "name": "Mr. Villain's Day Off",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162002-brrQWM5NiDZr.jpg"
+    },
+    {
+      "id": "tt28247170",
+      "type": "series",
+      "name": "Doctor Elise: The Royal Lady with the Lamp",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162144-T0y7XyTFhSYJ.jpg"
+    },
+    {
+      "id": "tt30643971",
+      "type": "series",
+      "name": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg"
+    },
+    {
+      "id": "tt30643998",
+      "type": "series",
+      "name": "'Tis Time for \"Torture,\" Princess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166522-pUnBSDFzs9DD.jpg"
+    },
+    {
+      "id": "tt30325850",
+      "type": "series",
+      "name": "Sengoku Youko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168194-I7O79icUs0ou.jpg"
+    },
+    {
+      "id": "tt30643982",
+      "type": "series",
+      "name": "Fluffy Paradise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152072-W9oSGZjsKiqm.jpg"
+    },
+    {
+      "id": "tt28369144",
+      "type": "series",
+      "name": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167087-3ZM69QhaQ3FE.jpg"
+    },
+    {
+      "id": "tt16764368",
+      "type": "series",
+      "name": "Urusei Yatsura (2022) Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155645-KgJwUznVHfM2.jpg"
+    },
+    {
+      "id": "tt19869172",
+      "type": "series",
+      "name": "The Shape of My Happiness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167486-EVz4sqKjf7W4.jpg"
+    },
+    {
+      "id": "tt30691068",
+      "type": "series",
+      "name": "The Demon Prince of Momochi House",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167146-H6Kpldjzcxic.jpg"
+    },
+    {
+      "id": "tt25275610",
+      "type": "series",
+      "name": "HIGH CARD Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163151-yxXcufmMoCmv.jpg"
+    },
+    {
+      "id": "tt31309480",
+      "type": "series",
+      "name": "Pon no Michi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165314-oHSkxN95nSsx.jpg"
+    },
+    {
+      "id": "tt30975941",
+      "type": "series",
+      "name": "Brave Bang Bravern!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165598-1lBYBaLrI8NA.jpg"
+    },
+    {
+      "id": "tt30644058",
+      "type": "series",
+      "name": "Isekai Onsen Paradise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171019-eBKXg4TMeS7R.jpg"
+    },
+    {
+      "id": "tt2404499",
+      "type": "series",
+      "name": "Kingdom Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155227-ZEAyBcZjSeet.jpg"
+    },
+    {
+      "id": "tt30873755",
+      "type": "series",
+      "name": "SHAMAN KING FLOWERS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147850-USIKDjVK7xTn.jpg"
+    },
+    {
+      "id": "tt24240038",
+      "type": "series",
+      "name": "Synduality Noir Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169559-iuwDKwgkksKu.jpg"
+    },
+    {
+      "id": "tt30495035",
+      "type": "series",
+      "name": "Meiji Gekken: 1874",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171144-t8VQOhdBTSEy.png"
+    },
+    {
+      "id": "tt21912036",
+      "type": "series",
+      "name": "The Fire Hunter Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162842-zs6SfZgw6SYL.jpg"
+    },
+    {
+      "id": "tt30494894",
+      "type": "series",
+      "name": "Delusional Monthly Magazine",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169418-hm3hXkXPtfvC.jpg"
+    },
+    {
+      "id": "tt21975436",
+      "type": "series",
+      "name": "Kaiju No.8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-PBV7zukIHW7V.png"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png"
+    },
+    {
+      "id": "tt5370118",
+      "type": "series",
+      "name": "KONOSUBA -God's blessing on this wonderful world! 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg"
+    },
+    {
+      "id": "tt9054364",
+      "type": "series",
+      "name": "That Time I Got Reincarnated as a Slime Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg"
+    },
+    {
+      "id": "tt29605391",
+      "type": "series",
+      "name": "WIND BREAKER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My Hero Academia Season 7",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg"
+    },
+    {
+      "id": "tt28534254",
+      "type": "series",
+      "name": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg"
+    },
+    {
+      "id": "tt31624309",
+      "type": "series",
+      "name": "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156415-zwP9deA786S1.jpg"
+    },
+    {
+      "id": "tt29521186",
+      "type": "series",
+      "name": "Chillin' in Another World with Level 2 Super Cheat Powers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170130-tvhn13WYQ2qM.jpg"
+    },
+    {
+      "id": "tt28082379",
+      "type": "series",
+      "name": "GO! GO! Loser Ranger!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-2jUaUdiGBZQ8.jpg"
+    },
+    {
+      "id": "tt12432936",
+      "type": "series",
+      "name": "The Misfit of Demon King Academy II (Cour 2)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130590-698sT7jWoz42.jpg"
+    },
+    {
+      "id": "tt31940008",
+      "type": "series",
+      "name": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg"
+    },
+    {
+      "id": "tt27237459",
+      "type": "series",
+      "name": "Jellyfish Can’t Swim in the Night",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg"
+    },
+    {
+      "id": "tt31975847",
+      "type": "series",
+      "name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg"
+    },
+    {
+      "id": "tt31514720",
+      "type": "series",
+      "name": "Re:Monster",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+    },
+    {
+      "id": "tt31131310",
+      "type": "series",
+      "name": "Mission: Yozakura Family",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png"
+    },
+    {
+      "id": "tt3874528",
+      "type": "series",
+      "name": "The Irregular at Magic High School Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg"
+    },
+    {
+      "id": "tt24326724",
+      "type": "series",
+      "name": "Unnamed Memory",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg"
+    },
+    {
+      "id": "tt31250134",
+      "type": "series",
+      "name": "Girls Band Cry",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164212-xjkAkp6SKaCZ.jpg"
+    },
+    {
+      "id": "tt29233201",
+      "type": "series",
+      "name": "BARTENDER Glass of God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b155890-vhEzaBeY5ysw.jpg"
+    },
+    {
+      "id": "tt29899598",
+      "type": "series",
+      "name": "A Condition Called Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165855-uJ0Hq5EFUlz8.jpg"
+    },
+    {
+      "id": "tt31146105",
+      "type": "series",
+      "name": "THE NEW GATE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg"
+    },
+    {
+      "id": "tt28634577",
+      "type": "series",
+      "name": "Grandpa and Grandma Turn Young Again",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168138-jgMSP1rDkJhs.jpg"
+    },
+    {
+      "id": "tt30989692",
+      "type": "series",
+      "name": "Whisper Me a Love Song",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160181-EGC0Scngy5In.jpg"
+    },
+    {
+      "id": "tt2575684",
+      "type": "series",
+      "name": "Date A Live V",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg"
+    },
+    {
+      "id": "tt32083095",
+      "type": "series",
+      "name": "Mysterious Disappearances",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160090-EHP57CniSa7I.jpg"
+    },
+    {
+      "id": "tt31860621",
+      "type": "series",
+      "name": "Gods' Games We Play",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144176-xM8XAC3oUn5C.jpg"
+    },
+    {
+      "id": "tt31975747",
+      "type": "series",
+      "name": "Train to the End of the World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg"
+    },
+    {
+      "id": "tt7742120",
+      "type": "series",
+      "name": "Laid-Back Camp Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155908-2ZOxqbagDxNv.jpg"
+    },
+    {
+      "id": "tt31975855",
+      "type": "series",
+      "name": "Viral Hit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-OsnK4BuENjUT.jpg"
+    },
+    {
+      "id": "tt4384306",
+      "type": "series",
+      "name": "Sound! Euphonium 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109731-PBjrX9CebGus.png"
+    },
+    {
+      "id": "tt28131643",
+      "type": "series",
+      "name": "The Banished Former Hero Lives as He Pleases",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166372-AO67sLMZfUpB.jpg"
+    },
+    {
+      "id": "tt30989205",
+      "type": "series",
+      "name": "Blue Archive The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160589-QBvUpgARwgMA.jpg"
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler: Public School Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166715-humnzscIw7SC.jpg"
+    },
+    {
+      "id": "tt31975268",
+      "type": "series",
+      "name": "Studio Apartment, Good Lighting, Angel Included",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169927-3FwBuKn4x5LL.jpg"
+    },
+    {
+      "id": "tt28329410",
+      "type": "series",
+      "name": "The Fable",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg"
+    },
+    {
+      "id": "tt31940099",
+      "type": "series",
+      "name": "A Salad Bowl of Eccentrics",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166828-iDbw5IGYR40D.jpg"
+    },
+    {
+      "id": "tt31940035",
+      "type": "series",
+      "name": "The Many Sides of Voice Actor Radio",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159039-88kPltmhTzqU.jpg"
+    },
+    {
+      "id": "tt13971512",
+      "type": "series",
+      "name": "The Duke of Death and His Maid Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169584-e9X229cmrh8j.jpg"
+    },
+    {
+      "id": "tt31976012",
+      "type": "series",
+      "name": "Vampire Dormitory",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170604-VwLdBL8Gip9Z.jpg"
+    },
+    {
+      "id": "tt32174340",
+      "type": "series",
+      "name": "YATAGARASU: The Raven Does Not Choose Its Master",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170503-PCr24JL8F8f9.jpg"
+    },
+    {
+      "id": "tt31976125",
+      "type": "series",
+      "name": "Oblivion Battery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167927-eHWavr99BeTj.png"
+    },
+    {
+      "id": "tt14872196",
+      "type": "series",
+      "name": "The Grimm Variations",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135643-2kJt86K9Db9P.jpg"
+    },
+    {
+      "id": "tt31976070",
+      "type": "series",
+      "name": "Tadaima, Okaeri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg"
+    },
+    {
+      "id": "tt31078645",
+      "type": "series",
+      "name": "Astro Note",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171040-o1oMiDGZT98Z.jpg"
+    },
+    {
+      "id": "tt29958256",
+      "type": "series",
+      "name": "Sand Land: The Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175642-TAHPp5wztFUp.jpg"
+    },
+    {
+      "id": "tt32044229",
+      "type": "series",
+      "name": "Tonari no Yokai-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146867-PZrxvW84s1n1.jpg"
+    },
+    {
+      "id": "tt31811111",
+      "type": "series",
+      "name": "HIGHSPEED Étoile",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152302-afLOVyltWMSq.jpg"
+    },
+    {
+      "id": "tt31131295",
+      "type": "series",
+      "name": "Alya Sometimes Hides Her Feelings in Russian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg"
+    },
+    {
+      "id": "tt21030032",
+      "type": "series",
+      "name": "Oshi no Ko Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg"
+    },
+    {
+      "id": "tt12057106",
+      "type": "series",
+      "name": "Tower of God Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg"
+    },
+    {
+      "id": "tt31889371",
+      "type": "series",
+      "name": "Wistoria: Wand and Sword",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+    },
+    {
+      "id": "tt32332970",
+      "type": "series",
+      "name": "My Deer Friend Nokotan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg"
+    },
+    {
+      "id": "tt32332831",
+      "type": "series",
+      "name": "Makeine: Too Many Losing Heroines!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg"
+    },
+    {
+      "id": "tt31186547",
+      "type": "series",
+      "name": "No Longer Allowed in Another World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg"
+    },
+    {
+      "id": "tt27187054",
+      "type": "series",
+      "name": "The Elusive Samurai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162896-hSMTVceb50GY.jpg"
+    },
+    {
+      "id": "tt32469108",
+      "type": "series",
+      "name": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173694-XcwGOMBxboOO.png"
+    },
+    {
+      "id": "tt21975478",
+      "type": "series",
+      "name": "Days with My Stepsister",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152681-xtQiVOYDhr3p.jpg"
+    },
+    {
+      "id": "tt28279848",
+      "type": "series",
+      "name": "Suicide Squad ISEKAI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg"
+    },
+    {
+      "id": "tt32552529",
+      "type": "series",
+      "name": "Pseudo Harem",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163623-pzR6vIHoJh0b.jpg"
+    },
+    {
+      "id": "tt32395862",
+      "type": "series",
+      "name": "I Parry Everything",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170695-Nb1DIg7gIHCF.jpg"
+    },
+    {
+      "id": "tt31596104",
+      "type": "series",
+      "name": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163292-1DkPP4r5UI9Y.jpg"
+    },
+    {
+      "id": "tt15414478",
+      "type": "series",
+      "name": "FAIRY TAIL 100 YEARS QUEST",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg"
+    },
+    {
+      "id": "tt31141567",
+      "type": "series",
+      "name": "2.5 Dimensional Seduction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158559-eVc9cNSmcUix.jpg"
+    },
+    {
+      "id": "tt32333026",
+      "type": "series",
+      "name": "The Strongest Magician in the Demon Lord's Army was a Human",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg"
+    },
+    {
+      "id": "tt31844529",
+      "type": "series",
+      "name": "Why Does Nobody Remember Me in This World?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg"
+    },
+    {
+      "id": "tt30844357",
+      "type": "series",
+      "name": "SHOSHIMIN: How to Become Ordinary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173295-5DIOnrTYiF0a.jpg"
+    },
+    {
+      "id": "tt1745240",
+      "type": "series",
+      "name": "Kimi ni Todoke: From Me to You Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168872-vcpdhVFfPpOn.jpg"
+    },
+    {
+      "id": "tt1480925",
+      "type": "series",
+      "name": "MONOGATARI Series: OFF & MONSTER Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-9DN3nHtT2FBm.png"
+    },
+    {
+      "id": "tt12331304",
+      "type": "series",
+      "name": "Our Last Crusade or the Rise of a New World Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg"
+    },
+    {
+      "id": "tt13592980",
+      "type": "series",
+      "name": "Code Geass: Rozé of the Recapture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126830-Mx56p5DMIjiq.png"
+    },
+    {
+      "id": "tt30970523",
+      "type": "series",
+      "name": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170938-kkeDCKGSUNaV.jpg"
+    },
+    {
+      "id": "tt32307386",
+      "type": "series",
+      "name": "Senpai is an Otokonoko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163133-bdr9S2bdLoyj.jpg"
+    },
+    {
+      "id": "tt18311412",
+      "type": "series",
+      "name": "NieR:Automata Ver1.1a Cour 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167420-PBxeW0tmbEDQ.jpg"
+    },
+    {
+      "id": "tt32420174",
+      "type": "series",
+      "name": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177697-EWgIqtwm5ABh.png"
+    },
+    {
+      "id": "tt32332792",
+      "type": "series",
+      "name": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160488-Fqeh9b9iDOZF.jpg"
+    },
+    {
+      "id": "tt30326044",
+      "type": "series",
+      "name": "ATRI -My Dear Moments-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg"
+    },
+    {
+      "id": "tt30236310",
+      "type": "series",
+      "name": "A Journey Through Another World: Raising Kids While Adventuring",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg"
+    },
+    {
+      "id": "tt32832439",
+      "type": "series",
+      "name": "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168623-30sdDCCLjsEW.jpg"
+    },
+    {
+      "id": "tt32332992",
+      "type": "series",
+      "name": "A Nobody's Way Up to an Exploration Hero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
+    },
+    {
+      "id": "tt32333055",
+      "type": "series",
+      "name": "Love Is Indivisible by Twins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167144-tKDxH7M9z1Hb.png"
+    },
+    {
+      "id": "tt32333015",
+      "type": "series",
+      "name": "MAYONAKA PUNCH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg"
+    },
+    {
+      "id": "tt22087138",
+      "type": "series",
+      "name": "The Café Terrace and Its Goddesses Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166477-Q5jKn2WpDQ6z.jpg"
+    },
+    {
+      "id": "tt23844810",
+      "type": "series",
+      "name": "Bye Bye, Earth",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157371-ZUTbCcPPAqA0.jpg"
+    },
+    {
+      "id": "tt32332642",
+      "type": "series",
+      "name": "My Wife Has No Emotion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-Wfjd6OqFOn2h.jpg"
+    },
+    {
+      "id": "tt32332918",
+      "type": "series",
+      "name": "Quality Assurance in Another World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg"
+    },
+    {
+      "id": "tt32645928",
+      "type": "series",
+      "name": "Delico's Nursery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg"
+    },
+    {
+      "id": "tt32291998",
+      "type": "series",
+      "name": "Plus-Sized Elf",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png"
+    },
+    {
+      "id": "tt32332813",
+      "type": "series",
+      "name": "Twilight Out of Focus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166700-qsl4dBd4pPSQ.jpg"
+    },
+    {
+      "id": "tt32832441",
+      "type": "series",
+      "name": "Dungeon People",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168345-X28k73J6QAtc.jpg"
+    },
+    {
+      "id": "tt32332939",
+      "type": "series",
+      "name": "Narenare -Cheer for you!-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170891-Bhxn5y4a86Q0.jpg"
+    },
+    {
+      "id": "tt9584920",
+      "type": "series",
+      "name": "The Quintessential Quintuplets Specials 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177191-ovNZsq8EbIPY.jpg"
+    },
+    {
+      "id": "tt22524872",
+      "type": "series",
+      "name": "SHY Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171748-yigmfmsgq6SR.jpg"
+    },
+    {
+      "id": "tt14153236",
+      "type": "series",
+      "name": "TERMINATOR ZERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177814-Xr9F98LExkWd.jpg"
+    },
+    {
+      "id": "tt31390266",
+      "type": "series",
+      "name": "Tasuketsu -Fate of the Majority-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg"
+    },
+    {
+      "id": "tt32592756",
+      "type": "series",
+      "name": "Sakuna: Of Rice and Ruin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175868-oSzeoiq8nAkj.jpg"
+    },
+    {
+      "id": "tt30217403",
+      "type": "series",
+      "name": "DAN DA DAN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-2ldCj6QywuOa.jpg"
+    },
+    {
+      "id": "tt5607616",
+      "type": "series",
+      "name": "Re:ZERO -Starting Life in Another World- Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg"
+    },
+    {
+      "id": "tt15222080",
+      "type": "series",
+      "name": "BLUE LOCK Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png"
+    },
+    {
+      "id": "tt10905902",
+      "type": "series",
+      "name": "Uzumaki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png"
+    },
+    {
+      "id": "tt32639706",
+      "type": "series",
+      "name": "Blue Box",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg"
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "BLEACH: Thousand-Year Blood War - The Conflict",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg"
+    },
+    {
+      "id": "tt28776190",
+      "type": "series",
+      "name": "Shangri-La Frontier Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png"
+    },
+    {
+      "id": "tt4728568",
+      "type": "series",
+      "name": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg"
+    },
+    {
+      "id": "tt13544802",
+      "type": "series",
+      "name": "Seirei Gensouki: Spirit Chronicles Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
+    },
+    {
+      "id": "tt10431290",
+      "type": "series",
+      "name": "Arifureta: From Commonplace to World's Strongest Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
+    },
+    {
+      "id": "tt33044444",
+      "type": "series",
+      "name": "Orb: On the Movements of the Earth",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151514-BcU5RmSWhvv0.jpg"
+    },
+    {
+      "id": "tt30689669",
+      "type": "series",
+      "name": "You are Ms. Servant",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172190-i1IqizIUcKkN.jpg"
+    },
+    {
+      "id": "tt29485149",
+      "type": "series",
+      "name": "Dragon Ball DAIMA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg"
+    },
+    {
+      "id": "tt32512773",
+      "type": "series",
+      "name": "Loner Life in Another World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png"
+    },
+    {
+      "id": "tt32766897",
+      "type": "series",
+      "name": "Ranma1/2 (2024)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-md2BV8esGezM.jpg"
+    },
+    {
+      "id": "tt32508529",
+      "type": "series",
+      "name": "Let This Grieving Soul Retire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg"
+    },
+    {
+      "id": "tt32792739",
+      "type": "series",
+      "name": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg"
+    },
+    {
+      "id": "tt32542096",
+      "type": "series",
+      "name": "DEMON LORD 2099",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163135-NjvXyXvTYSHH.jpg"
+    },
+    {
+      "id": "tt32501772",
+      "type": "series",
+      "name": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+    },
+    {
+      "id": "tt32812118",
+      "type": "series",
+      "name": "I’ll Become a Villainess Who Goes Down in History",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg"
+    },
+    {
+      "id": "tt7978710",
+      "type": "series",
+      "name": "Sword Art Online Alternative: Gun Gale Online II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-m8eOYiDpeN4R.jpg"
+    },
+    {
+      "id": "tt27497575",
+      "type": "series",
+      "name": "365 Days to the Wedding",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165790-OwIZI9ArGR4Q.jpg"
+    },
+    {
+      "id": "tt32510166",
+      "type": "series",
+      "name": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg"
+    },
+    {
+      "id": "tt11043632",
+      "type": "series",
+      "name": "BEASTARS Final Season Part 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136880-9rhDUCsDfcJ1.jpg"
+    },
+    {
+      "id": "tt29141921",
+      "type": "series",
+      "name": "Tying the Knot with an Amagami Sister",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg"
+    },
+    {
+      "id": "tt32832435",
+      "type": "series",
+      "name": "Good Bye, Dragon Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg"
+    },
+    {
+      "id": "tt32524882",
+      "type": "series",
+      "name": "The Do-Over Damsel Conquers the Dragon Emperor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164299-j4yHiK4j1ON7.jpg"
+    },
+    {
+      "id": "tt33054366",
+      "type": "series",
+      "name": "Negative Positive Angler",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg"
+    },
+    {
+      "id": "tt32526678",
+      "type": "series",
+      "name": "Mecha Ude: Mechanical Arms",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154673-SCp0Qo62N1Q6.jpg"
+    },
+    {
+      "id": "tt32832434",
+      "type": "series",
+      "name": "TsumaSho",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162785-kqAuHBdvX283.jpg"
+    },
+    {
+      "id": "tt29370857",
+      "type": "series",
+      "name": "Ron Kamonohashi’s Forbidden Deductions Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172355-D7J0LRyWZZhg.jpg"
+    },
+    {
+      "id": "tt32832421",
+      "type": "series",
+      "name": "How I Attended an All-Guy's Mixer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg"
+    },
+    {
+      "id": "tt32178571",
+      "type": "series",
+      "name": "Nina the Starry Bride",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg"
+    },
+    {
+      "id": "tt10443362",
+      "type": "series",
+      "name": "Demon Lord, Retry! R",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168500-wwpXjBBlXDpx.jpg"
+    },
+    {
+      "id": "tt22249034",
+      "type": "series",
+      "name": "Rurouni Kenshin -Kyoto Disturbance-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png"
+    },
+    {
+      "id": "tt30476504",
+      "type": "series",
+      "name": "Magilumiere Magical Girls Inc.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171025-alBpVzKrgy1b.jpg"
+    },
+    {
+      "id": "tt29473209",
+      "type": "series",
+      "name": "After-school Hanako-kun Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg"
+    },
+    {
+      "id": "tt28299608",
+      "type": "series",
+      "name": "MF GHOST Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171642-RyL10RY9uysQ.jpg"
+    },
+    {
+      "id": "tt30523856",
+      "type": "series",
+      "name": "Blue Miburo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg"
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume's Book of Friends Season 7",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166611-MXGsOlPv2IKj.png"
+    },
+    {
+      "id": "tt32832431",
+      "type": "series",
+      "name": "A Terrified Teacher at Ghoul School!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg"
+    },
+    {
+      "id": "tt32863895",
+      "type": "series",
+      "name": "The Stories of Girls Who Couldn't Be Magicians",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107372-jRO0pY1kIRLl.jpg"
+    },
+    {
+      "id": "tt32986702",
+      "type": "series",
+      "name": "Acro Trip",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157965-YhogaZGde6tv.jpg"
+    },
+    {
+      "id": "tt33609048",
+      "type": "series",
+      "name": "TRILLION GAME",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169315-NtbOlSyDtSCZ.png"
+    },
+    {
+      "id": "tt20228550",
+      "type": "series",
+      "name": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg"
+    },
+    {
+      "id": "tt13840232",
+      "type": "series",
+      "name": "Love Live! Superstar!! Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-8Dyh2np8o5GC.jpg"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
     const pending: { file: string; body: string }[] = [];
     const counts: Record<string, number> = {};
     const before = JSON.stringify({ catalogs: manifest.catalogs, idPrefixes: manifest.idPrefixes });
-    manifest.idPrefixes = [...new Set([...(manifest.idPrefixes || []), "anilist"])];
+    manifest.idPrefixes = ["anilist"];
     for (const type of ["series", "movie"]) {
         const catalog = manifest.catalogs.find((entry: any) => entry.type === type && entry.id === "archive_anime_seasons");
         const genre = catalog?.extra?.find((extra: any) => extra.name === "genre");
