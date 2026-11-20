@@ -81,7 +81,7 @@ it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i
     expect(result.bytes).toBeLessThan(1_000_000_000);
     const manifest = await json(".pages/paginated/manifest.json");
     expect(manifest.id).toBe("com.digizik.animes-season-addon.paginated");
-    expect(manifest.version).toBe("1.0.0");
+    expect(manifest.version).toBe("1.1.0");
     expect(manifest.name).toBe("Anime (Paginated)");
     for (let i = 0; i < catalogs.length; i++) {
         expect(manifest.catalogs[i].extra[0]).toEqual(catalogs[i].extra[0]);

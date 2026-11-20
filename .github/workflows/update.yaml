@@ -44,8 +44,7 @@ jobs:
         run: npm run build:pages
       - name: Verify every published catalog and filter
         run: npm run verify:pages
-      - name: Commit refreshed source data
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs)
+      - name: Commit updated source catalogs
         shell: bash
         run: |
           git add manifest.json catalog

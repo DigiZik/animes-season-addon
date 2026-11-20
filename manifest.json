@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.20.1",
+  "version": "1.20.2",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -60,6 +60,7 @@
         {
           "name": "genre",
           "options": [
+            "2026",
             "2025",
             "2024",
             "2023",
@@ -86,7 +87,7 @@
             "2002",
             "2001"
           ],
-          "isRequired": true
+          "isRequired": false
         }
       ],
       "extraSupported": [
@@ -101,6 +102,7 @@
         {
           "name": "genre",
           "options": [
+            "2026",
             "2025",
             "2024",
             "2023",
@@ -127,7 +129,7 @@
             "2002",
             "2001"
           ],
-          "isRequired": true
+          "isRequired": false
         }
       ],
       "extraSupported": [

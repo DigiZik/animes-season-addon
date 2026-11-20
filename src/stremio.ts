@@ -105,10 +105,11 @@ export class Manifest implements AbstractManifest {
         this.years = Manifest.dateToYears(today);
         this.seasons = Manifest.dateToSeasons(today);
         for (const catalog of this.catalogs) {
-            if (catalog.name == "Anime Years") {
+            if (catalog.id == "archive_anime_seasons") {
                 catalog.extra[0].options = this.years;
+                catalog.extra[0].isRequired = false;
             }
-            else if (catalog.name == "Anime Seasons") {
+            else if (catalog.id == "latest_anime_seasons") {
                 catalog.extra[0].options = this.seasons;
             }
         }
@@ -208,7 +209,7 @@ export class Manifest implements AbstractManifest {
     }
     private static dateToYears(today: Date) : string[] {
         const years = []
-        for (let y = today.getFullYear() - 1; y >= 2001; y--) {
+        for (let y = today.getFullYear(); y >= 2001; y--) {
             years.push(y.toString());
         }
         return years
@@ -226,7 +227,7 @@ export class Manifest implements AbstractManifest {
             extra: [{ 
                 name: "genre", 
                 options: catalogType == CatalogType.LATEST ? this.seasons : this.years, 
-                isRequired: catalogType === CatalogType.ARCHIVE}
+                isRequired: false}
             ],
             "extraSupported": ["genre"]
           });

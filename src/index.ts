@@ -2,6 +2,7 @@ import { Season, monthToSeason } from "./query";
 import { Stremio } from "./stremio";
 import { TitleType } from 'name-to-imdb';
 import { Patches } from "./patch";
+import { prepareCurrentYear } from "./current-year";
 
 async function main() {
     const today = new Date();
@@ -40,6 +41,7 @@ async function main() {
         await manifest.update(today);
     }
     await Promise.all(promises);
+    await prepareCurrentYear(process.cwd(), today);
 }
 
 (async () => {
