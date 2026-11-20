@@ -4,19 +4,22 @@
       "id": "tt31970593",
       "type": "movie",
       "name": "Witch on the Holy Night",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-vvsaIpZPpIuE.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143103-vvsaIpZPpIuE.png",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt39927807",
       "type": "movie",
       "name": "Rascal Does Not Dream of a Dear Friend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199340-YQlmzvmcJzyt.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199340-YQlmzvmcJzyt.jpg",
+      "releaseInfo": "2026"
     },
     {
       "id": "tt39110207",
       "type": "movie",
       "name": "The Apothecary Diaries: The Late Lady’s Treasure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-dx3hnftE7K7C.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-dx3hnftE7K7C.jpg",
+      "releaseInfo": "2026"
     }
   ]
 }
