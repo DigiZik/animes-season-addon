@@ -53,7 +53,7 @@ The default-season calendar uses December–February for Winter, March–May for
 
 ## Updates
 
-The published catalogs are refreshed daily at **12:30 UTC**. Each refresh fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them.
+The published catalogs are refreshed daily at **12:30 PM UTC**. Each refresh fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them.
 
 If a refresh or validation fails, the previous successful deployment stays online. The workflow does not automatically merge upstream code changes.
 
