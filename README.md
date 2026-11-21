@@ -53,7 +53,7 @@ The default-season calendar uses December–February for Winter, March–May for
 
 ## Updates
 
-The published catalogs are refreshed daily at **04:30 UTC**. A scheduled run fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them. GitHub schedules can be delayed or disabled after extended repository inactivity.
+The published catalogs are refreshed daily at **12:30 UTC**. Each refresh fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them.
 
 If a refresh or validation fails, the previous successful deployment stays online. The workflow does not automatically merge upstream code changes.
 
@@ -78,7 +78,7 @@ Only follow these steps if you want to publish your **own copy**. The installati
 4. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** if you want a fresh provider update; otherwise the run publishes the committed catalogs.
 5. After the deployment succeeds, replace `digizik` in the two manifest URLs above with your GitHub username.
 
-The daily schedule refreshes and commits changed native and IMDb catalogs as `github-actions[bot]`. A push to `main` publishes committed data without refreshing providers. Manual runs can do either. Make sure branch rules permit the workflow to push, and pull `main` before editing because the scheduled run may have added commits.
+Successful refreshes commit changed native and IMDb catalogs as `github-actions[bot]`. A push to `main` publishes committed data without refreshing providers. Manual runs can do either. Make sure branch rules permit the workflow to push, and pull `main` before editing because a refresh may have added commits.
 
 ### Pagination
 

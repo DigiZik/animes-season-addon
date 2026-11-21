@@ -3,12 +3,10 @@ name: Update catalogs and publish Pages
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: '0 9 * * *'
   workflow_dispatch:
     inputs:
       refresh_catalogs:
-        description: Refresh AniList data before publishing (the daily schedule always refreshes)
+        description: Refresh AniList data before publishing
         type: boolean
         default: false
 
@@ -38,7 +36,7 @@ jobs:
       - name: Run offline tests and type checks
         run: npm run test:offline
       - name: Refresh source catalogs
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs)
+        if: github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs
         run: |
           npm start
           node build/src/cinemeta.js
