@@ -1,173 +1,115 @@
-# Anime Seasons for AIOmetadata and Cinemeta
+# Anime Seasons
 
-Seasonal and yearly anime catalogs from **AniList**, with separate ID formats
-for **AIOmetadata** and **Cinemeta**. Both exports include fallback metadata and
-configurable pagination on GitHub Pages.
+Browse anime by season or year using catalogs sourced from [AniList](https://anilist.co/). Choose the AIOmetadata or Cinemeta manifest for your setup.
 
 [![Publish catalogs](https://github.com/DigiZik/animes-season-addon/actions/workflows/update.yaml/badge.svg)](https://github.com/DigiZik/animes-season-addon/actions/workflows/update.yaml)
-[![Node.js 24](https://img.shields.io/badge/Node.js-24-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-## Contents
+## Choose your manifest
 
-- [Features](#features)
-- [Installation](#installation)
-- [Catalogs and IDs](#catalogs-and-ids)
-- [Automatic updates and fallback](#automatic-updates-and-fallback)
-- [Configuration](#configuration)
-- [Development](#development)
-- [Troubleshooting](#troubleshooting)
-- [Credits](#credits)
+**Use one of these URLs. You do not need to install or host this repository yourself.**
 
-<a id="features"></a>
+| Your setup | Manifest | Catalog IDs |
+| --- | --- | --- |
+| **AIOmetadata** | [Copy AIOmetadata manifest](https://digizik.github.io/animes-season-addon/paginated/manifest.json) | AniList |
+| **Cinemeta** | [Copy Cinemeta manifest](https://digizik.github.io/animes-season-addon/cinemeta/paginated/manifest.json) | IMDb |
 
-## 🚀 Features
+### Install in AIOmetadata
 
-- **Seasonal browsing:** Winter, Spring, Summer and Fall for movies and series.
-- **Yearly browsing:** Current-year defaults, plus historical years back to 2001.
-- **Native AIOmetadata IDs:** Pass AniList IDs through without a second mapper.
-- **Separate Cinemeta IDs:** Export supported titles with IMDb IDs.
-- **Fallback metadata:** Retain titles, posters and release years for display.
-- **Pagination:** Match your client's page size; remove duplicate IDs before paging.
-- **Daily publishing:** Refresh, validate and deploy with GitHub Actions.
+1. Open your **AIOmetadata configuration** and go to **Catalogs**.
+2. Choose the option to add a **Custom Manifest**, then paste:
 
-<a id="installation"></a>
+   ```text
+   https://digizik.github.io/animes-season-addon/paginated/manifest.json
+   ```
 
-## 🛠️ Installation
+3. Select the catalogs you want and save your configuration. Open your client and browse the added catalogs.
 
-Choose the export matching your metadata provider:
+Use this manifest even when AIOmetadata is acting as a Jellyfin server for AIOStreams. The default page size is **20**; see [Pagination](#pagination) if you changed AIOmetadata’s `CATALOG_LIST_ITEMS_SIZE`.
 
-| Export | Manifest | IDs | Coverage |
-| --- | --- | --- | --- |
-| AIOmetadata | [Install native feed](https://digizik.github.io/animes-season-addon/paginated/manifest.json) | `anilist:<id>` | Every generated anime |
-| Cinemeta | [Install IMDb feed](https://digizik.github.io/animes-season-addon/cinemeta/paginated/manifest.json) | `tt…` | Titles with an acceptable IMDb cross-reference |
+### Install with Cinemeta
 
-For your AIOmetadata server, use **Custom Manifest** and import:
+Install this manifest as a catalog addon alongside Cinemeta, which supplies the metadata:
 
 ```text
-https://digizik.github.io/animes-season-addon/paginated/manifest.json
+https://digizik.github.io/animes-season-addon/cinemeta/paginated/manifest.json
 ```
 
-The native URL and addon ID remain the same. After an upgrade, refresh the manifest
-and catalog cache, then refresh the client library. The switch from Kitsu to native
-AniList IDs can affect existing ID-based library/watch-state associations.
+These catalogs have **(IMDb)** in their names. They include only titles with an acceptable IMDb mapping, so they may contain fewer titles than the AIOmetadata catalogs.
 
-For direct Cinemeta use, install the IMDb feed alongside Cinemeta's metadata
-addon. IMDb catalog names end in **(IMDb)** to distinguish them from the native feed.
-Names are fallback display data; they are never used to guess an ID.
+## Browse the catalogs
 
-### Publish your own fork
+Each catalog is available for **series and movies**.
 
-1. Enable **Actions** in the repository and keep `main` as the default branch.
-2. Under **Settings → Pages → Build and deployment**, select **GitHub Actions**.
-3. Optionally set `PAGINATION_PAGE_SIZE` below.
-4. Run **Update catalogs and publish Pages**.
-5. Replace `digizik` in the install URLs with your GitHub username.
-
-Leave **Refresh AniList data** unchecked to publish committed exports without
-provider requests. Check it to refresh AniList and regenerate the IMDb export.
-
-<a id="catalogs-and-ids"></a>
-
-## 🧩 Catalogs and IDs
-
-| Catalog | Without a filter | Filters |
+| Catalog | Default | Filter options |
 | --- | --- | --- |
-| Anime Seasons — Series/Movies | Current season, current year | Winter, Spring, Summer, Fall |
-| Anime Years — Series/Movies | Current calendar year | Current year through 2001 |
+| **Anime Seasons** | Current season of the current year | Winter, Spring, Summer, Fall |
+| **Anime Years** | Current calendar year | Current year back to 2001 |
 
-AniList supplies season membership and popularity ordering through its GraphQL
-API. The fork does not scrape AniChart. The native catalog retains AniList IDs;
-AIOmetadata performs metadata and stream-ID resolution. AIOmetadata v4.1.0's
-[importer supports AniList IDs](https://github.com/cedya77/aiometadata/blob/v4.1.0/addon/utils/stremthru.js).
+AniList supplies season membership and popularity ordering. The current-year list combines seasons in Winter → Spring → Summer → Fall order and removes duplicate IDs. A year indicates season membership; a series may have debuted earlier.
 
-### Minimal Cinemeta conversion
+Each season contains up to **50 AniList results per content type**. Pagination lets you browse the generated results; it does not increase this source limit. Anime Seasons offers seasons for the current year only—it does not combine a season filter with a historical year.
 
-[Cinemeta accepts IMDb IDs](https://v3-cinemeta.strem.io/manifest.json), so its
-separate export performs the one conversion the native feed does not need:
-one bulk [Fribb cross-reference](https://github.com/Fribb/anime-lists) download per
-IMDb refresh. There are no per-title mapping requests, fuzzy title searches,
-dataset merging, mapping snapshots, mapping caches, or retry chains.
+The default-season calendar uses December–February for Winter, March–May for Spring, June–August for Summer, and September–November for Fall. It can differ from AniChart’s boundaries. In December, the default is Winter of the current calendar year.
 
-The exporter requires an exact AniList-ID association and an acceptable content
-type. Missing, conflicting and multi-part movie mappings are omitted. Movie/TV
-namespace conflicts and IMDb IDs shared by distinct movies are rejected. Shared
-series IMDb IDs represent one Cinemeta show and are deduplicated in source order.
-An explicit dataset link is not independent proof that the dataset is correct.
+## Updates
 
-The native feed keeps all titles, including ones omitted from the IMDb feed.
-Fallback titles, posters and release years remain available in both exports.
-Full descriptions, genres, backgrounds and playback hints are left to the metadata
-provider; they are not needed for catalog identity or basic display. If AIOmetadata
-has no mapping for a native title, full enrichment or playback may be unavailable.
-The catalog does not replace it with an unrelated title.
+The published catalogs are refreshed daily at **04:30 UTC**. A scheduled run fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them. GitHub schedules can be delayed or disabled after extended repository inactivity.
 
-### Year ordering and source limits
+If a refresh or validation fails, the previous successful deployment stays online. The workflow does not automatically merge upstream code changes.
 
-The current year combines saved season files in Winter → Spring → Summer → Fall
-order, retaining the first occurrence of each ID. This requires no extra AniList
-requests. The year indicates seasonal membership, not necessarily a show's debut.
+## Troubleshooting
 
-The inherited query fetches the first **50 results per season and content type**.
-Year catalogs combine up to 200 entries before deduplication. Pagination serves
-all generated entries; it does not expand AniList's source query. Year ordering
-groups seasons rather than applying one popularity ranking across the whole year.
+| Problem | What to check |
+| --- | --- |
+| Only one page of titles appears | Use the paginated manifest and check that the page sizes match in [Pagination](#pagination). Refresh the AIOmetadata catalog cache and client view. |
+| Titles don’t match the latest catalog | In AIOmetadata’s dashboard, use **Operations → Cache Management → Clear by ID** and preview the affected catalog ID before clearing it. Then reload the catalog in your client. |
+| Anime Years asks for a year | Refresh the imported manifest and clear any selected filter. |
+| Cinemeta shows fewer titles | Titles with missing, ambiguous or unsuitable IMDb mappings are omitted. The AIOmetadata manifest retains the native AniList entries. |
+| Artwork or details are missing | The catalog includes fallback titles, posters and years when available. Full metadata and playback depend on the client’s metadata and stream providers. |
+| An update fails | Check the repository’s **Actions** tab. The last successful deployment remains available. |
 
-The inherited default-season calendar remains December–February for Winter,
-March–May for Spring, June–August for Summer, and September–November for Fall.
-It can differ from AniChart's quarter boundaries.
+## Host your own fork
 
-<a id="automatic-updates-and-fallback"></a>
+Only follow these steps if you want to publish your **own copy**. The installation URLs above already work without forking.
 
-## 🔄 Automatic updates and fallback
+1. Fork this repository and enable GitHub Actions. Keep `main` as the default branch.
+2. In your fork, open **Settings → Pages → Build and deployment** and select **GitHub Actions** as the source.
+3. If needed, set `PAGINATION_PAGE_SIZE` as described below.
+4. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** if you want a fresh provider update; otherwise the run publishes the committed catalogs.
+5. After the deployment succeeds, replace `digizik` in the two manifest URLs above with your GitHub username.
 
-| Trigger | Refresh providers | Build and publish |
-| --- | --- | --- |
-| Daily at 04:30 UTC | AniList, then one IMDb cross-reference download | Yes |
-| Push to `main` | No | Yes |
-| Manual run | When the refresh option is checked | Yes |
+The daily schedule refreshes and commits changed native and IMDb catalogs as `github-actions[bot]`. A push to `main` publishes committed data without refreshing providers. Manual runs can do either. Make sure branch rules permit the workflow to push, and pull `main` before editing because the scheduled run may have added commits.
 
-Each run tests the code, optionally refreshes both exports, prepares current-year
-defaults, builds pagination, validates both feeds and checks the combined Pages
-size. Updated source exports are committed as `github-actions[bot]`. Generated
-pages are uploaded as an artifact and remain out of Git history.
+### Pagination
 
-If a provider request or validation fails, the workflow stops and the previous
-Pages deployment stays online. There is no provider snapshot fallback. Committed
-exports can still be republished using a manual run with refresh disabled.
-
-Native generation (`npm start`) does not depend on an IMDb mapping provider.
-The combined daily publishing workflow additionally requires the Cinemeta
-conversion to succeed before replacing the public deployment.
-
-Historical years remain available. After a successful new-year refresh, the new
-year becomes the default. Publish-only runs refuse to relabel last year's season
-files as the new year. GitHub schedules can be delayed or disabled after extended
-public-repository inactivity. Upstream code changes are not merged automatically.
-
-<a id="configuration"></a>
-
-## ⚙️ Configuration
+For the AIOmetadata manifest, match these values:
 
 | Setting | Where | Default |
 | --- | --- | --- |
-| `PAGINATION_PAGE_SIZE` | Repository → Settings → Secrets and variables → Actions → Variables | `20` |
+| `PAGINATION_PAGE_SIZE` | GitHub repository → **Settings → Secrets and variables → Actions → Variables** | `20` |
 | `CATALOG_LIST_ITEMS_SIZE` | AIOmetadata environment | `20` |
 
-Match the page sizes. The catalog cannot detect AIOmetadata's setting from its
-requests. After changing the repository variable, rerun publishing. The native export uses that size. The Cinemeta export uses standard
-100-item Stremio pages; use the native feed for AIOmetadata's configurable paging. Recreate AIOmetadata's container after changing its environment.
+The static catalog cannot detect AIOmetadata’s page-size setting. After changing the repository variable, rerun the publishing workflow. If you change AIOmetadata’s environment, recreate its container. The separate Cinemeta manifest uses standard **100-item** pages.
 
-Normal first-page URLs, explicit `skip=0`, arbitrary integer offsets and both
-`skip&genre` parameter orders are supported. For `N` titles and page size `P`,
-native offsets through `N + P` are generated; offsets at or beyond `N` in that range
-return `{"metas":[]}`. Cinemeta generates only standard multiples of 100 through
-an empty terminal page. Larger or unsupported offsets and filters can return 404.
+<details>
+<summary>How pagination works</summary>
 
-<a id="development"></a>
+The native export supports normal first pages, explicit `skip=0`, integer offsets and both `skip`/`genre` parameter orders. For `N` titles and page size `P`, offsets through `N + P` are generated, including empty terminal responses. Cinemeta generates standard multiples of 100 through an empty terminal page. Unsupported filters or offsets beyond the generated range may return 404.
 
-## 🧑‍💻 Development
+</details>
 
-Use **Node.js 24** and the lockfile:
+<details>
+<summary>How IDs and fallback metadata work</summary>
+
+The AIOmetadata catalog passes AniList IDs directly to the metadata provider. The Cinemeta export downloads the [Fribb anime cross-reference](https://github.com/Fribb/anime-lists) once per refresh and produces IMDb IDs; it uses exact ID associations rather than title matching. Missing, conflicting, wrong-type and ambiguous movie mappings are omitted. Series sharing an IMDb ID are deduplicated in source order. A dataset link is not independent proof that a mapping is correct.
+
+Both exports keep fallback names, posters and years when available. Metadata enrichment and stream matching are handled downstream. A missing downstream mapping can affect details or playback. Changing ID formats may affect existing ID-based watch-state associations.
+
+</details>
+
+## Development
+
+Use Node.js 24:
 
 ```sh
 npm ci
@@ -177,49 +119,15 @@ npm run verify:ids
 npm run verify:pages
 ```
 
-| Command | Purpose |
-| --- | --- |
-| `npm start` | Refresh native catalogs from AniList; no mapping requests |
-| `npm run export:cinemeta` | Refresh the separate IMDb export with one bulk download |
-| `npm run build:pages` | Build both committed exports offline into `.pages/` |
-| `npm run verify:ids` | Validate both ID formats, compact fallback metadata offline |
-| `npm run verify:pages` | Check traversal, terminal responses, copied originals and total size |
-| `npm test` | Run type checks and deterministic tests |
-| `npm run benchmark:ids` | Measure native ID export without provider requests |
+`npm start` refreshes AniList catalogs; `npm run export:cinemeta` refreshes the IMDb export using one bulk mapping download. The offline Pages build reads the committed exports and writes `.pages/`. Source catalogs are in `catalog/` and `cinemeta/catalog/`. Complete unpaginated manifests are also published at `/manifest.json` and `/cinemeta/manifest.json`.
 
-See [performance results](docs/performance.md) for the before/after benchmark and
-optional offline comparison with the removed mapper. Native source files are in
-`catalog/`; IMDb source files are in `cinemeta/catalog/`. Complete manifests remain
-at `/manifest.json` and `/cinemeta/manifest.json` for clients not needing pagination.
+The build validates pagination and enforces the combined 1 GB Pages artifact limit. See [performance results](docs/performance.md) for the ID-export benchmark.
 
-Builds remove stale generated pages, serialize metadata once, preflight byte
-counts, bound filesystem writes and enforce the **combined 1 GB** Pages limit.
-Only manifests and catalog files enter the publishing artifact. The workflow
-uses a normal push; branch rules must permit its data commits. Pull `main` before
-editing because scheduled refreshes may have added commits.
+## Credits
 
-<a id="troubleshooting"></a>
+- [victorgveloso/animes-season-addon](https://github.com/victorgveloso/animes-season-addon) — original addon and historical catalogs.
+- [AniList](https://anilist.co/) — anime data and season membership.
+- [Fribb/anime-lists](https://github.com/Fribb/anime-lists) — IMDb cross-references.
+- [AIOmetadata](https://github.com/cedya77/aiometadata) and [Stremio](https://www.stremio.com/) — metadata integration and addon protocol.
 
-## 🔎 Troubleshooting
-
-| Symptom | Check |
-| --- | --- |
-| Only one page appears | Import a paginated manifest, match page sizes, refresh provider/client caches |
-| Anime Years requires a year | Refresh the manifest and clear the explicitly selected filter |
-| Fewer titles in Cinemeta | Unmapped or ambiguous IMDb entries are omitted; use the native AIOmetadata feed for full coverage |
-| Artwork/details are missing | Fallback metadata is retained; downstream enrichment still depends on provider mappings |
-| Old titles remain after an ID change | Refresh the AIOmetadata catalog cache and client library |
-| Refresh fails | Inspect Actions; the last successful public deployment remains available |
-
-<a id="credits"></a>
-
-## 🙏 Credits
-
-- [victorgveloso/animes-season-addon](https://github.com/victorgveloso/animes-season-addon) — original generator and historical data.
-- [AniList](https://anilist.co/) — source identities, metadata and seasonal membership.
-- [Fribb/anime-lists](https://github.com/Fribb/anime-lists) — the separate Cinemeta export's IMDb links.
-- [AIOmetadata](https://github.com/cedya77/aiometadata) and [Stremio](https://www.stremio.com/) — integration and addon protocol.
-
-The package declares the ISC license. Provider data remains subject to its own
-terms. Private account configurations and credentials do not belong in this public
-repository; `.env` and `.env.*` remain ignored.
+The package declares the ISC license. Provider data remains subject to its own terms.
