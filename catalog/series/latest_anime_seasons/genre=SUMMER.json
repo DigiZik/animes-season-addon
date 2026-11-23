@@ -36,17 +36,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:187538",
-      "type": "series",
-      "name": "BLACK TORCH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:180136",
       "type": "series",
       "name": "The Exiled Heavy Knight Knows How to Game the System",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:187538",
+      "type": "series",
+      "name": "BLACK TORCH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -183,6 +183,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:184356",
+      "type": "series",
+      "name": "Tomb Raider King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:197715",
       "type": "series",
       "name": "The Villager of Level 999",
@@ -288,6 +295,20 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:141953",
+      "type": "series",
+      "name": "False Memory (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141953-S3RozQSOxzrw.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:191832",
+      "type": "series",
+      "name": "Link Click Season 3 Part 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:211711",
       "type": "series",
       "name": "My Hero Academia: I am a hero too",
@@ -327,27 +348,6 @@
       "type": "series",
       "name": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:188525",
-      "type": "series",
-      "name": "Draw This, Then Die!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196356",
-      "type": "series",
-      "name": "My Stepmother and Stepsisters Aren’t Wicked",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:203490",
-      "type": "series",
-      "name": "Please Excuse My Younger Brothers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
       "releaseInfo": "2026"
     }
   ]
