@@ -172,10 +172,10 @@ it("rejects invalid manifests, unsafe paths, page sizes, and oversized sites", a
     await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("Invalid manifest");
 });
 
-it.each([20, 30, 50])("paginates the repaired 2025 archive without losing anime identities at size %i", async pageSize => {
+it.each([20, 30, 50])("paginates the full 2025 archive without losing anime identities at size %i", async pageSize => {
     const sourcePath = path.resolve(__dirname, "../../catalog/series/archive_anime_seasons/genre=2025.json");
     const data = JSON.parse(await fs.readFile(sourcePath, "utf8"));
-    expect(data.metas).toHaveLength(200);
+    expect(data.metas.length).toBeGreaterThan(pageSize);
     await fixture([]);
     const manifest = await json("manifest.json");
     manifest.catalogs = [catalog("series", true)];

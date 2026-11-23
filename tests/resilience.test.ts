@@ -21,7 +21,7 @@ describe("Anilist.fetch error handling", () => {
     });
 
     it("still resolves normally for a well-formed 200 response", async () => {
-        const fakeBody = { data: { Page: { media: [] } } };
+        const fakeBody = { data: { Page: { pageInfo: { hasNextPage: false }, media: [] } } };
         jest.spyOn(global, "fetch").mockResolvedValue({
             ok: true, status: 200, json: async () => fakeBody,
         } as any);
@@ -43,7 +43,7 @@ describe("Catalog.populate error propagation", () => {
     });
 
     it("resolves normally with empty metas when Anilist legitimately reports zero anime this season", async () => {
-        jest.spyOn(Anilist.prototype, "fetch").mockResolvedValue({ data: { Page: { media: [] } } });
+        jest.spyOn(Anilist.prototype, "fetch").mockResolvedValue({ data: { Page: { pageInfo: { hasNextPage: false }, media: [] } } });
         const catalog = new Catalog("unused-test-path.json");
 
         await expect(catalog.populate(2026, Season.FALL, "series")).resolves.toBeUndefined();

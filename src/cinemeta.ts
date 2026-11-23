@@ -82,7 +82,7 @@ export async function exportCinemeta(root = process.cwd(), rows?: unknown) {
             metas.push({ ...meta, id });
             exportedEntries++;
         }
-        prepared.push({ relative: file.relative, body: JSON.stringify({ metas }, null, 2) + "\n" });
+        prepared.push({ relative: file.relative, body: JSON.stringify({ metas }) + "\n" });
     }
     if (inputEntries && !exportedEntries) throw new Error("IMDb conversion produced no titles; keeping previous Cinemeta catalogs.");
     const manifest = JSON.parse(await fs.readFile(path.join(root, "manifest.json"), "utf8"));
@@ -98,7 +98,9 @@ export async function exportCinemeta(root = process.cwd(), rows?: unknown) {
     for (const file of prepared) {
         const destination = path.join(root, "cinemeta", file.relative);
         await fs.mkdir(path.dirname(destination), { recursive: true });
-        await fs.writeFile(destination, file.body);
+        let previous: string | undefined;
+        try { previous = await fs.readFile(destination, "utf8"); } catch (error) { if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error; }
+        if (previous !== file.body) await fs.writeFile(destination, file.body);
     }
     const current = new Set(files.map(file => file.relative));
     for (const file of oldFiles) if (!current.has(file.relative)) await fs.unlink(path.join(root, "cinemeta", file.relative));

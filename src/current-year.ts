@@ -6,12 +6,12 @@ import { uniqueMetas } from "./pagination";
 const SEASONS = ["WINTER", "SPRING", "SUMMER", "FALL"];
 
 export async function prepareCurrentYear(root = process.cwd(), today = new Date()) {
-    const year = today.getFullYear();
+    const year = today.getUTCFullYear();
     if (!Number.isInteger(year) || year < 2001) throw new Error("Invalid current year.");
     const manifestPath = path.join(root, "manifest.json");
     const originalManifest = await fs.readFile(manifestPath, "utf8");
     const manifest = JSON.parse(originalManifest);
-    if (new Date(manifest.lastUpdatedAt).getFullYear() !== year) {
+    if (new Date(manifest.lastUpdatedAt).getUTCFullYear() !== year) {
         throw new Error(`Seasonal data is not marked as ${year}. Run the workflow with Refresh AniList data enabled before publishing the new year.`);
     }
     if (!Array.isArray(manifest.catalogs)) throw new Error("Invalid manifest: missing catalogs.");
@@ -36,7 +36,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
             metas.push(...uniqueMetas(source?.metas, type, relative));
         }
         const combined = uniqueMetas(metas, type, `${year} ${type}`);
-        const body = JSON.stringify({ metas: combined }, null, 2) + "\n";
+        const body = JSON.stringify({ metas: combined }) + "\n";
         counts[type] = combined.length;
         pending.push({ file: path.join(root, "catalog", type, "archive_anime_seasons", `genre=${year}.json`), body });
         pending.push({ file: path.join(root, "catalog", type, "archive_anime_seasons.json"), body });

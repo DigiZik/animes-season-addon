@@ -9,7 +9,7 @@
     "build": "tsc",
     "build:pages": "tsc && node build/src/current-year.js && node build/src/build-pages.js",
     "verify:pages": "node build/src/verify-pages.js",
-    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/current-year.test.js build/tests/query.test.js build/tests/resilience.test.js build/tests/stremio.test.js build/tests/native-meta.test.js build/tests/cinemeta.test.js build/tests/verify-ids.test.js",
+    "test:offline": "tsc && jest --runInBand --runTestsByPath build/tests/pagination.test.js build/tests/current-year.test.js build/tests/query.test.js build/tests/catalog-fetch.test.js build/tests/request-pacing.test.js build/tests/refresh.test.js build/tests/resilience.test.js build/tests/stremio.test.js build/tests/native-meta.test.js build/tests/cinemeta.test.js build/tests/verify-ids.test.js",
     "verify:ids": "node build/src/verify-ids.js",
     "benchmark:ids": "npm run build && node scripts/benchmark-ids.cjs",
     "export:cinemeta": "tsc && node build/src/cinemeta.js"

@@ -9,6 +9,10 @@ on:
         description: Refresh AniList data before publishing
         type: boolean
         default: false
+      refresh_history:
+        description: Refresh all years from 2001 (slower; includes current year)
+        type: boolean
+        default: false
 
 concurrency:
   group: anime-catalog-pages
@@ -36,9 +40,13 @@ jobs:
       - name: Run offline tests and type checks
         run: npm run test:offline
       - name: Refresh source catalogs
-        if: github.event_name == 'workflow_dispatch' && inputs.refresh_catalogs
+        if: github.event_name == 'workflow_dispatch' && (inputs.refresh_catalogs || inputs.refresh_history)
         run: |
-          npm start
+          if [ "${{ inputs.refresh_history }}" = "true" ]; then
+            npm start -- --history
+          else
+            npm start
+          fi
           node build/src/cinemeta.js
       - name: Build paginated site
         run: npm run build:pages

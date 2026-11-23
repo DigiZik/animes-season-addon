@@ -47,15 +47,15 @@ Each catalog is available for **series and movies**.
 
 AniList supplies season membership and popularity ordering. The current-year list combines seasons in Winter → Spring → Summer → Fall order and removes duplicate IDs. A year indicates season membership; a series may have debuted earlier.
 
-Each season contains up to **50 AniList results per content type**. Pagination lets you browse the generated results; it does not increase this source limit. Anime Seasons offers seasons for the current year only—it does not combine a season filter with a historical year.
+Refreshes fetch every AniList page for each season and content type, excluding titles AniList marks as adult. AniList may classify ecchi as non-adult. Client pagination browses these results; it does not call AniList. Anime Seasons offers seasons for the current year only—it does not combine a season filter with a historical year.
 
-The default-season calendar uses December–February for Winter, March–May for Spring, June–August for Summer, and September–November for Fall. It can differ from AniChart’s boundaries. In December, the default is Winter of the current calendar year.
+The default-season calendar uses UTC dates: December–February for Winter, March–May for Spring, June–August for Summer, and September–November for Fall. It can differ from AniChart’s boundaries. In December, the default is Winter of the current calendar year.
 
 ## Updates
 
-The published catalogs are refreshed daily at **12:30 PM UTC**. Each refresh fetches AniList data, downloads the IMDb cross-reference, validates both exports, and publishes them.
+The daily refresh at **12:30 PM UTC** fetches every page for all four seasons of the current year, for series and movies, then rebuilds both exports. At year rollover it also finalizes the previous year. Older years keep their committed data until a manual history refresh.
 
-If a refresh or validation fails, the previous successful deployment stays online. The workflow does not automatically merge upstream code changes.
+If a fetch, build or validation fails, publishing stops and the previous Pages deployment stays online. There is no seasonal snapshot cache or automatic history refresh.
 
 ## Troubleshooting
 
@@ -75,7 +75,7 @@ Only follow these steps if you want to publish your **own copy**. The installati
 1. Fork this repository and enable GitHub Actions. Keep `main` as the default branch.
 2. In your fork, open **Settings → Pages → Build and deployment** and select **GitHub Actions** as the source.
 3. If needed, set `PAGINATION_PAGE_SIZE` as described below.
-4. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** if you want a fresh provider update; otherwise the run publishes the committed catalogs.
+4. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** for a current-year update, or **Refresh all years from 2001** for a full history update; otherwise the run publishes committed catalogs.
 5. After the deployment succeeds, replace `digizik` in the two manifest URLs above with your GitHub username.
 
 Successful refreshes commit changed native and IMDb catalogs as `github-actions[bot]`. A push to `main` publishes committed data without refreshing providers. Manual runs can do either. Make sure branch rules permit the workflow to push, and pull `main` before editing because a refresh may have added commits.
@@ -93,6 +93,8 @@ The static catalog cannot detect AIOmetadata’s page-size setting. After changi
 
 <details>
 <summary>How pagination works</summary>
+
+Catalog JSON is compact and unchanged export files are not rewritten. The builder checks exact file bytes against its size budget before generating pages.
 
 The native export supports normal first pages, explicit `skip=0`, integer offsets and both `skip`/`genre` parameter orders. For `N` titles and page size `P`, offsets through `N + P` are generated, including empty terminal responses. Cinemeta generates standard multiples of 100 through an empty terminal page. Unsupported filters or offsets beyond the generated range may return 404.
 
@@ -119,7 +121,7 @@ npm run verify:ids
 npm run verify:pages
 ```
 
-`npm start` refreshes AniList catalogs; `npm run export:cinemeta` refreshes the IMDb export using one bulk mapping download. The offline Pages build reads the committed exports and writes `.pages/`. Source catalogs are in `catalog/` and `cinemeta/catalog/`. Complete unpaginated manifests are also published at `/manifest.json` and `/cinemeta/manifest.json`.
+`npm start` refreshes the current year; `npm start -- --history` refreshes all years from 2001. History refreshes are slower and restart from the beginning if they fail. Both modes finish their requested fetches before replacing catalog sources; `npm run export:cinemeta` refreshes the IMDb export using one bulk mapping download. The offline Pages build reads the committed exports and writes `.pages/`. Source catalogs are in `catalog/` and `cinemeta/catalog/`. Complete unpaginated manifests are also published at `/manifest.json` and `/cinemeta/manifest.json`.
 
 The build validates pagination and enforces the combined 1 GB Pages artifact limit. See [performance results](docs/performance.md) for the ID-export benchmark.
 

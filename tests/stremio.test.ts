@@ -6,9 +6,9 @@ import { Season } from "../src/query";
 import { Anilist } from "../src/request";
 
 afterEach(() => jest.restoreAllMocks());
-const anime = { id: 205289, title: { english: "Norman the Snowman" }, genres: ["Fantasy"], tags: [], description: "Synopsis", seasonYear: 2026, coverImage: { large: "https://example.com/poster.jpg" } };
+const anime = { isAdult: false, id: 205289, title: { english: "Norman the Snowman" }, genres: ["Fantasy"], tags: [], description: "Synopsis", seasonYear: 2026, coverImage: { large: "https://example.com/poster.jpg" } };
 it("uses only the AniList seasonal request to build native IDs and fallback metadata", async () => {
-    const network = jest.spyOn(global, "fetch").mockResolvedValue(new Response(JSON.stringify({ data: { Page: { media: [anime] } } })));
+    const network = jest.spyOn(global, "fetch").mockResolvedValue(new Response(JSON.stringify({ data: { Page: { pageInfo: { hasNextPage: false }, media: [anime] } } })));
     const catalog = new Catalog("unused"); await catalog.populate(2026, Season.FALL, "movie");
     expect(catalog.getMetas()[0]).toMatchObject({ id: "anilist:205289", type: "movie", name: "Norman the Snowman", releaseInfo: "2026" });
     expect(network).toHaveBeenCalledTimes(1);
@@ -16,7 +16,7 @@ it("uses only the AniList seasonal request to build native IDs and fallback meta
     expect(network.mock.calls[0][1]?.signal).toBeInstanceOf(AbortSignal);
 });
 it("does not append a partial season when one source ID is invalid", async () => {
-    jest.spyOn(Anilist.prototype, "fetch").mockResolvedValue({ data: { Page: { media: [anime, { ...anime, id: "bad" }] } } });
+    jest.spyOn(Anilist.prototype, "fetch").mockResolvedValue({ data: { Page: { pageInfo: { hasNextPage: false }, media: [anime, { ...anime, id: "bad" }] } } });
     const catalog = new Catalog("unused"); await expect(catalog.populate(2026, Season.FALL, "series")).rejects.toThrow("Invalid source");
     expect(catalog.getMetas()).toEqual([]);
 });

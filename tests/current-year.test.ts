@@ -8,7 +8,7 @@ import { Manifest } from "../src/stremio";
 
 jest.setTimeout(30000);
 let root: string;
-const today = new Date(2026, 10, 20);
+const today = new Date("2026-11-20T00:00:00Z");
 const seasons = ["WINTER", "SPRING", "SUMMER", "FALL"];
 const meta = (type: string, index: number) => ({ id: `tt${1000000 + index}`, type, name: `Anime ${index}`, poster: "https://example.com/poster.jpg" });
 async function write(relative: string, data: unknown) {
@@ -111,7 +111,7 @@ it("does not replace last-good files when any seasonal source is missing or inva
 it("requires refreshed seasonal data at year rollover, then defaults to the new year and preserves history", async () => {
     await prepareCurrentYear(root, today);
     const oldYear = await fs.readFile(path.join(root, "catalog/series/archive_anime_seasons/genre=2026.json"));
-    const nextYear = new Date(2027, 0, 1);
+    const nextYear = new Date("2027-01-01T00:00:00Z");
     await expect(prepareCurrentYear(root, nextYear)).rejects.toThrow("Refresh AniList data");
     expect((await read("manifest.json")).catalogs[1].extra[0].options[0]).toBe("2026");
     const manifest = await read("manifest.json");

@@ -12,14 +12,27 @@ export class Catalog {
     getMetas(): Meta[] { return this.metas; }
     async writeToFile() {
         for (const meta of this.metas) validateMeta(meta);
-        await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }, null, 2) + "\n");
+        await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }) + "\n");
     }
     async populate(year: number, season: Season, type: TitleType) {
-        const response = await new Anilist().fetch(query(year, season, type));
-        const results = response?.data?.Page?.media;
-        if (!Array.isArray(results)) throw new Error(`Unexpected AniList response for ${type}/${season}/${year}: missing data.Page.media`);
-        // Validate the full response before appending; never leave a partly parsed season.
-        const metas = results.map(anime => fallbackMeta(anime, type, year));
+        const metas: Meta[] = [], seen = new Set<string>();
+        for (let page = 1; ; page++) {
+            const response = await new Anilist().fetch(query(year, season, type, page));
+            const results = response?.data?.Page?.media;
+            if (!Array.isArray(results)) throw new Error(`Unexpected AniList response for ${type}/${season}/${year}: missing data.Page.media`);
+            const more = response.data.Page.pageInfo?.hasNextPage;
+            if (typeof more !== "boolean") throw new Error("Missing AniList pagination state.");
+            let fresh = 0;
+            for (const anime of results) {
+                if (typeof anime?.isAdult !== "boolean") throw new Error("Missing AniList adult classification.");
+                if (anime.isAdult) continue;
+                const meta = fallbackMeta(anime, type, year);
+                if (!seen.has(meta.id)) { seen.add(meta.id); metas.push(meta); fresh++; }
+            }
+            if (!more) break;
+            if (!fresh || page >= 1000) throw new Error("AniList pagination did not advance.");
+        }
+        // Append only after the entire season succeeds.
         this.metas.push(...metas);
     }
 }
@@ -163,13 +176,13 @@ export class Manifest implements AbstractManifest {
     }
     private static dateToYears(today: Date) : string[] {
         const years = []
-        for (let y = today.getFullYear(); y >= 2001; y--) {
+        for (let y = today.getUTCFullYear(); y >= 2001; y--) {
             years.push(y.toString());
         }
         return years
     }
     private static dateToSeasons(today: Date) : Season[] {
-        const currentMonth = today.getMonth();
+        const currentMonth = today.getUTCMonth();
         const currentSeason = monthToSeason(currentMonth);
         return createSortedSeasonList(currentSeason);
     }
