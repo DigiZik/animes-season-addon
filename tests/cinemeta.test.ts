@@ -38,15 +38,15 @@ it("performs one bulk request for the separate feed, retaining fallback metadata
     expect(exported.metas).toEqual([{...item(1),id:"tt1234567"}]);expect(network).toHaveBeenCalledTimes(1);
     expect(await verifyIds(root)).toMatchObject({entries:3});expect(await verifyIds(path.join(root,"cinemeta"),"imdb")).toMatchObject({entries:1});
 });
-it.each([20,30,50])("builds and verifies both separate paginated manifests offline at size %i",async pageSize=>{
+it.each(["20","50","invalid"])("uses fixed 100-item pages even with a stale page-size variable of %s",async staleSize=>{
     await exportCinemeta(root,[series(1,"tt1234567"),series(2,"tt7654321")]);
     const network=jest.spyOn(global,"fetch").mockRejectedValue(new Error("Publishing must be offline"));
-    const before=process.env.PAGINATION_PAGE_SIZE;process.env.PAGINATION_PAGE_SIZE=String(pageSize);
+    const before=process.env.PAGINATION_PAGE_SIZE;process.env.PAGINATION_PAGE_SIZE=staleSize;
     try{
         const built=await buildAllPages(root);
-        const a=await verifyPages(root,pageSize);
-        const b=await verifyPages(path.join(root,"cinemeta"),100,{output:built.cinemeta.outputDir,expectedId:CINEMETA_PAGINATED_ID});
-        expect(a.titles).toBe(3);expect(b.titles).toBe(2);expect(a.bytes).toBe(built.bytes);expect(a.files).toBe(built.files);
+        const a=await verifyPages(root);
+        const b=await verifyPages(path.join(root,"cinemeta"),{offsetStep:100,output:built.cinemeta.outputDir,expectedId:CINEMETA_PAGINATED_ID});
+        expect(built.native.pageSize).toBe(100);expect(a.pageSize).toBe(100);expect(a.titles).toBe(3);expect(b.titles).toBe(2);expect(a.bytes).toBe(built.bytes);expect(a.files).toBe(built.files);
         expect(network).not.toHaveBeenCalled();
     }finally{if(before===undefined)delete process.env.PAGINATION_PAGE_SIZE;else process.env.PAGINATION_PAGE_SIZE=before;}
 });
@@ -68,16 +68,19 @@ it("removes stale export files while preserving unmapped empty variants",async()
     await exportCinemeta(root,[series(1,"tt1234567")]);await expect(fs.stat(stale)).rejects.toMatchObject({code:"ENOENT"});
 });
 
-it("traverses standard 100-item Cinemeta pages and emits no unused integer offsets",async()=>{
-    const metas=Array.from({length:205},(_,i)=>item(i+1));
+it.each([100,205])("traverses %i Cinemeta items without unused offsets or extra empty pages",async count=>{
+    const metas=Array.from({length:count},(_,i)=>item(i+1));
     await fs.writeFile(path.join(root,"catalog/series/latest_anime_seasons.json"),JSON.stringify({metas}));
     const manifest=JSON.parse(await fs.readFile(path.join(root,"manifest.json"),"utf8"));manifest.catalogs[0].extra=[{name:"genre",options:["2026"],isRequired:false}];
     await fs.writeFile(path.join(root,"manifest.json"),JSON.stringify(manifest));await fs.mkdir(path.join(root,"catalog/series/latest_anime_seasons"));
     await fs.writeFile(path.join(root,"catalog/series/latest_anime_seasons/genre=2026.json"),JSON.stringify({metas}));
     await exportCinemeta(root,metas.map((meta,i)=>series(i+1,"tt"+(1000000+i))));
     const built=await buildAllPages(root);expect(built.cinemeta.pageSize).toBe(100);expect(built.cinemeta.files).toBeLessThan(30);
-    await verifyPages(path.join(root,"cinemeta"),100,{output:built.cinemeta.outputDir,expectedId:CINEMETA_PAGINATED_ID});
+    await verifyPages(path.join(root,"cinemeta"),{offsetStep:100,output:built.cinemeta.outputDir,expectedId:CINEMETA_PAGINATED_ID});
     const base=path.join(built.cinemeta.outputDir,"paginated/catalog/series/latest_anime_seasons");
-    expect(JSON.parse(await fs.readFile(base+"/skip=200.json","utf8")).metas).toHaveLength(5);
+    const lastData=Math.floor((count-1)/100)*100,terminal=Math.ceil(count/100)*100;
+    expect(JSON.parse(await fs.readFile(base+`/skip=${lastData}.json`,"utf8")).metas).toHaveLength(count-lastData);
+    expect(JSON.parse(await fs.readFile(base+`/skip=${terminal}.json`,"utf8"))).toEqual({metas:[]});
+    await expect(fs.stat(base+`/skip=${terminal+100}.json`)).rejects.toMatchObject({code:"ENOENT"});
     await expect(fs.stat(base+"/skip=1.json")).rejects.toMatchObject({code:"ENOENT"});
 });

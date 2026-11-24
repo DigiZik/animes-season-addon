@@ -24,7 +24,7 @@ Browse anime by season or year using catalogs sourced from [AniList](https://ani
 
 3. Select the catalogs you want and save your configuration. Open your client and browse the added catalogs.
 
-Use this manifest even when AIOmetadata is acting as a Jellyfin server for AIOStreams. The default page size is **20**; see [Pagination](#pagination) if you changed AIOmetadata’s `CATALOG_LIST_ITEMS_SIZE`.
+Use this manifest even when AIOmetadata is acting as a Jellyfin server for AIOStreams. Responses contain up to **100 titles**; see [Pagination](#pagination) for supported AIOmetadata settings.
 
 ### Install with Cinemeta
 
@@ -61,7 +61,7 @@ If a fetch, build or validation fails, publishing stops and the previous Pages d
 
 | Problem | What to check |
 | --- | --- |
-| Only one page of titles appears | Use the paginated manifest and check that the page sizes match in [Pagination](#pagination). Refresh the AIOmetadata catalog cache and client view. |
+| Only one page of titles appears | Use the paginated manifest and an AIOmetadata page size of at most 100. Refresh the AIOmetadata catalog cache and client view. |
 | Titles don’t match the latest catalog | In AIOmetadata’s dashboard, use **Operations → Cache Management → Clear by ID** and preview the affected catalog ID before clearing it. Then reload the catalog in your client. |
 | Anime Years asks for a year | Refresh the imported manifest and clear any selected filter. |
 | Cinemeta shows fewer titles | Titles with missing, ambiguous or unsuitable IMDb mappings are omitted. The AIOmetadata manifest retains the native AniList entries. |
@@ -74,29 +74,21 @@ Only follow these steps if you want to publish your **own copy**. The installati
 
 1. Fork this repository and enable GitHub Actions. Keep `main` as the default branch.
 2. In your fork, open **Settings → Pages → Build and deployment** and select **GitHub Actions** as the source.
-3. If needed, set `PAGINATION_PAGE_SIZE` as described below.
-4. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** for a current-year update, or **Refresh all years from 2001** for a full history update; otherwise the run publishes committed catalogs.
-5. After the deployment succeeds, replace `digizik` in the two manifest URLs above with your GitHub username.
+3. Under **Actions**, run **Update catalogs and publish Pages**. Enable **Refresh AniList data** for a current-year update, or **Refresh all years from 2001** for a full history update; otherwise the run publishes committed catalogs.
+4. After the deployment succeeds, replace `digizik` in the two manifest URLs above with your GitHub username.
 
 Successful refreshes commit changed native and IMDb catalogs as `github-actions[bot]`. A push to `main` publishes committed data without refreshing providers. Manual runs can do either. Make sure branch rules permit the workflow to push, and pull `main` before editing because a refresh may have added commits.
 
 ### Pagination
 
-For the AIOmetadata manifest, match these values:
-
-| Setting | Where | Default |
-| --- | --- | --- |
-| `PAGINATION_PAGE_SIZE` | GitHub repository → **Settings → Secrets and variables → Actions → Variables** | `20` |
-| `CATALOG_LIST_ITEMS_SIZE` | AIOmetadata environment | `20` |
-
-The static catalog cannot detect AIOmetadata’s page-size setting. After changing the repository variable, rerun the publishing workflow. If you change AIOmetadata’s environment, recreate its container. The separate Cinemeta manifest uses standard **100-item** pages.
+Both exports return up to **100 titles** per response. The AIOmetadata export supports every integer offset, so its page size does not need to match a repository setting. Keep AIOmetadata’s `CATALOG_LIST_ITEMS_SIZE` at **100 or below**; 20, 50 and 100 are covered by pagination tests. Recreate AIOmetadata’s container after changing its environment; no Pages rebuild is needed. The separate Cinemeta export uses standard offsets of 0, 100, 200 and so on.
 
 <details>
 <summary>How pagination works</summary>
 
 Catalog JSON is compact and unchanged export files are not rewritten. The builder checks exact file bytes against its size budget before generating pages.
 
-The native export supports normal first pages, explicit `skip=0`, integer offsets and both `skip`/`genre` parameter orders. For `N` titles and page size `P`, offsets through `N + P` are generated, including empty terminal responses. Cinemeta generates standard multiples of 100 through an empty terminal page. Unsupported filters or offsets beyond the generated range may return 404.
+The native export supports normal first pages, explicit `skip=0`, integer offsets and both `skip`/`genre` parameter orders. For `N` titles, offsets through `N + 99` include empty terminal responses for client steps up to 100. Cinemeta stops at the first empty multiple of 100. Unsupported filters or offsets beyond the generated range may return 404. Overlapping native responses are separate files because GitHub Pages serves static JSON.
 
 </details>
 

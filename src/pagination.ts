@@ -3,6 +3,7 @@ import path from "path";
 
 const PAGES_MAX_BYTES = 1_000_000_000;
 const PAGINATED_ID = "com.digizik.animes-season-addon.paginated";
+export const PAGE_SIZE = 100;
 
 type Meta = { id: string; type: string; name: string; [key: string]: unknown };
 type Extra = { name: string; options?: string[]; isRequired?: boolean };
@@ -21,16 +22,8 @@ type Manifest = {
     [key: string]: unknown;
 };
 type Source = { catalog: Catalog; genre?: string; serialized: string[]; prefixBytes: number[] };
-export type BuildOptions = { root?: string; pageSize?: number; maxBytes?: number; paginatedId?: string; offsetStep?: number };
+export type BuildOptions = { root?: string; maxBytes?: number; paginatedId?: string; offsetStep?: 1 | 100 };
 export type BuildResult = { outputDir: string; pageSize: number; catalogs: number; variants: number; files: number; bytes: number };
-
-export function parsePageSize(value: string | undefined): number {
-    if (value === undefined || value === "") return 20;
-    if (!/^[1-9]\d*$/.test(value) || !Number.isSafeInteger(Number(value))) {
-        throw new Error("PAGINATION_PAGE_SIZE must be a positive safe integer (for example 20, 30, or 50).");
-    }
-    return Number(value);
-}
 
 function segment(value: unknown, label: string): asserts value is string {
     if (typeof value !== "string" || !/^[A-Za-z0-9_-]+$/.test(value)) {
@@ -123,12 +116,18 @@ function pagePaths(source: Source, skip?: number): string[] {
         path.join(base, `genre=${source.genre}&skip=${skip}.json`)];
 }
 
-function* pages(sources: Source[], pageSize: number, offsetStep: number): Generator<{ paths: string[]; body: string }> {
+function lastOffset(count: number, offsetStep: number): number {
+    // Every possible next request after the last title for steps up to PAGE_SIZE.
+    // Standard Stremio clients only need the first empty multiple of PAGE_SIZE.
+    return offsetStep === 1 ? count + PAGE_SIZE - 1 : Math.ceil(count / PAGE_SIZE) * PAGE_SIZE;
+}
+
+function* pages(sources: Source[], offsetStep: number): Generator<{ paths: string[]; body: string }> {
     for (const source of sources) {
-        const body = (skip: number) => '{"metas":[' + source.serialized.slice(skip, skip + pageSize).join(",") + ']}';
+        const body = (skip: number) => '{"metas":[' + source.serialized.slice(skip, skip + PAGE_SIZE).join(",") + ']}';
         const first = body(0);
         yield { paths: pagePaths(source), body: first };
-        for (let skip = 0; skip <= source.serialized.length + pageSize; skip += offsetStep) {
+        for (let skip = 0; skip <= lastOffset(source.serialized.length, offsetStep); skip += offsetStep) {
             yield { paths: pagePaths(source, skip), body: skip === 0 ? first : body(skip) };
         }
     }
@@ -150,10 +149,8 @@ async function listFiles(root: string, relative: string): Promise<string[]> {
 
 export async function buildPages(options: BuildOptions = {}): Promise<BuildResult> {
     const root = path.resolve(options.root || process.cwd());
-    const pageSize = options.pageSize ?? parsePageSize(process.env.PAGINATION_PAGE_SIZE);
-    if (!Number.isSafeInteger(pageSize) || pageSize <= 0) throw new Error("PAGINATION_PAGE_SIZE must be a positive safe integer.");
     const offsetStep = options.offsetStep ?? 1;
-    if (offsetStep !== 1 && offsetStep !== pageSize) throw new Error("Offset step must be one or the page size.");
+    if (offsetStep !== 1 && offsetStep !== PAGE_SIZE) throw new Error("Offset step must be one or 100.");
     const maxBytes = Math.min(options.maxBytes ?? PAGES_MAX_BYTES, PAGES_MAX_BYTES);
     if (!Number.isSafeInteger(maxBytes) || maxBytes <= 0) throw new Error("Invalid Pages size limit.");
     const manifest = await readJson(path.join(root, "manifest.json"));
@@ -161,7 +158,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     const sources = await readSources(root, manifest);
     const paginated = JSON.parse(JSON.stringify(manifest)) as Manifest;
     paginated.id = options.paginatedId || PAGINATED_ID;
-    paginated.version = "1.4.0";
+    paginated.version = "1.4.1";
     paginated.name = `${manifest.name} (Paginated)`;
     for (const catalog of paginated.catalogs) {
         catalog.extra = [...(catalog.extra || []).filter(extra => extra.name !== "skip"), { name: "skip", isRequired: false }];
@@ -176,26 +173,19 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
         if (bytes > maxBytes) throw new Error(`Generated site exceeds the GitHub Pages size limit (${maxBytes} bytes).`);
     };
     checkBudget();
-    // A lower bound also rejects impractically large page sizes before iterating offsets.
-    for (const source of sources) {
-        const aliases = source.genre === undefined ? 1 : 2;
-        if (pageSize > Math.floor(maxBytes / (aliases * Buffer.byteLength('{"metas":[]}')))) {
-            throw new Error("PAGINATION_PAGE_SIZE would exceed the GitHub Pages size limit.");
-        }
-    }
     // Prefix byte counts preflight the exact size without constructing page strings.
     for (const source of sources) {
         const count = source.serialized.length;
         const aliases = source.genre === undefined ? 1 : 2;
         const pageBytes = (skip: number) => {
             const start = Math.min(skip, count);
-            const end = Math.min(skip + pageSize, count);
+            const end = Math.min(skip + PAGE_SIZE, count);
             return 12 + source.prefixBytes[end] - source.prefixBytes[start] + Math.max(0, end - start - 1);
         };
         bytes += pageBytes(0);
         files++;
         for (let skip = 0; skip < count; skip += offsetStep) bytes += pageBytes(skip) * aliases;
-        const offsets = Math.floor((count + pageSize) / offsetStep) + 1;
+        const offsets = Math.floor(lastOffset(count, offsetStep) / offsetStep) + 1;
         bytes += 12 * (offsets - Math.ceil(count / offsetStep)) * aliases;
         files += offsets * aliases;
         checkBudget();
@@ -224,7 +214,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     await Promise.all([...pageDirectories].map(directory => fs.mkdir(directory, { recursive: true })));
     // Bound filesystem pressure and queued payloads instead of queueing the whole site.
     let pending: Promise<void>[] = [];
-    for (const page of pages(sources, pageSize, offsetStep)) {
+    for (const page of pages(sources, offsetStep)) {
         for (const relative of page.paths) {
             const target = path.join(outputDir, relative);
             pending.push(fs.writeFile(target, page.body));
@@ -235,7 +225,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
         }
     }
     await Promise.all(pending);
-    return { outputDir, pageSize, catalogs: manifest.catalogs.length, variants: sources.length, files, bytes };
+    return { outputDir, pageSize: PAGE_SIZE, catalogs: manifest.catalogs.length, variants: sources.length, files, bytes };
 }
 
 if (require.main === module) {

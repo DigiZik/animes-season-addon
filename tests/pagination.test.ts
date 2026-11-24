@@ -3,7 +3,7 @@ import path from "path";
 import os from "os";
 import http from "http";
 import { createHash } from "crypto";
-import { buildPages, parsePageSize } from "../src/pagination";
+import { buildPages, PAGE_SIZE } from "../src/pagination";
 import { verifyPages } from "../src/verify-pages";
 
 jest.setTimeout(120000);
@@ -60,28 +60,20 @@ afterEach(async () => {
     await fs.rm(root, { recursive: true, force: true });
 });
 
-describe("page size configuration", () => {
-    it.each([[undefined, 20], ["", 20], ["20", 20], ["30", 30], ["50", 50], ["1", 1]])("parses %s", (value, expected) => {
-        expect(parsePageSize(value as string | undefined)).toBe(expected);
-    });
-    it.each(["0", "-1", "1.5", "abc", " 20", "20 ", "1e2", "01", "9007199254740992"])("rejects %s", value => {
-        expect(() => parsePageSize(value)).toThrow("PAGINATION_PAGE_SIZE");
-    });
-});
-
-it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i", async pageSize => {
-    const metas = Array.from({ length: 65 }, (_, i) => item(i));
+it("traverses all four catalogs and filters with fixed 100-item responses", async () => {
+    const metas = Array.from({ length: 237 }, (_, i) => item(i));
     metas.splice(2, 0, { ...item(0), name: "Duplicate must not replace first" });
     const catalogs = await fixture(metas);
     const sourceManifest = await fs.readFile(path.join(root, "manifest.json"));
     const sourceHash = await digest(path.join(root, "catalog"));
-    const result = await buildPages({ root, pageSize });
+    const result = await buildPages({ root });
+    expect(result.pageSize).toBe(100);
     expect(result.catalogs).toBe(4);
     expect(result.variants).toBe(8);
     expect(result.bytes).toBeLessThan(1_000_000_000);
     const manifest = await json(".pages/paginated/manifest.json");
     expect(manifest.id).toBe("com.digizik.animes-season-addon.paginated");
-    expect(manifest.version).toBe("1.4.0");
+    expect(manifest.version).toBe("1.4.1");
     expect(manifest.name).toBe("Anime (Paginated)");
     for (let i = 0; i < catalogs.length; i++) {
         expect(manifest.catalogs[i].extra[0]).toEqual(catalogs[i].extra[0]);
@@ -92,15 +84,15 @@ it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i
         for (const genre of genres) {
             const base = `.pages/paginated/catalog/${entry.type}/${entry.id}`;
             const first = genre === undefined ? `${base}.json` : `${base}/genre=${genre}.json`;
-            const expected = Array.from({ length: 65 }, (_, index) => item(index, entry.type));
-            expect((await json(first)).metas).toEqual(expected.slice(0, pageSize));
+            const expected = Array.from({ length: 237 }, (_, index) => item(index, entry.type));
+            expect((await json(first)).metas).toEqual(expected.slice(0, PAGE_SIZE));
             const collected = [];
-            for (let skip = 0; skip <= 65 + pageSize; skip++) {
+            for (let skip = 0; skip < expected.length + PAGE_SIZE; skip++) {
                 const suffix = genre === undefined ? `skip=${skip}` : `skip=${skip}&genre=${genre}`;
                 const actual = (await json(`${base}/${suffix}.json`)).metas;
-                expect(actual).toEqual(expected.slice(skip, skip + pageSize));
+                expect(actual).toEqual(expected.slice(skip, skip + PAGE_SIZE));
                 if (genre !== undefined) expect(await json(`${base}/genre=${genre}&skip=${skip}.json`)).toEqual({ metas: actual });
-                if (skip % pageSize === 0 && skip < 65) collected.push(...actual);
+                if (skip % PAGE_SIZE === 0 && skip < expected.length) collected.push(...actual);
             }
             expect(collected).toEqual(expected);
         }
@@ -110,78 +102,77 @@ it.each([20, 30, 50])("traverses all four catalogs and filters with page size %i
     expect(await digest(path.join(root, "catalog"))).toBe(sourceHash);
     expect(await digest(path.join(root, ".pages/catalog"))).toBe(sourceHash);
     const generatedHash = await digest(result.outputDir);
-    await buildPages({ root, pageSize });
+    await buildPages({ root });
     expect(await digest(result.outputDir)).toBe(generatedHash);
 });
 
-it.each([0, 20, 40])("handles %i items including empty and exact full pages", async count => {
+it.each([0, 1, 99, 100, 101, 200])("handles %i items including empty and exact full pages", async count => {
     await fixture(Array.from({ length: count }, (_, i) => item(i)));
-    await buildPages({ root, pageSize: 20 });
+    await buildPages({ root });
     const base = ".pages/paginated/catalog/series/latest_anime_seasons";
-    expect((await json(`${base}.json`)).metas).toHaveLength(Math.min(20, count));
+    expect((await json(`${base}.json`)).metas).toHaveLength(Math.min(PAGE_SIZE, count));
     expect(await json(`${base}/skip=${count}.json`)).toEqual({ metas: [] });
-    expect(await json(`${base}/skip=${count + 20}.json`)).toEqual({ metas: [] });
+    expect(await json(`${base}/skip=${count + PAGE_SIZE - 1}.json`)).toEqual({ metas: [] });
+    await expect(json(`${base}/skip=${count + PAGE_SIZE}.json`)).rejects.toMatchObject({ code: "ENOENT" });
 });
 
 it("removes stale pages and removed catalog variants on rebuild", async () => {
     await fixture();
-    await buildPages({ root, pageSize: 20 });
+    await buildPages({ root });
     await fixture([item(1)]);
     const manifest = await json("manifest.json");
     manifest.catalogs = manifest.catalogs.filter((entry: any) => entry.type === "series");
     await write("manifest.json", manifest);
-    await buildPages({ root, pageSize: 20 });
-    await expect(fs.stat(path.join(root, ".pages/paginated/catalog/series/latest_anime_seasons/skip=45.json"))).rejects.toThrow();
+    await buildPages({ root });
+    await expect(fs.stat(path.join(root, ".pages/paginated/catalog/series/latest_anime_seasons/skip=144.json"))).rejects.toThrow();
     await expect(fs.stat(path.join(root, ".pages/paginated/catalog/movie"))).rejects.toThrow();
 });
 
 it("preflights the exact UTF-8 file size without rendering metadata twice", async () => {
     await fixture([{ ...item(1), name: "日本語 🎬", description: "Été — 海" }]);
-    const built = await buildPages({ root, pageSize: 20 });
-    const verified = await verifyPages(root, 20);
+    const built = await buildPages({ root });
+    const verified = await verifyPages(root);
     expect(verified.bytes).toBe(built.bytes);
     expect(verified.files).toBe(built.files);
     const before = await digest(built.outputDir);
-    await expect(buildPages({ root, pageSize: 20, maxBytes: built.bytes - 1 })).rejects.toThrow("size limit");
+    await expect(buildPages({ root, maxBytes: built.bytes - 1 })).rejects.toThrow("size limit");
     expect(await digest(built.outputDir)).toBe(before);
 });
 
 it("rejects invalid or missing source data before replacing the previous output", async () => {
     await fixture();
-    await buildPages({ root, pageSize: 20 });
+    await buildPages({ root });
     const before = await digest(path.join(root, ".pages"));
     await write("catalog/series/archive_anime_seasons/genre=2025.json", { metas: [{ id: "tt1", type: "movie", name: "Wrong type" }] });
-    await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("Invalid metadata");
+    await expect(buildPages({ root })).rejects.toThrow("Invalid metadata");
     expect(await digest(path.join(root, ".pages"))).toBe(before);
     await fs.unlink(path.join(root, "catalog/series/archive_anime_seasons/genre=2025.json"));
-    await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("Cannot read valid JSON");
+    await expect(buildPages({ root })).rejects.toThrow("Cannot read valid JSON");
     expect(await digest(path.join(root, ".pages"))).toBe(before);
 });
 
-it("rejects invalid manifests, unsafe paths, page sizes, and oversized sites", async () => {
+it("rejects invalid manifests, unsafe paths, offset steps, and oversized sites", async () => {
     await fixture();
-    await expect(buildPages({ root, pageSize: 0 })).rejects.toThrow("PAGINATION_PAGE_SIZE");
-    await expect(buildPages({ root, pageSize: 1.5 })).rejects.toThrow("PAGINATION_PAGE_SIZE");
-    await expect(buildPages({ root, pageSize: Number.MAX_SAFE_INTEGER })).rejects.toThrow("size limit");
-    await expect(buildPages({ root, pageSize: 20, maxBytes: 10 })).rejects.toThrow("size limit");
+    await expect(buildPages({ root, offsetStep: 20 as any })).rejects.toThrow("Offset step");
+    await expect(buildPages({ root, maxBytes: 10 })).rejects.toThrow("size limit");
     const manifest = await json("manifest.json");
     manifest.catalogs[0].id = "../escape";
     await write("manifest.json", manifest);
-    await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("safe catalog path");
+    await expect(buildPages({ root })).rejects.toThrow("safe catalog path");
     await write("manifest.json", { catalogs: [] });
-    await expect(buildPages({ root, pageSize: 20 })).rejects.toThrow("Invalid manifest");
+    await expect(buildPages({ root })).rejects.toThrow("Invalid manifest");
 });
 
-it.each([20, 30, 50])("paginates the full 2025 archive without losing anime identities at size %i", async pageSize => {
+it.each([20, 50, 100])("traverses the full 2025 archive in %i-item client windows", async clientSize => {
     const sourcePath = path.resolve(__dirname, "../../catalog/series/archive_anime_seasons/genre=2025.json");
     const data = JSON.parse(await fs.readFile(sourcePath, "utf8"));
-    expect(data.metas.length).toBeGreaterThan(pageSize);
+    expect(data.metas.length).toBeGreaterThan(PAGE_SIZE);
     await fixture([]);
     const manifest = await json("manifest.json");
     manifest.catalogs = [catalog("series", true)];
     await write("manifest.json", manifest);
     await write("catalog/series/archive_anime_seasons/genre=2025.json", data);
-    await buildPages({ root, pageSize });
+    await buildPages({ root });
     const seen = new Set<string>();
     const expected = data.metas.filter((meta: any) => {
         const key = `${meta.type}:${meta.id}`;
@@ -191,18 +182,19 @@ it.each([20, 30, 50])("paginates the full 2025 archive without losing anime iden
     });
     expect(expected).toHaveLength(new Set(data.metas.map((meta: any) => meta.id)).size);
     const collected = [];
-    for (let skip = 0; skip < expected.length; skip += pageSize) {
+    for (let skip = 0; skip < expected.length; skip += clientSize) {
         const page = await json(`.pages/paginated/catalog/series/archive_anime_seasons/skip=${skip}&genre=2025.json`);
-        collected.push(...page.metas);
+        expect(page.metas).toEqual(expected.slice(skip, skip + PAGE_SIZE));
+        collected.push(...page.metas.slice(0, clientSize));
     }
     expect(collected).toEqual(expected);
-    const terminal = Math.ceil(expected.length / pageSize) * pageSize;
+    const terminal = Math.ceil(expected.length / clientSize) * clientSize;
     expect(await json(`.pages/paginated/catalog/series/archive_anime_seasons/skip=${terminal}&genre=2025.json`)).toEqual({ metas: [] });
 });
 
 it("serves first pages, both parameter orders, arbitrary offsets, and terminal JSON over HTTP", async () => {
     await fixture(Array.from({ length: 45 }, (_, i) => item(i)));
-    const result = await buildPages({ root, pageSize: 20 });
+    const result = await buildPages({ root });
     const prefix = "/animes-season-addon/";
     const server = http.createServer(async (request, response) => {
         try {
@@ -225,7 +217,7 @@ it("serves first pages, both parameter orders, arbitrary offsets, and terminal J
             return response.json() as Promise<any>;
         };
         expect((await fetchJson("paginated/manifest.json")).catalogs).toHaveLength(4);
-        expect((await fetchJson("paginated/catalog/series/latest_anime_seasons.json")).metas).toHaveLength(20);
+        expect((await fetchJson("paginated/catalog/series/latest_anime_seasons.json")).metas).toHaveLength(45);
         const route = "paginated/catalog/series/archive_anime_seasons/";
         expect(await fetchJson(route + "skip=20&genre=2025.json")).toEqual(await fetchJson(route + "genre=2025&skip=20.json"));
         expect((await fetchJson(route + "skip=19&genre=2025.json")).metas[0]).toEqual(item(19));

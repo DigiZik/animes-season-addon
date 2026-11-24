@@ -26,8 +26,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      PAGINATION_PAGE_SIZE: ${{ vars.PAGINATION_PAGE_SIZE || '20' }}
     steps:
       - uses: actions/checkout@v6
         with:

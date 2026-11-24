@@ -77,10 +77,10 @@ it("keeps the generator manifest current and year filters optional after a norma
     expect((await read("catalog/series/archive_anime_seasons.json")).metas).toHaveLength(5);
 });
 
-it.each([20, 30, 50])("publishes equivalent default and explicit current-year pages at size %i", async pageSize => {
+it("publishes equivalent default and explicit current-year pages at fixed size 100", async () => {
     await prepareCurrentYear(root, today);
-    await buildPages({ root, pageSize });
-    const result = await verifyPages(root, pageSize);
+    await buildPages({ root });
+    const result = await verifyPages(root);
     expect(result.variants).toBe(64);
     for (const type of ["series", "movie"]) {
         const base = `.pages/paginated/catalog/${type}/archive_anime_seasons`;

@@ -1,9 +1,10 @@
 import { promises as fs } from "fs";
 import path from "path";
 import assert from "assert";
-import { parsePageSize } from "./pagination";
+import { PAGE_SIZE } from "./pagination";
 
-export async function verifyPages(root = process.cwd(), pageSize = parsePageSize(process.env.PAGINATION_PAGE_SIZE), options: { output?: string; expectedId?: string } = {}) {
+export async function verifyPages(root = process.cwd(), options: { output?: string; expectedId?: string; offsetStep?: 1 | 100 } = {}) {
+    const pageSize = PAGE_SIZE;
     const output = options.output || path.join(root, ".pages");
     const read = async (relative: string) => JSON.parse(await fs.readFile(path.join(output, relative), "utf8"));
     const original = JSON.parse(await fs.readFile(path.join(root, "manifest.json"), "utf8"));
@@ -37,14 +38,15 @@ export async function verifyPages(root = process.cwd(), pageSize = parsePageSize
             assert.deepStrictEqual((await read(`paginated/${relative}`)).metas, expected.slice(0, pageSize));
             const collected = [];
             const terminal = Math.ceil(expected.length / pageSize) * pageSize;
-            for (let skip = 0; skip <= terminal; skip += pageSize) {
+            const last = options.offsetStep === 100 ? terminal : expected.length + pageSize - 1;
+            for (let skip = 0; skip <= last; skip += options.offsetStep || 1) {
                 const suffix = option === undefined ? `skip=${skip}` : `skip=${skip}&genre=${option}`;
                 const page = await read(`paginated/${base}/${suffix}.json`);
                 assert.deepStrictEqual(page.metas, expected.slice(skip, skip + pageSize), `${relative}, skip=${skip}`);
                 if (option !== undefined) {
                     assert.deepStrictEqual(await read(`paginated/${base}/genre=${option}&skip=${skip}.json`), page);
                 }
-                collected.push(...page.metas);
+                if (skip % pageSize === 0) collected.push(...page.metas);
             }
             assert.deepStrictEqual(collected, expected, `Traversal mismatch: ${relative}`);
             variants++;
@@ -71,7 +73,7 @@ export async function verifyPages(root = process.cwd(), pageSize = parsePageSize
 
 if (require.main === module) {
     const root = process.cwd();
-    Promise.all([verifyPages(root), verifyPages(path.join(root, "cinemeta"), 100, {output:path.join(root, ".pages/cinemeta"),expectedId:"com.digizik.animes-season-addon.cinemeta.paginated"})])
+    Promise.all([verifyPages(root), verifyPages(path.join(root, "cinemeta"), {output:path.join(root, ".pages/cinemeta"),expectedId:"com.digizik.animes-season-addon.cinemeta.paginated",offsetStep:100})])
         .then(([aiometadata,cinemeta]) => console.log(`Verified both exports: ${JSON.stringify({aiometadata,cinemeta})}`))
         .catch(error => { console.error(error.message); process.exitCode=1; });
 }
