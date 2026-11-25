@@ -1,6 +1,6 @@
 {
   "id": "com.digizik.animes-season-addon.cinemeta",
-  "version": "1.20.5",
+  "version": "1.21.5",
   "name": "Animes' season (Cinemeta)",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -140,5 +140,5 @@
   "idPrefixes": [
     "tt"
   ],
-  "lastUpdatedAt": "2026-09-01T09:31:05.038Z"
+  "lastUpdatedAt": "2026-11-25T11:18:56.662Z"
 }
