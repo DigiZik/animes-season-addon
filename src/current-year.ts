@@ -36,7 +36,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
             metas.push(...uniqueMetas(source?.metas, type, relative));
         }
         const combined = uniqueMetas(metas, type, `${year} ${type}`);
-        const body = JSON.stringify({ metas: combined }) + "\n";
+        const body = JSON.stringify({ metas: combined }, null, 2) + "\n";
         counts[type] = combined.length;
         pending.push({ file: path.join(root, "catalog", type, "archive_anime_seasons", `genre=${year}.json`), body });
         pending.push({ file: path.join(root, "catalog", type, "archive_anime_seasons.json"), body });

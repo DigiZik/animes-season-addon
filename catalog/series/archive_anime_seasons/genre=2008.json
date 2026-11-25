@@ -1,1 +1,2020 @@
-{"metas":[{"id":"anilist:2966","type":"series","name":"Spice and Wolf","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2966-AEULMyYA9WKb.png","releaseInfo":"2008"},{"id":"anilist:2993","type":"series","name":"Rosario + Vampire","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2993.jpg","releaseInfo":"2008"},{"id":"anilist:2129","type":"series","name":"True Tears","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2129-5TX1vWYYe2MT.png","releaseInfo":"2008"},{"id":"anilist:3901","type":"series","name":"Baccano! Bangai-hen","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3901-uUj3GeGsebmj.png","releaseInfo":"2008"},{"id":"anilist:3342","type":"series","name":"RIN ~Daughters of Mnemosyne~","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3342-py3qPHF7NK3c.jpg","releaseInfo":"2008"},{"id":"anilist:3297","type":"series","name":"ARIA The ORIGINATION","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3297-FHuyO7uiefNg.png","releaseInfo":"2008"},{"id":"anilist:3228","type":"series","name":"Zoku Sayonara, Zetsubou-Sensei","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3228-1HZ2FA34oKAM.jpg","releaseInfo":"2008"},{"id":"anilist:3420","type":"series","name":"Shigofumi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3420-ZHbQqYUJCcUn.png","releaseInfo":"2008"},{"id":"anilist:3229","type":"series","name":"Kimi ga Aruji de Shitsuji ga Ore de","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3229-patebR065mMD.jpg","releaseInfo":"2008"},{"id":"anilist:3366","type":"series","name":"Persona -trinity soul-","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3366.jpg","releaseInfo":"2008"},{"id":"anilist:3299","type":"series","name":"H2O: Footprints in the Sand","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3299-E3PTKYMS6DnB.png","releaseInfo":"2008"},{"id":"anilist:3231","type":"series","name":"Gunslinger Girl -Il Teatrino-","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3231-MP0WwB4XBx6u.png","releaseInfo":"2008"},{"id":"anilist:3225","type":"series","name":"Minami-ke: Okawari","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3225-o0alpa3uDh0S.png","releaseInfo":"2008"},{"id":"anilist:3226","type":"series","name":"Major S4","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3226-fMXH8ydO3BmF.png","releaseInfo":"2008"},{"id":"anilist:3759","type":"series","name":"School Days: Valentine Days","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3759.jpg","releaseInfo":"2008"},{"id":"anilist:4134","type":"series","name":"Naruto Shippuden: Konoha Gakuen - Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4134.jpg","releaseInfo":"2008"},{"id":"anilist:3375","type":"series","name":"Kirepapa.","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3375.jpg","releaseInfo":"2008"},{"id":"anilist:3956","type":"series","name":"Shakugan no Shana II (Second) Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3956.jpg","releaseInfo":"2008"},{"id":"anilist:3965","type":"series","name":"Nodame Cantabile: Nodame to Chiaki no Umi Monogatari","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3965.jpg","releaseInfo":"2008"},{"id":"anilist:3298","type":"series","name":"Hatenkou Yugi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3298.jpg","releaseInfo":"2008"},{"id":"anilist:3692","type":"series","name":"Yes! Precure 5 GoGo!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3692-hNjdstSK2qMF.jpg","releaseInfo":"2008"},{"id":"anilist:3389","type":"series","name":"BUS GAMER","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3389.jpg","releaseInfo":"2008"},{"id":"anilist:5725","type":"series","name":"Dinosaur King Season 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5725-i8OOHFuaMisS.png","releaseInfo":"2008"},{"id":"anilist:3710","type":"series","name":"Graveyard Kitaro","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3710-TGAjCIMRcQKT.jpg","releaseInfo":"2008"},{"id":"anilist:3674","type":"series","name":"Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3674-M61nw5jhN016.png","releaseInfo":"2008"},{"id":"anilist:3887","type":"series","name":"Big Windup!: The Basics of Basics","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3887-kfIgQKaJQUXC.png","releaseInfo":"2008"},{"id":"anilist:4033","type":"series","name":"The Idolm@ster: Live for You!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4033.jpg","releaseInfo":"2008"},{"id":"anilist:3011","type":"series","name":"Yotsunoha","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3011.jpg","releaseInfo":"2008"},{"id":"anilist:3268","type":"series","name":"My-Otome 0: S.ifr","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3268.jpg","releaseInfo":"2008"},{"id":"anilist:4082","type":"series","name":"Princess Resurrection Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4082.jpg","releaseInfo":"2008"},{"id":"anilist:4650","type":"series","name":"Outlaw Star Pilot","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4650.jpg","releaseInfo":"2008"},{"id":"anilist:14957","type":"series","name":"Shakugan no  SHANA: Naze Nani Shana 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14957.jpg","releaseInfo":"2008"},{"id":"anilist:3417","type":"series","name":"Yawaraka Sangokushi Tsukisase!! Ryofuko-chan","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3417.jpg","releaseInfo":"2007"},{"id":"anilist:4078","type":"series","name":"Kyou no Go no Ni Kagai Jugyou: Mizukake","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4078.jpg","releaseInfo":"2008"},{"id":"anilist:3424","type":"series","name":"The Orphans of Simitra","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3424.jpg","releaseInfo":"2008"},{"id":"anilist:3295","type":"series","name":"Yatterman","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3295-NmY28wKQFvS1.png","releaseInfo":"2008"},{"id":"anilist:7882","type":"series","name":"Ramen Tenshi Pretty Menma","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7882.jpg","releaseInfo":"2008"},{"id":"anilist:3501","type":"series","name":"Sisters of Wellber Zwei","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3501.jpg","releaseInfo":"2008"},{"id":"anilist:7083","type":"series","name":"Hakushaku to Yousei Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7083.jpg","releaseInfo":"2008"},{"id":"anilist:20528","type":"series","name":"Sketchbook ~full color's~ Picture Drama","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20528.jpg","releaseInfo":"2008"},{"id":"anilist:4202","type":"series","name":"Mokke Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4202.jpg","releaseInfo":"2008"},{"id":"anilist:3573","type":"series","name":"Moegaku★5","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3573-UqXvD9VgwVGQ.jpg","releaseInfo":"2008"},{"id":"anilist:8936","type":"series","name":"Melody","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8936.jpg","releaseInfo":"2008"},{"id":"anilist:3704","type":"series","name":"Zenryoku Usagi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3704.jpg","releaseInfo":"2008"},{"id":"anilist:3514","type":"series","name":"Noramimi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3514.jpg","releaseInfo":"2008"},{"id":"anilist:130247","type":"series","name":"Bamboo Blade: CM Fanfu-Fufe-Fo","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130247-sJww6JfRBUkG.jpg","releaseInfo":"2008"},{"id":"anilist:3500","type":"series","name":"Yume Miru, Anime on-chan","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3500.jpg","releaseInfo":"2008"},{"id":"anilist:7803","type":"series","name":"Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7803.jpg","releaseInfo":"2008"},{"id":"anilist:17004","type":"series","name":"Sore Ike! Anpanman: Frankenrobo-kun no Bikkuri Christmas","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17004.jpg","releaseInfo":"2008"},{"id":"anilist:169828","type":"series","name":"Cinnamon no Genki ni o Dekake","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169828-0xBT9xk293RK.png","releaseInfo":"2008"},{"id":"anilist:169887","type":"series","name":"Cinnamon no Minna Tomodachi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169887-qI8dz5NbYDwI.jpg","releaseInfo":"2008"},{"id":"anilist:121072","type":"series","name":"Tatakae! Dokan-kun: Gekitou-kun","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121072-afY4xTIAap3C.jpg","releaseInfo":"2008"},{"id":"anilist:3588","type":"series","name":"Soul Eater","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-fSMggQoFSbUI.png","releaseInfo":"2008"},{"id":"anilist:2904","type":"series","name":"Code Geass: Lelouch of the Rebellion R2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg","releaseInfo":"2008"},{"id":"anilist:3455","type":"series","name":"To Love Ru","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3455-oNiJmsZZTAAj.png","releaseInfo":"2008"},{"id":"anilist:3457","type":"series","name":"Vampire Knight","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3457-owSEHJYvflx5.jpg","releaseInfo":"2008"},{"id":"anilist:3470","type":"series","name":"S.A: Special A","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3470-L3BUDBujYi7G.jpg","releaseInfo":"2008"},{"id":"anilist:3701","type":"series","name":"Kaiba","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3701-ooD3N9dD2rqa.jpg","releaseInfo":"2008"},{"id":"anilist:3503","type":"series","name":"Kanokon: The Girl Who Cried Fox","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3503.jpg","releaseInfo":"2008"},{"id":"anilist:3731","type":"series","name":"ItaKiss","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3731-aCN5LnCn08qm.png","releaseInfo":"2008"},{"id":"anilist:3092","type":"series","name":"Junjo Romantica","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3092-HjwfgrWFiUlu.jpg","releaseInfo":"2008"},{"id":"anilist:3972","type":"series","name":"Yu-Gi-Oh! 5D's","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3972-bSmlWKXrVvDv.png","releaseInfo":"2008"},{"id":"anilist:4182","type":"series","name":"Darker than Black: Beneath Cherry Blossoms in Full Bloom","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4182-Sj5g5kz2WPuT.jpg","releaseInfo":"2008"},{"id":"anilist:3572","type":"series","name":"Macross Frontier","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3572-qYJhokKdsnZR.png","releaseInfo":"2008"},{"id":"anilist:3655","type":"series","name":"Nabari no Ou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3655-ZoJpTjrNaYa5.jpg","releaseInfo":"2008"},{"id":"anilist:3091","type":"series","name":"xxxHOLiC◆Kei","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3091-97Yr9KdWI3Ou.jpg","releaseInfo":"2008"},{"id":"anilist:3230","type":"series","name":"Tower of Druaga: The Aegis of Uruk","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3230-Dd9HXot3osii.png","releaseInfo":"2008"},{"id":"anilist:3358","type":"series","name":"Kurenai","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3358-Pvigwmxm5sBV.jpg","releaseInfo":"2008"},{"id":"anilist:4535","type":"series","name":"Candy☆Boy","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4535-5BgYPK9MfJaR.png","releaseInfo":"2008"},{"id":"anilist:3613","type":"series","name":"Library War","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3613-b066tE3vNUAQ.jpg","releaseInfo":"2008"},{"id":"anilist:3407","type":"series","name":"Blassreiter","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3407-y7VtUyaY6PlG.png","releaseInfo":"2008"},{"id":"anilist:3841","type":"series","name":"Chi's Sweet Home","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3841-PSDYqPPpBVBC.jpg","releaseInfo":"2008"},{"id":"anilist:4038","type":"series","name":"Psychic Squad","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4038-V0dciw1wKPkP.png","releaseInfo":"2008"},{"id":"anilist:4039","type":"series","name":"Golgo 13 (TV)","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4039-oClm06wOAmog.jpg","releaseInfo":"2008"},{"id":"anilist:3323","type":"series","name":"Kite Liberator","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3323-uFCuwJI5Lym3.png","releaseInfo":"2008"},{"id":"anilist:3328","type":"series","name":"School Days: Magical Heart☆Kokoro-chan","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3328-UwxAv4wq5o08.jpg","releaseInfo":"2008"},{"id":"anilist:3515","type":"series","name":"Saint Seiya: The Hades Chapter - Elysion","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3515-g6kdTI901fhw.png","releaseInfo":"2008"},{"id":"anilist:21687","type":"series","name":"Soul Eater Late Show","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg","releaseInfo":"2008"},{"id":"anilist:3549","type":"series","name":"Allison & Lillia","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3549-rPLyNXaQ5T4M.jpg","releaseInfo":"2008"},{"id":"anilist:3656","type":"series","name":"Monochrome Factor","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3656-RtFbmfXPPxQY.png","releaseInfo":"2008"},{"id":"anilist:3363","type":"series","name":"RD Sennou Chousashitsu","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3363-PvwVmOrXVHuV.jpg","releaseInfo":"2008"},{"id":"anilist:3673","type":"series","name":"The Daughter of 20 Faces","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3673-Fos7rHpTdnnf.png","releaseInfo":"2008"},{"id":"anilist:3359","type":"series","name":"Amatsuki","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3359-OOtP9boQF7IE.png","releaseInfo":"2008"},{"id":"anilist:3616","type":"series","name":"Kamen no Maid Guy","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3616-KRPpU5y0Hhzz.png","releaseInfo":"2008"},{"id":"anilist:4053","type":"series","name":"Tennis no Ouji-sama: Zenkoku Taikai-hen Final","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4053-vybch1WZxfMp.png","releaseInfo":"2008"},{"id":"anilist:3577","type":"series","name":"Kyouran Kazoku Nikki","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3577-NcHhhGJk3kcz.jpg","releaseInfo":"2008"},{"id":"anilist:3627","type":"series","name":"D.C.II S.S.: Da Capo II Second Season","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3627-wbFO19SGqK9e.jpg","releaseInfo":"2008"},{"id":"anilist:3322","type":"series","name":"Our Home's Fox Deity","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3322-qsfwuOTyXuJk.png","releaseInfo":"2008"},{"id":"anilist:4080","type":"series","name":"Kyo Kara Maoh! Season 3","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4080-TcGSCwBQIN1q.jpg","releaseInfo":"2008"},{"id":"anilist:3615","type":"series","name":"Neo Angelique Abyss","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3615.jpg","releaseInfo":"2008"},{"id":"anilist:3859","type":"series","name":"Himitsu: Top Secret - The Revelation","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3859-vVJrx02pHzHm.jpg","releaseInfo":"2008"},{"id":"anilist:6401","type":"series","name":"ef: a tale of melodies. - prologue","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6401.jpg","releaseInfo":"2008"},{"id":"anilist:4136","type":"series","name":"Penguin Musume♥Heart","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4136-LSUZuEORSbpY.jpg","releaseInfo":"2008"},{"id":"anilist:4197","type":"series","name":"Blue Dragon: The Seven Dragons of the Heavens","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4197.jpg","releaseInfo":"2008"},{"id":"anilist:5196","type":"series","name":"ARIA The ORIGINATION Picture Drama","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5196-r6nL4W4aPMfG.jpg","releaseInfo":"2008"},{"id":"anilist:3354","type":"series","name":"Zombie-Loan Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3354.jpg","releaseInfo":"2008"},{"id":"anilist:4362","type":"series","name":"Fireball","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4362-FQXr9Ds459IK.jpg","releaseInfo":"2008"},{"id":"anilist:4320","type":"series","name":"Lupin the 3rd: Green vs Red","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4320-rSyB0AEmArwt.jpg","releaseInfo":"2008"},{"id":"anilist:3840","type":"series","name":"Glass Maiden","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3840.jpg","releaseInfo":"2008"},{"id":"anilist:5348","type":"series","name":"Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5348-tE3vO3tcPVcR.jpg","releaseInfo":"2008"},{"id":"anilist:6234","type":"series","name":"true tears: Mini Chara 4-koma Gekijou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6234-0k6ZLKKqkYrO.png","releaseInfo":"2008"},{"id":"anilist:4798","type":"series","name":"Tower of Druaga: The Aegis of Uruk - Jil's Adventure","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4798.jpg","releaseInfo":"2008"},{"id":"anilist:10810","type":"series","name":"Pucca 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10810-XdKgqwcnaeQj.jpg","releaseInfo":"2008"},{"id":"anilist:4312","type":"series","name":"Fist of the North Star: The Legend of the True Savior: Legend of Toki","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4312-euyz3xGqJsxV.jpg","releaseInfo":"2008"},{"id":"anilist:4469","type":"series","name":".hack//G.U. Trilogy: Parody Mode","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4469.jpg","releaseInfo":"2008"},{"id":"anilist:4166","type":"series","name":"ToHeart2ad","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4166-TtCU6kT3aXVa.jpg","releaseInfo":"2008"},{"id":"anilist:3641","type":"series","name":"Naisho no Tsubomi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3641.jpg","releaseInfo":"2008"},{"id":"anilist:3390","type":"series","name":"Hoshi no Umi no Amuri","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3390.jpg","releaseInfo":"2008"},{"id":"anilist:4173","type":"series","name":"Shigofumi Picture Dramas","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4173.jpg","releaseInfo":"2008"},{"id":"anilist:5938","type":"series","name":"Onegai My Melody Kirara","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5938.jpg","releaseInfo":"2008"},{"id":"anilist:10048","type":"series","name":"Fuyu no Semi: Tokubetsu Henshuu-ban","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10048.jpg","releaseInfo":"2008"},{"id":"anilist:4056","type":"series","name":"Gag Manga Biyori S3","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4056.jpg","releaseInfo":"2008"},{"id":"anilist:4213","type":"series","name":"Final Examination Kujira Progressive","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4213.jpg","releaseInfo":"2008"},{"id":"anilist:4939","type":"series","name":"Macross fufonfia","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4939.jpg","releaseInfo":"2008"},{"id":"anilist:4051","type":"series","name":"Web Ghosts PiPoPa","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg","releaseInfo":"2008"},{"id":"anilist:4187","type":"series","name":"Megumi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4187.jpg","releaseInfo":"2008"},{"id":"anilist:10527","type":"series","name":"Duel Masters Cross","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10527-BuhRs587qQ8E.jpg","releaseInfo":"2008"},{"id":"anilist:5854","type":"series","name":"Legend of the Condor Hero III","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5854.jpg","releaseInfo":"2008"},{"id":"anilist:4383","type":"series","name":"Catman Series III","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4383.jpg","releaseInfo":"2008"},{"id":"anilist:11281","type":"series","name":"Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11281.jpg","releaseInfo":"2008"},{"id":"anilist:3923","type":"series","name":"Kamen Rider Den-O: Imagin Anime","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3923.jpg","releaseInfo":"2008"},{"id":"anilist:6482","type":"series","name":"Sugar Bunnies Chocolate!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6482.jpg","releaseInfo":"2008"},{"id":"anilist:13177","type":"series","name":"Little Charo","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13177.jpg","releaseInfo":"2008"},{"id":"anilist:3975","type":"series","name":"Uchi no 3 Shimai","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3975-qxG09nQwVawv.png","releaseInfo":"2008"},{"id":"anilist:129868","type":"series","name":"Bamboo Blade: Fanfu-Fufe-Fo","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129868-kbb3yuSuhisy.jpg","releaseInfo":"2008"},{"id":"anilist:8921","type":"series","name":"Believe","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8921.jpg","releaseInfo":"2008"},{"id":"anilist:18937","type":"series","name":"Hakken Taiken Daisuki! Shimajirou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18937.jpg","releaseInfo":"2008"},{"id":"anilist:4331","type":"series","name":"Penguin no Mondai","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4331.jpg","releaseInfo":"2008"},{"id":"anilist:8304","type":"series","name":"Koutetsu Sangokushi Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8304.jpg","releaseInfo":"2008"},{"id":"anilist:5693","type":"series","name":"Shinran-sama: Negai, Soshite Hikari","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5693.jpg","releaseInfo":"2008"},{"id":"anilist:145783","type":"series","name":"Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145783-ByGMskbtb04x.png","releaseInfo":"2008"},{"id":"anilist:3973","type":"series","name":"Ikuze! Gen-san","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3973.jpg","releaseInfo":"2008"},{"id":"anilist:10706","type":"series","name":"Yasai no Yousei: N.Y.SALAD 2nd Series","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10706.jpg","releaseInfo":"2008"},{"id":"anilist:4417","type":"series","name":"Hennako-chan","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4417.jpg","releaseInfo":"2008"},{"id":"anilist:17471","type":"series","name":"Yanase Takashi Märchen Gekijou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17471.jpg","releaseInfo":"2008"},{"id":"anilist:185887","type":"series","name":"Yatterman Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185887-w2aFKiT9cbUu.png","releaseInfo":"2008"},{"id":"anilist:121074","type":"series","name":"Tatakae! Dokan-kun: Robolympic-hen","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121074-hqaNXTwXjLSI.png","releaseInfo":"2008"},{"id":"anilist:116048","type":"series","name":"Nanami-chan 5","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116048-cM4QOqWmcFQh.png","releaseInfo":"2008"},{"id":"anilist:4081","type":"series","name":"Natsume's Book of Friends Season 1","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-xi08naD69tjr.jpg","releaseInfo":"2008"},{"id":"anilist:3712","type":"series","name":"The Familiar of Zero: \"Rondo\" of Princesses","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3712-zt0ac4fjixWl.jpg","releaseInfo":"2008"},{"id":"anilist:4063","type":"series","name":"Sekirei","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4063-ZP7agutiaOCf.png","releaseInfo":"2008"},{"id":"anilist:4059","type":"series","name":"Clannad: Another World, Tomoyo Chapter","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg","releaseInfo":"2008"},{"id":"anilist:3667","type":"series","name":"Strike Witches","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3667-9ftVhhCHTRLs.jpg","releaseInfo":"2008"},{"id":"anilist:3167","type":"series","name":"Time of Eve","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3167-IBEzQTk9wvbr.jpg","releaseInfo":"2008"},{"id":"anilist:3702","type":"series","name":"Detroit Metal City","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3702-TCo0UYxWQzYj.jpg","releaseInfo":"2008"},{"id":"anilist:4177","type":"series","name":"Xam'd: Lost Memories","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4177-olqlJzn1DNN0.png","releaseInfo":"2008"},{"id":"anilist:3974","type":"series","name":"Birdy the Mighty: Decode","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3974-Gb9WK53nSsPz.png","releaseInfo":"2008"},{"id":"anilist:3467","type":"series","name":"Haruka Nogizaka's Secret","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3467-gOLRgPv8F2BT.jpg","releaseInfo":"2008"},{"id":"anilist:4151","type":"series","name":"Blade of the Immortal","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4151-7kcnkt5iisJX.png","releaseInfo":"2008"},{"id":"anilist:4196","type":"series","name":"Ikki Tousen: Great Guardians","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4196-plcopaKXIbCS.jpg","releaseInfo":"2008"},{"id":"anilist:4015","type":"series","name":"School Rumble Third Term","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4015-hYmGm0Dv4jPx.jpg","releaseInfo":"2008"},{"id":"anilist:3604","type":"series","name":"Hidamari Sketch x 365","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3604-kQzUwfzAcgTF.png","releaseInfo":"2008"},{"id":"anilist:4262","type":"series","name":"Koihime†Musou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4262-O8yfbzjIef0a.png","releaseInfo":"2008"},{"id":"anilist:4415","type":"series","name":"Sands of Destruction","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4415-wZ9dnrUApHRw.png","releaseInfo":"2008"},{"id":"anilist:5163","type":"series","name":"Code Geass: Hangyaku no Lelouch R2 Picture Drama","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg","releaseInfo":"2008"},{"id":"anilist:4772","type":"series","name":"ARIA The ORIGINATION: That Little Secret Place...","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4772-ybpWwYAbFfVo.png","releaseInfo":"2008"},{"id":"anilist:4760","type":"series","name":"Kanokon Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4760.jpg","releaseInfo":"2008"},{"id":"anilist:4021","type":"series","name":"Antique Bakery","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4021-wDG34KiOIegl.jpg","releaseInfo":"2008"},{"id":"anilist:4028","type":"series","name":"The Slayers Revolution","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4028-M65wEjtfP8rO.png","releaseInfo":"2008"},{"id":"anilist:4094","type":"series","name":"Batman: Gotham Knight","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4094-GXGa8ylDY2gv.jpg","releaseInfo":"2008"},{"id":"anilist:4188","type":"series","name":"Mahou Sensei Negima! Shiroki Tsubasa ALA ALBA","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4188-Iv82sjbW5V9M.jpg","releaseInfo":"2008"},{"id":"anilist:4483","type":"series","name":"Someday's Dreamers II Sora","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4483-TFQXbx7NmL0C.jpg","releaseInfo":"2008"},{"id":"anilist:5116","type":"series","name":"Candy☆Boy EX01 - Forecast of the Future","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5116.jpg","releaseInfo":"2008"},{"id":"anilist:4886","type":"series","name":"Inuyasha: Kuroi Tessaiga","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4886-xzcW3fD6rmoK.jpg","releaseInfo":"2008"},{"id":"anilist:5065","type":"series","name":"Detroit Metal City: Birth of the Metal Devil","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5065.jpg","releaseInfo":"2008"},{"id":"anilist:3614","type":"series","name":"Ryoko's Case File","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3614-W6pFCNZcXiFX.jpg","releaseInfo":"2008"},{"id":"anilist:9591","type":"series","name":"Code Geass: Lelouch of the Rebellion R2: Flash Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg","releaseInfo":"2008"},{"id":"anilist:5493","type":"series","name":"Ranma 1/2: Akumu! Shunmin Kou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5493-qsjGrDAxI11R.png","releaseInfo":"2008"},{"id":"anilist:5080","type":"series","name":"Quiz Magic Academy: The Original Animation","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5080.jpg","releaseInfo":"2008"},{"id":"anilist:4662","type":"series","name":"Neo Angelique Abyss: Second Age","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4662.jpg","releaseInfo":"2008"},{"id":"anilist:4205","type":"series","name":"Kimikiss pure rouge Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4205.jpg","releaseInfo":"2008"},{"id":"anilist:8317","type":"series","name":"Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8317-K72865KpOjQC.png","releaseInfo":"2008"},{"id":"anilist:3962","type":"series","name":"Chocolate Underground","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3962.jpg","releaseInfo":"2008"},{"id":"anilist:3668","type":"series","name":"Telepathy Shoujo Ran","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3668.jpg","releaseInfo":"2008"},{"id":"anilist:4264","type":"series","name":"Ultraviolet: Code 044","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4264-5jdwiLMET49D.jpg","releaseInfo":"2008"},{"id":"anilist:6566","type":"series","name":"It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6566-2vCBGgyUl4CS.jpg","releaseInfo":"2008"},{"id":"anilist:3805","type":"series","name":"Kaitou Tenshi Twin Angel (OVA)","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3805.jpg","releaseInfo":"2008"},{"id":"anilist:5019","type":"series","name":"Lupin the 3rd: Sweet Lost Night","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5019-4BC3MrSgmvqn.jpg","releaseInfo":"2008"},{"id":"anilist:4646","type":"series","name":"COBRA THE ANIMATION: The Psycho-Gun","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4646.jpg","releaseInfo":"2008"},{"id":"anilist:8709","type":"series","name":"Pikachu Koori no Daibouken","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8709-kGoA3daEboUO.png","releaseInfo":"2008"},{"id":"anilist:4209","type":"series","name":"MISSION-E","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4209.jpg","releaseInfo":"2008"},{"id":"anilist:6312","type":"series","name":"Taiho Shichauzo: Full Throttle Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6312.jpg","releaseInfo":"2008"},{"id":"anilist:6809","type":"series","name":"Toshi Densetsu Monogatari Hikiko","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6809.jpg","releaseInfo":"2008"},{"id":"anilist:5304","type":"series","name":"Maison de Castle","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5304.jpg","releaseInfo":"2008"},{"id":"anilist:5056","type":"series","name":"Penguin Musume♥Heart Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5056-C0EfYFScYDpa.png","releaseInfo":"2008"},{"id":"anilist:5164","type":"series","name":"ALL THAT VF: Macross 25th Anniversary Air Show - Ver.ZERO","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5164.jpg","releaseInfo":"2008"},{"id":"anilist:5165","type":"series","name":"ALL THAT VF: Macross 25th Anniversary Air Show - Version F","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5165.jpg","releaseInfo":"2008"},{"id":"anilist:4685","type":"series","name":"Takane's Bicycle","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4685-MhLgd0O2TNJG.jpg","releaseInfo":"2008"},{"id":"anilist:6000","type":"series","name":"Haruwo","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6000.jpg","releaseInfo":"2008"},{"id":"anilist:5484","type":"series","name":"Wagaya no Oinari-sama. Specials","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5484.jpg","releaseInfo":"2008"},{"id":"anilist:108057","type":"series","name":"Ganbare Memeko-chan","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108057-PSSVm1TGmQhw.jpg","releaseInfo":"2008"},{"id":"anilist:4684","type":"series","name":"Scarecrowman","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4684-Jm2IyCBLgGH3.jpg","releaseInfo":"2008"},{"id":"anilist:5241","type":"series","name":"Mofu☆Mofu","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5241.jpg","releaseInfo":"2008"},{"id":"anilist:129045","type":"series","name":"Kiku-chan to Ookami","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129045-LX1NVOpggjyO.jpg","releaseInfo":"2008"},{"id":"anilist:5193","type":"series","name":"Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5193.jpg","releaseInfo":"2008"},{"id":"anilist:4547","type":"series","name":"RoboDz","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4547.jpg","releaseInfo":"2008"},{"id":"anilist:213635","type":"series","name":"Sanrio Character to Utaou: Tanoshii Douyou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213635-rC33aN3FbgwO.png","releaseInfo":"2008"},{"id":"anilist:213437","type":"series","name":"Choro-Q Deck System Q Fighters!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213437-oOK2T3cFcgMc.png","releaseInfo":"2008"},{"id":"anilist:4224","type":"series","name":"Toradora!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg","releaseInfo":"2008"},{"id":"anilist:4898","type":"series","name":"Black Butler","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4898-mW4gabZvwmLC.jpg","releaseInfo":"2008"},{"id":"anilist:4181","type":"series","name":"Clannad: After Story","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png","releaseInfo":"2008"},{"id":"anilist:4654","type":"series","name":"A Certain Magical Index","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4654-ba44icsxDQZd.jpg","releaseInfo":"2008"},{"id":"anilist:4214","type":"series","name":"Rosario + Vampire Capu2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4214.jpg","releaseInfo":"2008"},{"id":"anilist:4087","type":"series","name":"Michiko & Hatchin","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4087-TMc9A0GSKiJf.png","releaseInfo":"2008"},{"id":"anilist:5231","type":"series","name":"Inazuma Eleven","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5231-SuMNWJQQK8jl.png","releaseInfo":"2008"},{"id":"anilist:5040","type":"series","name":"One Outs","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5040-9ruuekq2LZKJ.png","releaseInfo":"2008"},{"id":"anilist:4752","type":"series","name":"Vampire Knight: Guilty","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4752-U4EZI6gwWsXX.jpg","releaseInfo":"2008"},{"id":"anilist:4975","type":"series","name":"ChäoS;HEAd","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4975-89ESCZZNG4yZ.jpg","releaseInfo":"2008"},{"id":"anilist:4725","type":"series","name":"Ga-Rei-Zero","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4725-LWoB14AbUyaA.jpg","releaseInfo":"2008"},{"id":"anilist:4722","type":"series","name":"Skip Beat!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4722-haxa25k1oSxU.png","releaseInfo":"2008"},{"id":"anilist:4981","type":"series","name":"Casshern Sins","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4981-V6MbMiJUqdvP.jpg","releaseInfo":"2008"},{"id":"anilist:4548","type":"series","name":"Yozakura Quartet","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4548-MscKClt97d7N.jpg","releaseInfo":"2008"},{"id":"anilist:3958","type":"series","name":"Kannagi: Crazy Shrine Maidens","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3958-SztG03yWCG5G.jpg","releaseInfo":"2008"},{"id":"anilist:4472","type":"series","name":"Lucky☆Star OVA","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4472-I4r5rkEdA6zK.png","releaseInfo":"2008"},{"id":"anilist:4789","type":"series","name":"ef ~ A Tale of Melodies","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4789-zpt5UsK70dJh.png","releaseInfo":"2008"},{"id":"anilist:3927","type":"series","name":"Mobile Suit Gundam 00 Second Season","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3927-PtFPKRrcDFeM.png","releaseInfo":"2008"},{"id":"anilist:4581","type":"series","name":"Corpse Princess: Aka","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4581-RT3vGrNYCVqY.jpg","releaseInfo":"2008"},{"id":"anilist:4814","type":"series","name":"Junjo Romantica 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4814-p0o6nYsrDA81.png","releaseInfo":"2008"},{"id":"anilist:4744","type":"series","name":"The Hill Dyed Rose Madder","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4744-ojHpFzrbKc3j.jpg","releaseInfo":"2008"},{"id":"anilist:4477","type":"series","name":"Nodame Cantabile: Paris-hen","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4477-Qg9EwJP1f5NF.jpg","releaseInfo":"2008"},{"id":"anilist:4884","type":"series","name":"Tales of the Abyss","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4884-RKYr7ktcToPE.jpg","releaseInfo":"2008"},{"id":"anilist:4551","type":"series","name":"Earl and Fairy","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4551-zfBV7wHjmviU.png","releaseInfo":"2008"},{"id":"anilist:3713","type":"series","name":"Hell Girl: Three Vessels","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3713.jpg","releaseInfo":"2008"},{"id":"anilist:5764","type":"series","name":"The Familiar of Zero: \"Rondo\" of Princesses - Seductive Beach","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5764.jpg","releaseInfo":"2008"},{"id":"anilist:5039","type":"series","name":"Kurozuka","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5039-F9HXvMsrQGP8.png","releaseInfo":"2008"},{"id":"anilist:5262","type":"series","name":"Shugo Chara!! Doki","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5262-QdR7ooiQfYLY.jpg","releaseInfo":"2008"},{"id":"anilist:4872","type":"series","name":"Goku Sayonara Zetsubou Sensei","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4872-4TEsaUG8uoYl.png","releaseInfo":"2008"},{"id":"anilist:4879","type":"series","name":"Mouryou no Hako","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4879-RghPtiuK2DHi.jpg","releaseInfo":"2008"},{"id":"anilist:5252","type":"series","name":"One Piece: Romance Dawn Story","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5252.jpg","releaseInfo":"2008"},{"id":"anilist:5152","type":"series","name":"Dragon Ball: Yo! Son Goku and His Friends Return!!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg","releaseInfo":"2008"},{"id":"anilist:5228","type":"series","name":"Initial D EXTRA STAGE 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5228.jpg","releaseInfo":"2008"},{"id":"anilist:4163","type":"series","name":"My Bride is a Mermaid OVA","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4163.jpg","releaseInfo":"2008"},{"id":"anilist:6489","type":"series","name":"Zero no Tsukaima: Princesses no Rondo Picture Drama","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6489.jpg","releaseInfo":"2008"},{"id":"anilist:4550","type":"series","name":"HYAKKO","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4550.jpg","releaseInfo":"2008"},{"id":"anilist:3464","type":"series","name":"Kemeko DX","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3464.jpg","releaseInfo":"2008"},{"id":"anilist:3653","type":"series","name":"Linebarrels of Iron","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3653-sG3ytahSdlyl.png","releaseInfo":"2008"},{"id":"anilist:4903","type":"series","name":"Kyou no Go no Ni (2008)","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4903-cmGls7HRpqVP.jpg","releaseInfo":"2008"},{"id":"anilist:3654","type":"series","name":"Macademi WAsshoi!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3654.jpg","releaseInfo":"2008"},{"id":"anilist:100719","type":"series","name":"BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100719-zujHjeEBqmo7.jpg","releaseInfo":"2008"},{"id":"anilist:5005","type":"series","name":"Tentai Senshi Sunred","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5005.jpg","releaseInfo":"2008"},{"id":"anilist:4765","type":"series","name":"Gunslinger Girl: Il Teatrino OVA","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4765-h3AwHcF2UEM7.png","releaseInfo":"2008"},{"id":"anilist:8422","type":"series","name":"Vampire Knight: Gekiai no Portrait","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8422.jpg","releaseInfo":"2008"},{"id":"anilist:3574","type":"series","name":"Switch","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3574-4q1dkH3Fra0U.png","releaseInfo":"2008"},{"id":"anilist:4715","type":"series","name":"Shigofumi: And Then...","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4715.jpg","releaseInfo":"2008"},{"id":"anilist:5020","type":"series","name":"Master of Martial Hearts","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5020-5oL8hMhdY7ER.jpg","releaseInfo":"2008"},{"id":"anilist:4232","type":"series","name":"Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4232.jpg","releaseInfo":"2008"},{"id":"anilist:4066","type":"series","name":"Tytania","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4066-4JZkk2H7zLC1.jpg","releaseInfo":"2008"},{"id":"anilist:5333","type":"series","name":"Ikkitousen: Great Guardians Battle Tour Club: Sexy Cosplay♥Kikenna Arubaito♥","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5333-7KI0MknKaXbA.jpg","releaseInfo":"2008"},{"id":"anilist:5583","type":"series","name":"Sonic: Night of the Werehog","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5583-T8aPlKeDc699.png","releaseInfo":"2008"},{"id":"anilist:21590","type":"series","name":"Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust VS Red Demon's","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21590-uBTVEwa90RIB.jpg","releaseInfo":"2008"},{"id":"anilist:5538","type":"series","name":"Letter Bee: Light and Blue Night Fantasy","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5538.jpg","releaseInfo":"2008"},{"id":"anilist:6783","type":"series","name":"ef ~ A Tale of Melodies - Recollections","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6783.jpg","releaseInfo":"2008"},{"id":"anilist:4549","type":"series","name":"Legends of the Dark King: A Fist of the North Star Story","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4549-KXWi6m6ZxZSV.jpg","releaseInfo":"2008"},{"id":"anilist:7041","type":"series","name":"My Bride is a Mermaid OVA Extras","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7041.jpg","releaseInfo":"2008"},{"id":"anilist:6567","type":"series","name":"Urusei Yatsura: The Obstacle Course Swim Meet","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6567.jpg","releaseInfo":"2008"},{"id":"anilist:5027","type":"series","name":"Stitch!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5027.jpg","releaseInfo":"2008"},{"id":"anilist:11687","type":"series","name":"Pussycat","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11687-1WMqmk5QQjkx.jpg","releaseInfo":"2008"},{"id":"anilist:5332","type":"series","name":"Library Wars: Romance Impairment","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5332-6tUeelQBMzO9.png","releaseInfo":"2008"},{"id":"anilist:5199","type":"series","name":"My Bride is a Mermaid Fan Disc","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5199.jpg","releaseInfo":"2008"},{"id":"anilist:10549","type":"series","name":"Precure All Stars GoGo Dream Live!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10549-vNRxRTUMgFac.jpg","releaseInfo":"2008"},{"id":"anilist:5351","type":"series","name":"Kidou Senshi Gundam 00: Tenshitachi no Kiseki","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5351.jpg","releaseInfo":"2008"},{"id":"anilist:5072","type":"series","name":"Dragonaut: The Resonance Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5072.jpg","releaseInfo":"2008"},{"id":"anilist:5045","type":"series","name":"Kamen no Maid Guy OVA","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5045.jpg","releaseInfo":"2008"},{"id":"anilist:4908","type":"series","name":"Bihada Ichizoku","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4908-UDoy8eGoUsCE.png","releaseInfo":"2008"},{"id":"anilist:5082","type":"series","name":"Battle Spirits: Shounen Toppa Bashin","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5082-TPZqtEmnSqSx.jpg","releaseInfo":"2008"},{"id":"anilist:8908","type":"series","name":"Tales of Symphonia The Animation: Kaettekita Kratos-sensei no Private Lesson","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8908.jpg","releaseInfo":"2008"},{"id":"anilist:5397","type":"series","name":"Usavich III","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5397.jpg","releaseInfo":"2008"},{"id":"anilist:5656","type":"series","name":"PuriGorota: Uchuu no Yuujou Daibouken","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5656.jpg","releaseInfo":"2008"},{"id":"anilist:6355","type":"series","name":"Marie & Gali Episode Zero","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6355.jpg","releaseInfo":"2008"},{"id":"anilist:4961","type":"series","name":"Mushrambo (2008)","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4961-uO2othRXo6Fk.jpg","releaseInfo":"2008"},{"id":"anilist:16415","type":"series","name":"Genesis of Aquarion Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16415.jpg","releaseInfo":"2008"},{"id":"anilist:5235","type":"series","name":"Live On CARDLIVER Kakeru","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5235.jpg","releaseInfo":"2008"},{"id":"anilist:6878","type":"series","name":"Usavich Special","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6878.jpg","releaseInfo":"2008"},{"id":"anilist:119835","type":"series","name":"Master of Martial Hearts Picture Drama","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119835-g5IFZgKHJoqm.jpg","releaseInfo":"2008"},{"id":"anilist:12689","type":"series","name":"Kiss Dum R: Meguriahi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12689.jpg","releaseInfo":"2008"},{"id":"anilist:11729","type":"series","name":"Space Neko Theater","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11729.jpg","releaseInfo":"2008"},{"id":"anilist:8968","type":"series","name":"Shogi Hour","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8968.jpg","releaseInfo":"2008"},{"id":"anilist:4905","type":"series","name":"Mach Girl","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4905.jpg","releaseInfo":"2008"},{"id":"anilist:5322","type":"series","name":"Mugen Kouro","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5322.jpg","releaseInfo":"2008"},{"id":"anilist:6297","type":"series","name":"Kamen Rider Den-O: Imagin Anime 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6297.jpg","releaseInfo":"2008"},{"id":"anilist:5234","type":"series","name":"Zettai Yareru Girisha Shinwa","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5234-l6pILlHX5D1z.jpg","releaseInfo":"2008"},{"id":"anilist:5089","type":"series","name":"Noramimi 2","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5089.jpg","releaseInfo":"2008"},{"id":"anilist:5184","type":"series","name":"Negibouzu no Asatarou","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5184.jpg","releaseInfo":"2008"},{"id":"anilist:119772","type":"series","name":"Ocha-ken: Ryokutto Monogatari","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119772-JskFLLWwVB56.jpg","releaseInfo":"2008"},{"id":"anilist:19501","type":"series","name":"Giga Tribe","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19501.jpg","releaseInfo":"2008"},{"id":"anilist:145784","type":"series","name":"Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Mezase! Kameari Superstar!! - Ryoutsu-shiki Idol e no Michi!","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145784-n5X1JbGfsM79.png","releaseInfo":"2008"},{"id":"anilist:124438","type":"series","name":"Net Miracle Shopping","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124438-D7YDLJAi4S19.jpg","releaseInfo":"2008"},{"id":"anilist:124437","type":"series","name":"Akarui Sekai","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124437-l1OYPbsgToFC.jpg","releaseInfo":"2008"}]}
+{
+  "metas": [
+    {
+      "id": "anilist:2966",
+      "type": "series",
+      "name": "Spice and Wolf",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2966-AEULMyYA9WKb.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:2993",
+      "type": "series",
+      "name": "Rosario + Vampire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2993.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:2129",
+      "type": "series",
+      "name": "True Tears",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2129-5TX1vWYYe2MT.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3901",
+      "type": "series",
+      "name": "Baccano! Bangai-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3901-uUj3GeGsebmj.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3342",
+      "type": "series",
+      "name": "RIN ~Daughters of Mnemosyne~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3342-py3qPHF7NK3c.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3297",
+      "type": "series",
+      "name": "ARIA The ORIGINATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3297-FHuyO7uiefNg.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3228",
+      "type": "series",
+      "name": "Zoku Sayonara, Zetsubou-Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3228-1HZ2FA34oKAM.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3420",
+      "type": "series",
+      "name": "Shigofumi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3420-ZHbQqYUJCcUn.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3229",
+      "type": "series",
+      "name": "Kimi ga Aruji de Shitsuji ga Ore de",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3229-patebR065mMD.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3366",
+      "type": "series",
+      "name": "Persona -trinity soul-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3366.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3299",
+      "type": "series",
+      "name": "H2O: Footprints in the Sand",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3299-E3PTKYMS6DnB.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3231",
+      "type": "series",
+      "name": "Gunslinger Girl -Il Teatrino-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3231-MP0WwB4XBx6u.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3225",
+      "type": "series",
+      "name": "Minami-ke: Okawari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3225-o0alpa3uDh0S.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3226",
+      "type": "series",
+      "name": "Major S4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3226-fMXH8ydO3BmF.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3759",
+      "type": "series",
+      "name": "School Days: Valentine Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3759.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4134",
+      "type": "series",
+      "name": "Naruto Shippuden: Konoha Gakuen - Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4134.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3375",
+      "type": "series",
+      "name": "Kirepapa.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3375.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3956",
+      "type": "series",
+      "name": "Shakugan no Shana II (Second) Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3956.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3965",
+      "type": "series",
+      "name": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3965.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3298",
+      "type": "series",
+      "name": "Hatenkou Yugi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3298.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3692",
+      "type": "series",
+      "name": "Yes! Precure 5 GoGo!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3692-hNjdstSK2qMF.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3389",
+      "type": "series",
+      "name": "BUS GAMER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3389.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5725",
+      "type": "series",
+      "name": "Dinosaur King Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5725-i8OOHFuaMisS.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3710",
+      "type": "series",
+      "name": "Graveyard Kitaro",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3710-TGAjCIMRcQKT.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3674",
+      "type": "series",
+      "name": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3674-M61nw5jhN016.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3887",
+      "type": "series",
+      "name": "Big Windup!: The Basics of Basics",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3887-kfIgQKaJQUXC.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4033",
+      "type": "series",
+      "name": "The Idolm@ster: Live for You!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4033.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3011",
+      "type": "series",
+      "name": "Yotsunoha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3011.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3268",
+      "type": "series",
+      "name": "My-Otome 0: S.ifr",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3268.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4082",
+      "type": "series",
+      "name": "Princess Resurrection Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4082.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4650",
+      "type": "series",
+      "name": "Outlaw Star Pilot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4650.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:14957",
+      "type": "series",
+      "name": "Shakugan no  SHANA: Naze Nani Shana 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14957.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3417",
+      "type": "series",
+      "name": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3417.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:4078",
+      "type": "series",
+      "name": "Kyou no Go no Ni Kagai Jugyou: Mizukake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4078.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3424",
+      "type": "series",
+      "name": "The Orphans of Simitra",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3424.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3295",
+      "type": "series",
+      "name": "Yatterman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3295-NmY28wKQFvS1.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:7882",
+      "type": "series",
+      "name": "Ramen Tenshi Pretty Menma",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7882.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3501",
+      "type": "series",
+      "name": "Sisters of Wellber Zwei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3501.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:7083",
+      "type": "series",
+      "name": "Hakushaku to Yousei Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7083.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:20528",
+      "type": "series",
+      "name": "Sketchbook ~full color's~ Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20528.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4202",
+      "type": "series",
+      "name": "Mokke Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4202.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3573",
+      "type": "series",
+      "name": "Moegaku★5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3573-UqXvD9VgwVGQ.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8936",
+      "type": "series",
+      "name": "Melody",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8936.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3704",
+      "type": "series",
+      "name": "Zenryoku Usagi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3704.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3514",
+      "type": "series",
+      "name": "Noramimi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3514.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:130247",
+      "type": "series",
+      "name": "Bamboo Blade: CM Fanfu-Fufe-Fo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130247-sJww6JfRBUkG.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3500",
+      "type": "series",
+      "name": "Yume Miru, Anime on-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3500.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:7803",
+      "type": "series",
+      "name": "Challenge 1-nensei de Kakkoii 1-nensei ni Henshin!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7803.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:17004",
+      "type": "series",
+      "name": "Sore Ike! Anpanman: Frankenrobo-kun no Bikkuri Christmas",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17004.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:169828",
+      "type": "series",
+      "name": "Cinnamon no Genki ni o Dekake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169828-0xBT9xk293RK.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:169887",
+      "type": "series",
+      "name": "Cinnamon no Minna Tomodachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169887-qI8dz5NbYDwI.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:121072",
+      "type": "series",
+      "name": "Tatakae! Dokan-kun: Gekitou-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121072-afY4xTIAap3C.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3588",
+      "type": "series",
+      "name": "Soul Eater",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3588-fSMggQoFSbUI.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:2904",
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion R2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3455",
+      "type": "series",
+      "name": "To Love Ru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3455-oNiJmsZZTAAj.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3457",
+      "type": "series",
+      "name": "Vampire Knight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3457-owSEHJYvflx5.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3470",
+      "type": "series",
+      "name": "S.A: Special A",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3470-L3BUDBujYi7G.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3701",
+      "type": "series",
+      "name": "Kaiba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3701-ooD3N9dD2rqa.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3503",
+      "type": "series",
+      "name": "Kanokon: The Girl Who Cried Fox",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3503.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3731",
+      "type": "series",
+      "name": "ItaKiss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3731-aCN5LnCn08qm.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3092",
+      "type": "series",
+      "name": "Junjo Romantica",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3092-HjwfgrWFiUlu.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3972",
+      "type": "series",
+      "name": "Yu-Gi-Oh! 5D's",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3972-bSmlWKXrVvDv.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4182",
+      "type": "series",
+      "name": "Darker than Black: Beneath Cherry Blossoms in Full Bloom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4182-Sj5g5kz2WPuT.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3572",
+      "type": "series",
+      "name": "Macross Frontier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3572-qYJhokKdsnZR.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3655",
+      "type": "series",
+      "name": "Nabari no Ou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3655-ZoJpTjrNaYa5.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3091",
+      "type": "series",
+      "name": "xxxHOLiC◆Kei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3091-97Yr9KdWI3Ou.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3230",
+      "type": "series",
+      "name": "Tower of Druaga: The Aegis of Uruk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3230-Dd9HXot3osii.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3358",
+      "type": "series",
+      "name": "Kurenai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3358-Pvigwmxm5sBV.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4535",
+      "type": "series",
+      "name": "Candy☆Boy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4535-5BgYPK9MfJaR.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3613",
+      "type": "series",
+      "name": "Library War",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3613-b066tE3vNUAQ.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3407",
+      "type": "series",
+      "name": "Blassreiter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3407-y7VtUyaY6PlG.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3841",
+      "type": "series",
+      "name": "Chi's Sweet Home",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3841-PSDYqPPpBVBC.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4038",
+      "type": "series",
+      "name": "Psychic Squad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4038-V0dciw1wKPkP.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4039",
+      "type": "series",
+      "name": "Golgo 13 (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4039-oClm06wOAmog.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3323",
+      "type": "series",
+      "name": "Kite Liberator",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3323-uFCuwJI5Lym3.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3328",
+      "type": "series",
+      "name": "School Days: Magical Heart☆Kokoro-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3328-UwxAv4wq5o08.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3515",
+      "type": "series",
+      "name": "Saint Seiya: The Hades Chapter - Elysion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3515-g6kdTI901fhw.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:21687",
+      "type": "series",
+      "name": "Soul Eater Late Show",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3549",
+      "type": "series",
+      "name": "Allison & Lillia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3549-rPLyNXaQ5T4M.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3656",
+      "type": "series",
+      "name": "Monochrome Factor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3656-RtFbmfXPPxQY.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3363",
+      "type": "series",
+      "name": "RD Sennou Chousashitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3363-PvwVmOrXVHuV.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3673",
+      "type": "series",
+      "name": "The Daughter of 20 Faces",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3673-Fos7rHpTdnnf.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3359",
+      "type": "series",
+      "name": "Amatsuki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3359-OOtP9boQF7IE.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3616",
+      "type": "series",
+      "name": "Kamen no Maid Guy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3616-KRPpU5y0Hhzz.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4053",
+      "type": "series",
+      "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen Final",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4053-vybch1WZxfMp.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3577",
+      "type": "series",
+      "name": "Kyouran Kazoku Nikki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3577-NcHhhGJk3kcz.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3627",
+      "type": "series",
+      "name": "D.C.II S.S.: Da Capo II Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3627-wbFO19SGqK9e.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3322",
+      "type": "series",
+      "name": "Our Home's Fox Deity",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3322-qsfwuOTyXuJk.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4080",
+      "type": "series",
+      "name": "Kyo Kara Maoh! Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4080-TcGSCwBQIN1q.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3615",
+      "type": "series",
+      "name": "Neo Angelique Abyss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3615.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3859",
+      "type": "series",
+      "name": "Himitsu: Top Secret - The Revelation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3859-vVJrx02pHzHm.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6401",
+      "type": "series",
+      "name": "ef: a tale of melodies. - prologue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6401.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4136",
+      "type": "series",
+      "name": "Penguin Musume♥Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4136-LSUZuEORSbpY.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4197",
+      "type": "series",
+      "name": "Blue Dragon: The Seven Dragons of the Heavens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4197.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5196",
+      "type": "series",
+      "name": "ARIA The ORIGINATION Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5196-r6nL4W4aPMfG.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3354",
+      "type": "series",
+      "name": "Zombie-Loan Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3354.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4362",
+      "type": "series",
+      "name": "Fireball",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4362-FQXr9Ds459IK.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4320",
+      "type": "series",
+      "name": "Lupin the 3rd: Green vs Red",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4320-rSyB0AEmArwt.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3840",
+      "type": "series",
+      "name": "Glass Maiden",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3840.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5348",
+      "type": "series",
+      "name": "Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5348-tE3vO3tcPVcR.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6234",
+      "type": "series",
+      "name": "true tears: Mini Chara 4-koma Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6234-0k6ZLKKqkYrO.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4798",
+      "type": "series",
+      "name": "Tower of Druaga: The Aegis of Uruk - Jil's Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4798.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:10810",
+      "type": "series",
+      "name": "Pucca 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10810-XdKgqwcnaeQj.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4312",
+      "type": "series",
+      "name": "Fist of the North Star: The Legend of the True Savior: Legend of Toki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4312-euyz3xGqJsxV.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4469",
+      "type": "series",
+      "name": ".hack//G.U. Trilogy: Parody Mode",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4469.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4166",
+      "type": "series",
+      "name": "ToHeart2ad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4166-TtCU6kT3aXVa.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3641",
+      "type": "series",
+      "name": "Naisho no Tsubomi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3641.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3390",
+      "type": "series",
+      "name": "Hoshi no Umi no Amuri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3390.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4173",
+      "type": "series",
+      "name": "Shigofumi Picture Dramas",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4173.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5938",
+      "type": "series",
+      "name": "Onegai My Melody Kirara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5938.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:10048",
+      "type": "series",
+      "name": "Fuyu no Semi: Tokubetsu Henshuu-ban",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10048.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4056",
+      "type": "series",
+      "name": "Gag Manga Biyori S3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4056.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4213",
+      "type": "series",
+      "name": "Final Examination Kujira Progressive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4213.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4939",
+      "type": "series",
+      "name": "Macross fufonfia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4939.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4051",
+      "type": "series",
+      "name": "Web Ghosts PiPoPa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4187",
+      "type": "series",
+      "name": "Megumi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4187.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:10527",
+      "type": "series",
+      "name": "Duel Masters Cross",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10527-BuhRs587qQ8E.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5854",
+      "type": "series",
+      "name": "Legend of the Condor Hero III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5854.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4383",
+      "type": "series",
+      "name": "Catman Series III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4383.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:11281",
+      "type": "series",
+      "name": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11281.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3923",
+      "type": "series",
+      "name": "Kamen Rider Den-O: Imagin Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3923.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6482",
+      "type": "series",
+      "name": "Sugar Bunnies Chocolate!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6482.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:13177",
+      "type": "series",
+      "name": "Little Charo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13177.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3975",
+      "type": "series",
+      "name": "Uchi no 3 Shimai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3975-qxG09nQwVawv.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129868",
+      "type": "series",
+      "name": "Bamboo Blade: Fanfu-Fufe-Fo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129868-kbb3yuSuhisy.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8921",
+      "type": "series",
+      "name": "Believe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8921.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:18937",
+      "type": "series",
+      "name": "Hakken Taiken Daisuki! Shimajirou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18937.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4331",
+      "type": "series",
+      "name": "Penguin no Mondai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4331.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8304",
+      "type": "series",
+      "name": "Koutetsu Sangokushi Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8304.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5693",
+      "type": "series",
+      "name": "Shinran-sama: Negai, Soshite Hikari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5693.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:145783",
+      "type": "series",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145783-ByGMskbtb04x.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3973",
+      "type": "series",
+      "name": "Ikuze! Gen-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3973.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:10706",
+      "type": "series",
+      "name": "Yasai no Yousei: N.Y.SALAD 2nd Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10706.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4417",
+      "type": "series",
+      "name": "Hennako-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4417.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:17471",
+      "type": "series",
+      "name": "Yanase Takashi Märchen Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17471.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:185887",
+      "type": "series",
+      "name": "Yatterman Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185887-w2aFKiT9cbUu.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:121074",
+      "type": "series",
+      "name": "Tatakae! Dokan-kun: Robolympic-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121074-hqaNXTwXjLSI.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:116048",
+      "type": "series",
+      "name": "Nanami-chan 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116048-cM4QOqWmcFQh.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4081",
+      "type": "series",
+      "name": "Natsume's Book of Friends Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-xi08naD69tjr.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3712",
+      "type": "series",
+      "name": "The Familiar of Zero: \"Rondo\" of Princesses",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3712-zt0ac4fjixWl.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4063",
+      "type": "series",
+      "name": "Sekirei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4063-ZP7agutiaOCf.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4059",
+      "type": "series",
+      "name": "Clannad: Another World, Tomoyo Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4059-mrA0Wky7bTgz.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3667",
+      "type": "series",
+      "name": "Strike Witches",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3667-9ftVhhCHTRLs.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3167",
+      "type": "series",
+      "name": "Time of Eve",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3167-IBEzQTk9wvbr.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3702",
+      "type": "series",
+      "name": "Detroit Metal City",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3702-TCo0UYxWQzYj.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4177",
+      "type": "series",
+      "name": "Xam'd: Lost Memories",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4177-olqlJzn1DNN0.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3974",
+      "type": "series",
+      "name": "Birdy the Mighty: Decode",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3974-Gb9WK53nSsPz.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3467",
+      "type": "series",
+      "name": "Haruka Nogizaka's Secret",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3467-gOLRgPv8F2BT.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4151",
+      "type": "series",
+      "name": "Blade of the Immortal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4151-7kcnkt5iisJX.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4196",
+      "type": "series",
+      "name": "Ikki Tousen: Great Guardians",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4196-plcopaKXIbCS.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4015",
+      "type": "series",
+      "name": "School Rumble Third Term",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4015-hYmGm0Dv4jPx.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3604",
+      "type": "series",
+      "name": "Hidamari Sketch x 365",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3604-kQzUwfzAcgTF.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4262",
+      "type": "series",
+      "name": "Koihime†Musou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4262-O8yfbzjIef0a.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4415",
+      "type": "series",
+      "name": "Sands of Destruction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4415-wZ9dnrUApHRw.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5163",
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4772",
+      "type": "series",
+      "name": "ARIA The ORIGINATION: That Little Secret Place...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4772-ybpWwYAbFfVo.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4760",
+      "type": "series",
+      "name": "Kanokon Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4760.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4021",
+      "type": "series",
+      "name": "Antique Bakery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4021-wDG34KiOIegl.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4028",
+      "type": "series",
+      "name": "The Slayers Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4028-M65wEjtfP8rO.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4094",
+      "type": "series",
+      "name": "Batman: Gotham Knight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4094-GXGa8ylDY2gv.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4188",
+      "type": "series",
+      "name": "Mahou Sensei Negima! Shiroki Tsubasa ALA ALBA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4188-Iv82sjbW5V9M.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4483",
+      "type": "series",
+      "name": "Someday's Dreamers II Sora",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4483-TFQXbx7NmL0C.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5116",
+      "type": "series",
+      "name": "Candy☆Boy EX01 - Forecast of the Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5116.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4886",
+      "type": "series",
+      "name": "Inuyasha: Kuroi Tessaiga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4886-xzcW3fD6rmoK.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5065",
+      "type": "series",
+      "name": "Detroit Metal City: Birth of the Metal Devil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5065.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3614",
+      "type": "series",
+      "name": "Ryoko's Case File",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3614-W6pFCNZcXiFX.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:9591",
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5493",
+      "type": "series",
+      "name": "Ranma 1/2: Akumu! Shunmin Kou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5493-qsjGrDAxI11R.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5080",
+      "type": "series",
+      "name": "Quiz Magic Academy: The Original Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5080.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4662",
+      "type": "series",
+      "name": "Neo Angelique Abyss: Second Age",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4662.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4205",
+      "type": "series",
+      "name": "Kimikiss pure rouge Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4205.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8317",
+      "type": "series",
+      "name": "Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8317-K72865KpOjQC.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3962",
+      "type": "series",
+      "name": "Chocolate Underground",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3962.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3668",
+      "type": "series",
+      "name": "Telepathy Shoujo Ran",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3668.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4264",
+      "type": "series",
+      "name": "Ultraviolet: Code 044",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4264-5jdwiLMET49D.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6566",
+      "type": "series",
+      "name": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6566-2vCBGgyUl4CS.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3805",
+      "type": "series",
+      "name": "Kaitou Tenshi Twin Angel (OVA)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3805.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5019",
+      "type": "series",
+      "name": "Lupin the 3rd: Sweet Lost Night",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5019-4BC3MrSgmvqn.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4646",
+      "type": "series",
+      "name": "COBRA THE ANIMATION: The Psycho-Gun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4646.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8709",
+      "type": "series",
+      "name": "Pikachu Koori no Daibouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8709-kGoA3daEboUO.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4209",
+      "type": "series",
+      "name": "MISSION-E",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4209.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6312",
+      "type": "series",
+      "name": "Taiho Shichauzo: Full Throttle Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6312.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6809",
+      "type": "series",
+      "name": "Toshi Densetsu Monogatari Hikiko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6809.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5304",
+      "type": "series",
+      "name": "Maison de Castle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5304.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5056",
+      "type": "series",
+      "name": "Penguin Musume♥Heart Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5056-C0EfYFScYDpa.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5164",
+      "type": "series",
+      "name": "ALL THAT VF: Macross 25th Anniversary Air Show - Ver.ZERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5164.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5165",
+      "type": "series",
+      "name": "ALL THAT VF: Macross 25th Anniversary Air Show - Version F",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5165.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4685",
+      "type": "series",
+      "name": "Takane's Bicycle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4685-MhLgd0O2TNJG.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6000",
+      "type": "series",
+      "name": "Haruwo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6000.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5484",
+      "type": "series",
+      "name": "Wagaya no Oinari-sama. Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5484.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:108057",
+      "type": "series",
+      "name": "Ganbare Memeko-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108057-PSSVm1TGmQhw.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4684",
+      "type": "series",
+      "name": "Scarecrowman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4684-Jm2IyCBLgGH3.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5241",
+      "type": "series",
+      "name": "Mofu☆Mofu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5241.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129045",
+      "type": "series",
+      "name": "Kiku-chan to Ookami",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129045-LX1NVOpggjyO.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5193",
+      "type": "series",
+      "name": "Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5193.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4547",
+      "type": "series",
+      "name": "RoboDz",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4547.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:213635",
+      "type": "series",
+      "name": "Sanrio Character to Utaou: Tanoshii Douyou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213635-rC33aN3FbgwO.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:213437",
+      "type": "series",
+      "name": "Choro-Q Deck System Q Fighters!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213437-oOK2T3cFcgMc.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4224",
+      "type": "series",
+      "name": "Toradora!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4898",
+      "type": "series",
+      "name": "Black Butler",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4898-mW4gabZvwmLC.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4181",
+      "type": "series",
+      "name": "Clannad: After Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-zUKE7BZC62OF.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4654",
+      "type": "series",
+      "name": "A Certain Magical Index",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4654-ba44icsxDQZd.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4214",
+      "type": "series",
+      "name": "Rosario + Vampire Capu2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4214.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4087",
+      "type": "series",
+      "name": "Michiko & Hatchin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4087-TMc9A0GSKiJf.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5231",
+      "type": "series",
+      "name": "Inazuma Eleven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5231-SuMNWJQQK8jl.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5040",
+      "type": "series",
+      "name": "One Outs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5040-9ruuekq2LZKJ.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4752",
+      "type": "series",
+      "name": "Vampire Knight: Guilty",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4752-U4EZI6gwWsXX.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4975",
+      "type": "series",
+      "name": "ChäoS;HEAd",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4975-89ESCZZNG4yZ.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4725",
+      "type": "series",
+      "name": "Ga-Rei-Zero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4725-LWoB14AbUyaA.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4722",
+      "type": "series",
+      "name": "Skip Beat!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4722-haxa25k1oSxU.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4981",
+      "type": "series",
+      "name": "Casshern Sins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4981-V6MbMiJUqdvP.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4548",
+      "type": "series",
+      "name": "Yozakura Quartet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4548-MscKClt97d7N.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3958",
+      "type": "series",
+      "name": "Kannagi: Crazy Shrine Maidens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3958-SztG03yWCG5G.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4472",
+      "type": "series",
+      "name": "Lucky☆Star OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4472-I4r5rkEdA6zK.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4789",
+      "type": "series",
+      "name": "ef ~ A Tale of Melodies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4789-zpt5UsK70dJh.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3927",
+      "type": "series",
+      "name": "Mobile Suit Gundam 00 Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3927-PtFPKRrcDFeM.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4581",
+      "type": "series",
+      "name": "Corpse Princess: Aka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4581-RT3vGrNYCVqY.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4814",
+      "type": "series",
+      "name": "Junjo Romantica 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4814-p0o6nYsrDA81.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4744",
+      "type": "series",
+      "name": "The Hill Dyed Rose Madder",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4744-ojHpFzrbKc3j.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4477",
+      "type": "series",
+      "name": "Nodame Cantabile: Paris-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4477-Qg9EwJP1f5NF.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4884",
+      "type": "series",
+      "name": "Tales of the Abyss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4884-RKYr7ktcToPE.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4551",
+      "type": "series",
+      "name": "Earl and Fairy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4551-zfBV7wHjmviU.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3713",
+      "type": "series",
+      "name": "Hell Girl: Three Vessels",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3713.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5764",
+      "type": "series",
+      "name": "The Familiar of Zero: \"Rondo\" of Princesses - Seductive Beach",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5764.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5039",
+      "type": "series",
+      "name": "Kurozuka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5039-F9HXvMsrQGP8.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5262",
+      "type": "series",
+      "name": "Shugo Chara!! Doki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5262-QdR7ooiQfYLY.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4872",
+      "type": "series",
+      "name": "Goku Sayonara Zetsubou Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4872-4TEsaUG8uoYl.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4879",
+      "type": "series",
+      "name": "Mouryou no Hako",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4879-RghPtiuK2DHi.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5252",
+      "type": "series",
+      "name": "One Piece: Romance Dawn Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5252.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5152",
+      "type": "series",
+      "name": "Dragon Ball: Yo! Son Goku and His Friends Return!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5152-tcimIQ3XcuPf.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5228",
+      "type": "series",
+      "name": "Initial D EXTRA STAGE 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5228.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4163",
+      "type": "series",
+      "name": "My Bride is a Mermaid OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4163.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6489",
+      "type": "series",
+      "name": "Zero no Tsukaima: Princesses no Rondo Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6489.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4550",
+      "type": "series",
+      "name": "HYAKKO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4550.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3464",
+      "type": "series",
+      "name": "Kemeko DX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3464.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3653",
+      "type": "series",
+      "name": "Linebarrels of Iron",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3653-sG3ytahSdlyl.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4903",
+      "type": "series",
+      "name": "Kyou no Go no Ni (2008)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4903-cmGls7HRpqVP.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3654",
+      "type": "series",
+      "name": "Macademi WAsshoi!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3654.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:100719",
+      "type": "series",
+      "name": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100719-zujHjeEBqmo7.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5005",
+      "type": "series",
+      "name": "Tentai Senshi Sunred",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5005.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4765",
+      "type": "series",
+      "name": "Gunslinger Girl: Il Teatrino OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4765-h3AwHcF2UEM7.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8422",
+      "type": "series",
+      "name": "Vampire Knight: Gekiai no Portrait",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8422.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:3574",
+      "type": "series",
+      "name": "Switch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3574-4q1dkH3Fra0U.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4715",
+      "type": "series",
+      "name": "Shigofumi: And Then...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4715.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5020",
+      "type": "series",
+      "name": "Master of Martial Hearts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5020-5oL8hMhdY7ER.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4232",
+      "type": "series",
+      "name": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4232.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4066",
+      "type": "series",
+      "name": "Tytania",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4066-4JZkk2H7zLC1.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5333",
+      "type": "series",
+      "name": "Ikkitousen: Great Guardians Battle Tour Club: Sexy Cosplay♥Kikenna Arubaito♥",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5333-7KI0MknKaXbA.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5583",
+      "type": "series",
+      "name": "Sonic: Night of the Werehog",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5583-T8aPlKeDc699.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:21590",
+      "type": "series",
+      "name": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust VS Red Demon's",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21590-uBTVEwa90RIB.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5538",
+      "type": "series",
+      "name": "Letter Bee: Light and Blue Night Fantasy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5538.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6783",
+      "type": "series",
+      "name": "ef ~ A Tale of Melodies - Recollections",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6783.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4549",
+      "type": "series",
+      "name": "Legends of the Dark King: A Fist of the North Star Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4549-KXWi6m6ZxZSV.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:7041",
+      "type": "series",
+      "name": "My Bride is a Mermaid OVA Extras",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7041.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6567",
+      "type": "series",
+      "name": "Urusei Yatsura: The Obstacle Course Swim Meet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6567.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5027",
+      "type": "series",
+      "name": "Stitch!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5027.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:11687",
+      "type": "series",
+      "name": "Pussycat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11687-1WMqmk5QQjkx.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5332",
+      "type": "series",
+      "name": "Library Wars: Romance Impairment",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5332-6tUeelQBMzO9.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5199",
+      "type": "series",
+      "name": "My Bride is a Mermaid Fan Disc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5199.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:10549",
+      "type": "series",
+      "name": "Precure All Stars GoGo Dream Live!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10549-vNRxRTUMgFac.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5351",
+      "type": "series",
+      "name": "Kidou Senshi Gundam 00: Tenshitachi no Kiseki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5351.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5072",
+      "type": "series",
+      "name": "Dragonaut: The Resonance Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5072.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5045",
+      "type": "series",
+      "name": "Kamen no Maid Guy OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5045.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4908",
+      "type": "series",
+      "name": "Bihada Ichizoku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4908-UDoy8eGoUsCE.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5082",
+      "type": "series",
+      "name": "Battle Spirits: Shounen Toppa Bashin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5082-TPZqtEmnSqSx.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8908",
+      "type": "series",
+      "name": "Tales of Symphonia The Animation: Kaettekita Kratos-sensei no Private Lesson",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8908.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5397",
+      "type": "series",
+      "name": "Usavich III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5397.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5656",
+      "type": "series",
+      "name": "PuriGorota: Uchuu no Yuujou Daibouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5656.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6355",
+      "type": "series",
+      "name": "Marie & Gali Episode Zero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6355.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4961",
+      "type": "series",
+      "name": "Mushrambo (2008)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4961-uO2othRXo6Fk.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:16415",
+      "type": "series",
+      "name": "Genesis of Aquarion Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16415.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5235",
+      "type": "series",
+      "name": "Live On CARDLIVER Kakeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5235.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6878",
+      "type": "series",
+      "name": "Usavich Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6878.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:119835",
+      "type": "series",
+      "name": "Master of Martial Hearts Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119835-g5IFZgKHJoqm.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:12689",
+      "type": "series",
+      "name": "Kiss Dum R: Meguriahi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12689.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:11729",
+      "type": "series",
+      "name": "Space Neko Theater",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11729.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:8968",
+      "type": "series",
+      "name": "Shogi Hour",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8968.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4905",
+      "type": "series",
+      "name": "Mach Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4905.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5322",
+      "type": "series",
+      "name": "Mugen Kouro",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5322.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6297",
+      "type": "series",
+      "name": "Kamen Rider Den-O: Imagin Anime 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6297.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5234",
+      "type": "series",
+      "name": "Zettai Yareru Girisha Shinwa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5234-l6pILlHX5D1z.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5089",
+      "type": "series",
+      "name": "Noramimi 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5089.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:5184",
+      "type": "series",
+      "name": "Negibouzu no Asatarou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5184.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:119772",
+      "type": "series",
+      "name": "Ocha-ken: Ryokutto Monogatari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119772-JskFLLWwVB56.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:19501",
+      "type": "series",
+      "name": "Giga Tribe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19501.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:145784",
+      "type": "series",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Mezase! Kameari Superstar!! - Ryoutsu-shiki Idol e no Michi!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145784-n5X1JbGfsM79.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:124438",
+      "type": "series",
+      "name": "Net Miracle Shopping",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124438-D7YDLJAi4S19.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:124437",
+      "type": "series",
+      "name": "Akarui Sekai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124437-l1OYPbsgToFC.jpg",
+      "releaseInfo": "2008"
+    }
+  ]
+}

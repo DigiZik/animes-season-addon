@@ -38,7 +38,7 @@ export async function refreshCatalogs(root = process.cwd(), today = new Date(), 
     }
     // Finish all requested fetches before replacing any catalog sources.
     for (const entry of pending) {
-        const file = path.join(root, entry.file), body = JSON.stringify({ metas: entry.metas }) + "\n";
+        const file = path.join(root, entry.file), body = JSON.stringify({ metas: entry.metas }, null, 2) + "\n";
         let previous: string | undefined;
         try { previous = await fs.readFile(file, "utf8"); } catch (error) { if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error; }
         if (body !== previous) { await fs.mkdir(path.dirname(file), { recursive: true }); await fs.writeFile(file, body); }

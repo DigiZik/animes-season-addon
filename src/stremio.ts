@@ -12,7 +12,7 @@ export class Catalog {
     getMetas(): Meta[] { return this.metas; }
     async writeToFile() {
         for (const meta of this.metas) validateMeta(meta);
-        await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }) + "\n");
+        await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }, null, 2) + "\n");
     }
     async populate(year: number, season: Season, type: TitleType) {
         const metas: Meta[] = [], seen = new Set<string>();

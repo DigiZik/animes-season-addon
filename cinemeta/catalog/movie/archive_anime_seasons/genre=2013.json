@@ -1,1 +1,130 @@
-{"metas":[{"id":"tt2704454","type":"movie","name":"Little Witch Academia","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14349-zvSfbgjZr4LW.jpg","releaseInfo":"2013"},{"id":"tt3300814","type":"movie","name":"Dareka no Manazashi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17121-JEuXAtZkz9Nk.jpg","releaseInfo":"2013"},{"id":"tt6447408","type":"movie","name":"Precure All Stars New Stage 2: Kokoro no Tomodachi","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16442-lnTk6x4ovSuL.jpg","releaseInfo":"2013"},{"id":"tt2591814","type":"movie","name":"The Garden of Words","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16782-qpFGk18UqaHn.jpg","releaseInfo":"2013"},{"id":"tt2967286","type":"movie","name":"Steins;Gate The Movie – Load Region of Déjà Vu","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png","releaseInfo":"2013"},{"id":"tt2487126","type":"movie","name":"Aura","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14669-PIkxcol3IZiZ.jpg","releaseInfo":"2013"},{"id":"tt2573198","type":"movie","name":"Hal","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16528-OJw9bSijOh68.jpg","releaseInfo":"2013"},{"id":"tt2753048","type":"movie","name":"Kick-Heart","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16149-n8nzp5FIUEwG.jpg","releaseInfo":"2013"},{"id":"tt2506390","type":"movie","name":"Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18943-3GtM5PIAC1bA.jpg","releaseInfo":"2013"},{"id":"tt2013293","type":"movie","name":"The Wind Rises","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16662-HUI8irtoTdOJ.jpg","releaseInfo":"2013"},{"id":"tt2981768","type":"movie","name":"Patema Inverted","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12477-KtZm8BuvrPYo.jpg","releaseInfo":"2013"},{"id":"tt2576852","type":"movie","name":"The Tale of The Princess Kaguya","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16664-Wakrc8rbBkor.jpg","releaseInfo":"2013"},{"id":"tt3203996","type":"movie","name":"Love, Chunibyo & Other Delusions: Rikka Version","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19021-4Z0vCkzH3Vmb.jpg","releaseInfo":"2013"},{"id":"tt3306776","type":"movie","name":"Bayonetta: Bloody Fate","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20442-h9FYhs7SrKGj.jpg","releaseInfo":"2013"},{"id":"tt2668134","type":"movie","name":"Harlock: Space Pirate","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17269-PTlucMYOYZWn.jpg","releaseInfo":"2013"},{"id":"tt8454108","type":"movie","name":"Hinata no Aoshigure","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20471-jOnMB6MGPtvQ.jpg","releaseInfo":"2013"},{"id":"tt3755716","type":"movie","name":"Dokidoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17357-psOCHOOkScfh.png","releaseInfo":"2013"},{"id":"tt3091272","type":"movie","name":"The Fake","poster":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100931-zX8uxjCEfkZ6.jpg","releaseInfo":"2013"}]}
+{
+  "metas": [
+    {
+      "id": "tt2704454",
+      "type": "movie",
+      "name": "Little Witch Academia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14349-zvSfbgjZr4LW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3300814",
+      "type": "movie",
+      "name": "Dareka no Manazashi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17121-JEuXAtZkz9Nk.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt6447408",
+      "type": "movie",
+      "name": "Precure All Stars New Stage 2: Kokoro no Tomodachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16442-lnTk6x4ovSuL.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2591814",
+      "type": "movie",
+      "name": "The Garden of Words",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16782-qpFGk18UqaHn.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2967286",
+      "type": "movie",
+      "name": "Steins;Gate The Movie – Load Region of Déjà Vu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11577-rhqsxLOAge4f.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2487126",
+      "type": "movie",
+      "name": "Aura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14669-PIkxcol3IZiZ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2573198",
+      "type": "movie",
+      "name": "Hal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16528-OJw9bSijOh68.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2753048",
+      "type": "movie",
+      "name": "Kick-Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16149-n8nzp5FIUEwG.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2506390",
+      "type": "movie",
+      "name": "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18943-3GtM5PIAC1bA.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2013293",
+      "type": "movie",
+      "name": "The Wind Rises",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16662-HUI8irtoTdOJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2981768",
+      "type": "movie",
+      "name": "Patema Inverted",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12477-KtZm8BuvrPYo.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2576852",
+      "type": "movie",
+      "name": "The Tale of The Princess Kaguya",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16664-Wakrc8rbBkor.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3203996",
+      "type": "movie",
+      "name": "Love, Chunibyo & Other Delusions: Rikka Version",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19021-4Z0vCkzH3Vmb.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3306776",
+      "type": "movie",
+      "name": "Bayonetta: Bloody Fate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20442-h9FYhs7SrKGj.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2668134",
+      "type": "movie",
+      "name": "Harlock: Space Pirate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17269-PTlucMYOYZWn.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt8454108",
+      "type": "movie",
+      "name": "Hinata no Aoshigure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20471-jOnMB6MGPtvQ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3755716",
+      "type": "movie",
+      "name": "Dokidoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17357-psOCHOOkScfh.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt3091272",
+      "type": "movie",
+      "name": "The Fake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100931-zX8uxjCEfkZ6.jpg",
+      "releaseInfo": "2013"
+    }
+  ]
+}

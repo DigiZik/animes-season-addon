@@ -86,7 +86,7 @@ Both exports return up to **100 titles** per response. The AIOmetadata export su
 <details>
 <summary>How pagination works</summary>
 
-Catalog JSON is compact and unchanged export files are not rewritten. The builder checks exact file bytes against its size budget before generating pages.
+Repository catalog JSON is indented for readability; generated paginated responses stay compact. Unchanged source export files are not rewritten. The builder checks exact file bytes against its size budget before generating pages.
 
 The native export supports normal first pages, explicit `skip=0`, integer offsets and both `skip`/`genre` parameter orders. For `N` titles, offsets through `N + 99` include empty terminal responses for client steps up to 100. Cinemeta stops at the first empty multiple of 100. Unsupported filters or offsets beyond the generated range may return 404. Overlapping native responses are separate files because GitHub Pages serves static JSON.
 

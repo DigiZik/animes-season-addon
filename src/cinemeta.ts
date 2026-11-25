@@ -82,7 +82,7 @@ export async function exportCinemeta(root = process.cwd(), rows?: unknown) {
             metas.push({ ...meta, id });
             exportedEntries++;
         }
-        prepared.push({ relative: file.relative, body: JSON.stringify({ metas }) + "\n" });
+        prepared.push({ relative: file.relative, body: JSON.stringify({ metas }, null, 2) + "\n" });
     }
     if (inputEntries && !exportedEntries) throw new Error("IMDb conversion produced no titles; keeping previous Cinemeta catalogs.");
     const manifest = JSON.parse(await fs.readFile(path.join(root, "manifest.json"), "utf8"));
