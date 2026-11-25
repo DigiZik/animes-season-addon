@@ -8,6 +8,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:135865",
+      "type": "series",
+      "name": "Saga of Tanya the Evil Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:178789",
       "type": "series",
       "name": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -29,17 +36,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:135865",
+      "id": "anilist:196187",
       "type": "series",
-      "name": "Saga of Tanya the Evil Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:187538",
-      "type": "series",
-      "name": "BLACK TORCH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
+      "name": "Smoking Behind the Supermarket with You",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -50,38 +50,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:159309",
+      "id": "anilist:207141",
       "type": "series",
-      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:201514",
-      "type": "series",
-      "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196187",
-      "type": "series",
-      "name": "Smoking Behind the Supermarket with You",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:103303",
-      "type": "series",
-      "name": "Sparks of Tomorrow",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:185542",
-      "type": "series",
-      "name": "Skeleton Knight in Another World Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
+      "name": "Chainsmoker Cat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -92,20 +64,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:209983",
-      "type": "series",
-      "name": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199066",
-      "type": "series",
-      "name": "Hanaori-san Still Wants to Fight in the Next Life",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:202269",
       "type": "series",
       "name": "Love Unseen Beneath the Clear Night Sky",
@@ -113,10 +71,38 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:207141",
+      "id": "anilist:201514",
       "type": "series",
-      "name": "Chainsmoker Cat",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
+      "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:187538",
+      "type": "series",
+      "name": "BLACK TORCH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:185542",
+      "type": "series",
+      "name": "Skeleton Knight in Another World Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:103303",
+      "type": "series",
+      "name": "Sparks of Tomorrow",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:159309",
+      "type": "series",
+      "name": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -127,10 +113,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:190569",
+      "id": "anilist:209983",
       "type": "series",
-      "name": "Jaadugar: A Witch in Mongolia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg",
+      "name": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -141,59 +127,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:177637",
+      "id": "anilist:141953",
       "type": "series",
-      "name": "Goodbye, Lara",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-dZ8hF93HzstV.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196218",
-      "type": "series",
-      "name": "The Frontier Lord Begins with Zero Subjects",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:186863",
-      "type": "series",
-      "name": "The Cat and the Dragon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:207674",
-      "type": "series",
-      "name": "KAMUI ---He's behind you",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:198946",
-      "type": "series",
-      "name": "Clevatess Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:169583",
-      "type": "series",
-      "name": "Oh Boy, Was I Wrong About Her",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:200637",
-      "type": "series",
-      "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199748",
-      "type": "series",
-      "name": "I Became a Legend After My 10 Year-Long Last Stand",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
+      "name": "False Memory (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141953-S3RozQSOxzrw.png",
       "releaseInfo": "2026"
     },
     {
@@ -204,17 +141,31 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:182616",
+      "id": "anilist:199066",
       "type": "series",
-      "name": "The Elusive Samurai Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
+      "name": "Hanaori-san Still Wants to Fight in the Next Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:169582",
+      "id": "anilist:186863",
       "type": "series",
-      "name": "The Insipid Prince's Furtive Grab for the Throne",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png",
+      "name": "The Cat and the Dragon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186863-AO4efoB8HuzA.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:191832",
+      "type": "series",
+      "name": "Link Click Season 3 Part 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:194219",
+      "type": "series",
+      "name": "The Ogre's Bride",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -246,17 +197,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:177699",
+      "id": "anilist:169583",
       "type": "series",
-      "name": "THE GHOST IN THE SHELL",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-VHMezCGf48nM.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:194829",
-      "type": "series",
-      "name": "From Old Country Bumpkin to Master Swordsman II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg",
+      "name": "Oh Boy, Was I Wrong About Her",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -264,6 +208,83 @@
       "type": "series",
       "name": "KAIJU GIRL CARAMELISE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:199408",
+      "type": "series",
+      "name": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:198376",
+      "type": "series",
+      "name": "BanG Dream! YUME∞MITA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:187260",
+      "type": "series",
+      "name": "I Want to Love You Till Your Dying Day",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:198946",
+      "type": "series",
+      "name": "Clevatess Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:190569",
+      "type": "series",
+      "name": "Jaadugar: A Witch in Mongolia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:177637",
+      "type": "series",
+      "name": "Goodbye, Lara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-dZ8hF93HzstV.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:192800",
+      "type": "series",
+      "name": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:207674",
+      "type": "series",
+      "name": "KAMUI ---He's behind you",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:203880",
+      "type": "series",
+      "name": "Dara-san of the Reiwa Era",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:185692",
+      "type": "series",
+      "name": "Magilumiere Magical Girls Inc. Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:199748",
+      "type": "series",
+      "name": "I Became a Legend After My 10 Year-Long Last Stand",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
       "releaseInfo": "2026"
     },
     {
@@ -281,45 +302,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:194219",
+      "id": "anilist:182616",
       "type": "series",
-      "name": "The Ogre's Bride",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b194219-56EhyK775lga.jpg",
+      "name": "The Elusive Samurai Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:141953",
+      "id": "anilist:169582",
       "type": "series",
-      "name": "False Memory (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141953-S3RozQSOxzrw.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:191832",
-      "type": "series",
-      "name": "Link Click Season 3 Part 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199408",
-      "type": "series",
-      "name": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:192800",
-      "type": "series",
-      "name": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192800-r8zlO0VY0jJP.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:208225",
-      "type": "series",
-      "name": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg",
+      "name": "The Insipid Prince's Furtive Grab for the Throne",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169582-quL8VMg45fcu.png",
       "releaseInfo": "2026"
     },
     {
@@ -330,73 +323,31 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:204060",
-      "type": "series",
-      "name": "Iron Wok Jan!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-jUYBjnn6QsXx.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:187260",
-      "type": "series",
-      "name": "I Want to Love You Till Your Dying Day",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:198709",
-      "type": "series",
-      "name": "Victoria of Many Faces",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:203880",
-      "type": "series",
-      "name": "Dara-san of the Reiwa Era",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196356",
-      "type": "series",
-      "name": "My Stepmother and Stepsisters Aren’t Wicked",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196017",
-      "type": "series",
-      "name": "Grow Up Show",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:185692",
-      "type": "series",
-      "name": "Magilumiere Magical Girls Inc. Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:213665",
-      "type": "series",
-      "name": "Saved By the Ice Cold Prince's Embrace",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:206194",
-      "type": "series",
-      "name": "Slay The Gods 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206194-quTPPLcROFaF.png",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:199409",
       "type": "series",
       "name": "Yi Nian Yongheng 4",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:194829",
+      "type": "series",
+      "name": "From Old Country Bumpkin to Master Swordsman II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194829-bZKwhfo60EuF.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:200637",
+      "type": "series",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:196218",
+      "type": "series",
+      "name": "The Frontier Lord Begins with Zero Subjects",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -407,17 +358,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:185875",
+      "id": "anilist:196356",
       "type": "series",
-      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg",
+      "name": "My Stepmother and Stepsisters Aren’t Wicked",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:198376",
+      "id": "anilist:204060",
       "type": "series",
-      "name": "BanG Dream! YUME∞MITA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
+      "name": "Iron Wok Jan!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204060-jUYBjnn6QsXx.png",
       "releaseInfo": "2026"
     },
     {
@@ -435,10 +386,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:200230",
+      "id": "anilist:206249",
       "type": "series",
-      "name": "Let's go KAIKIGUMI",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png",
+      "name": "Recommendations from Iwamoto-Senpai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png",
       "releaseInfo": "2026"
     },
     {
@@ -449,6 +400,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:213484",
+      "type": "series",
+      "name": "Crowned in a Hundred Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:205068",
       "type": "series",
       "name": "One-Room TA",
@@ -456,17 +414,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:216645",
+      "id": "anilist:213961",
       "type": "series",
-      "name": "Hetalia World★Stars (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216645-tox27aP9QqLK.png",
+      "name": "Youjo Shenki 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:187594",
+      "id": "anilist:212969",
       "type": "series",
-      "name": "Perfect World Movie: Ninefold The Burning Sky",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187594-bDZDn6B5cOo6.jpg",
+      "name": "Oriental Martial Academy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212969-Q7tzSDQ1r53V.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:177699",
+      "type": "series",
+      "name": "THE GHOST IN THE SHELL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-VHMezCGf48nM.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -477,10 +442,38 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:198709",
+      "type": "series",
+      "name": "Victoria of Many Faces",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198709-3PFLvU6eqPvf.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:197178",
       "type": "series",
       "name": "ONE PIECE HEROINES",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197178-Ui8PY9HQbNgu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:208225",
+      "type": "series",
+      "name": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:196017",
+      "type": "series",
+      "name": "Grow Up Show",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:185875",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -498,10 +491,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:206249",
+      "id": "anilist:200230",
       "type": "series",
-      "name": "Recommendations from Iwamoto-Senpai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png",
+      "name": "Let's go KAIKIGUMI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png",
       "releaseInfo": "2026"
     },
     {
@@ -512,17 +505,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:213484",
-      "type": "series",
-      "name": "Crowned in a Hundred Days",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:169080",
       "type": "series",
       "name": "Anime AzurLane: Slow Ahead! Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169080-el4sMLlqMxeI.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:213665",
+      "type": "series",
+      "name": "Saved By the Ice Cold Prince's Embrace",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213665-E6byznDKrKY0.png",
       "releaseInfo": "2026"
     },
     {
@@ -582,17 +575,17 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:206194",
+      "type": "series",
+      "name": "Slay The Gods 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206194-quTPPLcROFaF.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:166444",
       "type": "series",
       "name": "To Be Winner",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166444-SCdIFI22yD0O.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:213961",
-      "type": "series",
-      "name": "Youjo Shenki 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
       "releaseInfo": "2026"
     },
     {
@@ -701,17 +694,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:212969",
-      "type": "series",
-      "name": "Oriental Martial Academy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212969-Q7tzSDQ1r53V.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:217026",
       "type": "series",
       "name": "Seeing Double",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217026-4UKdb53IazaQ.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:216645",
+      "type": "series",
+      "name": "Hetalia World★Stars (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216645-tox27aP9QqLK.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:187594",
+      "type": "series",
+      "name": "Perfect World Movie: Ninefold The Burning Sky",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187594-bDZDn6B5cOo6.jpg",
       "releaseInfo": "2026"
     },
     {
