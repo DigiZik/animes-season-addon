@@ -163,10 +163,18 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     }
     const manifestBody = JSON.stringify(paginated, null, 2) + "\n";
     const originals = ["manifest.json", ...await listFiles(root, "catalog")];
+    // Include the add-on logo when present; fixtures and forks may omit it.
+    try {
+        const logo = await fs.lstat(path.join(root, "logo.png"));
+        if (!logo.isFile()) throw new Error("Logo must be a regular file.");
+        originals.push("logo.png");
+    } catch (error) {
+        if ((error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
+    }
     const originalBodies = new Map<string, Buffer>();
     for (const relative of originals) {
         const mapped = options.catalogs?.get(relative.replace(/\\/g, "/"));
-        if (options.catalogs && relative !== "manifest.json" && !mapped) throw new Error(`Missing converted catalog: ${relative}`);
+        if (options.catalogs && relative.startsWith(`catalog${path.sep}`) && !mapped) throw new Error(`Missing converted catalog: ${relative}`);
         const body = relative === "manifest.json" && options.publishedManifest ? options.publishedManifest : mapped;
         originalBodies.set(relative, body ? Buffer.from(JSON.stringify(body, null, 2) + "\n") : await fs.readFile(path.join(root, relative)));
     }

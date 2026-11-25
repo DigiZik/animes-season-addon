@@ -139,6 +139,16 @@ it("preflights the exact UTF-8 file size without rendering metadata twice", asyn
     expect(await digest(built.outputDir)).toBe(before);
 });
 
+it("includes the logo unchanged and counts its bytes in the artifact budget", async () => {
+    await fixture([]);
+    const logo = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
+    await fs.writeFile(path.join(root, "logo.png"), logo);
+    const built = await buildPages({ root });
+    expect(await fs.readFile(path.join(built.outputDir, "logo.png"))).toEqual(logo);
+    expect((await verifyPages(root)).bytes).toBe(built.bytes);
+    await expect(buildPages({ root, maxBytes: built.bytes - 1 })).rejects.toThrow("size limit");
+});
+
 it("rejects invalid or missing source data before replacing the previous output", async () => {
     await fixture();
     await buildPages({ root });

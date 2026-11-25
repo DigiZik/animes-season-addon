@@ -1,5 +1,7 @@
 # Anime Seasons
 
+<img src="logo.png" alt="Anime Seasons logo" width="180">
+
 Browse anime by season or year using catalogs sourced from [AniList](https://anilist.co/). The static export uses Kitsu IDs, with IMDb IDs as fallback.
 
 [![Publish catalogs](https://github.com/DigiZik/animes-season-addon/actions/workflows/update.yaml/badge.svg)](https://github.com/DigiZik/animes-season-addon/actions/workflows/update.yaml)

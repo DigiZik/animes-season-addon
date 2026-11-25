@@ -166,7 +166,7 @@ export class Manifest implements AbstractManifest {
             version: "1.2.0",
             name: "Animes' season",
             description: "A catalog addon for the latest anime seasons",
-            logo: "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
+            logo: "https://digizik.github.io/animes-season-addon/logo.png",
             resources: ["catalog"],
             types: ["movie","series"],
             catalogs: [],
