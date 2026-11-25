@@ -243,7 +243,7 @@ export class Manifest implements AbstractManifest {
         this.catalogs.push({
             type: contentType,
             id: catalogType == CatalogType.LATEST ? "trending_anime_seasons" : "archive_anime_seasons",
-            name: catalogType == CatalogType.LATEST ? "Anime Seasons" : "Anime Years",
+            name: (catalogType == CatalogType.LATEST ? "Anime Seasons" : "Anime Years") + (contentType === "movie" ? " (Movie)" : ""),
             extra: [{ 
                 name: "genre", 
                 options: catalogType == CatalogType.LATEST ? this.seasons.map(seasonLabel) : this.years,

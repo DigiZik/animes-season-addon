@@ -35,7 +35,7 @@
     {
       "type": "movie",
       "id": "trending_anime_seasons",
-      "name": "Anime Seasons",
+      "name": "Anime Seasons (Movie)",
       "extra": [
         {
           "name": "genre",
@@ -97,7 +97,7 @@
     {
       "type": "movie",
       "id": "archive_anime_seasons",
-      "name": "Anime Years",
+      "name": "Anime Years (Movie)",
       "extra": [
         {
           "name": "genre",
