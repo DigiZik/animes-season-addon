@@ -64,6 +64,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:18491",
+      "type": "movie",
+      "name": "Pleasant Goat and Big Big Wolf: Mission Incredible - Adventures on the Dragon's Trail",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18491-GrMl4Oex0cro.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:141166",
       "type": "movie",
       "name": "Speckles: Dinosaurs of the Korean Peninsula",
@@ -134,6 +141,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:129551",
+      "type": "movie",
+      "name": "Sai Er Hao Da Dianying 2: Leiyi Yu Maiersi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129551-CR1NWiBsESlq.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:13821",
       "type": "movie",
       "name": "Paper Rabbit Rope: Wait Last One For Summer Vacation For Real!?",
@@ -145,6 +159,20 @@
       "type": "movie",
       "name": "Hi no Tori: Kizuna-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158700-hqyLBKRucTZy.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:104466",
+      "type": "movie",
+      "name": "AniMen: The Galactic Battle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104466-Yl5Jhp3MiIHw.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:103968",
+      "type": "movie",
+      "name": "Zhuzhu Xia: Jiong Jiong Wei Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103968-YIvUNVB2FfIA.jpg",
       "releaseInfo": "2012"
     },
     {
@@ -274,10 +302,31 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:101974",
+      "type": "movie",
+      "name": "Mai Zhu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101974-VtlcjlH6Fhqs.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:121823",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121823-UmNsGPBz4bzO.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129383",
+      "type": "movie",
+      "name": "Baobei Nüer Hao Mama: Chi Jiyi de Da Xueqiu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129383-udi3peeHKasg.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129167",
+      "type": "movie",
+      "name": "Moer Zhuangyuan 2: Haiyao Baozang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129167-0NmpXSCaU4to.png",
       "releaseInfo": "2012"
     },
     {
@@ -295,17 +344,17 @@
       "releaseInfo": "2012"
     },
     {
-      "id": "anilist:11737",
-      "type": "movie",
-      "name": "Blue Exorcist: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11737-49ya7CBO5wEq.jpg",
-      "releaseInfo": "2012"
-    },
-    {
       "id": "anilist:11977",
       "type": "movie",
       "name": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11977-HxMeU4kjzSnE.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:11737",
+      "type": "movie",
+      "name": "Blue Exorcist: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11737-49ya7CBO5wEq.jpg",
       "releaseInfo": "2012"
     },
     {
@@ -411,6 +460,13 @@
       "type": "movie",
       "name": "Kaiketsu Zorori Da-Da-Da-Daibouken!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15067-pwTA0UeYTfXU.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:186753",
+      "type": "movie",
+      "name": "Duo Bao Xing Yun Xing Da Dian Ying: Jin Gu Bang Chuan Qi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186753-sxJXJudS8AFc.png",
       "releaseInfo": "2012"
     }
   ]

@@ -202,6 +202,13 @@
       "name": "Atashinchi Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9795-ZdFGV5ILCOox.png",
       "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:102296",
+      "type": "movie",
+      "name": "Master Q: Incredible Pet Detective",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102296-G7IY73Nwa2Qw.jpg",
+      "releaseInfo": "2003"
     }
   ]
 }

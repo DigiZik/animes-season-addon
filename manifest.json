@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.21.5",
+  "version": "1.22.5",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://digizik.github.io/animes-season-addon/logo.png",
@@ -140,5 +140,5 @@
   "idPrefixes": [
     "anilist"
   ],
-  "lastUpdatedAt": "2026-11-25T11:18:56.662Z"
+  "lastUpdatedAt": "2026-11-25T13:18:12.149Z"
 }

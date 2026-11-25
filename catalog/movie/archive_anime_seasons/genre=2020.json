@@ -99,6 +99,41 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:115835",
+      "type": "movie",
+      "name": "Wu Sheng Guan Gong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115835-zvf1RwJaFFbZ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:163696",
+      "type": "movie",
+      "name": "Spycies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163696-TylQrVMuYaC1.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:139726",
+      "type": "movie",
+      "name": "Shibing Shunliu: Bing Wang Zhengfeng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139726-IVugT5vzOUKv.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:188823",
+      "type": "movie",
+      "name": "Mini Force: Deeno the King of Dinosaurs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188823-pFfWSNNij42e.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:206074",
+      "type": "movie",
+      "name": "Hua Qian Gu: Hua Hun Zhi Lu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206074-a4jXrXpGEMzd.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:114963",
       "type": "movie",
       "name": "A Whisker Away",
@@ -110,6 +145,13 @@
       "type": "movie",
       "name": "Digimon Adventure: Last Evolution Kizuna",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108260-2TAbERdThOZR.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121856",
+      "type": "movie",
+      "name": "Xi Xing Ji: Zaijian Wu Kong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121856-jGdvLC88q7Yz.png",
       "releaseInfo": "2020"
     },
     {
@@ -204,6 +246,13 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:114333",
+      "type": "movie",
+      "name": "Miao Xiansheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114333-SFW2L29Tujtn.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:131367",
       "type": "movie",
       "name": "Jintai no Survival!",
@@ -222,6 +271,13 @@
       "type": "movie",
       "name": "Oshiri Tantei: Tentou Mushi Iseki no Nazo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116224-Q1KohLIB4449.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:188824",
+      "type": "movie",
+      "name": "Mini Force: Raid of Hamburger Monsters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188824-ElwDqCwz5LzN.png",
       "releaseInfo": "2020"
     },
     {
@@ -337,6 +393,13 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:114120",
+      "type": "movie",
+      "name": "Legend of Deification",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114120-e3pJoX2YbqIS.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:112612",
       "type": "movie",
       "name": "Precure Miracle Leap: Minna to no Fushigi na Ichinichi",
@@ -362,6 +425,20 @@
       "type": "movie",
       "name": "Tounen-bun no Watashi e",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127040-0kUS5rmpcsfW.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124114",
+      "type": "movie",
+      "name": "KUNG FU MULAN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124114-e3wVsP6Qv5Un.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:127180",
+      "type": "movie",
+      "name": "Lengxue Kuang Yan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127180-n6Ujc7Q1mcRA.png",
       "releaseInfo": "2020"
     },
     {

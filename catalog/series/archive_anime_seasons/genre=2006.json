@@ -407,6 +407,13 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "anilist:123146",
+      "type": "series",
+      "name": "Galaxy Racers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123146-dKWyuEKd4Jmo.jpg",
+      "releaseInfo": "2006"
+    },
+    {
       "id": "anilist:3414",
       "type": "series",
       "name": "Furakappa",
@@ -425,6 +432,13 @@
       "type": "series",
       "name": "Minami no Shima no Chiisana Hikouki Birdy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b179757-rOzB1fCXXrKc.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:129494",
+      "type": "series",
+      "name": "Dongfang Shenwa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129494-FT4E84VlkT57.png",
       "releaseInfo": "2005"
     },
     {
@@ -1513,6 +1527,13 @@
       "releaseInfo": "2006"
     },
     {
+      "id": "anilist:132350",
+      "type": "series",
+      "name": "Tori GO! GO!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132350-Gphlu7kSgmV5.png",
+      "releaseInfo": "2006"
+    },
+    {
       "id": "anilist:1535",
       "type": "series",
       "name": "Death Note",
@@ -1856,17 +1877,17 @@
       "releaseInfo": "2006"
     },
     {
-      "id": "anilist:1561",
-      "type": "series",
-      "name": "Lovely Idol",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1561.jpg",
-      "releaseInfo": "2006"
-    },
-    {
       "id": "anilist:123074",
       "type": "series",
       "name": "Yu-Gi-Oh! Capsule Monsters",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123074-KaVOArpjZr1B.jpg",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "anilist:1561",
+      "type": "series",
+      "name": "Lovely Idol",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1561.jpg",
       "releaseInfo": "2006"
     },
     {

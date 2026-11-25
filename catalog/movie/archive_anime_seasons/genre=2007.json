@@ -162,6 +162,13 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:103921",
+      "type": "movie",
+      "name": "Wu Kong Da Zhan Er Lang Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103921-tnRXLIhyyiNY.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "anilist:2759",
       "type": "movie",
       "name": "Evangelion: 1.0 You Are (Not) Alone",
@@ -362,6 +369,13 @@
       "type": "movie",
       "name": "Kaede New Town",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5799.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:6150",
+      "type": "movie",
+      "name": "Sparkling Red Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6150.jpg",
       "releaseInfo": "2007"
     },
     {

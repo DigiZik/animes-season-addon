@@ -113,6 +113,13 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "anilist:107371",
+      "type": "movie",
+      "name": "White Snake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107371-pQHpYho5MhM7.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:106493",
       "type": "movie",
       "name": "Doraemon the Movie 2019: Nobita's Chronicle of the Moon Exploration",
@@ -187,6 +194,13 @@
       "type": "movie",
       "name": "Korasho no Kaitei Wakuwaku Daibouken!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166051-SHoQg0DjVspt.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:129631",
+      "type": "movie",
+      "name": "Jianghai Yu Tong: Ju Gui Qi Yuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129631-Dd9L7sudOQUZ.png",
       "releaseInfo": "2019"
     },
     {
@@ -407,6 +421,13 @@
       "releaseInfo": "2019"
     },
     {
+      "id": "anilist:108981",
+      "type": "movie",
+      "name": "The King's Avatar: For the Glory",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108981-NLg2V6l0Eb2H.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:107202",
       "type": "movie",
       "name": "Free! -Road to the World- the Dream",
@@ -418,6 +439,13 @@
       "type": "movie",
       "name": "Pokémon: Mewtwo Strikes Back—Evolution",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106287-THH8DMCFuVNc.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:110464",
+      "type": "movie",
+      "name": "Ne Zha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110464-gU0stanOBGIs.png",
       "releaseInfo": "2019"
     },
     {
@@ -446,6 +474,41 @@
       "type": "movie",
       "name": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111015-gvy2xfCXwnlX.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:123198",
+      "type": "movie",
+      "name": "Xin Yu Gong Yu Shan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123198-9SX3IG2cRUS7.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:139779",
+      "type": "movie",
+      "name": "The Great Detective Sherlock Holmes - The Greatest Jail-Breaker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139779-fdgJjuko6k74.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:123116",
+      "type": "movie",
+      "name": "Zhuzhu Xia: Bukeseyi de Shijie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123116-J4M2pWFUbgn6.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:129503",
+      "type": "movie",
+      "name": "Jiangnan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129503-lROw9Ggb3wjj.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:129568",
+      "type": "movie",
+      "name": "Sai Er Hao Da Dianying 7: Fengkuang Jiqi Cheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129568-GckVv9TL7aGx.jpg",
       "releaseInfo": "2019"
     },
     {
@@ -593,6 +656,20 @@
       "type": "movie",
       "name": "Ireesha, The Daughter of Elf-king",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119949-brNWHG7WCVEO.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:206855",
+      "type": "movie",
+      "name": "The Haunted House: The Sky Ghost VS Jormungandr",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206855-NNFnAtb2ir8u.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:188054",
+      "type": "movie",
+      "name": "Spookiz: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188054-8FIsvVmvIxzz.png",
       "releaseInfo": "2019"
     }
   ]

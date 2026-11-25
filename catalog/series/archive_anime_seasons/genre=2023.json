@@ -316,6 +316,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:159490",
+      "type": "series",
+      "name": "Scissor Seven Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159490-X5BrF7DubUr4.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:130696",
       "type": "series",
       "name": "The Legend of Heroes: Trails of Cold Steel - Northern War",
@@ -407,6 +414,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:131485",
+      "type": "series",
+      "name": "Left-Hand Layup!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131485-RkSECXHoJUSx.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:155068",
       "type": "series",
       "name": "Sorcerous Stabber Orphen: Chaos in Urbanrama",
@@ -425,6 +439,13 @@
       "type": "series",
       "name": "ME & ROBOCO",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150117-CPFegorubia4.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:142298",
+      "type": "series",
+      "name": "Yi Ren Zhi Xia 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142298-7WbiNkaU6gjt.png",
       "releaseInfo": "2022"
     },
     {
@@ -463,6 +484,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:140665",
+      "type": "series",
+      "name": "Lee's Detective Agency",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140665-RgyxyauI22F1.jpg",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "anilist:160054",
       "type": "series",
       "name": "Ijiranaide, Nagatoro-san 2nd Attack Mini Anime",
@@ -481,6 +509,13 @@
       "type": "series",
       "name": "Tentai Kansoku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159731-BpdRkvzwaaEy.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:159497",
+      "type": "series",
+      "name": "Golden Courtyard: New Year Wishes in Winter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159497-GKIHSzvmbo5r.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -540,6 +575,20 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:165524",
+      "type": "series",
+      "name": "Lian Qi Shiwan Nian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:129238",
+      "type": "series",
+      "name": "Big Brother",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129238-TGT4nISZFt4u.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:159726",
       "type": "series",
       "name": "Himitsu no Hana no Niwa",
@@ -554,6 +603,48 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "anilist:159751",
+      "type": "series",
+      "name": "No Doubt in Us Season 2 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159751-ly8Cpq1gVAAB.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:163821",
+      "type": "series",
+      "name": "Douluo Dalu: Haishen Chuancheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163821-ooX3EjxoXrhN.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:163784",
+      "type": "series",
+      "name": "Douluo Dalu: Tianshi Jianglin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163784-u5Hkcyrwjz3Z.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:163797",
+      "type": "series",
+      "name": "Douluo Dalu: Shenhai Mojing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163797-AN3pJFZMo8CD.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155221",
+      "type": "series",
+      "name": "Cang Lan Jue Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155221-pvgrsGjui6oi.jpg",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:163818",
+      "type": "series",
+      "name": "Douluo Dalu: Jilang Zhi Zhan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163818-8mokzggKcaTI.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:159727",
       "type": "series",
       "name": "Neko to Wakai se na",
@@ -561,10 +652,31 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:159582",
+      "type": "series",
+      "name": "Yao Shen Ji 7",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b159582-XaItn8Cqlws8.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:156059",
       "type": "series",
       "name": "HIDARI (Pilot Film)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156059-I51vKb3Fskt1.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153494",
+      "type": "series",
+      "name": "Xingchen Bian: An Xing Jie Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153494-kLf2wpHv6Jf3.png",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:159599",
+      "type": "series",
+      "name": "Fanren Xiu Xian Zhuan: Fanren Feng Qi Tian Nan Chongzhi Ban",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b159599-d8tbLcQXFgk9.png",
       "releaseInfo": "2023"
     },
     {
@@ -596,6 +708,34 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141880",
+      "type": "series",
+      "name": "Wo Jia Da Shixiong Youdian Kaopu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141880-jAwpW38Y7DN8.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155325",
+      "type": "series",
+      "name": "Bing Huo Mo Chu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155325-L9ekfHcM8TYi.png",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:114123",
+      "type": "series",
+      "name": "San Ti",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114123-YiWboUM2MRIv.png",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:141895",
+      "type": "series",
+      "name": "Zhongguo Qitan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141895-kVq5UIGF65ze.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:162284",
       "type": "series",
       "name": "Kobayashi-san no Tsundere Kouza",
@@ -607,6 +747,27 @@
       "type": "series",
       "name": "KJ File 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155291-p2zLcVLsGgD1.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153483",
+      "type": "series",
+      "name": "Cong Hong Yue Kaishi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153483-zrqunSlFH007.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137685",
+      "type": "series",
+      "name": "Wo Jian Qile Yi Di Shuxing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137685-XNf2Kq28DTfE.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:147133",
+      "type": "series",
+      "name": "The Legend of Sword Domain 2rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147133-IzW6Tm6FvTtQ.png",
       "releaseInfo": "2023"
     },
     {
@@ -631,6 +792,41 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:155839",
+      "type": "series",
+      "name": "Shen Lan Qi Yu Wushuang Zhu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155839-iQrm2uXe0pCU.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169911",
+      "type": "series",
+      "name": "Lee's Detective Agency - Special Episode",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169911-RWRh3RiTmgeU.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:165526",
+      "type": "series",
+      "name": "Dan Dao Zongshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165526-WoteCndxfNAG.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156091",
+      "type": "series",
+      "name": "My Cat Hates Me",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156091-fIS1ILgqH8LW.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:147511",
+      "type": "series",
+      "name": "Wu Geng Ji 4 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147511-HOyisHUxp7DX.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:157553",
       "type": "series",
       "name": "Yomawari Neko",
@@ -638,10 +834,45 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:134097",
+      "type": "series",
+      "name": "The Flame Imperial Guards",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134097-5dGaU658iPcl.png",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "anilist:160830",
       "type": "series",
       "name": "Space Idol",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160830-Oq2w4i9o8mDb.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137641",
+      "type": "series",
+      "name": "Novoland: Eagle Flag",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137641-dZGzKBHwWGw2.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169824",
+      "type": "series",
+      "name": "Tong Meng Zhi Lu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169824-qgt6lysVXe6o.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:159453",
+      "type": "series",
+      "name": "Fangyu Quan Kai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159453-bbwQuWXkn25l.png",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "anilist:160382",
+      "type": "series",
+      "name": "Bing Zhu Qi Hun Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160382-yzsFWkaPx4s8.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -659,11 +890,32 @@
       "releaseInfo": "2022"
     },
     {
+      "id": "anilist:141876",
+      "type": "series",
+      "name": "Li Linke De Xiao Guaner 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141876-OgdalUHRLyTx.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:176881",
       "type": "series",
       "name": "Tsuru ga Mau Yoru ni",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176881-f6xuK0vCpDqq.jpg",
       "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:159494",
+      "type": "series",
+      "name": "Fei Ren Zai 2 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159494-qBB7tpWyRD3c.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155220",
+      "type": "series",
+      "name": "Shaonian Bai Ma Zui Chun Feng Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155220-gbUOGmm3zDkT.png",
+      "releaseInfo": "2022"
     },
     {
       "id": "anilist:166040",
@@ -677,6 +929,13 @@
       "type": "series",
       "name": "Samishii Anata",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199796-W6loqhQGnFeE.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:159869",
+      "type": "series",
+      "name": "Wei Jiang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159869-HQ8grSlyaCci.png",
       "releaseInfo": "2023"
     },
     {
@@ -694,6 +953,27 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:160147",
+      "type": "series",
+      "name": "I Am the Only Human in School",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160147-CCmILvu7JA23.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:184292",
+      "type": "series",
+      "name": "Uri Veranda-eseo Mannayo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b184292-xg3FSU57Sut7.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153492",
+      "type": "series",
+      "name": "Sanguo Yanyi 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153492-yoZifCgKhH9d.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:186198",
       "type": "series",
       "name": "Oshiri Tantei: Cosmic Front",
@@ -708,10 +988,31 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:158480",
+      "type": "series",
+      "name": "Jintian Shao Zhu Bu Zaijia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158480-e5kqsgFl4AkO.png",
+      "releaseInfo": "2022"
+    },
+    {
       "id": "anilist:184761",
       "type": "series",
       "name": "Ryan's World Island Adventures",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184761-B6OPUBre0S61.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169830",
+      "type": "series",
+      "name": "Yinhe Zhi Xin Fan Wai Pian: Yi Bian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169830-sM6IABp4XlHs.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:196245",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Season Towns",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196245-BsiyRJPZYiDY.png",
       "releaseInfo": "2023"
     },
     {
@@ -974,6 +1275,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:156111",
+      "type": "series",
+      "name": "The Girl Downstairs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156111-ZABTgci6m9sN.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:148370",
       "type": "series",
       "name": "Umamusume: Pretty Derby - Road to the Top",
@@ -992,6 +1300,13 @@
       "type": "series",
       "name": "Rokudo's Bad Girls",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160442-NxKnt9KyL1DG.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:122508",
+      "type": "series",
+      "name": "Biaoren",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122508-abXsQzAGwPzN.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1058,6 +1373,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137726",
+      "type": "series",
+      "name": "Quanzhi Fashi 6",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137726-ZMMDRFLTQWSH.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:157654",
       "type": "series",
       "name": "Love Live! Nijigasaki High School Idol Club: NEXT SKY",
@@ -1072,10 +1394,24 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141855",
+      "type": "series",
+      "name": "X&Y",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141855-tvKOWH7vjWjD.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:144188",
       "type": "series",
       "name": "alice gear aegis Expansion",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144188-xNF0uacm3qXQ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156085",
+      "type": "series",
+      "name": "Monster But Wild",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156085-KZxR28DqlivI.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1135,10 +1471,31 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141865",
+      "type": "series",
+      "name": "Xyrin Empire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141865-otFygxZNbmHI.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137671",
+      "type": "series",
+      "name": "Shrouding the Heavens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137671-PzYKwpStSLIF.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:143766",
       "type": "series",
       "name": "Hyperdimension Neptunia The Animation: Little Purple Sunshine",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143766-2FVLbbjR3W5n.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169370",
+      "type": "series",
+      "name": "Honkai: Star Rail - A Flash",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169370-SQCIXrjKFgCV.png",
       "releaseInfo": "2023"
     },
     {
@@ -1170,6 +1527,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:131251",
+      "type": "series",
+      "name": "Fabulous Beasts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131251-ttuJkk9s2vgX.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:164538",
       "type": "series",
       "name": "Bear Bear Bear Kuma Punch!",
@@ -1177,10 +1541,24 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:114107",
+      "type": "series",
+      "name": "The Ravages of Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114107-XnbGmr47y8M1.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:165749",
       "type": "series",
       "name": "Tenchi Muyo! GXP Paradise Starting",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165749-3OVpXmpBgXuB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:165680",
+      "type": "series",
+      "name": "Douluo Dalu: Shuang Shen Zhi Zhan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165680-lnOa4xTfVQVC.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1198,10 +1576,45 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:163825",
+      "type": "series",
+      "name": "Douluo Dalu: Tang Sancheng Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163825-aVkgfd99mrcc.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:163823",
+      "type": "series",
+      "name": "Douluo Dalu: Qi Qing Kaoyan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163823-R6zJjg1qDTuy.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166284",
+      "type": "series",
+      "name": "Yi Nian Yongheng: Ni Zhan Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166284-HWChSanTkvms.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:166062",
       "type": "series",
       "name": "Beyblade Burst QuadStrike",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166062-TMMGelSGcWJu.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:165679",
+      "type": "series",
+      "name": "Douluo Dalu: Wan Xian Geng Xin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165679-2qXpv4LRj0hN.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:152889",
+      "type": "series",
+      "name": "Legend of Xianwu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152889-4Th73HLkqh4C.png",
       "releaseInfo": "2023"
     },
     {
@@ -1226,6 +1639,27 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:134099",
+      "type": "series",
+      "name": "The Guardian Legend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134099-6Km3gEVmVoYj.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:165525",
+      "type": "series",
+      "name": "Watt's Up, Girl?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165525-rPnalM7mWlkS.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:116805",
+      "type": "series",
+      "name": "Super Star Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116805-KCEtDdkPTOcD.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169826",
       "type": "series",
       "name": "Bakugan: Legends",
@@ -1233,10 +1667,31 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141896",
+      "type": "series",
+      "name": "My Heroic Husband",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141896-IXj7mzITQaeq.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155322",
+      "type": "series",
+      "name": "Zhenwu Dianfeng 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155322-ZGG59ZJtgUq8.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169361",
       "type": "series",
       "name": "Mawangnimeun Jukgosipeo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169361-DcDd2IVaGrjb.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156083",
+      "type": "series",
+      "name": "Since I Wasn’t the Heroine",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156083-WCLr10OHNf4g.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1261,10 +1716,52 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:169912",
+      "type": "series",
+      "name": "Lee's Detective Agency: A Holiday of Two Hours",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169912-mBEPLWBHjXv6.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:162717",
       "type": "series",
       "name": "YouTuNya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162717-lJtxCaTj75QL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156107",
+      "type": "series",
+      "name": "Oh! My goddess!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156107-3YxKQTaiJeUF.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:129246",
+      "type": "series",
+      "name": "The Rich God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129246-kkmwKUoEwTRh.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166223",
+      "type": "series",
+      "name": "Yishi Du Zun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166223-cJNnGO0MfQuf.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166217",
+      "type": "series",
+      "name": "Bai Lian Feisheng Lu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166217-U4sBTUqqPihc.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166221",
+      "type": "series",
+      "name": "Qing Lian Jian Xian Zhuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166221-xMRNvZTiX6Bb.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1275,10 +1772,45 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:146914",
+      "type": "series",
+      "name": "Hua Jianghu: Buliang Ren 6",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146914-wpm8XLm5Kr1H.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:165647",
       "type": "series",
       "name": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime 5th Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165647-uF5wBIOutyTd.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:159452",
+      "type": "series",
+      "name": "The Cat's Tea Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159452-FetJZYPJRXJF.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166325",
+      "type": "series",
+      "name": "Jiu Tian Xuan Di Jue 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166325-TdqsauPd5Nyh.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156100",
+      "type": "series",
+      "name": "Shan Hai Ji Hui",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156100-IcACzqY8kweA.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156078",
+      "type": "series",
+      "name": "Pi Zhe Lang Pi De Yang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156078-0RsRsOOtIGAt.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1314,6 +1846,20 @@
       "type": "series",
       "name": "Ao no Orchestra 5-bu de Tanoshii Kurashikku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166059-DJI3yGLHujRd.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:141872",
+      "type": "series",
+      "name": "Wulin Buer Zhoukan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141872-ho6sIcBQpbEW.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166220",
+      "type": "series",
+      "name": "The Rise of the Weak",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166220-qIRKU28XUHAx.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1359,6 +1905,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141884",
+      "type": "series",
+      "name": "Long Sword Ⅱ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141884-dqnJrRt7yNDN.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:191981",
       "type": "series",
       "name": "Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara",
@@ -1387,10 +1940,24 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:188804",
+      "type": "series",
+      "name": "Metal Cardbot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188804-IkVK37oJqyWP.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169097",
       "type": "series",
       "name": "Mendako no Menmen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169097-KB4AExTVXb0o.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:168560",
+      "type": "series",
+      "name": "Kkomimanyeo Rara Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168560-NXK7AInzssgy.png",
       "releaseInfo": "2023"
     },
     {
@@ -1405,6 +1972,27 @@
       "type": "series",
       "name": "Untarou's Journey",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171728-Ug1pttn25nvv.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:206853",
+      "type": "series",
+      "name": "Sinbi Apateu: Ghost Ball ZERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206853-3vcXdgihHABo.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169768",
+      "type": "series",
+      "name": "Menghuan Shuyuan 8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b169768-fCInO9oWrukD.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:214948",
+      "type": "series",
+      "name": "Sinbi Apateu: Bugiui Balmyeongpumeul Chajara!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214948-qjTxd4cHMBX8.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1503,6 +2091,13 @@
       "type": "series",
       "name": "Reign of the Seven Spellblades",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142598-0jpRK2h0v1hd.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:136484",
+      "type": "series",
+      "name": "Link Click Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136484-QiHcF64PVWQi.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1737,6 +2332,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:156096",
+      "type": "series",
+      "name": "4 CUT HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156096-GMhNhYtsXGhV.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:163205",
       "type": "series",
       "name": "Malevolent Spirits: Mononogatari Cour 2",
@@ -1765,10 +2367,24 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:122585",
+      "type": "series",
+      "name": "Wu Shan Wu Xing: Xi Chuan Huan Zi Lin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122585-y2uQETSGj66X.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:168092",
       "type": "series",
       "name": "Pokémon: Paldean Winds",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168092-PS3WhYgF42p0.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:141914",
+      "type": "series",
+      "name": "Agate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141914-y9QRJEfNb2SS.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1783,6 +2399,20 @@
       "type": "series",
       "name": "Phoenix: Eden17",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157957-TtIfo6Pe5yZU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137683",
+      "type": "series",
+      "name": "Soul Land 2: The Peerless Tang Clan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:158830",
+      "type": "series",
+      "name": "All Saints Street 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158830-sgeOAoZNSWpc.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1807,17 +2437,17 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "anilist:158908",
-      "type": "series",
-      "name": "ChroNoiR Episode.0",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158908-xJuMUGrIA8fR.png",
-      "releaseInfo": "2023"
-    },
-    {
       "id": "anilist:160831",
       "type": "series",
       "name": "GAMERA -Rebirth-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160831-ZAzJOREityQa.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:158908",
+      "type": "series",
+      "name": "ChroNoiR Episode.0",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158908-xJuMUGrIA8fR.png",
       "releaseInfo": "2023"
     },
     {
@@ -1828,6 +2458,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:155244",
+      "type": "series",
+      "name": "Cang Yuan Tu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155244-KYJeyWcDD073.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:161647",
       "type": "series",
       "name": "AMAIM Warrior at the Borderline UltraSteel Ogre-Gear",
@@ -1835,10 +2472,31 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:169372",
+      "type": "series",
+      "name": "Honkai: Star Rail - Ichor of Two Dragons",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169372-5WyClj2BxnmH.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:150970",
       "type": "series",
       "name": "Cardfight!! Vanguard will+Dress Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150970-EnW0c0Gwaa4P.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166510",
+      "type": "series",
+      "name": "Monster But Wild 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166510-1I5Yq4vpveOs.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:134088",
+      "type": "series",
+      "name": "The Great Ruler",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134088-7Y4NKvK53Gdw.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1856,6 +2514,20 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:168163",
+      "type": "series",
+      "name": "Dou Po Cangqiong: Nian Fan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168163-TiHA6iTauYZ0.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156080",
+      "type": "series",
+      "name": "Rakshasa Street S3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156080-CE6ZVsy8Z4yD.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:168999",
       "type": "series",
       "name": "Watashi no Oshi wa Akuyaku Reijou.: Rae to Claire ni Ichimon Ittou",
@@ -1863,10 +2535,38 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:141868",
+      "type": "series",
+      "name": "Soulmate Adventure S2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141868-mmXfue5FDjgp.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:168962",
       "type": "series",
       "name": "GAMERA -Rebirth- x Nights with a Cat",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168962-JZZWYuUfgD2c.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:141857",
+      "type": "series",
+      "name": "The First Order",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141857-Tp5HgJaqTDTa.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156099",
+      "type": "series",
+      "name": "Yong Sheng: Shi Nian Zhi Yue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156099-6CGOYaAFKvLF.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:171403",
+      "type": "series",
+      "name": "Fanren Xiu Xian Zhuan: Xinghai Feichi Prologue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171403-aen5zAI8PHZ5.png",
       "releaseInfo": "2023"
     },
     {
@@ -1912,6 +2612,20 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:166492",
+      "type": "series",
+      "name": "Fabulous Beasts 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166492-4INUf516qTuh.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:133772",
+      "type": "series",
+      "name": "Tales Of Dark River",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133772-2TGEtm2DO07V.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:166973",
       "type": "series",
       "name": "Kimberly Mahou Gakkou no Yukai na Nichijou",
@@ -1933,6 +2647,83 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:174981",
+      "type": "series",
+      "name": "Yi Nian Yongheng: Zhizi Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174981-GZ7hjDUqNKMB.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156105",
+      "type": "series",
+      "name": "Xiaolü He Xiaolan 2: Mowang Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156105-KAyMgCWwk1iR.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137885",
+      "type": "series",
+      "name": "Huyao Xiao Hongniang: Wu Mu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137885-Xg4X5K27K75F.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155321",
+      "type": "series",
+      "name": "Gaishi Dizun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155321-avOCPyObPVIq.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155302",
+      "type": "series",
+      "name": "Zhen Yang Wushen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155302-JF2uKtsM6cSt.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137676",
+      "type": "series",
+      "name": "The Fallen Master",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137676-f5z1YCGQYFUR.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166446",
+      "type": "series",
+      "name": "Wu Xing Zhan Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166446-CZKXdTtximsM.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166409",
+      "type": "series",
+      "name": "Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166409-DC2FlIHfO5Wz.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166588",
+      "type": "series",
+      "name": "Wu Ying Sanqian Dao 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166588-SPfgA0Cl9a1r.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153478",
+      "type": "series",
+      "name": "Sword Saint of The Ten Realms",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153478-o0IebG1YhaZ6.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:141892",
+      "type": "series",
+      "name": "Thrud",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141892-ERXeNRzIOq1n.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169322",
       "type": "series",
       "name": "Kimberly Mahou Gakkou Tsuushin",
@@ -1944,6 +2735,20 @@
       "type": "series",
       "name": "Nanashi Kaidan 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185642-6q6HLScOrsJl.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153493",
+      "type": "series",
+      "name": "Xi Xing Ji: Nian Fan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153493-fOohrWTD6pGt.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156101",
+      "type": "series",
+      "name": "Monster Diner",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156101-7xYyYyRvFpgu.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -1961,6 +2766,20 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137665",
+      "type": "series",
+      "name": "Mo Zhuang Chuanshuo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137665-hVakFHIkvMbc.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174649",
+      "type": "series",
+      "name": "The Legend of Yang Chen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174649-FKbDS2cF0YkR.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:170497",
       "type": "series",
       "name": "Solved with a Bang! Koyori-chan",
@@ -1975,6 +2794,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:166324",
+      "type": "series",
+      "name": "Shashou Good",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166324-d5uG7zz1ZQmf.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:166041",
       "type": "series",
       "name": "Magwi",
@@ -1982,10 +2808,38 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:166327",
+      "type": "series",
+      "name": "Jian Gu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166327-h9oUlKaGdJcU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:171659",
       "type": "series",
       "name": "Rainbow Bubblegem",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171659-SoFEI8rO25eS.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166404",
+      "type": "series",
+      "name": "Ban Shen Zhi Jing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166404-QSxfNk4W1qy5.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166445",
+      "type": "series",
+      "name": "Feng Huo Zhan Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166445-VVfqiaaUH1oP.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156623",
+      "type": "series",
+      "name": "Shi Wang Zhe A? 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156623-lJpQKojm0YJb.png",
       "releaseInfo": "2023"
     },
     {
@@ -2000,6 +2854,13 @@
       "type": "series",
       "name": "Sylvanian Families: Freya no Go for Dream!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170220-W7XMZdpqtAvI.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166323",
+      "type": "series",
+      "name": "Long Shidai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166323-KjRJn7gnrmSN.png",
       "releaseInfo": "2023"
     },
     {
@@ -2021,6 +2882,48 @@
       "type": "series",
       "name": "Copihan Special Episode",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208831-Z6AX7YSYCaHf.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:177147",
+      "type": "series",
+      "name": "Pororo the Little Penguin 8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177147-wepTbfJT6Vbz.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:206158",
+      "type": "series",
+      "name": "Balala Xiao Mo Xian: Xing Yuan Die Qi 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206158-uHCHmE7jGxwz.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:193467",
+      "type": "series",
+      "name": "Quantum Heroes Dinoster",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193467-AV1XEy5Dh8iw.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:195965",
+      "type": "series",
+      "name": "Shining Cardsprites 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195965-8li5kWJNcW3e.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:214896",
+      "type": "series",
+      "name": "Sinbi Apateu Teukbyeolpan: Joseontoemasillok",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214896-nDqA1vIt0NZr.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:196246",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Mysterious Ocean Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196246-ai3otPclfLV7.png",
       "releaseInfo": "2023"
     },
     {
@@ -2479,6 +3382,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137653",
+      "type": "series",
+      "name": "Renegade Immortal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:155015",
       "type": "series",
       "name": "Onimusha",
@@ -2612,6 +3522,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:169750",
+      "type": "series",
+      "name": "Shangri-La Frontier Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169750-x2ti7XEH5Ij5.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:166523",
       "type": "series",
       "name": "Kizuna no Allele 2nd Season",
@@ -2619,10 +3536,10 @@
       "releaseInfo": "2023"
     },
     {
-      "id": "anilist:169750",
+      "id": "anilist:166219",
       "type": "series",
-      "name": "Shangri-La Frontier Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169750-x2ti7XEH5Ij5.jpg",
+      "name": "Tunshi Xingkong 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166219-tREIb5l5huVe.png",
       "releaseInfo": "2023"
     },
     {
@@ -2647,6 +3564,27 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137660",
+      "type": "series",
+      "name": "The Melee Mage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137660-4FFdGnJ5AkjS.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:169932",
+      "type": "series",
+      "name": "Kay's Daily Doodles",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169932-7AObL3JrOUCW.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:134095",
+      "type": "series",
+      "name": "Nitian Xie Shen (2023)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134095-gt35CJ91ufYL.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:163364",
       "type": "series",
       "name": "Bikkuri-men",
@@ -2661,6 +3599,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:156062",
+      "type": "series",
+      "name": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156062-cuJCeJErbL4t.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169748",
       "type": "series",
       "name": "Kanojo, Okarishimasu 3rd Season Petit",
@@ -2668,10 +3613,45 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:153495",
+      "type": "series",
+      "name": "Wu Dong Qiankun 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b153495-sbSTdcg6hG9J.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156081",
+      "type": "series",
+      "name": "Spirits In Chinese Brushes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156081-uT9HJRIn1A7L.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:171029",
       "type": "series",
       "name": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Dai Bounen Otanoshimikai 2023",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171029-aFpdcLr2N0hT.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137666",
+      "type": "series",
+      "name": "Law of Devil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137666-oPQD9Wk62I9G.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:168131",
+      "type": "series",
+      "name": "Wanmei Shijie 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168131-qa5FMiIpXGQS.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:137674",
+      "type": "series",
+      "name": "Xiuluo Wu Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137674-zkVTKBZQcFM1.png",
       "releaseInfo": "2023"
     },
     {
@@ -2696,6 +3676,34 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:156093",
+      "type": "series",
+      "name": "The Invincible",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156093-MOApKiQucV5Y.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166455",
+      "type": "series",
+      "name": "Love Magic Grocery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166455-zl1pl9OAcOU2.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174704",
+      "type": "series",
+      "name": "Big Brother 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174704-LvnjPdXfu4MC.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174707",
+      "type": "series",
+      "name": "Xianwu Zhuan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174707-K4npsOteLEZh.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169511",
       "type": "series",
       "name": "Hyakushou Kizoku OVA",
@@ -2717,6 +3725,13 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:170561",
+      "type": "series",
+      "name": "Glorious Revenge of Ye Feng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170561-0TlLcLr95PQd.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:171346",
       "type": "series",
       "name": "The Adventures of Snorlax & Cubone",
@@ -2724,10 +3739,52 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:156113",
+      "type": "series",
+      "name": "The Little Master's Better Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156113-81naLYcFbvKl.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156075",
+      "type": "series",
+      "name": "Transcending the Nine Heavens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156075-dvmrI585uMAH.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:134090",
+      "type": "series",
+      "name": "You Yao 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134090-078nFdyN01BA.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:169227",
       "type": "series",
       "name": "Matsuinu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169227-ez97csCzeejg.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:156088",
+      "type": "series",
+      "name": "The Eternal Strife",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156088-fdXoY2kkYZIo.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:153479",
+      "type": "series",
+      "name": "Wang Zhe Da Shixiong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153479-SqMhsHlj4otI.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174705",
+      "type": "series",
+      "name": "The Peak of True Martial Arts 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174705-Rn1bdIK8KMWW.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -2766,6 +3823,55 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:174708",
+      "type": "series",
+      "name": "The Legend of the Taiyi Sword Immortal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174708-WNzmsph2A1WD.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174715",
+      "type": "series",
+      "name": "The Legend of Sword Domain 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174715-PIRowicSKp2X.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:122526",
+      "type": "series",
+      "name": "Mysterious Treasures",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122526-naZFXO0NbIxM.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:155314",
+      "type": "series",
+      "name": "Great Journey of Teenagers 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155314-Qnl09KYOSA0n.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174720",
+      "type": "series",
+      "name": "1st Kiss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174720-VAEbyuGrbQtj.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:129229",
+      "type": "series",
+      "name": "Thirty-six Cavalry",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129229-IBI1YCTPB1GS.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:151598",
+      "type": "series",
+      "name": "Ran Xia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151598-GaHUhod445NP.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:171130",
       "type": "series",
       "name": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime 6th Season",
@@ -2777,6 +3883,34 @@
       "type": "series",
       "name": "Shinobanai! Crypto Ninja Sakuya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170041-ZM18eTGQ8dYz.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:166410",
+      "type": "series",
+      "name": "Wan Jie Zhizun 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166410-Ni5BezAP4HcK.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174712",
+      "type": "series",
+      "name": "Xiaolü He Xiaolan 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174712-Phwe5bCCvSys.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:170658",
+      "type": "series",
+      "name": "Waluolan Xiao Zhen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170658-l8DJGSXMrUuU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:213544",
+      "type": "series",
+      "name": "Ling Long 2 Qianzhan Pian: Changye Jiangzhi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213544-TH3LuAy1Anys.png",
       "releaseInfo": "2023"
     },
     {
@@ -2794,10 +3928,45 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:170657",
+      "type": "series",
+      "name": "Jinyi Shen Jiag",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170657-qgYMfRJZEQpT.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:170656",
+      "type": "series",
+      "name": "Honghuang Ling Zun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170656-stcjIKaqfBDU.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:170511",
       "type": "series",
       "name": "Sumikko Gurashi: Sorairo no Mainichi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170511-hyRTEIOVQHAP.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:157071",
+      "type": "series",
+      "name": "Jiaonang Jihua 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b157071-2oIMxzlpgaa6.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:175889",
+      "type": "series",
+      "name": "Jiu Tian Xuan Di Jue 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175889-gnJDuqUFqgIM.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:174709",
+      "type": "series",
+      "name": "The Dog's Tea",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174709-InSv5b5YPok3.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -2808,10 +3977,24 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137715",
+      "type": "series",
+      "name": "Wu Shuang Shu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137715-hqz5Wosun8wO.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:180520",
       "type": "series",
       "name": "Dessert Catch! Teenieping",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180520-iFcrGuv2nwx6.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:177438",
+      "type": "series",
+      "name": "Hua Jianghu: Tiangang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177438-q9Fa5iLZjpP9.jpg",
       "releaseInfo": "2023"
     },
     {
@@ -2850,6 +4033,20 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:176864",
+      "type": "series",
+      "name": "Shining Cardsprites",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176864-SBwWWjtWqCSN.jpg",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:176860",
+      "type": "series",
+      "name": "Feng Qi Luoyang: Shuangzi Zhui Xiong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176860-uWFLUVApJp6T.png",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:183475",
       "type": "series",
       "name": "Yankee Hamster Season 4",
@@ -2857,10 +4054,59 @@
       "releaseInfo": "2023"
     },
     {
+      "id": "anilist:137684",
+      "type": "series",
+      "name": "Gei Wo Lai Ge Xiao Heshang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137684-ViyCw0MGL7q3.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:206146",
+      "type": "series",
+      "name": "Zhongguo Jingqi Xiansheng (2023)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206146-2EWCcGgrPydZ.jpg",
+      "releaseInfo": "2023"
+    },
+    {
       "id": "anilist:183472",
       "type": "series",
       "name": "Nui Story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183472-C26kyIjcMOFJ.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:206854",
+      "type": "series",
+      "name": "Sinbi Apateu: Ghost Ball ZERO - Du Beonjjae Iyagi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206854-egSpUgYa2m8W.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:186202",
+      "type": "series",
+      "name": "Secret Jouju - Bijou of Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186202-4IPjw6GBOPEJ.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:188828",
+      "type": "series",
+      "name": "Miniforce Super Cops",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188828-yyA4lfshlFX8.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:204624",
+      "type": "series",
+      "name": "Jiu Cang Miao Wo Season 2.5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204624-sXlPYQKkXYSl.png",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "anilist:213699",
+      "type": "series",
+      "name": "Ruguo Lishi Shi Yi Qun Miao 10",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213699-E1UYQPk2AdBZ.png",
       "releaseInfo": "2023"
     }
   ]

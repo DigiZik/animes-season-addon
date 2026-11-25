@@ -589,6 +589,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:97756",
+      "type": "series",
+      "name": "Zhongguo Jingqi Xiansheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97756-bVsUA3sEz1ix.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:102763",
       "type": "series",
       "name": "Ryoutei no Aji",
@@ -631,6 +638,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:99656",
+      "type": "series",
+      "name": "Si Ling Bianma: Shijie Caozong Zhe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99656-MRiIbFCLhAxR.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:138985",
       "type": "series",
       "name": "BeyWarriors: BeyRaiderz",
@@ -652,10 +666,24 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:114513",
+      "type": "series",
+      "name": "Mantou Riji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114513-ODDUPLYg9nO9.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:114436",
       "type": "series",
       "name": "TENSAI BANPAKU Opening Animation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114436-1HhjXTWi5r1y.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:102775",
+      "type": "series",
+      "name": "Nami Hexin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102775-AAn1OVGtsQEH.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -666,10 +694,24 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:104184",
+      "type": "series",
+      "name": "Xiao Hua Xian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104184-T3NQMkpIUmgf.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:119793",
       "type": "series",
       "name": "Oniku Daisuki! Zeushi-kun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119793-BPZXdTAmww18.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:103424",
+      "type": "series",
+      "name": "Infinity Nado 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103424-ygIiEMg7dRn2.png",
       "releaseInfo": "2014"
     },
     {
@@ -701,11 +743,39 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:103362",
+      "type": "series",
+      "name": "Shiwan Ge Leng Xiaohua 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103362-apurRWAV20kx.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:102713",
+      "type": "series",
+      "name": "Little Yeyos",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102713-qcqeNWH63eYg.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:160196",
       "type": "series",
       "name": "Roku no Sekai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b160196-0i6oM2xmnWT8.jpg",
       "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:130745",
+      "type": "series",
+      "name": "Chao Shen Xueyuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130745-9yKMyybLkBzR.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:103966",
+      "type": "series",
+      "name": "Zhuzhu Xia: Bian Shen Xiao Yingxiong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103966-AXZ9wEvzhhUs.jpg",
+      "releaseInfo": "2013"
     },
     {
       "id": "anilist:115198",
@@ -722,10 +792,31 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:131593",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Paddi the Amazing Chef",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131593-zbSAS4FNcOUj.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:131855",
       "type": "series",
       "name": "Tiandi Fengyun Lu: Mo Lu Xuezhan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131855-JAtmCxzi4Moy.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:188056",
+      "type": "series",
+      "name": "Tayo the Little Bus Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188056-nFdg2qpLfAzR.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129656",
+      "type": "series",
+      "name": "Meishi Da Maoxian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129656-WWacLOQqbOgX.png",
       "releaseInfo": "2014"
     },
     {
@@ -1205,17 +1296,17 @@
       "releaseInfo": "2014"
     },
     {
-      "id": "anilist:20688",
-      "type": "series",
-      "name": "Kantoku Fuyuki Todoki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20688.jpg",
-      "releaseInfo": "2014"
-    },
-    {
       "id": "anilist:20747",
       "type": "series",
       "name": "Miss Monochrome - The Animation: Soccer-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20747.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:20688",
+      "type": "series",
+      "name": "Kantoku Fuyuki Todoki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20688.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -1265,6 +1356,13 @@
       "type": "series",
       "name": "Marvel Disk Wars: The Avengers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20548.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:101095",
+      "type": "series",
+      "name": "Chao You Bing: Zhi Yongzhe Chuanshuo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101095-PawBzCI0WfXt.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -1464,6 +1562,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:109939",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Kong Shan Niao Yu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109939-wVvgdoSAVMrk.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:21883",
       "type": "series",
       "name": "X Maiden: Izakaya Tamaki",
@@ -1492,10 +1597,59 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:120509",
+      "type": "series",
+      "name": "Kung Fu Bunny",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120509-ZeTQW1ezOSGE.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129490",
+      "type": "series",
+      "name": "Guobao Te Gong 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129490-Zl2hWQZ70cRu.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129587",
+      "type": "series",
+      "name": "Sai Er Hao 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129587-yIYePKuk14dN.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:202424",
+      "type": "series",
+      "name": "Nano Invaders",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202424-3aPWuEMFj5It.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:148976",
+      "type": "series",
+      "name": "Xiong Chumo: Conglin Zhongdongyuan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148976-U5Jw6QOdm48Q.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129771",
+      "type": "series",
+      "name": "Bu Keneng Lianai?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129771-oA0EAnq5SxUm.png",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:213424",
       "type": "series",
       "name": "KoSys! Kochira Keihime Tetsudou: Kouhou System-ka",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213424-THwjV5TpS6h0.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:141310",
+      "type": "series",
+      "name": "Wo De Pengyou Zhu Dick",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141310-kCv2Ivhsoirw.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -2024,17 +2178,17 @@
       "releaseInfo": "2014"
     },
     {
-      "id": "anilist:106542",
-      "type": "series",
-      "name": "Love Live School idol project!: μ's →NEXT LoveLive! 2014 - ENDLESS PARADE Encore Animation 0209Ver.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106542-orrEGoIoKxog.jpg",
-      "releaseInfo": "2014"
-    },
-    {
       "id": "anilist:20905",
       "type": "series",
       "name": "Tenkai Knights",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20905-wVyw4DvWDWvH.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:106542",
+      "type": "series",
+      "name": "Love Live School idol project!: μ's →NEXT LoveLive! 2014 - ENDLESS PARADE Encore Animation 0209Ver.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106542-orrEGoIoKxog.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -2094,10 +2248,24 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:98864",
+      "type": "series",
+      "name": "Wangpai Yushi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98864-3u4cyTWkxpCZ.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:98207",
       "type": "series",
       "name": "Sakura Capsule",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98207-fjCJdp5T3hAt.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:102561",
+      "type": "series",
+      "name": "Hua Jianghu: Buliang Ren",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102561-tXO2S1gJTBVU.png",
       "releaseInfo": "2014"
     },
     {
@@ -2157,6 +2325,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:121300",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Luo Shengtang Xia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121300-PQtDKVeXhCy9.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:122044",
       "type": "series",
       "name": "Nyamen: Tenkai Daiichi Joshi Koukou Bunkasai Tokubetsu Eizou",
@@ -2192,6 +2367,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:112032",
+      "type": "series",
+      "name": "Kuiba Yaoxia Zhuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112032-5DI8Gj5RTEZq.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:129866",
       "type": "series",
       "name": "Hakusai Anime Bangai-hen",
@@ -2199,10 +2381,38 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:103964",
+      "type": "series",
+      "name": "Zhuzhu Xia: Bian Shen Zhandu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103964-C5qXgpQlKYCp.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:103756",
+      "type": "series",
+      "name": "Huainanzi Chuanqi 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103756-w2EJdd30utSC.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:131594",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Dear Little Wish",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131594-TdR6Z9vWHJc2.png",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:145353",
       "type": "series",
       "name": "Beast Saga (ONA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145353-EcxXm8mQAvjH.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:130759",
+      "type": "series",
+      "name": "Chao Shen Xueyuan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130759-5KLrRN6pQfeP.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -2808,6 +3018,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:99708",
+      "type": "series",
+      "name": "Die Now",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99708-lStoIobhytbc.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:20838",
       "type": "series",
       "name": "Tribe Cool Crew",
@@ -2840,6 +3057,13 @@
       "type": "series",
       "name": "PIKMIN Short Movies",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99431-kk96Fga29PAO.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:99709",
+      "type": "series",
+      "name": "Zombie Brother",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99709-vzlYR9NYRt8g.jpg",
       "releaseInfo": "2014"
     },
     {
@@ -2882,6 +3106,13 @@
       "type": "series",
       "name": "Fantasista Stella",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98963-Y0MdzHpQmVNi.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:99661",
+      "type": "series",
+      "name": "Lu Shidai 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99661-UiAbczF4bRr7.png",
       "releaseInfo": "2014"
     },
     {
@@ -2941,6 +3172,13 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:103328",
+      "type": "series",
+      "name": "World Peacekeepers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103328-FsvGdrF2eq0L.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:102160",
       "type": "series",
       "name": "Curly",
@@ -2983,10 +3221,31 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:148975",
+      "type": "series",
+      "name": "Xiong Chumo: Chunri Dui Dui Peng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148975-ytwAqdmy6LU7.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:188050",
       "type": "series",
       "name": "Spookiz Season 1",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188050-C4EsOFAVhY7v.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:131595",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Tailor's Closet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131595-oP3XgyADGG7b.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:188813",
+      "type": "series",
+      "name": "Mini Force",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188813-i2viaFA9BTLf.png",
       "releaseInfo": "2014"
     },
     {
@@ -2997,10 +3256,24 @@
       "releaseInfo": "2014"
     },
     {
+      "id": "anilist:104559",
+      "type": "series",
+      "name": "Jinxiu Shenzhou Zhi Qi You Ji 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104559-nGIDlXSIXRGl.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:177225",
       "type": "series",
       "name": "Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177225-hWO7dkSJQ8T9.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129873",
+      "type": "series",
+      "name": "Hong Lingjin Yu Wang Xiaoming",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129873-92yF4IFHVCcF.jpg",
       "releaseInfo": "2014"
     }
   ]

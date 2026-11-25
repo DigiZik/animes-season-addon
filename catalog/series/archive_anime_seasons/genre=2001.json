@@ -414,17 +414,17 @@
       "releaseInfo": "2001"
     },
     {
-      "id": "anilist:734",
-      "type": "series",
-      "name": "Kizuna: Much Ado About Nothing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx734-y6vpClK8QQK9.png",
-      "releaseInfo": "2001"
-    },
-    {
       "id": "anilist:2362",
       "type": "series",
       "name": "RUN=DIM",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2362.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "anilist:734",
+      "type": "series",
+      "name": "Kizuna: Much Ado About Nothing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx734-y6vpClK8QQK9.png",
       "releaseInfo": "2001"
     },
     {
@@ -740,6 +740,13 @@
       "type": "series",
       "name": "Mini Moni Yaru no da Pyon!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7452.jpg",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "anilist:9948",
+      "type": "series",
+      "name": "Wo Wei Ge Kuang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9948.jpg",
       "releaseInfo": "2001"
     },
     {
@@ -1125,6 +1132,13 @@
       "type": "series",
       "name": "Kuru Kuru Ammy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154075-U2IVdeTMH9ad.png",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "anilist:205618",
+      "type": "series",
+      "name": "Narara Superboard 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205618-59rUR79BCODS.png",
       "releaseInfo": "2001"
     }
   ]

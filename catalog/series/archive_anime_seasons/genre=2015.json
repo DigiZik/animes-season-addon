@@ -309,6 +309,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:98862",
+      "type": "series",
+      "name": "Yaoguai Mingdan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98862-rG7yNCpFlwTg.jpg",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:20916",
       "type": "series",
       "name": "BROTHERS CONFLICT OVA",
@@ -470,6 +477,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:104468",
+      "type": "series",
+      "name": "Balala Xiao Moxian: Menghuan Xuanlu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104468-2FjwJOPW8OU2.png",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21877",
       "type": "series",
       "name": "Ima, Futari no Michi",
@@ -477,11 +491,25 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:109801",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Jun Lin Tianxia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109801-KYT3B6DOjhsr.png",
+      "releaseInfo": "2014"
+    },
+    {
       "id": "anilist:20961",
       "type": "series",
       "name": "Pankis! 2-jigen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20961.jpg",
       "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:102057",
+      "type": "series",
+      "name": "Mu Wang Zhi Wang: Xuan Guan Si",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102057-ByGF5GF5pU2j.jpg",
+      "releaseInfo": "2017"
     },
     {
       "id": "anilist:102672",
@@ -498,6 +526,20 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:121299",
+      "type": "series",
+      "name": "Qin Shi Mingyue Special: Dizi Jiang Xi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121299-iyOmry9XcQ91.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:102778",
+      "type": "series",
+      "name": "Nami Hexin SP: Lianxi Pian 2015 Xinnian Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102778-poqHHZlgK5qg.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21048",
       "type": "series",
       "name": "wasimo 2",
@@ -505,10 +547,80 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:102779",
+      "type": "series",
+      "name": "Nami Hexin - NG Scenes - Nano's Daily Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102779-lK0vTTakmQ2a.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:130761",
+      "type": "series",
+      "name": "Chao Shen Xueyuan 3: Shen Yu Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130761-OcbHlS69xekp.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:103473",
+      "type": "series",
+      "name": "Menghuan Xiyou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103473-tQEwu8ZLPvwn.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:103963",
+      "type": "series",
+      "name": "Zhuzhu Xia: Bai Bian Lianmeng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103963-f6NVdUvqAtLC.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:127115",
       "type": "series",
       "name": "Funassyi to Yukaina Kyoudai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127115-hDd8rT1VMuCK.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:131597",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Love You Babe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131597-slACYKwlP4wL.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:129592",
+      "type": "series",
+      "name": "Sai Er Hao 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129592-tBTlv1PX3h1Z.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:207351",
+      "type": "series",
+      "name": "Nasreddin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207351-czeKqtdYxaAO.jpg",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:129657",
+      "type": "series",
+      "name": "Meishi Da Maoxian 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129657-ZRcp0oiJHncX.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:132346",
+      "type": "series",
+      "name": "Gwahak Masuldan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132346-04IECYlAraI1.png",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "anilist:214513",
+      "type": "series",
+      "name": "Dragon Lancer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214513-eqikCXzMCwgD.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -967,17 +1079,17 @@
       "releaseInfo": "2015"
     },
     {
-      "id": "anilist:99217",
-      "type": "series",
-      "name": "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99217-KFlY8ZdhTOvV.jpg",
-      "releaseInfo": "2015"
-    },
-    {
       "id": "anilist:125268",
       "type": "series",
       "name": "Toaru Kagaku no Suzushina Yuriko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125268-LtYoDXI6WCxa.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:99217",
+      "type": "series",
+      "name": "Taiko no Tatsujin: 15 Shuunen Kinen Short Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99217-KFlY8ZdhTOvV.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -999,6 +1111,13 @@
       "type": "series",
       "name": "Pikaia!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98223-l3D9otTCb0nH.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:102164",
+      "type": "series",
+      "name": "Mang Huang Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102164-teL3jOl5paX0.png",
       "releaseInfo": "2015"
     },
     {
@@ -1034,6 +1153,13 @@
       "type": "series",
       "name": "Sushi and Beyond",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21028-RPVYPCJoz9W0.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:99704",
+      "type": "series",
+      "name": "Wo Jiao Bai Xiaofei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99704-lB3Xk5iuTGoV.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -1100,6 +1226,20 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:103352",
+      "type": "series",
+      "name": "Yong Zhe Da Maoxian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103352-xB2o3EdHdS18.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:140140",
+      "type": "series",
+      "name": "AK Mofa Shaonü",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140140-i4gbrhhKbETN.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:98763",
       "type": "series",
       "name": "wasimo 3",
@@ -1111,6 +1251,13 @@
       "type": "series",
       "name": "Funassyi no Funafunafuna Biyori",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126877-v6yr0YskMKHO.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:119399",
+      "type": "series",
+      "name": "Na Nian Na Tu Naxie Shir 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119399-KM6WEAKsAbMj.png",
       "releaseInfo": "2015"
     },
     {
@@ -1128,6 +1275,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:103472",
+      "type": "series",
+      "name": "Menghuan Xiyou 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103472-2X1Cu4ELP3R9.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:187215",
       "type": "series",
       "name": "Good Morning!!! Doronjo",
@@ -1142,10 +1296,24 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:129593",
+      "type": "series",
+      "name": "Sai Er Hao 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129593-0L7ymXrrY0hK.png",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:189721",
       "type": "series",
       "name": "Lalala Lala-chan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189721-9RSxIz1bx7LV.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:188814",
+      "type": "series",
+      "name": "Mini Force 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188814-jpPQzevPNll1.png",
       "releaseInfo": "2015"
     },
     {
@@ -1555,6 +1723,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:102598",
+      "type": "series",
+      "name": "Huyao Xiao Hongniang: Xiasha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102598-ycwoTuRzdf23.png",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21381",
       "type": "series",
       "name": "Danchigai Special",
@@ -1583,6 +1758,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:99654",
+      "type": "series",
+      "name": "The Unparalleled Black & White",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99654-iIyI2QtF3T1x.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21276",
       "type": "series",
       "name": "Celestial Method: Aru Shoujo no Kyuujitsu★",
@@ -1601,6 +1783,13 @@
       "type": "series",
       "name": "GARO: THE ANIMATION - HOME",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102098-1W9ff01HqeYs.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:99658",
+      "type": "series",
+      "name": "School Shock",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99658-RHaytvKyHpOA.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -1657,6 +1846,13 @@
       "type": "series",
       "name": "Gakuen Handsome The Animation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21392-LOr6oNCqr4x5.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:101409",
+      "type": "series",
+      "name": "Fighter of the Destiny SS1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101409-ZD0EylMhydPc.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -1779,6 +1975,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:99845",
+      "type": "series",
+      "name": "Gui Shui Yiyun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99845-wkffiZ4OE5DB.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:119795",
       "type": "series",
       "name": "Mori no Ongaku-dan",
@@ -1821,10 +2024,52 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:107300",
+      "type": "series",
+      "name": "Xiao Hua Xian 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107300-YnWo2BJVpfZC.png",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:133289",
       "type": "series",
       "name": "NekoNeko Gong Show",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133289-BmTor8ebPW1N.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:102688",
+      "type": "series",
+      "name": "Yingxiong Bie Nao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102688-HepNu2iao8H7.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:103962",
+      "type": "series",
+      "name": "Zhuzhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103962-2n0B7jnB6t5I.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:103960",
+      "type": "series",
+      "name": "Zhuzhu Xia: Wu Ling Shouweizhe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103960-QRn2DEGFKk61.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:148977",
+      "type": "series",
+      "name": "Xiong Chumo: Dongri Le Fantian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148977-egfwVEvua1KS.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:131599",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Adventures in the Primitive World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131599-iwgVgPIkiHOI.png",
       "releaseInfo": "2015"
     },
     {
@@ -1839,6 +2084,13 @@
       "type": "series",
       "name": "Ojarumaru: Wasureta Mori no Hinata",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200648-hDzbaDjYC5MC.png",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:204622",
+      "type": "series",
+      "name": "Jiu Cang Miao Wo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204622-CknJjZRAFHw0.png",
       "releaseInfo": "2015"
     },
     {
@@ -2479,6 +2731,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:100297",
+      "type": "series",
+      "name": "Ling Yu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100297-CN99UPINmm2O.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21491",
       "type": "series",
       "name": "Comet Lucifer: Garden Indigo no Shasou kara",
@@ -2605,6 +2864,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:102558",
+      "type": "series",
+      "name": "Hua Jianghu: Ling Zhu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102558-t9eDyAb2WfQF.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:99001",
       "type": "series",
       "name": "Chou Kidou Gaiku: KASHIWA-NO-HA",
@@ -2647,6 +2913,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:103423",
+      "type": "series",
+      "name": "Infinity Nado 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103423-JqRd2nZdkZjj.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21448",
       "type": "series",
       "name": "Isobe Isobee Monogatari: Ukiyo wa Tsurai yo",
@@ -2668,6 +2941,13 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:102553",
+      "type": "series",
+      "name": "Feng Wei Yingxiong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102553-UiShPiJwxqiu.jpg",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:21367",
       "type": "series",
       "name": "Fuusen Inu Tinny 2nd Season",
@@ -2679,6 +2959,13 @@
       "type": "series",
       "name": "Neko no Dayan: Nihon e Iku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21346-sIPXSxhQfowc.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:121297",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Guoqing Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121297-rPAkOAqdMJSi.jpg",
       "releaseInfo": "2015"
     },
     {
@@ -2703,10 +2990,31 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "anilist:129729",
+      "type": "series",
+      "name": "Yuan Ri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129729-jAlLZ9W54lHc.png",
+      "releaseInfo": "2015"
+    },
+    {
       "id": "anilist:206517",
       "type": "series",
       "name": "Heroes: Legend of the Battle Disks",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206517-t9hDoGUhCRl0.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:119400",
+      "type": "series",
+      "name": "Na Nian Na Tu Naxie Shir 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119400-bEUXagkQsPso.jpg",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "anilist:132513",
+      "type": "series",
+      "name": "Annyeong Jaduya 3 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132513-mB1DIIC8G7hF.png",
       "releaseInfo": "2015"
     }
   ]

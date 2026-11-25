@@ -64,10 +64,24 @@
       "releaseInfo": "2009"
     },
     {
+      "id": "anilist:6156",
+      "type": "movie",
+      "name": "Pleasant Goat and Big Big Wolf: The Super Snail Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6156.jpg",
+      "releaseInfo": "2009"
+    },
+    {
       "id": "anilist:182140",
       "type": "movie",
       "name": "Dokuhaku Suru Universal Yoko Mercator Egg Man",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182140-VuAejyrzqjq5.png",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "anilist:129473",
+      "type": "movie",
+      "name": "Taoqi Bao Ma Xiaotiao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129473-k3eMUbbzQZTd.jpg",
       "releaseInfo": "2009"
     },
     {
@@ -390,6 +404,13 @@
       "type": "movie",
       "name": "Penguin no Mondai Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6063.jpg",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "anilist:129273",
+      "type": "movie",
+      "name": "Shenbing Xiaojiang (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129273-P5nmNIymemW1.png",
       "releaseInfo": "2009"
     }
   ]

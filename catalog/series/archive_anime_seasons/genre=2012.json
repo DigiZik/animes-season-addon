@@ -421,6 +421,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:102156",
+      "type": "series",
+      "name": "Xia Lan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102156-HGoCQENlNvFw.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:17237",
       "type": "series",
       "name": "Peeping Life: World History",
@@ -477,6 +484,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:148972",
+      "type": "series",
+      "name": "Xiong Chumo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148972-tvIL8Q58zahZ.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:120137",
       "type": "series",
       "name": "Nulu-chan and me",
@@ -491,6 +505,27 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:130673",
+      "type": "series",
+      "name": "LaLaLa Demacia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130673-SA0BcYV1FvNi.jpg",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "anilist:129584",
+      "type": "series",
+      "name": "Sai Er Hao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129584-N6DM1ui6CCa7.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:103723",
+      "type": "series",
+      "name": "The Configurators 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103723-uvotFijG4gCY.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:15657",
       "type": "series",
       "name": "Yuke! Shouei-kun",
@@ -502,6 +537,13 @@
       "type": "series",
       "name": "Happening Star ☆",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12643.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129489",
+      "type": "series",
+      "name": "Guobao Te Gong 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129489-NUZm4SeyZjY2.png",
       "releaseInfo": "2012"
     },
     {
@@ -1212,6 +1254,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:103757",
+      "type": "series",
+      "name": "Huainanzi Chuanqi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103757-7cx7TbE3l7jD.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:13497",
       "type": "series",
       "name": "Neko no Sumu Shima",
@@ -1272,6 +1321,20 @@
       "type": "series",
       "name": "Yama ni Kagayaku: Guide-ken Heiji Gou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20205.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:203022",
+      "type": "series",
+      "name": "Shui Man Jinshan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203022-cfCyPSjCPiyV.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:209474",
+      "type": "series",
+      "name": "Miss Puff Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b209474-VXKSGzfiEhrM.jpg",
       "releaseInfo": "2012"
     },
     {
@@ -1779,6 +1842,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:103425",
+      "type": "series",
+      "name": "Infinity Nado",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103425-tSfI3dMqGbyS.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:15211",
       "type": "series",
       "name": "Nazotoki-hime wa Meitantei♥",
@@ -1790,6 +1860,13 @@
       "type": "series",
       "name": "Cinnamon no Parade",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14537.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:103363",
+      "type": "series",
+      "name": "Shiwan Ge Leng Xiaohua",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103363-VcMZs4qEREAs.jpg",
       "releaseInfo": "2012"
     },
     {
@@ -1814,6 +1891,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:148973",
+      "type": "series",
+      "name": "Xiong Chumo: Huanqiu Da Maoxian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148973-kqhlNvcOxCRi.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:15069",
       "type": "series",
       "name": "Robin with his 100 Friends Season 2",
@@ -1821,10 +1905,24 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:130674",
+      "type": "series",
+      "name": "LaLaLa Demacia 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130674-KtAkIaP6CmLU.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:131852",
       "type": "series",
       "name": "Tiandi Fengyun Lu: Juezhan Shike",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131852-otepyHsCl9D3.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:131590",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Athletic Carousel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131590-szrLLfaoXFaD.png",
       "releaseInfo": "2012"
     },
     {
@@ -2577,6 +2675,13 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:15905",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Wanli Changcheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15905-OjcXyf0ClZ8K.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:18133",
       "type": "series",
       "name": "Ikeike! Momon-chan",
@@ -2612,10 +2717,24 @@
       "releaseInfo": "2012"
     },
     {
+      "id": "anilist:108020",
+      "type": "series",
+      "name": "Vary Peri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108020-IfKf2fQSHc22.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:138990",
       "type": "series",
       "name": "The Art of 10^64 -Understanding Vastness-\" Time with class! Let's count!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138990-UZ89QE6wSq2N.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:121237",
+      "type": "series",
+      "name": "Tianxin Gege 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121237-CkkjSc3ZwSoq.jpg",
       "releaseInfo": "2012"
     },
     {
@@ -2630,6 +2749,27 @@
       "type": "series",
       "name": "Dogra Magra",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182141-PJc3nTICTEOM.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:132512",
+      "type": "series",
+      "name": "Annyeong Jaduya Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132512-x3iqv3bSbNDx.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129382",
+      "type": "series",
+      "name": "Baobei Nüer Hao Mama: Kuaile de Jiating",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129382-Fo9PODubjHAx.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129293",
+      "type": "series",
+      "name": "Fu Wu Shu: Zhanguo Fengyun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129293-gbPTpVF3f9rX.png",
       "releaseInfo": "2012"
     },
     {

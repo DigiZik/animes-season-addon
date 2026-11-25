@@ -92,6 +92,20 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:131563",
+      "type": "movie",
+      "name": "Pleasant Goat and Big Big Wolf: The Mythical Ark - Adventures in Love & Happiness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131563-Yzk0MXvVGSXj.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:102697",
+      "type": "movie",
+      "name": "Jungle Master",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102697-6ybYEHHiC99I.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16782",
       "type": "movie",
       "name": "The Garden of Words",
@@ -166,6 +180,13 @@
       "type": "movie",
       "name": "BIBLIOMANIA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145442-kJ9lus7GYQCa.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19687",
+      "type": "movie",
+      "name": "Kuiba II: Dazhan Yuan Yang Jie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19687-u0vdKF8MBM2l.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -285,6 +306,13 @@
       "type": "movie",
       "name": "Yasai no Yousei: Quiz Gekijou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18817.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129554",
+      "type": "movie",
+      "name": "Sai Er Hao Da Dianying 3: Zhanshen Lianmeng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129554-bq0W1rqLYxw6.png",
       "releaseInfo": "2013"
     },
     {
@@ -418,6 +446,20 @@
       "type": "movie",
       "name": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19587-C2xvdeZ3LgZ8.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:102397",
+      "type": "movie",
+      "name": "Frog Kingdom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102397-Bfn8N9NeFhPD.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:109196",
+      "type": "movie",
+      "name": "Zheng He 1405 Voyage Extraordinaire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109196-SvoVhTC1F1KO.jpg",
       "releaseInfo": "2013"
     }
   ]

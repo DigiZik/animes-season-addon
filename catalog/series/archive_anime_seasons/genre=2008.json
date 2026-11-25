@@ -365,6 +365,20 @@
       "releaseInfo": "2008"
     },
     {
+      "id": "anilist:165984",
+      "type": "series",
+      "name": "Heugjangmi Buinui Munbanggu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165984-pkyUvH4waeX8.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129475",
+      "type": "series",
+      "name": "Hapi Fu Zi 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129475-4MEAO0Sn9JAF.png",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "anilist:3588",
       "type": "series",
       "name": "Soul Eater",
@@ -946,6 +960,13 @@
       "releaseInfo": "2008"
     },
     {
+      "id": "anilist:103971",
+      "type": "series",
+      "name": "Zhuzhu Xia: Yong Chuang Weilai Cheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103971-z7veccx1FUAg.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "anilist:185887",
       "type": "series",
       "name": "Yatterman Specials",
@@ -964,6 +985,27 @@
       "type": "series",
       "name": "Nanami-chan 5",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116048-cM4QOqWmcFQh.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:163697",
+      "type": "series",
+      "name": "Magic Wonderland",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b163697-tED74SR8jDTI.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129493",
+      "type": "series",
+      "name": "Xiaosong Dangjia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129493-sdm4UNuqaB80.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129472",
+      "type": "series",
+      "name": "Taoqi Bao Ma Xiaotiao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129472-9HYGIIssTrat.png",
       "releaseInfo": "2008"
     },
     {
@@ -1072,17 +1114,17 @@
       "releaseInfo": "2008"
     },
     {
-      "id": "anilist:4415",
-      "type": "series",
-      "name": "Sands of Destruction",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4415-wZ9dnrUApHRw.png",
-      "releaseInfo": "2008"
-    },
-    {
       "id": "anilist:5163",
       "type": "series",
       "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:4415",
+      "type": "series",
+      "name": "Sands of Destruction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4415-wZ9dnrUApHRw.png",
       "releaseInfo": "2008"
     },
     {
@@ -1331,6 +1373,13 @@
       "releaseInfo": "2008"
     },
     {
+      "id": "anilist:11841",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Ye Jin Tianming",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11841.jpg",
+      "releaseInfo": "2008"
+    },
+    {
       "id": "anilist:108057",
       "type": "series",
       "name": "Ganbare Memeko-chan",
@@ -1370,6 +1419,20 @@
       "type": "series",
       "name": "RoboDz",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4547.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:131567",
+      "type": "series",
+      "name": "Pleasant Goat Sports Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131567-lnVITk1wLkcM.png",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:129290",
+      "type": "series",
+      "name": "Fu Wu Shu: 36 Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129290-Ijg902cGrQYI.jpg",
       "releaseInfo": "2008"
     },
     {
@@ -1758,17 +1821,17 @@
       "releaseInfo": "2008"
     },
     {
-      "id": "anilist:6783",
-      "type": "series",
-      "name": "ef ~ A Tale of Melodies - Recollections",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6783.jpg",
-      "releaseInfo": "2008"
-    },
-    {
       "id": "anilist:4549",
       "type": "series",
       "name": "Legends of the Dark King: A Fist of the North Star Story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4549-KXWi6m6ZxZSV.jpg",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "anilist:6783",
+      "type": "series",
+      "name": "ef ~ A Tale of Melodies - Recollections",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6783.jpg",
       "releaseInfo": "2008"
     },
     {

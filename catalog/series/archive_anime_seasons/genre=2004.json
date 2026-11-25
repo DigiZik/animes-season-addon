@@ -981,17 +981,17 @@
       "releaseInfo": "2004"
     },
     {
-      "id": "anilist:1020",
-      "type": "series",
-      "name": "Mirage of Blaze: Rebels of the River Edge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1020.jpg",
-      "releaseInfo": "2004"
-    },
-    {
       "id": "anilist:2727",
       "type": "series",
       "name": "Sweet Valerian",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2727.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "anilist:1020",
+      "type": "series",
+      "name": "Mirage of Blaze: Rebels of the River Edge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1020.jpg",
       "releaseInfo": "2004"
     },
     {
@@ -1065,6 +1065,13 @@
       "releaseInfo": "2004"
     },
     {
+      "id": "anilist:103176",
+      "type": "series",
+      "name": "Feng Ji Yun Nu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103176-goZsFEwiTiIB.png",
+      "releaseInfo": "2004"
+    },
+    {
       "id": "anilist:132325",
       "type": "series",
       "name": "Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi",
@@ -1076,6 +1083,13 @@
       "type": "series",
       "name": "PostPet Momobin",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1656.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "anilist:129381",
+      "type": "series",
+      "name": "Baobei Nüer Hao Mama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129381-aELtSxPWZbcH.png",
       "releaseInfo": "2004"
     },
     {

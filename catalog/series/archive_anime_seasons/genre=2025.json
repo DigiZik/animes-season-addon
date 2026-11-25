@@ -183,6 +183,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "anilist:170166",
+      "type": "series",
+      "name": "Link Click: Bridon Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170166-VpX7l0Horthq.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:175198",
       "type": "series",
       "name": "Übel Blatt",
@@ -442,6 +449,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:168116",
+      "type": "series",
+      "name": "Left-Hand Layup! Season2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168116-emRtSAxmFObq.png",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:181886",
       "type": "series",
       "name": "Kinnikuman Perfect Origin Arc Season 2",
@@ -463,10 +477,24 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:153473",
+      "type": "series",
+      "name": "Wu Lian Dianfeng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153473-0convCYDOTOm.png",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:186300",
       "type": "series",
       "name": "minute! Kaiju No. 8",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:137680",
+      "type": "series",
+      "name": "Quanqiu Gao Wu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137680-aqmYQ0HIfYqL.png",
       "releaseInfo": "2024"
     },
     {
@@ -482,6 +510,13 @@
       "name": "Lockdown Zone: Level X Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182877-In2sD6eEJdvw.png",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:185719",
+      "type": "series",
+      "name": "Cang Yuan Tu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185719-WYjFlJ2BKtEy.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "anilist:173333",
@@ -547,6 +582,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:141867",
+      "type": "series",
+      "name": "The Legend of Princess Chang-Ge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141867-8YMiHRZpJzcm.png",
+      "releaseInfo": "2025"
+    },
+    {
       "id": "anilist:204381",
       "type": "series",
       "name": "Honkai: Star Rail - T H E H E R T A'S M A G I C K I T C H E N",
@@ -566,6 +608,13 @@
       "name": "Let's Roll, Cinnamoroll!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187514-NvIkv0KVoYBF.jpg",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:185726",
+      "type": "series",
+      "name": "Quanzhi Gaoshou: Rongyao Xiao Juchang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185726-CRJpwjpBpYss.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "anilist:204403",
@@ -603,11 +652,25 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:185832",
+      "type": "series",
+      "name": "Yongheng Jian Zu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185832-RLMvYxpAXTYN.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:185900",
       "type": "series",
       "name": "Hoshi no Kodomo to Hajimari no Ki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185900-c5hOndo2zcNd.png",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:187833",
+      "type": "series",
+      "name": "CAPSULES: Hero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187833-a5X3z4s4JlEK.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "anilist:213461",
@@ -680,17 +743,17 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:185860",
+      "type": "series",
+      "name": "Renjian Zui Deyi 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185860-wyyzuCkSHuC0.png",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:189733",
       "type": "series",
       "name": "Haai! Myakumyaku desu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189733-PgwNxBPV1BSA.jpg",
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "anilist:188036",
-      "type": "series",
-      "name": "AOTU Shijie Reborn",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188036-Y8XN1P6cg9Ku.png",
       "releaseInfo": "2025"
     },
     {
@@ -701,11 +764,25 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:213696",
+      "type": "series",
+      "name": "Shi Wang Zhe A? 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213696-zCm6mzj3rIdP.png",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:196249",
       "type": "series",
       "name": "Pleasant Goat and Big Big Wolf: Martial World Rescue",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196249-uJK9BunCreuG.png",
       "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:195890",
+      "type": "series",
+      "name": "Guangying Tian Yan Zhan Jia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195890-cWBQMfYjboKh.jpg",
+      "releaseInfo": "2024"
     },
     {
       "id": "anilist:214869",
@@ -1289,13 +1366,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "anilist:205941",
-      "type": "series",
-      "name": "Genshin Impact \"Star Odyssey\"",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205941-ccAnqc2t2qm6.jpg",
-      "releaseInfo": "2025"
-    },
-    {
       "id": "anilist:189891",
       "type": "series",
       "name": "Kanchigai no Atelier Meister Mini Anime",
@@ -1303,10 +1373,10 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "anilist:141867",
+      "id": "anilist:205941",
       "type": "series",
-      "name": "The Legend of Princess Chang-Ge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141867-8YMiHRZpJzcm.png",
+      "name": "Genshin Impact \"Star Odyssey\"",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205941-ccAnqc2t2qm6.jpg",
       "releaseInfo": "2025"
     },
     {
@@ -1510,6 +1580,13 @@
       "type": "series",
       "name": "Shinya Ramen no Yuuwaku: SUNTORY Karada wo Omou All-Free CM",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199371-gxvEDjfgJQQS.png",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:188036",
+      "type": "series",
+      "name": "AOTU Shijie Reborn",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188036-Y8XN1P6cg9Ku.png",
       "releaseInfo": "2025"
     },
     {

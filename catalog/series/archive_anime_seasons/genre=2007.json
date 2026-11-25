@@ -267,6 +267,13 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:9806",
+      "type": "series",
+      "name": "Qin Shi Mingyue: Bai Bu Fei Jian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9806-98ES0ETwtquV.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "anilist:1885",
       "type": "series",
       "name": "Master of Epic: The Animation Age",
@@ -302,10 +309,24 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:102501",
+      "type": "series",
+      "name": "Shaolin Wuzang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102501-5W7xMApT77OM.jpg",
+      "releaseInfo": "2006"
+    },
+    {
       "id": "anilist:121069",
       "type": "series",
       "name": "Dennou Senshi Dokan-kun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121069-EHSa8Hgsa3Pd.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:129465",
+      "type": "series",
+      "name": "Yincha's Gongfu Xueyuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129465-DQ7eKteOJ06X.jpg",
       "releaseInfo": "2007"
     },
     {
@@ -883,6 +904,13 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:104183",
+      "type": "series",
+      "name": "The Adventures of Little Carp",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104183-zLtlfIAQS5Sy.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "anilist:116046",
       "type": "series",
       "name": "Nanami-chan 4",
@@ -894,6 +922,13 @@
       "type": "series",
       "name": "Dennou Senshi Dokan-kun: Champ Dokan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121077-Pbhq0sbifmXV.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:214511",
+      "type": "series",
+      "name": "Lei Su Deng Shandian Chong Xian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214511-o69yLhedEUKG.jpg",
       "releaseInfo": "2007"
     },
     {
@@ -1240,6 +1275,13 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:9949",
+      "type": "series",
+      "name": "Fuwa Aoyun Manyou Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9949-6cQRk7mZ8L8R.jpg",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "anilist:121071",
       "type": "series",
       "name": "Susume! Dokan-kun",
@@ -1247,10 +1289,38 @@
       "releaseInfo": "2007"
     },
     {
+      "id": "anilist:124449",
+      "type": "series",
+      "name": "Hong Mao Lan Tu: A Muxing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124449-Vixe6nnxa0lX.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:129278",
+      "type": "series",
+      "name": "Shen Chu Xiao Fugui",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129278-CsZB43ZWxhW5.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:129474",
+      "type": "series",
+      "name": "Hapi Fu Zi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129474-2JsT2sAxiONV.png",
+      "releaseInfo": "2007"
+    },
+    {
       "id": "anilist:168626",
       "type": "series",
       "name": "Esper Mami Pilot Film",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b168626-cwu6S4XnTBrT.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:129354",
+      "type": "series",
+      "name": "Laodai He Xiaodai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129354-KikSD5vzXYCK.jpg",
       "releaseInfo": "2007"
     },
     {
@@ -1737,17 +1807,17 @@
       "releaseInfo": "2007"
     },
     {
-      "id": "anilist:17933",
-      "type": "series",
-      "name": "Blow the Flute Jaguar!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17933.jpg",
-      "releaseInfo": "2007"
-    },
-    {
       "id": "anilist:9365",
       "type": "series",
       "name": "Sisters of Wellber - Elegy for a Sad Warrior",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9365.jpg",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:17933",
+      "type": "series",
+      "name": "Blow the Flute Jaguar!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17933.jpg",
       "releaseInfo": "2007"
     },
     {
@@ -1860,6 +1930,13 @@
       "type": "series",
       "name": "Shampoo Ouji",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141080-FvF1PjyFfuL3.png",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "anilist:129272",
+      "type": "series",
+      "name": "Shenbing Xiaojiang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129272-i7D74OvjU0Gz.png",
       "releaseInfo": "2007"
     }
   ]

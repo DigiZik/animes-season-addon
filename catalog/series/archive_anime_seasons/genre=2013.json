@@ -456,10 +456,31 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:151281",
+      "type": "series",
+      "name": "Boonie Bears: Homeward Journey",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151281-HwHxxtvqAV48.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:103704",
       "type": "series",
       "name": "Kkoma Sinseon Tao 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103704-SVwmfPPMDud1.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131591",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Happy Diary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131591-qxQvbBOTngWn.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:129586",
+      "type": "series",
+      "name": "Sai Er Hao 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129586-HvcdQj7uJmxD.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -488,6 +509,13 @@
       "type": "series",
       "name": "Oh! Wooper Looper",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183823-kT0sK6iWX6VF.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:193471",
+      "type": "series",
+      "name": "Electro Boy 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b193471-wZdaD0NpJidT.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -897,17 +925,17 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:18781",
-      "type": "series",
-      "name": "Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Harukasan Matsuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18781.jpg",
-      "releaseInfo": "2013"
-    },
-    {
       "id": "anilist:17705",
       "type": "series",
       "name": "DD Fist of the North Star",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17705.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18781",
+      "type": "series",
+      "name": "Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Harukasan Matsuri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18781.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1037,6 +1065,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:104469",
+      "type": "series",
+      "name": "Balala Xiao Moxian: Qiji Wubu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104469-xhkoz1mKmUve.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:17141",
       "type": "series",
       "name": "KARA THE ANIMATION",
@@ -1142,6 +1177,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:104465",
+      "type": "series",
+      "name": "Brinken: Skate Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104465-8mGEmZOwUZmO.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18469",
       "type": "series",
       "name": "Odoriko Clinoppe",
@@ -1163,6 +1205,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:130675",
+      "type": "series",
+      "name": "LaLaLa Demacia 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130675-1dKQyLqfvf26.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:129845",
       "type": "series",
       "name": "FunaQ: Funassyi to Soutai-kun",
@@ -1174,6 +1223,13 @@
       "type": "series",
       "name": "Passionate Elephant",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183822-i0SQ36HbtQY8.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129301",
+      "type": "series",
+      "name": "Duo Bao Xingyun Xing 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129301-2iB0BvKySuiF.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1807,6 +1863,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:102236",
+      "type": "series",
+      "name": "Zinba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102236-nk6PnsNbq0QX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:98133",
       "type": "series",
       "name": "Promise",
@@ -1895,6 +1958,34 @@
       "type": "series",
       "name": "Yuuto-kun ga Iku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18983.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:118638",
+      "type": "series",
+      "name": "The Guardians of Carcosa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118638-gSKAHXC2qHmt.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:148974",
+      "type": "series",
+      "name": "Xiong Chumo: Conglin Zhongdongyuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148974-69v8jPb9Z6dX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:103967",
+      "type": "series",
+      "name": "Zhuzhu Xia: Xingfu Jiuyuandui",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103967-6bogpgrS6VDw.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131592",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Happy Formula",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131592-0omNc6pqwy9N.png",
       "releaseInfo": "2013"
     },
     {
@@ -2374,17 +2465,17 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:101928",
-      "type": "series",
-      "name": "Kenichi: The Mightiest Disciple OVA Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101928-kMGQQiunTbnP.jpg",
-      "releaseInfo": "2013"
-    },
-    {
       "id": "anilist:20570",
       "type": "series",
       "name": "Pocket Monsters Best Wishes! Season 2: Decolora Adventure Specials",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20570-Pa7k5XxvReui.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:101928",
+      "type": "series",
+      "name": "Kenichi: The Mightiest Disciple OVA Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101928-kMGQQiunTbnP.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2441,6 +2532,13 @@
       "type": "series",
       "name": "Koroshiya-san: The hired gun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20329.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:99660",
+      "type": "series",
+      "name": "Lu Shidai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99660-Bg9YJTlDn8aq.png",
       "releaseInfo": "2013"
     },
     {
@@ -2535,6 +2633,20 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:102689",
+      "type": "series",
+      "name": "Chao Shen Youxi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102689-myID5XnlQZgU.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:104558",
+      "type": "series",
+      "name": "Jinxiu Shenzhou Zhi Qi You Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104558-3gzwncVowrW7.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:20445",
       "type": "series",
       "name": "Voice Actor Force Voicetorm 7",
@@ -2546,6 +2658,13 @@
       "type": "series",
       "name": "Norasco",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b115296-Ucg3cqZ9vs2P.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:185967",
+      "type": "series",
+      "name": "Choegang Top Plate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185967-AZzzqbfn0cnz.png",
       "releaseInfo": "2013"
     }
   ]

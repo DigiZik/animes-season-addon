@@ -71,10 +71,24 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "anilist:168251",
+      "type": "movie",
+      "name": "The Outcast Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168251-BIKL8ReHdIfS.png",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:186764",
       "type": "movie",
       "name": "SINoALICE: Ichiban Saigo no Monogatari",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186764-xza3eXsvxNz2.png",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:149025",
+      "type": "movie",
+      "name": "Dayu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149025-2oO4v93QAfj1.png",
       "releaseInfo": "2024"
     },
     {
@@ -85,10 +99,24 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "anilist:143560",
+      "type": "movie",
+      "name": "Bajie Zhi Tian Peng Xiajie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143560-SOjVgRM4qawZ.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:172976",
       "type": "movie",
       "name": "Shimajirou Miracle-jima no Nanairo Carnation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172976-aVwpVKzEDr6G.png",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:206223",
+      "type": "movie",
+      "name": "Jiangtun: Feng Shi Wu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206223-qF9cR9ZnL8e5.jpg",
       "releaseInfo": "2024"
     },
     {
@@ -344,6 +372,13 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "anilist:199433",
+      "type": "movie",
+      "name": "White Snake: Afloat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199433-6skyZha5aFGD.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:211328",
       "type": "movie",
       "name": "First Line",
@@ -351,10 +386,38 @@
       "releaseInfo": "2024"
     },
     {
+      "id": "anilist:179214",
+      "type": "movie",
+      "name": "San Shao Nü",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179214-0TtD0fUpL8jj.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:124343",
+      "type": "movie",
+      "name": "Erlang Shen: Shenhai Jialong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124343-iUhlHLztXsIc.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:185117",
+      "type": "movie",
+      "name": "Into The Mortal World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185117-xHOWz2E7f0K1.jpg",
+      "releaseInfo": "2024"
+    },
+    {
       "id": "anilist:181179",
       "type": "movie",
       "name": "Sarangui Heartsping",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181179-1V48e3Pf9JPZ.jpg",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:131791",
+      "type": "movie",
+      "name": "Pleasant Goat and Big Big Wolf: The World Guardians",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131791-nwBkfaYkffmm.png",
       "releaseInfo": "2024"
     },
     {
@@ -453,6 +516,13 @@
       "type": "movie",
       "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175138-SLaKyfkWnY0y.png",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "anilist:166511",
+      "type": "movie",
+      "name": "Xiongshi Shaonian 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166511-sYTbFFDtAY0M.jpg",
       "releaseInfo": "2024"
     }
   ]

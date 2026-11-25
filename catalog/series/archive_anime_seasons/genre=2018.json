@@ -337,6 +337,20 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:100811",
+      "type": "series",
+      "name": "Aishen Qiaokeli-ING... II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100811-R0jwVfQbmlRF.jpg",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "anilist:100813",
+      "type": "series",
+      "name": "Spiritpact -Bond of The Underworld-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100813-SRblYrhgGEva.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:108939",
       "type": "series",
       "name": "Shagahai ReLIFE Kenkyuujo Support-ka",
@@ -362,6 +376,13 @@
       "type": "series",
       "name": "HUGtto! Precure",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100661-XT2NWXKklV5T.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101920",
+      "type": "series",
+      "name": "Soul Land",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101920-g7P83Uveo26D.png",
       "releaseInfo": "2018"
     },
     {
@@ -397,6 +418,13 @@
       "type": "series",
       "name": "Shinmai Maou no Testament: DEPARTURES - Maria no Hizou Eizou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108944-rrEtLxl9Fok9.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101132",
+      "type": "series",
+      "name": "Mi Yu Xingzhe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101132-RJw3oJhhGmNK.png",
       "releaseInfo": "2018"
     },
     {
@@ -477,6 +505,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:101917",
+      "type": "series",
+      "name": "Yao Shen Ji 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101917-kV7IYBO13QB3.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:154956",
       "type": "series",
       "name": "○○ sae Ireba Ii. Specials",
@@ -505,6 +540,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:101971",
+      "type": "series",
+      "name": "Rang Women Shao Ba!!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101971-OYs1BxBV3N1X.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:101037",
       "type": "series",
       "name": "chichibu de buchichi",
@@ -517,6 +559,13 @@
       "name": "gdgd men's party",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100527-VCJUxvBBtvB7.jpg",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:102155",
+      "type": "series",
+      "name": "Wu Geng Ji 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102155-NiciIAqNm0Hm.jpg",
+      "releaseInfo": "2017"
     },
     {
       "id": "anilist:126889",
@@ -559,6 +608,13 @@
       "name": "Puchimas!: PETIT IDOLM@STER (OVA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117398-1tJXlKWsD1Vo.png",
       "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:107906",
+      "type": "series",
+      "name": "Gun God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107906-jJaFrYPSESnz.jpg",
+      "releaseInfo": "2017"
     },
     {
       "id": "anilist:145985",
@@ -624,6 +680,13 @@
       "releaseInfo": "2017"
     },
     {
+      "id": "anilist:129223",
+      "type": "series",
+      "name": "Hua Jianghu: Xia Lan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129223-ZxdeFoCTN48O.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:101017",
       "type": "series",
       "name": "Uchi no Oochopus",
@@ -638,10 +701,80 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:131726",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Flying Island: The Sky Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131726-khZKlPQFpDIX.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:131778",
+      "type": "series",
+      "name": "Pleasant Goat Fun Class: Idiom World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131778-uF65e47cG7vh.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:131779",
+      "type": "series",
+      "name": "Pleasant Goat Fun Class: Finding Treasures",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131779-0FAvnJWhWmBd.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:188066",
+      "type": "series",
+      "name": "Titipo Titipo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188066-XWp9uDCFlOib.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:132515",
+      "type": "series",
+      "name": "Annyeong Jaduya 4: Jaduwa Chingudeul",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132515-l65NObkfDKkk.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:121232",
+      "type": "series",
+      "name": "Wangzhe Wai Zhuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121232-jj7axd3YIov5.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:206846",
       "type": "series",
       "name": "Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206846-pJUxTouptysH.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:109152",
+      "type": "series",
+      "name": "Xiagu Zhong An Zu 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109152-wFF3HngnFzD5.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:121223",
+      "type": "series",
+      "name": "Nüsheng Sushe Richang 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121223-PH095QfUASkN.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:155249",
+      "type": "series",
+      "name": "Tiantian Chengzhang Ji 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155249-bwMAe6fsoBwK.png",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "anilist:129274",
+      "type": "series",
+      "name": "Shenbing Xiaojiang 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129274-xvU3BC82vXRc.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -827,6 +960,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:101410",
+      "type": "series",
+      "name": "Quanzhi Gaoshou Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101410-DS14ggjKRPoU.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:20628",
       "type": "series",
       "name": "Legend of the Galactic Heroes: Die Neue These",
@@ -883,6 +1023,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:98575",
+      "type": "series",
+      "name": "To Be Heroine",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98575-dcsUXxHePLLx.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:97873",
       "type": "series",
       "name": "Isekai Izakaya: Japanese Food From Another World",
@@ -922,6 +1069,13 @@
       "type": "series",
       "name": "Lupin the 3rd Part V",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100957-UwKZ9T6eMSJD.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:98477",
+      "type": "series",
+      "name": "Frankenstein Family",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98477-D89t4S2WDmxv.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1044,17 +1198,17 @@
       "releaseInfo": "2018"
     },
     {
-      "id": "anilist:101043",
-      "type": "series",
-      "name": "Aikatsu Friends!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101043-zlDZ74rVpVPo.jpg",
-      "releaseInfo": "2018"
-    },
-    {
       "id": "anilist:103888",
       "type": "series",
       "name": "Caramel Honey",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103888-hDYk6K2iITgN.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101043",
+      "type": "series",
+      "name": "Aikatsu Friends!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101043-zlDZ74rVpVPo.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1090,6 +1244,13 @@
       "type": "series",
       "name": "Gurazeni: Money Pitch",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98479-YteIiMYKnVP3.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101919",
+      "type": "series",
+      "name": "Wo De Nitian Shenqi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101919-SttrqYcaXYGQ.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1156,6 +1317,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:102463",
+      "type": "series",
+      "name": "Fights Break Sphere S2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102463-5opReVQoz0zb.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:100966",
       "type": "series",
       "name": "Ninja Girl & Samurai Master 3rd",
@@ -1163,10 +1331,31 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:102510",
+      "type": "series",
+      "name": "The Emperor's Strategy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102510-sv134CcuClqD.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:103350",
+      "type": "series",
+      "name": "Fei Ren Zai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103350-SBivcMY5Z6l9.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:110344",
       "type": "series",
       "name": "GOD EATER Reso Nantoka Gekijou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110344-tXgTHr406pM9.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101966",
+      "type": "series",
+      "name": "Wo Jia Da Shixiong Naozi You Keng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101966-05APsz77zSsu.png",
       "releaseInfo": "2018"
     },
     {
@@ -1205,17 +1394,24 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:103922",
+      "type": "series",
+      "name": "Wan Jie Xian Zong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103922-oWj3nJooItUr.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:102003",
+      "type": "series",
+      "name": "Huan Jie Wang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102003-raBx1N4ZNR0c.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:102004",
       "type": "series",
       "name": "Onmyouji: Heian Monogatari",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102004-KtbwGJYZGDtW.jpg",
-      "releaseInfo": "2018"
-    },
-    {
-      "id": "anilist:101385",
-      "type": "series",
-      "name": "Future Card Buddyfight X: All-Star Fight",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101385-Y1YTOquyit5D.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1226,10 +1422,38 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:101385",
+      "type": "series",
+      "name": "Future Card Buddyfight X: All-Star Fight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101385-Y1YTOquyit5D.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:102447",
+      "type": "series",
+      "name": "Dawn Of The World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102447-chHZJ0Iqp6zU.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:112004",
       "type": "series",
       "name": "Wacky TV Nanana",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112004-1QUwOIDReZ3t.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:143572",
+      "type": "series",
+      "name": "KisKis! My Boyfriends Are Mint Candies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143572-5hHaiqpBO7bb.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101550",
+      "type": "series",
+      "name": "Wo Shi Jiang Xiaobai Special Episode",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101550-S5wRipPxnSI7.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1282,6 +1506,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:102576",
+      "type": "series",
+      "name": "Wangu Xian Qiong 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102576-nVpg3FQ26rKn.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:104334",
       "type": "series",
       "name": "Naniiro no Nani",
@@ -1293,6 +1524,13 @@
       "type": "series",
       "name": "Oam Monogatari: Sono Natsu, Watashi ga Shitta koto",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106455-9zta4G3hwQBK.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101881",
+      "type": "series",
+      "name": "Ling Yu: Zhuiyi Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101881-fsCkJnLYvmiS.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1352,10 +1590,24 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:135278",
+      "type": "series",
+      "name": "Chao Zhineng Zuqiu 2: Shijie Dasai Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135278-eJyGAxCn6wAT.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:101354",
       "type": "series",
       "name": "Usagi no Matthew",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101354-hcw9Yd0je8Fz.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:103007",
+      "type": "series",
+      "name": "Watch the Sea Strategy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103007-uPvkZyoWTDr3.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1380,6 +1632,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:120230",
+      "type": "series",
+      "name": "Moshi Juexing: Ruqin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120230-1IPT4BOuGfHk.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:115007",
       "type": "series",
       "name": "Kekkero Kee",
@@ -1387,10 +1646,31 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:103987",
+      "type": "series",
+      "name": "Zhuzhu Xia: Jing Qiu Xiao Yingxiong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103987-ktDUUdQ42pA7.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:109930",
       "type": "series",
       "name": "wasimo 6",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109930-ooqYl3G5LAXT.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:103990",
+      "type": "series",
+      "name": "GG Bond: Adventure to the World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103990-qAX6ax3AEa5M.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129178",
+      "type": "series",
+      "name": "Baolie Feiche 3: Shou Shen Heti",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129178-32cETF5FGEce.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1419,6 +1699,20 @@
       "type": "series",
       "name": "Chikyuu to no Yakusoku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181817-gt1HFgQsyBvL.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:188817",
+      "type": "series",
+      "name": "Mini Force X",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188817-BtguT5ARLuDa.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:139728",
+      "type": "series",
+      "name": "Congming De Shunliu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139728-pr0oY3bNctTE.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1524,6 +1818,13 @@
       "type": "series",
       "name": "Sirius the Jaeger",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101361-q4sHpCRgkhYQ.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101972",
+      "type": "series",
+      "name": "The Founder of Diabolism",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101972-dep8Bcte5jQd.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1737,6 +2038,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:107913",
+      "type": "series",
+      "name": "Scissor Seven Extras",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107913-kM9fv7X13cXe.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:101830",
       "type": "series",
       "name": "Golden Kamuy OVA",
@@ -1800,6 +2108,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:104080",
+      "type": "series",
+      "name": "Look, I Can See Your Ears!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104080-KP0Yb9t17Ahu.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:100562",
       "type": "series",
       "name": "We Rent Tsukumogami",
@@ -1853,6 +2168,13 @@
       "type": "series",
       "name": "MEGALOBOX Specials",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102309-Oqt0sXQoJwN4.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:104074",
+      "type": "series",
+      "name": "Xiaolü He Xiaolan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104074-ke8nzp7YOav4.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -1926,6 +2248,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:102446",
+      "type": "series",
+      "name": "Sheng Shi Zhuang Niang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102446-eQWXGOZvTusm.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:103311",
       "type": "series",
       "name": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
@@ -1975,6 +2304,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:102400",
+      "type": "series",
+      "name": "Whited Nighttime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102400-cGvF7iDxjYA3.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:154125",
       "type": "series",
       "name": "Golden Kamuy: Golden Douga Gekijou Specials",
@@ -1996,10 +2332,24 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:107883",
+      "type": "series",
+      "name": "Xi Xing Ji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107883-2Gsti6Ac0y90.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:104006",
       "type": "series",
       "name": "Robot Girls NEO",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104006-qMEJ7zot5EsA.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:108986",
+      "type": "series",
+      "name": "Fighter of the Destiny SS4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108986-rW9XyQKtUcuz.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2038,6 +2388,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:104629",
+      "type": "series",
+      "name": "Beanie’s Daily",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104629-oBgJ2F5HvsrX.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:104003",
       "type": "series",
       "name": "A Second Away From A Kiss",
@@ -2066,6 +2423,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:103008",
+      "type": "series",
+      "name": "Dou Hun Wei Zhi Xuan Yue Qi Yuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103008-wwQZZadaqdJr.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:136222",
       "type": "series",
       "name": "Musunde Hiraite",
@@ -2080,6 +2444,41 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:106496",
+      "type": "series",
+      "name": "Dream Tower",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106496-57KsNpSagkeo.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:107909",
+      "type": "series",
+      "name": "Si Hai Jing Qi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107909-YNdJuptES601.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:105899",
+      "type": "series",
+      "name": "An Tu! An Tu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105899-yPUkADWkNmKS.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:115824",
+      "type": "series",
+      "name": "Bai Gui Youeryuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115824-ZkWdhCQJ9EHu.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:119921",
+      "type": "series",
+      "name": "Qiang Shen Ji: Tegong Shijia Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119921-EpIrXVSV7Omv.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:126843",
       "type": "series",
       "name": "Zannen na Ikimono Jiten",
@@ -2087,10 +2486,80 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:117163",
+      "type": "series",
+      "name": "Tian Yu 2: Cang Gu Zhi Ban",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117163-1bA8X1Y6KY5k.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:121200",
+      "type": "series",
+      "name": "Jing-Ju Cats 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121200-56lp7DQcKiOh.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:121178",
+      "type": "series",
+      "name": "Xiao Hua Xian 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121178-jDBLbgBTCewg.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:136164",
+      "type": "series",
+      "name": "Xian Hun Hou Chong Xiao Jiao Qi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136164-rCQmgJXHTjQ8.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:121186",
+      "type": "series",
+      "name": "Jiyi U-Pan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121186-8d4ekw7bvkfG.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:131890",
       "type": "series",
       "name": "Jin Guang Yu Jiu Jie: Qi Shen Lu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131890-nvYL82vbwhmc.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129598",
+      "type": "series",
+      "name": "Sai Er Hao 9",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129598-y2RmKepPsnTU.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:188059",
+      "type": "series",
+      "name": "Tayo the Little Bus Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188059-6CNTk5fQ9CJX.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129671",
+      "type": "series",
+      "name": "Nami Xueyuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129671-rdELOnYM0COR.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129661",
+      "type": "series",
+      "name": "Koushui Liang Shan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129661-XRt4iE5MxJRy.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:204623",
+      "type": "series",
+      "name": "Jiu Cang Miao Wo 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204623-9R48ZjomE9AR.png",
       "releaseInfo": "2018"
     },
     {
@@ -2227,6 +2696,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:107912",
+      "type": "series",
+      "name": "Scissor Seven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107912-pLrOL1AzEIEt.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:101381",
       "type": "series",
       "name": "DAKAICHI -I'm being harassed by the sexiest man of the year-",
@@ -2332,6 +2808,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:99935",
+      "type": "series",
+      "name": "Psychic Princess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99935-lQ2IPS31bJSK.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:105662",
       "type": "series",
       "name": "Cells at Work!: The Common Cold",
@@ -2371,6 +2854,13 @@
       "type": "series",
       "name": "School Babysitters OVA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102969-fLLFYLOUWvTH.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:104745",
+      "type": "series",
+      "name": "Full-Time Magister S3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104745-nhUQ61TomI4D.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2640,6 +3130,20 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:105626",
+      "type": "series",
+      "name": "Legend of Immortals",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105626-8XaQKngxBXa8.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:104959",
+      "type": "series",
+      "name": "Yao Shen Ji: Ying Yao Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104959-5pg7TdunGmHE.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:107874",
       "type": "series",
       "name": "Kangoku Jikken",
@@ -2710,6 +3214,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:108936",
+      "type": "series",
+      "name": "National Husband Bring Home SS4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108936-SjKMjhzXo6c3.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:109097",
       "type": "series",
       "name": "Tennis no Ouji-sama: BEST GAMES!!",
@@ -2721,6 +3232,13 @@
       "type": "series",
       "name": "Anima Yell! Ouen Douga",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106674-KC3IaTOcbZUw.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:108980",
+      "type": "series",
+      "name": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108980-xxy0QRTVnnrd.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2742,6 +3260,13 @@
       "type": "series",
       "name": "Meitantei Conan: Secret Amuro Call",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145494-HnT1yqnxbUcl.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:101789",
+      "type": "series",
+      "name": "Wo Shi Jiang Xiaobai: You Hua Dui Ni Shuo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101789-lJKWws55ao1X.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2780,6 +3305,13 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:108814",
+      "type": "series",
+      "name": "Balala The Fairies Ocean Magic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108814-7J3SCow55Q1X.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:126652",
       "type": "series",
       "name": "Pan to Boku no Momo-chan",
@@ -2791,6 +3323,13 @@
       "type": "series",
       "name": "HAKYU HOSHIN ENGI: The Blood of the Koh Family",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143303-0yZiBBjhmQJ5.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:108988",
+      "type": "series",
+      "name": "Hua Jianghu: Buliang Ren 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108988-MWZ2eRvGZNPZ.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2808,10 +3347,31 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:108985",
+      "type": "series",
+      "name": "Zhan Shou Zhi Ren",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108985-ZuUs1KEAcgVg.png",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:126758",
       "type": "series",
       "name": "JRA x Gudetama",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126758-qqLuelnmuMX2.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:110272",
+      "type": "series",
+      "name": "Dou Hun Wei Zhi Xuan Yue Qi Yuan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110272-Q9NcXbKwNFSz.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:110647",
+      "type": "series",
+      "name": "Shan He She Ji Tu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110647-itXahZ2au3n5.png",
       "releaseInfo": "2018"
     },
     {
@@ -2822,10 +3382,59 @@
       "releaseInfo": "2018"
     },
     {
+      "id": "anilist:121384",
+      "type": "series",
+      "name": "Zhandou Wang: Jufeng Zhan Hun 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121384-Mxfh2svizNP5.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:115902",
+      "type": "series",
+      "name": "Ruguo Lishi Shi Yi Qun Miao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115902-zT4zlmOXVgDy.jpg",
+      "releaseInfo": "2018"
+    },
+    {
       "id": "anilist:162690",
       "type": "series",
       "name": "Watashi no na wa Otafukuko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162690-nkDOgfeV0ytx.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:117001",
+      "type": "series",
+      "name": "Wo Jia Da Shixiong Naozi You Keng Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117001-pQiLO89e815W.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129634",
+      "type": "series",
+      "name": "Zhandou Ba Geji! 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129634-njEqtYGy93yH.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:129633",
+      "type": "series",
+      "name": "Zhandou Ba Geji! 0",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129633-Y3mpexN5ho2f.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:109194",
+      "type": "series",
+      "name": "0 Hao Sushe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109194-6W7XftbTGfF3.jpg",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:139622",
+      "type": "series",
+      "name": "He Nüer de Richang 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139622-I1ocTnBvSva3.jpg",
       "releaseInfo": "2018"
     },
     {
@@ -2840,6 +3449,13 @@
       "type": "series",
       "name": "Calico Critters: Mini Episodes -Ivy-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187053-KFJCIPQQGZEm.png",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "anilist:116995",
+      "type": "series",
+      "name": "Xiagu Zhong An Zu 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116995-kZxFTPYxkLXh.jpg",
       "releaseInfo": "2018"
     }
   ]

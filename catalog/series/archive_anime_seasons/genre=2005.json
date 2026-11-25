@@ -393,6 +393,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:203024",
+      "type": "series",
+      "name": "Tianshang Diao Xia Ge Zhu Bajie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203024-qa3jRG1m9Ivk.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:237",
       "type": "series",
       "name": "Eureka Seven",
@@ -1023,10 +1030,24 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:107070",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107070-xhhnoqjybFsI.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:20207",
       "type": "series",
       "name": "Boku no Boukuugou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20207.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:9952",
+      "type": "series",
+      "name": "Wei Qi Shao Nian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9952.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1506,6 +1527,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:129320",
+      "type": "series",
+      "name": "Meng Li Ren",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129320-AuADdlYLLcoI.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:145778",
       "type": "series",
       "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san to Chuuken Lucky Monogatari - Kameari Dai Houimou wo Kawase!!",
@@ -1517,6 +1545,13 @@
       "type": "series",
       "name": "Wonder Beat Daisakusen: Pilot Film",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145795-dgxAi6396bom.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:193472",
+      "type": "series",
+      "name": "Tian Jiang Xiaozi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b193472-IKgZumiYMdkS.jpg",
       "releaseInfo": "2005"
     }
   ]
