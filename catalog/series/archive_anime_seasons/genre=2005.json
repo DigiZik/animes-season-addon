@@ -1,10 +1,143 @@
 {
   "metas": [
     {
+      "id": "anilist:457",
+      "type": "series",
+      "name": "MUSHI-SHI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx457-l6cTtNgI9Bi6.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:355",
+      "type": "series",
+      "name": "Shakugan no Shana",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx355-tB52QB38leMs.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:237",
+      "type": "series",
+      "name": "Eureka Seven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx237-P1YEQQFqZ1An.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:228",
+      "type": "series",
+      "name": "Hell Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx228-J2J1CI4jfyeC.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:150",
+      "type": "series",
+      "name": "Blood+",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150-YRcwKiJEXcLx.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:322",
+      "type": "series",
+      "name": "Paradise Kiss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx322-4OvRw6V7JTiK.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:16",
+      "type": "series",
+      "name": "Honey and Clover",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16-S9k8qahNXoYP.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:477",
+      "type": "series",
+      "name": "ARIA The ANIMATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx477-CdKPHW7rGbUP.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:101",
       "type": "series",
       "name": "Air",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101-8ugQ3UjUQ8Ki.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:79",
+      "type": "series",
+      "name": "SHUFFLE!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx79-I1ODM0WcMlsn.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:357",
+      "type": "series",
+      "name": "Bludgeoning Angel Dokuro-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx357-k01dbafXBao6.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:68",
+      "type": "series",
+      "name": "Black Cat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx68-BY1vMbDYz977.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:73",
+      "type": "series",
+      "name": "Full Metal Panic! The Second Raid",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx73-UgXDGEMBPGle.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:177",
+      "type": "series",
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177-tU0wjdXRw5u8.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:488",
+      "type": "series",
+      "name": "Strawberry Marshmallow",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx488-FwxcBNNqG6TC.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:376",
+      "type": "series",
+      "name": "Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b376-BWSoURbn8HZR.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:67",
+      "type": "series",
+      "name": "Basilisk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx67-aBz3s2hBTtdH.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:15",
+      "type": "series",
+      "name": "Eyeshield 21",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15-A4F2t0TgWoi4.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:658",
+      "type": "series",
+      "name": "Akagi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx658-vfMTeXswhOzl.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:27",
+      "type": "series",
+      "name": "Trinity Blood",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx27-MOAaiBHHLfOY.png",
       "releaseInfo": "2005"
     },
     {
@@ -15,10 +148,31 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:469",
+      "type": "series",
+      "name": "Karin: Chibi Vampire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx469-8v2Am0gCrwvH.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:198",
+      "type": "series",
+      "name": "Speed Grapher",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198-11hkVkT4h4Im.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:50",
       "type": "series",
       "name": "Oh! My Goddess (TV)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx50-OdzAFLX6X6Hf.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:584",
+      "type": "series",
+      "name": "Noein: To Your Other Self",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx584-KBhhNX2H9LBw.png",
       "releaseInfo": "2005"
     },
     {
@@ -29,10 +183,73 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:479",
+      "type": "series",
+      "name": "The Law of Ueki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx479-DEz4w5b4JO7h.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:390",
+      "type": "series",
+      "name": "Suzuka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx390-rO6Vj8DyKcLb.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:413",
+      "type": "series",
+      "name": "Mars of Destruction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx413-Kk9E5BGQve1c.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:248",
+      "type": "series",
+      "name": "Strawberry 100%",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/248.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:489",
+      "type": "series",
+      "name": "Kamichu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx489-NKvW3coa4Q8D.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:490",
+      "type": "series",
+      "name": "Pani Poni Dash!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b490-KSxEkqG6QICq.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:478",
+      "type": "series",
+      "name": "Aquarion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx478-aRiAdGczAsMg.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:756",
       "type": "series",
       "name": "School Days",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx756-XAbKbFaUTDiA.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:65",
+      "type": "series",
+      "name": "Rozen Maiden: Dreaming",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx65-SnVu0Txb00nV.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:149",
+      "type": "series",
+      "name": "Loveless",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149-6QGLHgJc8gum.png",
       "releaseInfo": "2005"
     },
     {
@@ -43,10 +260,80 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:411",
+      "type": "series",
+      "name": "Gun x Sword",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx411-row6MWWNQDzH.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:77",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha A's",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx77-SwBCj7R1enWi.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1250",
+      "type": "series",
+      "name": "Elemental Gelade",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1250-pLME3wBHl6Yt.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:345",
+      "type": "series",
+      "name": "Emma: A Victorian Romance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx345-ItqN2dbXa99S.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:412",
+      "type": "series",
+      "name": "He is My Master",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx412-sptPOlVOH0Y0.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:487",
       "type": "series",
       "name": "GIRLS Bravo: second season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx487-6xYp38v7J5Ay.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1642",
+      "type": "series",
+      "name": "Sugar Sugar Rune",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1642-PE1QcCczThw5.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2951",
+      "type": "series",
+      "name": "Gintama: Jump Festa 2005 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2951-rl0US7OuMXbA.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3466",
+      "type": "series",
+      "name": "Kino no Tabi: the Beautiful World - Tou no Kuni: Free Lance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3466-L3DQqyjomYR1.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:591",
+      "type": "series",
+      "name": "Ah My Buddha!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx591-mXQD7F0lzkcN.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:389",
+      "type": "series",
+      "name": "Karas",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/389.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -57,10 +344,94 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:738",
+      "type": "series",
+      "name": "Marchen Awakens Romance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx738-NYgcMZwXOgdq.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:517",
       "type": "series",
       "name": "School Rumble OVA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b517-wYuK22CQJT6m.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:664",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Reflections",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:408",
+      "type": "series",
+      "name": "Final Fantasy VII: Last Order",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx408-iQDfox4DSCGb.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1974",
+      "type": "series",
+      "name": "Glass Mask (2005)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1974-PzoEQUA7jnRS.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:6291",
+      "type": "series",
+      "name": "Full Metal Panic! The Second Raid: Zenyasai - Scene 00",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6291-L4tafRNxmM44.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:99",
+      "type": "series",
+      "name": "My-Otome",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99-NOVuOiWoqpMb.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:656",
+      "type": "series",
+      "name": "Air in Summer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/656.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:476",
+      "type": "series",
+      "name": "Skating Rink Kaleidoscope",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/476.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2449",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2449-YZaDA9hyf7Ku.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:8687",
+      "type": "series",
+      "name": "Doraemon (2005)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2489",
+      "type": "series",
+      "name": "Onegai My Melody",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2489-iVJNpk4iZvH9.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2020",
+      "type": "series",
+      "name": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -71,10 +442,87 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:670",
+      "type": "series",
+      "name": "Lamune",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx670-j3gSsZF9NBtw.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:388",
+      "type": "series",
+      "name": "capeta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx388-4vycJx3nZhdF.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:819",
+      "type": "series",
+      "name": "Boku wa Imouto ni Koi wo Suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/819.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:448",
+      "type": "series",
+      "name": "Tenjho Tenge: The Ultimate Fight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx448-gbPXMCC1Gkcf.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:1532",
       "type": "series",
       "name": "Sukisho",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1532.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:152",
+      "type": "series",
+      "name": "Solty Rei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152-Dhq9vohv6AaN.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1316",
+      "type": "series",
+      "name": "Idaten Jump",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1316-LGJ4cP4Kwltj.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:126",
+      "type": "series",
+      "name": "Futakoi Alternative",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/126.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:308",
+      "type": "series",
+      "name": "Zettai Shounen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx308-vl9t9ZoJ51qT.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:291",
+      "type": "series",
+      "name": "D.C.S.S. ~Da Capo Second Season~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx291-mjwkHSLSO6CC.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:470",
+      "type": "series",
+      "name": "Okusama wa Joshikousei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b470-XbVwx3Ra2iaV.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:746",
+      "type": "series",
+      "name": "Papa to Kiss in the Dark",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/746.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -106,780 +554,10 @@
       "releaseInfo": "2005"
     },
     {
-      "id": "anilist:1241",
+      "id": "anilist:3270",
       "type": "series",
-      "name": "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1241.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:364",
-      "type": "series",
-      "name": "Gallery Fake",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx364-kLB2uJHqXodf.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:560",
-      "type": "series",
-      "name": "Soukyuu no Fafner: RIGHT OF LEFT - single program",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx560-dXVJeuipvBRF.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:184",
-      "type": "series",
-      "name": "Xenosaga: The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b184-KnONynUVG1aV.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:342",
-      "type": "series",
-      "name": "Starship Operators",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/342.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:406",
-      "type": "series",
-      "name": "BUZZER BEATER",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx406-6ZuGOngrLka2.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:641",
-      "type": "series",
-      "name": "Strawberry 100%",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/641.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:141",
-      "type": "series",
-      "name": "Jinki:Extend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141-T0EzqVXvLHwS.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1196",
-      "type": "series",
-      "name": "Gag Manga Biyori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1196.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1749",
-      "type": "series",
-      "name": "Ah! My Buddha Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1749.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:825",
-      "type": "series",
-      "name": "King of Fighters: Another Day",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b825-1JmwDIQkfNZF.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:354",
-      "type": "series",
-      "name": "Ultimate Girls",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx354-ywKWYbRZTGeA.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:349",
-      "type": "series",
-      "name": "Magical Kanan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/349.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:673",
-      "type": "series",
-      "name": "My-Hime Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1223",
-      "type": "series",
-      "name": "Ame to Shoujo to Watashi no Tegami",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1223.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:485",
-      "type": "series",
-      "name": "Damekko Doubutsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx485-JkVzRz4Dl1xD.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:928",
-      "type": "series",
-      "name": "Transformers: Cybertron",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx928-xcKekI3ckIps.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:574",
-      "type": "series",
-      "name": "The Wings of Rean",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx574-WkuBrilNesVM.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1515",
-      "type": "series",
-      "name": "Fighting Fairy Girl Rescue Me: Mave-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1515-0MEgFpKwGXL6.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4450",
-      "type": "series",
-      "name": "Chrno Crusade: Azmaria's Lessons",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4450.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1235",
-      "type": "series",
-      "name": "I''s Pure Bonus",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1235.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4667",
-      "type": "series",
-      "name": "Battle B-Daman: Fire Spirits",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4667-98SnEiKCA6Rd.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2308",
-      "type": "series",
-      "name": "Lime-iro Ryuukitan X CROSS: Koi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2308.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3157",
-      "type": "series",
-      "name": "Guardian Hearts-Power UP!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3157-lMZNfQ4xj4tx.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:402",
-      "type": "series",
-      "name": "Otogi-juushi Akazukin (OVA)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx402-Xkz8RLoOxqWA.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3004",
-      "type": "series",
-      "name": "Saint Beast: Ikusen no Hiru to Yoru-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3004.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:960",
-      "type": "series",
-      "name": "Legend of the Condor Hero II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/960.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4070",
-      "type": "series",
-      "name": "Black Jack: Dr. Pinoco's Adventure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n4070-y97YnFWoAL7I.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2707",
-      "type": "series",
-      "name": "Majime ni Fumajime Kaiketsu Zorori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2707-8g8tEPT16d8b.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:8189",
-      "type": "series",
-      "name": "The World of Golden Eggs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8189-4cB0lqwOEXwE.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:9967",
-      "type": "series",
-      "name": "W: Wish Omake",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9967.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1907",
-      "type": "series",
-      "name": "Harukanaru Toki no Naka de: Hachiyou Shou OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1907-4bevL0mDwv0s.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:5842",
-      "type": "series",
-      "name": "Kotatsu Cat",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5842.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4049",
-      "type": "series",
-      "name": "Pandalian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4049.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:989",
-      "type": "series",
-      "name": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/989.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:111937",
-      "type": "series",
-      "name": "Gokiburi-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111937-dbJjp2bhcJCr.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:108745",
-      "type": "series",
-      "name": "Akuei to Gacchinpo: Tenkomori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108745-NBDlQAzWTGZ8.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:145777",
-      "type": "series",
-      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Nakimushi Idol!? Nihon Isshuu Dai Sugoroku Game!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145777-lW7MMvXhYroT.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:19311",
-      "type": "series",
-      "name": "Turuturutu Narongi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19311-fOkylKENdXnk.jpg",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "anilist:180823",
-      "type": "series",
-      "name": "Nepos Napos",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180823-b3Pe0T9nZvqC.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:200376",
-      "type": "series",
-      "name": "Sayonara, Midori ga Ike: Tobe! Tako Glider!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200376-RF7QmYnQv82w.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:203024",
-      "type": "series",
-      "name": "Tianshang Diao Xia Ge Zhu Bajie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203024-qa3jRG1m9Ivk.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:237",
-      "type": "series",
-      "name": "Eureka Seven",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx237-P1YEQQFqZ1An.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:16",
-      "type": "series",
-      "name": "Honey and Clover",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16-S9k8qahNXoYP.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:357",
-      "type": "series",
-      "name": "Bludgeoning Angel Dokuro-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx357-k01dbafXBao6.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:177",
-      "type": "series",
-      "name": "Tsubasa RESERVoir CHRoNiCLE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177-tU0wjdXRw5u8.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:376",
-      "type": "series",
-      "name": "Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b376-BWSoURbn8HZR.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:67",
-      "type": "series",
-      "name": "Basilisk",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx67-aBz3s2hBTtdH.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:15",
-      "type": "series",
-      "name": "Eyeshield 21",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15-A4F2t0TgWoi4.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:27",
-      "type": "series",
-      "name": "Trinity Blood",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx27-MOAaiBHHLfOY.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:198",
-      "type": "series",
-      "name": "Speed Grapher",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198-11hkVkT4h4Im.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:479",
-      "type": "series",
-      "name": "The Law of Ueki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx479-DEz4w5b4JO7h.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:248",
-      "type": "series",
-      "name": "Strawberry 100%",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/248.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:478",
-      "type": "series",
-      "name": "Aquarion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx478-aRiAdGczAsMg.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:149",
-      "type": "series",
-      "name": "Loveless",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149-6QGLHgJc8gum.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1250",
-      "type": "series",
-      "name": "Elemental Gelade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1250-pLME3wBHl6Yt.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:345",
-      "type": "series",
-      "name": "Emma: A Victorian Romance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx345-ItqN2dbXa99S.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:412",
-      "type": "series",
-      "name": "He is My Master",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx412-sptPOlVOH0Y0.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:389",
-      "type": "series",
-      "name": "Karas",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/389.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:738",
-      "type": "series",
-      "name": "Marchen Awakens Romance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx738-NYgcMZwXOgdq.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:664",
-      "type": "series",
-      "name": "Fullmetal Alchemist: Reflections",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1974",
-      "type": "series",
-      "name": "Glass Mask (2005)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1974-PzoEQUA7jnRS.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:8687",
-      "type": "series",
-      "name": "Doraemon (2005)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2489",
-      "type": "series",
-      "name": "Onegai My Melody",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2489-iVJNpk4iZvH9.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:819",
-      "type": "series",
-      "name": "Boku wa Imouto ni Koi wo Suru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/819.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:448",
-      "type": "series",
-      "name": "Tenjho Tenge: The Ultimate Fight",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx448-gbPXMCC1Gkcf.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:126",
-      "type": "series",
-      "name": "Futakoi Alternative",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/126.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:308",
-      "type": "series",
-      "name": "Zettai Shounen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx308-vl9t9ZoJ51qT.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1817",
-      "type": "series",
-      "name": "DearS: Is It A Golden Ball?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1817.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:456",
-      "type": "series",
-      "name": "Best Student Council",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/456.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:7396",
-      "type": "series",
-      "name": "SHUFFLE! Prologue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7396.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:505",
-      "type": "series",
-      "name": "Twin Princesses of the Wonder Planet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx505-xajn3wPR06I3.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:668",
-      "type": "series",
-      "name": "Koi Koi Seven",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/668.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:747",
-      "type": "series",
-      "name": "Embracing Love: Cherished Spring",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/747.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:712",
-      "type": "series",
-      "name": "Zoids Genesis",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/712.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1135",
-      "type": "series",
-      "name": "Munto 2: Beyond the Walls of Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1135.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2523",
-      "type": "series",
-      "name": "Izumo: Flash of a Brave Sword",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2523.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:706",
-      "type": "series",
-      "name": "Comic Party Revolution",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/706.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:600",
-      "type": "series",
-      "name": "Legend of Duo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/600.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:11019",
-      "type": "series",
-      "name": "Pokémon 3D Adventure: Mew wo Sagase!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11019.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1514",
-      "type": "series",
-      "name": "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1514.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:754",
-      "type": "series",
-      "name": "The Snow Queen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b754-4kvd4k8HPQ6F.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4416",
-      "type": "series",
-      "name": "King of Braves GaoGaiGar Final Grand Glorious Gathering",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4416-URP6bsXXineZ.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4050",
-      "type": "series",
-      "name": "Kouchuu Ouja Mushiking: Mori no Tami no Densetsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4050-H9HmOtrAnMxh.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:689",
-      "type": "series",
-      "name": "Utakata: Summer Pair of Early Winter",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/689.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1544",
-      "type": "series",
-      "name": "Super Robot Wars Original Generation: The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1544.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3336",
-      "type": "series",
-      "name": "Open Your Mind",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3336.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4103",
-      "type": "series",
-      "name": "OVAL×OVER",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4103.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:423",
-      "type": "series",
-      "name": "Stratos 4 Advance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/423.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1933",
-      "type": "series",
-      "name": "Growlanser IV: Wayfarer of Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1933-dFQ0KXtmfaLL.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:988",
-      "type": "series",
-      "name": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b988-pxSq2eJE9WDG.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3724",
-      "type": "series",
-      "name": "Taiko no Tatsujin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3724.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:6107",
-      "type": "series",
-      "name": "Aru Hibi no CLAMP Gakuen Tanteidan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6107.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:170428",
-      "type": "series",
-      "name": "Wagamama☆Fairy Mirumo de Pon! Charming",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170428-bG3JUmLeBSBj.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:7511",
-      "type": "series",
-      "name": "WORKU: Dai 1-wa FROM BEHIND",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7511.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:187216",
-      "type": "series",
-      "name": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187216-ksp30icAn5tR.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:181865",
-      "type": "series",
-      "name": "Rusuden Hour: SODAN Brothers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181865-4Yr9lhwWN7AL.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:79",
-      "type": "series",
-      "name": "SHUFFLE!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx79-I1ODM0WcMlsn.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:73",
-      "type": "series",
-      "name": "Full Metal Panic! The Second Raid",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx73-UgXDGEMBPGle.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:488",
-      "type": "series",
-      "name": "Strawberry Marshmallow",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx488-FwxcBNNqG6TC.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:390",
-      "type": "series",
-      "name": "Suzuka",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx390-rO6Vj8DyKcLb.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:413",
-      "type": "series",
-      "name": "Mars of Destruction",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx413-Kk9E5BGQve1c.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:489",
-      "type": "series",
-      "name": "Kamichu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx489-NKvW3coa4Q8D.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:490",
-      "type": "series",
-      "name": "Pani Poni Dash!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b490-KSxEkqG6QICq.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:411",
-      "type": "series",
-      "name": "Gun x Sword",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx411-row6MWWNQDzH.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1642",
-      "type": "series",
-      "name": "Sugar Sugar Rune",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1642-PE1QcCczThw5.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:591",
-      "type": "series",
-      "name": "Ah My Buddha!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx591-mXQD7F0lzkcN.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:6291",
-      "type": "series",
-      "name": "Full Metal Panic! The Second Raid: Zenyasai - Scene 00",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6291-L4tafRNxmM44.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:656",
-      "type": "series",
-      "name": "Air in Summer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/656.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:291",
-      "type": "series",
-      "name": "D.C.S.S. ~Da Capo Second Season~",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx291-mjwkHSLSO6CC.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:470",
-      "type": "series",
-      "name": "Okusama wa Joshikousei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b470-XbVwx3Ra2iaV.jpg",
+      "name": "IGPX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3270-sQ2VwIJnuTQ5.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -897,377 +575,6 @@
       "releaseInfo": "2005"
     },
     {
-      "id": "anilist:981",
-      "type": "series",
-      "name": "Ichigo 100% Original DVD Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/981.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:398",
-      "type": "series",
-      "name": "Banner of the Stars III",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx398-E7O5fVcQBkk0.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:609",
-      "type": "series",
-      "name": "Saikano: Another Love Song",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b609-JohCZyhylmHK.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:614",
-      "type": "series",
-      "name": "Madam is a Magical Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx614-o2rQFeSpK8UK.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1414",
-      "type": "series",
-      "name": "Lupin III: Angel Tactics",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1414.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:5844",
-      "type": "series",
-      "name": "Pikachu no Obake Carnival",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5844.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:473",
-      "type": "series",
-      "name": "Tide-Line Blue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx473-gnxOlykZj8e8.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2457",
-      "type": "series",
-      "name": "Majokko Tsukune-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2457-LBkIIvLbNVg6.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:491",
-      "type": "series",
-      "name": "Akahori Gedou Hour Rabuge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx491-yFlp48aBYdv1.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:612",
-      "type": "series",
-      "name": "PetoPeto-san",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx612-K2ouolYnPysL.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:511",
-      "type": "series",
-      "name": "Moeyo Ken",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx511-43ox4BGQCBoh.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:503",
-      "type": "series",
-      "name": "The Eternal Aseria",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/503.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1035",
-      "type": "series",
-      "name": "Patalliro Saiyuki!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1035.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:20888",
-      "type": "series",
-      "name": "Ghost Stories SP",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20888.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2260",
-      "type": "series",
-      "name": "Kirameki☆Project",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2260.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2455",
-      "type": "series",
-      "name": "Prayers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2455-XFBM1STnV886.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3695",
-      "type": "series",
-      "name": "Spectral Force Chronicle Divergence",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3695.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3863",
-      "type": "series",
-      "name": "Sweet Valerian Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3863-BKZdlYIGnoat.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3768",
-      "type": "series",
-      "name": "Play Ball",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3768-zQ0UhfLUN4fd.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:107070",
-      "type": "series",
-      "name": "Pleasant Goat and Big Big Wolf",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107070-xhhnoqjybFsI.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:20207",
-      "type": "series",
-      "name": "Boku no Boukuugou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20207.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:9952",
-      "type": "series",
-      "name": "Wei Qi Shao Nian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9952.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:4314",
-      "type": "series",
-      "name": "Nanami-chan 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4314.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:9070",
-      "type": "series",
-      "name": "Oden-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9070-n7f2iuapTZu5.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:5776",
-      "type": "series",
-      "name": "GaoGaiGar Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5776.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:18475",
-      "type": "series",
-      "name": "Kagayake! Yuujou no V Sign",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18475.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:18773",
-      "type": "series",
-      "name": "Stag Beetle Tsumami",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18773.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:8670",
-      "type": "series",
-      "name": "Pozzie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8670.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:457",
-      "type": "series",
-      "name": "MUSHI-SHI",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx457-l6cTtNgI9Bi6.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:355",
-      "type": "series",
-      "name": "Shakugan no Shana",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx355-tB52QB38leMs.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:228",
-      "type": "series",
-      "name": "Hell Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx228-J2J1CI4jfyeC.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:150",
-      "type": "series",
-      "name": "Blood+",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150-YRcwKiJEXcLx.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:322",
-      "type": "series",
-      "name": "Paradise Kiss",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx322-4OvRw6V7JTiK.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:477",
-      "type": "series",
-      "name": "ARIA The ANIMATION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx477-CdKPHW7rGbUP.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:68",
-      "type": "series",
-      "name": "Black Cat",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx68-BY1vMbDYz977.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:658",
-      "type": "series",
-      "name": "Akagi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx658-vfMTeXswhOzl.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:469",
-      "type": "series",
-      "name": "Karin: Chibi Vampire",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx469-8v2Am0gCrwvH.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:584",
-      "type": "series",
-      "name": "Noein: To Your Other Self",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx584-KBhhNX2H9LBw.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:65",
-      "type": "series",
-      "name": "Rozen Maiden: Dreaming",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx65-SnVu0Txb00nV.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:77",
-      "type": "series",
-      "name": "Magical Girl Lyrical Nanoha A's",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx77-SwBCj7R1enWi.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2951",
-      "type": "series",
-      "name": "Gintama: Jump Festa 2005 Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2951-rl0US7OuMXbA.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3466",
-      "type": "series",
-      "name": "Kino no Tabi: the Beautiful World - Tou no Kuni: Free Lance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3466-L3DQqyjomYR1.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:408",
-      "type": "series",
-      "name": "Final Fantasy VII: Last Order",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx408-iQDfox4DSCGb.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:99",
-      "type": "series",
-      "name": "My-Otome",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99-NOVuOiWoqpMb.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:476",
-      "type": "series",
-      "name": "Skating Rink Kaleidoscope",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/476.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2449",
-      "type": "series",
-      "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2449-YZaDA9hyf7Ku.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:2020",
-      "type": "series",
-      "name": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:670",
-      "type": "series",
-      "name": "Lamune",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx670-j3gSsZF9NBtw.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:388",
-      "type": "series",
-      "name": "capeta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx388-4vycJx3nZhdF.png",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:152",
-      "type": "series",
-      "name": "Solty Rei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152-Dhq9vohv6AaN.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:1316",
-      "type": "series",
-      "name": "Idaten Jump",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1316-LGJ4cP4Kwltj.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:746",
-      "type": "series",
-      "name": "Papa to Kiss in the Dark",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/746.jpg",
-      "releaseInfo": "2005"
-    },
-    {
-      "id": "anilist:3270",
-      "type": "series",
-      "name": "IGPX",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3270-sQ2VwIJnuTQ5.jpg",
-      "releaseInfo": "2005"
-    },
-    {
       "id": "anilist:471",
       "type": "series",
       "name": "To Heart 2",
@@ -1282,10 +589,66 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:981",
+      "type": "series",
+      "name": "Ichigo 100% Original DVD Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/981.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1817",
+      "type": "series",
+      "name": "DearS: Is It A Golden Ball?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1817.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1241",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1241.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:1003",
       "type": "series",
       "name": "Oh! My Goddess Specials",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1003.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:456",
+      "type": "series",
+      "name": "Best Student Council",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/456.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:364",
+      "type": "series",
+      "name": "Gallery Fake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx364-kLB2uJHqXodf.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:560",
+      "type": "series",
+      "name": "Soukyuu no Fafner: RIGHT OF LEFT - single program",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx560-dXVJeuipvBRF.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:7396",
+      "type": "series",
+      "name": "SHUFFLE! Prologue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7396.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:398",
+      "type": "series",
+      "name": "Banner of the Stars III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx398-E7O5fVcQBkk0.png",
       "releaseInfo": "2005"
     },
     {
@@ -1303,10 +666,45 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:184",
+      "type": "series",
+      "name": "Xenosaga: The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b184-KnONynUVG1aV.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:342",
+      "type": "series",
+      "name": "Starship Operators",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/342.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:505",
+      "type": "series",
+      "name": "Twin Princesses of the Wonder Planet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx505-xajn3wPR06I3.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:588",
       "type": "series",
       "name": "Itsudatte My Santa!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/588.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:668",
+      "type": "series",
+      "name": "Koi Koi Seven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/668.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:747",
+      "type": "series",
+      "name": "Embracing Love: Cherished Spring",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/747.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1317,10 +715,59 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:609",
+      "type": "series",
+      "name": "Saikano: Another Love Song",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b609-JohCZyhylmHK.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:406",
+      "type": "series",
+      "name": "BUZZER BEATER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx406-6ZuGOngrLka2.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:614",
+      "type": "series",
+      "name": "Madam is a Magical Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx614-o2rQFeSpK8UK.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:641",
+      "type": "series",
+      "name": "Strawberry 100%",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/641.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:141",
+      "type": "series",
+      "name": "Jinki:Extend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141-T0EzqVXvLHwS.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:712",
+      "type": "series",
+      "name": "Zoids Genesis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/712.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:2808",
       "type": "series",
       "name": "Mega Man X - The Day of Sigma",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2808.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1135",
+      "type": "series",
+      "name": "Munto 2: Beyond the Walls of Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1135.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1345,6 +792,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:1196",
+      "type": "series",
+      "name": "Gag Manga Biyori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1196.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:429",
       "type": "series",
       "name": "Kaleido Star: Legend of Phoenix",
@@ -1352,10 +806,52 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:1749",
+      "type": "series",
+      "name": "Ah! My Buddha Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1749.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:3057",
       "type": "series",
       "name": "LOVELESS Ohayou! Loveless-kun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3057.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1414",
+      "type": "series",
+      "name": "Lupin III: Angel Tactics",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1414.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:825",
+      "type": "series",
+      "name": "King of Fighters: Another Day",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b825-1JmwDIQkfNZF.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2523",
+      "type": "series",
+      "name": "Izumo: Flash of a Brave Sword",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2523.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:354",
+      "type": "series",
+      "name": "Ultimate Girls",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx354-ywKWYbRZTGeA.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:706",
+      "type": "series",
+      "name": "Comic Party Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/706.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1373,10 +869,94 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:349",
+      "type": "series",
+      "name": "Magical Kanan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/349.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:673",
+      "type": "series",
+      "name": "My-Hime Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:5844",
+      "type": "series",
+      "name": "Pikachu no Obake Carnival",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5844.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:473",
+      "type": "series",
+      "name": "Tide-Line Blue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx473-gnxOlykZj8e8.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:6152",
       "type": "series",
       "name": "Final Fantasy VII: Advent Children - Venice Film Festival Footage",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6152.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2457",
+      "type": "series",
+      "name": "Majokko Tsukune-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2457-LBkIIvLbNVg6.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:491",
+      "type": "series",
+      "name": "Akahori Gedou Hour Rabuge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx491-yFlp48aBYdv1.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:612",
+      "type": "series",
+      "name": "PetoPeto-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx612-K2ouolYnPysL.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:600",
+      "type": "series",
+      "name": "Legend of Duo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/600.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1223",
+      "type": "series",
+      "name": "Ame to Shoujo to Watashi no Tegami",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1223.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:11019",
+      "type": "series",
+      "name": "Pokémon 3D Adventure: Mew wo Sagase!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11019.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:485",
+      "type": "series",
+      "name": "Damekko Doubutsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx485-JkVzRz4Dl1xD.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:928",
+      "type": "series",
+      "name": "Transformers: Cybertron",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx928-xcKekI3ckIps.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1394,10 +974,52 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:574",
+      "type": "series",
+      "name": "The Wings of Rean",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx574-WkuBrilNesVM.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1514",
+      "type": "series",
+      "name": "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1514.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:754",
+      "type": "series",
+      "name": "The Snow Queen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b754-4kvd4k8HPQ6F.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4416",
+      "type": "series",
+      "name": "King of Braves GaoGaiGar Final Grand Glorious Gathering",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4416-URP6bsXXineZ.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:913",
       "type": "series",
       "name": "Fighting Beauty Wulong",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/913.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:511",
+      "type": "series",
+      "name": "Moeyo Ken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx511-43ox4BGQCBoh.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1515",
+      "type": "series",
+      "name": "Fighting Fairy Girl Rescue Me: Mave-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1515-0MEgFpKwGXL6.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1408,10 +1030,38 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:4050",
+      "type": "series",
+      "name": "Kouchuu Ouja Mushiking: Mori no Tami no Densetsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4050-H9HmOtrAnMxh.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:689",
+      "type": "series",
+      "name": "Utakata: Summer Pair of Early Winter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/689.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:858",
       "type": "series",
       "name": "Gunparade Orchestra",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b858-PUfsBakM2C1v.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4450",
+      "type": "series",
+      "name": "Chrno Crusade: Azmaria's Lessons",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4450.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1235",
+      "type": "series",
+      "name": "I''s Pure Bonus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1235.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1422,10 +1072,52 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:4667",
+      "type": "series",
+      "name": "Battle B-Daman: Fire Spirits",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4667-98SnEiKCA6Rd.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:503",
+      "type": "series",
+      "name": "The Eternal Aseria",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/503.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:1193",
       "type": "series",
       "name": "Happy Seven: The TV Manga",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1193.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1544",
+      "type": "series",
+      "name": "Super Robot Wars Original Generation: The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1544.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3336",
+      "type": "series",
+      "name": "Open Your Mind",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3336.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2308",
+      "type": "series",
+      "name": "Lime-iro Ryuukitan X CROSS: Koi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2308.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1035",
+      "type": "series",
+      "name": "Patalliro Saiyuki!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1035.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1436,10 +1128,45 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:3157",
+      "type": "series",
+      "name": "Guardian Hearts-Power UP!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3157-lMZNfQ4xj4tx.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:1778",
       "type": "series",
       "name": "Janggeumiui kkum",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1778.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:20888",
+      "type": "series",
+      "name": "Ghost Stories SP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20888.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4103",
+      "type": "series",
+      "name": "OVAL×OVER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4103.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:423",
+      "type": "series",
+      "name": "Stratos 4 Advance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/423.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2260",
+      "type": "series",
+      "name": "Kirameki☆Project",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2260.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1450,6 +1177,20 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:402",
+      "type": "series",
+      "name": "Otogi-juushi Akazukin (OVA)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx402-Xkz8RLoOxqWA.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1933",
+      "type": "series",
+      "name": "Growlanser IV: Wayfarer of Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1933-dFQ0KXtmfaLL.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:5501",
       "type": "series",
       "name": "Gun × Sword-san",
@@ -1457,10 +1198,38 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:3004",
+      "type": "series",
+      "name": "Saint Beast: Ikusen no Hiru to Yoru-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3004.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:15159",
       "type": "series",
       "name": "Fantastic Children Special",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15159.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:960",
+      "type": "series",
+      "name": "Legend of the Condor Hero II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/960.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4070",
+      "type": "series",
+      "name": "Black Jack: Dr. Pinoco's Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n4070-y97YnFWoAL7I.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:2455",
+      "type": "series",
+      "name": "Prayers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2455-XFBM1STnV886.png",
       "releaseInfo": "2005"
     },
     {
@@ -1478,6 +1247,62 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:2707",
+      "type": "series",
+      "name": "Majime ni Fumajime Kaiketsu Zorori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2707-8g8tEPT16d8b.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:988",
+      "type": "series",
+      "name": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b988-pxSq2eJE9WDG.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:8189",
+      "type": "series",
+      "name": "The World of Golden Eggs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8189-4cB0lqwOEXwE.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3695",
+      "type": "series",
+      "name": "Spectral Force Chronicle Divergence",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3695.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:9967",
+      "type": "series",
+      "name": "W: Wish Omake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9967.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:1907",
+      "type": "series",
+      "name": "Harukanaru Toki no Naka de: Hachiyou Shou OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1907-4bevL0mDwv0s.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3863",
+      "type": "series",
+      "name": "Sweet Valerian Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3863-BKZdlYIGnoat.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3768",
+      "type": "series",
+      "name": "Play Ball",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3768-zQ0UhfLUN4fd.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:8928",
       "type": "series",
       "name": "Visions of Frank",
@@ -1485,10 +1310,59 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:107070",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107070-xhhnoqjybFsI.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:5842",
+      "type": "series",
+      "name": "Kotatsu Cat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5842.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:13793",
       "type": "series",
       "name": "Beginning of fashion",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13793.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:3724",
+      "type": "series",
+      "name": "Taiko no Tatsujin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3724.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:6107",
+      "type": "series",
+      "name": "Aru Hibi no CLAMP Gakuen Tanteidan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6107.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4049",
+      "type": "series",
+      "name": "Pandalian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4049.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:20207",
+      "type": "series",
+      "name": "Boku no Boukuugou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20207.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:989",
+      "type": "series",
+      "name": "Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/989.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1520,10 +1394,73 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:170428",
+      "type": "series",
+      "name": "Wagamama☆Fairy Mirumo de Pon! Charming",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170428-bG3JUmLeBSBj.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:7511",
+      "type": "series",
+      "name": "WORKU: Dai 1-wa FROM BEHIND",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7511.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:9952",
+      "type": "series",
+      "name": "Wei Qi Shao Nian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9952.jpg",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:5602",
       "type": "series",
       "name": "NAVIA DRATP",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5602.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:4314",
+      "type": "series",
+      "name": "Nanami-chan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4314.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:111937",
+      "type": "series",
+      "name": "Gokiburi-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111937-dbJjp2bhcJCr.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:108745",
+      "type": "series",
+      "name": "Akuei to Gacchinpo: Tenkomori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108745-NBDlQAzWTGZ8.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:9070",
+      "type": "series",
+      "name": "Oden-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9070-n7f2iuapTZu5.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:5776",
+      "type": "series",
+      "name": "GaoGaiGar Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5776.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:18475",
+      "type": "series",
+      "name": "Kagayake! Yuujou no V Sign",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18475.jpg",
       "releaseInfo": "2005"
     },
     {
@@ -1534,6 +1471,13 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:145777",
+      "type": "series",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryoutsu VS Nakimushi Idol!? Nihon Isshuu Dai Sugoroku Game!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145777-lW7MMvXhYroT.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:145778",
       "type": "series",
       "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Ryou-san to Chuuken Lucky Monogatari - Kameari Dai Houimou wo Kawase!!",
@@ -1541,10 +1485,66 @@
       "releaseInfo": "2005"
     },
     {
+      "id": "anilist:18773",
+      "type": "series",
+      "name": "Stag Beetle Tsumami",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18773.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:19311",
+      "type": "series",
+      "name": "Turuturutu Narongi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19311-fOkylKENdXnk.jpg",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "anilist:8670",
+      "type": "series",
+      "name": "Pozzie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8670.jpg",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:187216",
+      "type": "series",
+      "name": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187216-ksp30icAn5tR.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:180823",
+      "type": "series",
+      "name": "Nepos Napos",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180823-b3Pe0T9nZvqC.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:200376",
+      "type": "series",
+      "name": "Sayonara, Midori ga Ike: Tobe! Tako Glider!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200376-RF7QmYnQv82w.png",
+      "releaseInfo": "2005"
+    },
+    {
       "id": "anilist:145795",
       "type": "series",
       "name": "Wonder Beat Daisakusen: Pilot Film",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145795-dgxAi6396bom.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:181865",
+      "type": "series",
+      "name": "Rusuden Hour: SODAN Brothers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181865-4Yr9lhwWN7AL.png",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "anilist:203024",
+      "type": "series",
+      "name": "Tianshang Diao Xia Ge Zhu Bajie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203024-qa3jRG1m9Ivk.jpg",
       "releaseInfo": "2005"
     },
     {

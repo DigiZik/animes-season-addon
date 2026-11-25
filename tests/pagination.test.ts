@@ -203,6 +203,18 @@ it.each([20, 50, 100])("traverses the full 2025 archive in %i-item client window
 
 it("serves first pages, both parameter orders, arbitrary offsets, and terminal JSON over HTTP", async () => {
     await fixture(Array.from({ length: 45 }, (_, i) => item(i)));
+    const manifest = await json("manifest.json");
+    for (const entry of manifest.catalogs.filter((c: any) => c.id === "latest_anime_seasons")) {
+        const base = path.join(root, "catalog", entry.type);
+        await fs.rename(path.join(base, "latest_anime_seasons.json"), path.join(base, "trending_anime_seasons.json"));
+        await fs.rename(path.join(base, "latest_anime_seasons"), path.join(base, "trending_anime_seasons"));
+        for (const [oldLabel, newLabel] of [["FALL", "FALL (Sep - Nov)"], ["WINTER", "WINTER (Dec - Feb)"]]) {
+            await fs.rename(path.join(base, "trending_anime_seasons", `genre=${oldLabel}.json`), path.join(base, "trending_anime_seasons", `genre=${newLabel}.json`));
+        }
+        entry.id = "trending_anime_seasons";
+        entry.extra[0].options = ["FALL (Sep - Nov)", "WINTER (Dec - Feb)"];
+    }
+    await write("manifest.json", manifest);
     const result = await buildPages({ root });
     const prefix = "/animes-season-addon/";
     const server = http.createServer(async (request, response) => {
@@ -226,7 +238,12 @@ it("serves first pages, both parameter orders, arbitrary offsets, and terminal J
             return response.json() as Promise<any>;
         };
         expect((await fetchJson("paginated/manifest.json")).catalogs).toHaveLength(4);
-        expect((await fetchJson("paginated/catalog/series/latest_anime_seasons.json")).metas).toHaveLength(45);
+        expect((await fetchJson("paginated/catalog/series/trending_anime_seasons.json")).metas).toHaveLength(45);
+        const seasonal = "paginated/catalog/series/trending_anime_seasons/";
+        const label = encodeURIComponent("FALL (Sep - Nov)");
+        const filtered = await fetchJson(`${seasonal}genre=${label}&skip=20.json`);
+        expect(filtered).toEqual(await fetchJson(`${seasonal}skip=20&genre=${label}.json`));
+        expect(filtered.metas[0]).toEqual(item(20));
         const route = "paginated/catalog/series/archive_anime_seasons/";
         expect(await fetchJson(route + "skip=20&genre=2025.json")).toEqual(await fetchJson(route + "genre=2025&skip=20.json"));
         expect((await fetchJson(route + "skip=19&genre=2025.json")).metas[0]).toEqual(item(19));

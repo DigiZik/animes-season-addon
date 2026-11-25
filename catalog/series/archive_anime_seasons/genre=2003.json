@@ -1,255 +1,10 @@
 {
   "metas": [
     {
-      "id": "anilist:202",
+      "id": "anilist:121",
       "type": "series",
-      "name": "Wolf's Rain",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202-w2OLL3j8WmDm.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:138",
-      "type": "series",
-      "name": "HUNTER×HUNTER: Greed Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138-BY6R1y8zuf7s.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:594",
-      "type": "series",
-      "name": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1668",
-      "type": "series",
-      "name": "Beyblade G Revolution",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1668-2GDY5wKoXc6O.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:298",
-      "type": "series",
-      "name": ".hack//Legend Of The Twilight",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx298-4NawsRDRVaHR.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1946",
-      "type": "series",
-      "name": "Ashita no Nadja",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1946-MLn2pjGSGhHJ.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1238",
-      "type": "series",
-      "name": "One Piece Special: Protect! The Last Great Performance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1238-Rf2wqBrCwgvO.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:273",
-      "type": "series",
-      "name": "Someday's Dreamers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx273-x5hAqOcqvMZr.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:624",
-      "type": "series",
-      "name": "MØUSE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx624-iYQoq6ztwsnR.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:129608",
-      "type": "series",
-      "name": "The Big O II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129608-fKarGt6WZ9Mb.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:99713",
-      "type": "series",
-      "name": "Afro Samurai Pilot",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99713-lLHyTLwnu4qV.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:266",
-      "type": "series",
-      "name": "Gunparade March",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx266-nZSGUqJ58zWf.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:421",
-      "type": "series",
-      "name": "Stratos 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b421-tRLEEXt9asEv.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1675",
-      "type": "series",
-      "name": "Transformers: Armada",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1675.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1097",
-      "type": "series",
-      "name": "Lime-iro Senkitan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1097.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:776",
-      "type": "series",
-      "name": "Nanaka 6/17",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/776.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1456",
-      "type": "series",
-      "name": "L/R: Licensed by Royalty",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1456-AKZCK1HcMOkI.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:3381",
-      "type": "series",
-      "name": "Nadia: Secret of Blue Water Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3381.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1234",
-      "type": "series",
-      "name": "Hand Maid Mai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1234-FxtX1sh0KkLy.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:362",
-      "type": "series",
-      "name": "Memories Off 2nd",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/362.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1928",
-      "type": "series",
-      "name": "Early Reins",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1928.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:5715",
-      "type": "series",
-      "name": "Arcade Gamer Fubuki: Paradise Beyond the Wall",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5715-EhQRvet0aCUj.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1708",
-      "type": "series",
-      "name": "Beast Fighter: The Apocalypse",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1708-CRLcERPFVCia.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:707",
-      "type": "series",
-      "name": "Comic Party Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/707.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:12225",
-      "type": "series",
-      "name": "Galaxy Angel S",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12225.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:3519",
-      "type": "series",
-      "name": "Mr. Stain on Junk Alley",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3519.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:3098",
-      "type": "series",
-      "name": "Shutsugeki! Machine Robo Rescue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3098-laXxqrlgi6HB.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:9568",
-      "type": "series",
-      "name": "Peace Maker Kurogane: Festival of Gion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9568.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:7048",
-      "type": "series",
-      "name": "Crush Gear Nitro",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7048-UIq7tVN7hzH2.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:16027",
-      "type": "series",
-      "name": "Greek Roman Sinhwa: Olympus Guardian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16027.jpg",
-      "releaseInfo": "2002"
-    },
-    {
-      "id": "anilist:145503",
-      "type": "series",
-      "name": "G-on Riders: Andro Hakusho",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:6434",
-      "type": "series",
-      "name": "Saiyuki RELOAD Urasai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6434.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:7750",
-      "type": "series",
-      "name": "Digi-girl POP!: STRAWBERRY＆POP MIX FLAVOR",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7750-yNCHGXn9PNSt.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:18447",
-      "type": "series",
-      "name": "Spheres",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18447.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:143390",
-      "type": "series",
-      "name": "Nyancos: Hello! Our Brilliant Future",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143390-AwWOuLYoZO3A.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:145772",
-      "type": "series",
-      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Giboshi-ke go Ikkou-sama IN Hawaiian Dai Panic",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145772-3ClCpuJRnVJe.png",
+      "name": "Fullmetal Alchemist",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png",
       "releaseInfo": "2003"
     },
     {
@@ -267,10 +22,59 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:329",
+      "type": "series",
+      "name": "Planetes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-4xwXdazRA7Ph.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:202",
+      "type": "series",
+      "name": "Wolf's Rain",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202-w2OLL3j8WmDm.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:72",
+      "type": "series",
+      "name": "Full Metal Panic? Fumoffu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx72-dalTPVFKaOuZ.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:134",
+      "type": "series",
+      "name": "Gunslinger Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134-f3dmmMOijYdn.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:267",
+      "type": "series",
+      "name": "Gungrave",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx267-vGNmfjvWb1Qq.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:114",
+      "type": "series",
+      "name": "Cromartie High School",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114-VqL7lYKqdBR6.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:97",
       "type": "series",
       "name": "Last Exile",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97-Loi1Ppy4quXy.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:169",
+      "type": "series",
+      "name": "Lunar Legend Tsukihime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169-ATwPxULRSDRr.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -281,10 +85,45 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:138",
+      "type": "series",
+      "name": "HUNTER×HUNTER: Greed Island",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138-BY6R1y8zuf7s.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:60",
+      "type": "series",
+      "name": "Chrono Crusade",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx60-nWs0N9upSorj.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:257",
+      "type": "series",
+      "name": "Battle Vixens: Ikki Tousen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx257-gCZecr1Nu9NV.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:265",
+      "type": "series",
+      "name": "Hajime no Ippo: The Fighting! - Mashiba vs Kimura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx265-6H1q2JBs7tB7.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:250",
       "type": "series",
       "name": "Zatch Bell!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b250-w0c2KefXfW2i.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:147",
+      "type": "series",
+      "name": "Rumbling Hearts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147-dK27Fk3dsn13.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -299,6 +138,27 @@
       "type": "series",
       "name": "D.N.Angel",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/61.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1303",
+      "type": "series",
+      "name": "The Animatrix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1303-Y09OcK2V0KmJ.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1050",
+      "type": "series",
+      "name": "Bobobo-bo Bo-bobo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1050-qQAPEPu1kNKP.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:594",
+      "type": "series",
+      "name": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -330,10 +190,108 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:209",
+      "type": "series",
+      "name": "R.O.D -THE TV-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209-d0WO2JHIfzTu.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:133",
+      "type": "series",
+      "name": "Green Green",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133-jsmCU1ZXlD7s.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:12069",
       "type": "series",
       "name": "Hajime no Ippo: The Fighting! - Boxer's Fist",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12069-8iXSMYNyflIV.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:193",
+      "type": "series",
+      "name": "Maburaho",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/193.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:196",
+      "type": "series",
+      "name": "Please☆Twins!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/196.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:62",
+      "type": "series",
+      "name": "D.C.~Da Capo~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx62-llr25zE9LOm1.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1668",
+      "type": "series",
+      "name": "Beyblade G Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1668-2GDY5wKoXc6O.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:298",
+      "type": "series",
+      "name": ".hack//Legend Of The Twilight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx298-4NawsRDRVaHR.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1946",
+      "type": "series",
+      "name": "Ashita no Nadja",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1946-MLn2pjGSGhHJ.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:385",
+      "type": "series",
+      "name": "Gilgamesh",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx385-Oc01usew504a.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:838",
+      "type": "series",
+      "name": "Shadow Star Narutaru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx838-SR6rbkRXlS8r.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:709",
+      "type": "series",
+      "name": "Mujin Wakusei Survive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx709-VbLR6kLmYRxv.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:161",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161-oa4X4lL0KUO4.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:788",
+      "type": "series",
+      "name": "Eiken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/788.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:279",
+      "type": "series",
+      "name": "Requiem from the Darkness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx279-rSaRKVPdaD5X.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -351,10 +309,31 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:394",
+      "type": "series",
+      "name": "Ai Yori Aoshi: Enishi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx394-tTgubslGwS5O.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1238",
+      "type": "series",
+      "name": "One Piece Special: Protect! The Last Great Performance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1238-Rf2wqBrCwgvO.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1350",
       "type": "series",
       "name": "Parasite Dolls",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1350-8PI75t67kG0w.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:579",
+      "type": "series",
+      "name": "Battle Programmer Shirase",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/579.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -365,10 +344,38 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:273",
+      "type": "series",
+      "name": "Someday's Dreamers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx273-x5hAqOcqvMZr.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1103",
+      "type": "series",
+      "name": "Marriage of God & Soul Godannar!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1103.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1237",
       "type": "series",
       "name": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1237.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1055",
+      "type": "series",
+      "name": "BLAME! Ver.0.11",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1055-k99fJWHZoKy3.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:596",
+      "type": "series",
+      "name": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/596.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -383,6 +390,27 @@
       "type": "series",
       "name": "Aru Tabibito no Nikki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1205.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:497",
+      "type": "series",
+      "name": "YAMIBO: Darkness, the Hat, and Travelers of the Books",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/497.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:620",
+      "type": "series",
+      "name": "Mermaid Forest (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/620.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:610",
+      "type": "series",
+      "name": "Popotan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx610-wWsIgl5dWqPs.png",
       "releaseInfo": "2003"
     },
     {
@@ -407,10 +435,24 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:130",
+      "type": "series",
+      "name": "Saiyuki Reload",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130-f0o2z5QN9qeO.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:6505",
       "type": "series",
       "name": "There She Is!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6505.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:624",
+      "type": "series",
+      "name": "MØUSE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx624-iYQoq6ztwsnR.png",
       "releaseInfo": "2003"
     },
     {
@@ -421,671 +463,6 @@
       "releaseInfo": "2003"
     },
     {
-      "id": "anilist:258",
-      "type": "series",
-      "name": "Sheep's Song",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/258.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:840",
-      "type": "series",
-      "name": "The World of Narue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/840.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:292",
-      "type": "series",
-      "name": "Hoop Days",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx292-IjbBcg4injZA.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:271",
-      "type": "series",
-      "name": "Gad Guard",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/271.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:12725",
-      "type": "series",
-      "name": "Initial D to the Next Stage: Project D e Mukete",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12725-CcU0ICZWAbi0.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:704",
-      "type": "series",
-      "name": "Kanon: Kazahana",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx704-Szb9OaoyahU7.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:236",
-      "type": "series",
-      "name": "E's Otherwise",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx236-cjx0M7rLnLjO.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1683",
-      "type": "series",
-      "name": "Di Gi Charat Nyo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1683.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:824",
-      "type": "series",
-      "name": "Guardian Hearts",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx824-z56Er0WtFZDy.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1037",
-      "type": "series",
-      "name": "Saint Beast: Seijuu Kourin-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1037.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1083",
-      "type": "series",
-      "name": "Human Crossing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1083.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1039",
-      "type": "series",
-      "name": "Mizuiro (2003)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1039.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1964",
-      "type": "series",
-      "name": "Sakura Wars: School of Paris",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1964.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1748",
-      "type": "series",
-      "name": "Leave it to Piyoko pyo!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1748-Yc38NaWB7Trp.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:14685",
-      "type": "series",
-      "name": "Onegai☆Teacher: Reminiscence",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14685.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:684",
-      "type": "series",
-      "name": "Tenshi no Shippo Chu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx684-RLuERptYBXIq.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:545",
-      "type": "series",
-      "name": "Wacky Science Fiction Series: Wandaba Style",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/545.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1904",
-      "type": "series",
-      "name": "In a Distant Time OVA 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1904.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1713",
-      "type": "series",
-      "name": "Submarine Super 99",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1713-Ri3Y5SbCpfs4.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2778",
-      "type": "series",
-      "name": "Generation of Chaos III: Time of the Seal",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2778-BTSHEiLLfPkH.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:4298",
-      "type": "series",
-      "name": "Joe vs Joe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:8949",
-      "type": "series",
-      "name": "Hamtaro: Ham-Hams Ahoy!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8949.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:5071",
-      "type": "series",
-      "name": "CROKET!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5071-ZzbBZjAfYwYx.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2382",
-      "type": "series",
-      "name": "FIRESTORM",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2382.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:7466",
-      "type": "series",
-      "name": "Hashire!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7466.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:5129",
-      "type": "series",
-      "name": "Zentrix",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5129.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:3637",
-      "type": "series",
-      "name": "Bouken Yuuki Pluster World",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3637-Ts2vPsMs7SDG.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2738",
-      "type": "series",
-      "name": "Kasumin 3rd Series",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2738-51ZQGGgeetNT.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:12359",
-      "type": "series",
-      "name": "Pecola",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12359.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2735",
-      "type": "series",
-      "name": "Mugen Senki Portriss",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2735-NQAu3EkYKvmv.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:12809",
-      "type": "series",
-      "name": "Wonder Bebil-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12809.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:20123",
-      "type": "series",
-      "name": "Kappamaki and the Sushi Kids",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20123.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:19497",
-      "type": "series",
-      "name": "Kagerouka-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19497.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:145773",
-      "type": "series",
-      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Sekai Number One Police Ketteisen!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145773-8TL9V1tnWUNf.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:213430",
-      "type": "series",
-      "name": "Baby First Class",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213430-xECSXJgth6hU.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:72",
-      "type": "series",
-      "name": "Full Metal Panic? Fumoffu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx72-dalTPVFKaOuZ.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:257",
-      "type": "series",
-      "name": "Battle Vixens: Ikki Tousen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx257-gCZecr1Nu9NV.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1303",
-      "type": "series",
-      "name": "The Animatrix",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1303-Y09OcK2V0KmJ.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:133",
-      "type": "series",
-      "name": "Green Green",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133-jsmCU1ZXlD7s.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:196",
-      "type": "series",
-      "name": "Please☆Twins!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/196.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:62",
-      "type": "series",
-      "name": "D.C.~Da Capo~",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx62-llr25zE9LOm1.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:838",
-      "type": "series",
-      "name": "Shadow Star Narutaru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx838-SR6rbkRXlS8r.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:788",
-      "type": "series",
-      "name": "Eiken",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/788.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:596",
-      "type": "series",
-      "name": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/596.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:610",
-      "type": "series",
-      "name": "Popotan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx610-wWsIgl5dWqPs.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:294",
-      "type": "series",
-      "name": "Divergence Eve",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx294-aXIWReB1FL5M.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1357",
-      "type": "series",
-      "name": "New Fist of the North Star",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1357.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:5529",
-      "type": "series",
-      "name": "Pokémon: Gotta Dance!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5529-mLMLp3kcx9JL.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:6877",
-      "type": "series",
-      "name": "Pokémon: Pichu Bros. in Party Panic",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6877-7oARGnQDVHZa.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:631",
-      "type": "series",
-      "name": "Mahoromatic Summer Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx631-evpm5edHXGPs.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:261",
-      "type": "series",
-      "name": "HAPPY☆LESSON: ADVANCE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/261.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1424",
-      "type": "series",
-      "name": "Lupin the 3rd: Operation Return the Treasure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1424-2yFiHF2N8gUa.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2486",
-      "type": "series",
-      "name": "Takahashi Rumiko Anthology",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2486.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:301",
-      "type": "series",
-      "name": "Cinderella Boy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx301-d1nydrJp8FuW.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2734",
-      "type": "series",
-      "name": "Mazinkaiser vs. Great General of Darkness",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2734.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:920",
-      "type": "series",
-      "name": "Nurse Witch Komugi Special Ep: Hunch of another Festival",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx920-X9YfGSVJLnZN.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:176",
-      "type": "series",
-      "name": "Triangle Heart: Sweet Songs Forever",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/176.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1837",
-      "type": "series",
-      "name": "Dokkoida?!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1837-42rHARqkhRW8.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:559",
-      "type": "series",
-      "name": "RahXephon Interlude: Her and Herself/Thatness and Thereness",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx559-6mRieXd0qnua.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1617",
-      "type": "series",
-      "name": "Go Forward",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1617-pCkEhZaqt2xx.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1014",
-      "type": "series",
-      "name": "A Little Snow Fairy Sugar OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1014.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:5865",
-      "type": "series",
-      "name": "Nanaka the Distraction",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5865.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:4266",
-      "type": "series",
-      "name": "Vie Durant",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4266-fupOR6fRYTAo.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:13779",
-      "type": "series",
-      "name": "House Foods: Ouchi de Tabeyou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13779.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:20235",
-      "type": "series",
-      "name": "Tako ni Natta Okaa-san",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20235-diRsc3zIrgLb.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:2421",
-      "type": "series",
-      "name": "Super Kuma-san",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2421.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:10112",
-      "type": "series",
-      "name": "Alexandros no Ketsudan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10112-Ie2mLxTWcjW6.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:4801",
-      "type": "series",
-      "name": "Michel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4801.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:111939",
-      "type": "series",
-      "name": "The Legend of Nezha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111939-x5BK4fxoKtnw.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:8229",
-      "type": "series",
-      "name": "On-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8229-6pnHkO0r6TKh.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:15479",
-      "type": "series",
-      "name": "Hey Yo Yorang",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15479.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:186750",
-      "type": "series",
-      "name": "Mousou Kagaku Series: Wandaba Style - Mix JUICE no Tsukurikata",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186750-ezZwN8d4yqIo.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:121",
-      "type": "series",
-      "name": "Fullmetal Alchemist",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:329",
-      "type": "series",
-      "name": "Planetes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-4xwXdazRA7Ph.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:134",
-      "type": "series",
-      "name": "Gunslinger Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134-f3dmmMOijYdn.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:267",
-      "type": "series",
-      "name": "Gungrave",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx267-vGNmfjvWb1Qq.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:114",
-      "type": "series",
-      "name": "Cromartie High School",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114-VqL7lYKqdBR6.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:169",
-      "type": "series",
-      "name": "Lunar Legend Tsukihime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169-ATwPxULRSDRr.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:60",
-      "type": "series",
-      "name": "Chrono Crusade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx60-nWs0N9upSorj.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:265",
-      "type": "series",
-      "name": "Hajime no Ippo: The Fighting! - Mashiba vs Kimura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx265-6H1q2JBs7tB7.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:147",
-      "type": "series",
-      "name": "Rumbling Hearts",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147-dK27Fk3dsn13.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1050",
-      "type": "series",
-      "name": "Bobobo-bo Bo-bobo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1050-qQAPEPu1kNKP.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:209",
-      "type": "series",
-      "name": "R.O.D -THE TV-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209-d0WO2JHIfzTu.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:193",
-      "type": "series",
-      "name": "Maburaho",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/193.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:385",
-      "type": "series",
-      "name": "Gilgamesh",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx385-Oc01usew504a.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:709",
-      "type": "series",
-      "name": "Mujin Wakusei Survive",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx709-VbLR6kLmYRxv.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:161",
-      "type": "series",
-      "name": "Peacemaker",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161-oa4X4lL0KUO4.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:279",
-      "type": "series",
-      "name": "Requiem from the Darkness",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx279-rSaRKVPdaD5X.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:394",
-      "type": "series",
-      "name": "Ai Yori Aoshi: Enishi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx394-tTgubslGwS5O.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:579",
-      "type": "series",
-      "name": "Battle Programmer Shirase",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/579.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1103",
-      "type": "series",
-      "name": "Marriage of God & Soul Godannar!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1103.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:1055",
-      "type": "series",
-      "name": "BLAME! Ver.0.11",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1055-k99fJWHZoKy3.png",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:497",
-      "type": "series",
-      "name": "YAMIBO: Darkness, the Hat, and Travelers of the Books",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/497.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:620",
-      "type": "series",
-      "name": "Mermaid Forest (TV)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/620.jpg",
-      "releaseInfo": "2003"
-    },
-    {
-      "id": "anilist:130",
-      "type": "series",
-      "name": "Saiyuki Reload",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130-f0o2z5QN9qeO.png",
-      "releaseInfo": "2003"
-    },
-    {
       "id": "anilist:1487",
       "type": "series",
       "name": ".hack//Unison",
@@ -1093,10 +470,31 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:258",
+      "type": "series",
+      "name": "Sheep's Song",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/258.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:348",
       "type": "series",
       "name": "Bottle Fairy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/348.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:129608",
+      "type": "series",
+      "name": "The Big O II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129608-fKarGt6WZ9Mb.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:840",
+      "type": "series",
+      "name": "The World of Narue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/840.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1114,6 +512,34 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:292",
+      "type": "series",
+      "name": "Hoop Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx292-IjbBcg4injZA.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:294",
+      "type": "series",
+      "name": "Divergence Eve",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx294-aXIWReB1FL5M.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:271",
+      "type": "series",
+      "name": "Gad Guard",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/271.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:99713",
+      "type": "series",
+      "name": "Afro Samurai Pilot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99713-lLHyTLwnu4qV.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:454",
       "type": "series",
       "name": ".hack//Gift",
@@ -1121,10 +547,52 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:1357",
+      "type": "series",
+      "name": "New Fist of the North Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1357.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:266",
+      "type": "series",
+      "name": "Gunparade March",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx266-nZSGUqJ58zWf.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:12725",
+      "type": "series",
+      "name": "Initial D to the Next Stage: Project D e Mukete",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12725-CcU0ICZWAbi0.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:56",
       "type": "series",
       "name": "Avenger",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b56-u0q9CHIgtbQG.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:5529",
+      "type": "series",
+      "name": "Pokémon: Gotta Dance!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5529-mLMLp3kcx9JL.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:6877",
+      "type": "series",
+      "name": "Pokémon: Pichu Bros. in Party Panic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6877-7oARGnQDVHZa.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:704",
+      "type": "series",
+      "name": "Kanon: Kazahana",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx704-Szb9OaoyahU7.png",
       "releaseInfo": "2003"
     },
     {
@@ -1142,10 +610,59 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:421",
+      "type": "series",
+      "name": "Stratos 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b421-tRLEEXt9asEv.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1675",
+      "type": "series",
+      "name": "Transformers: Armada",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1675.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1097",
+      "type": "series",
+      "name": "Lime-iro Senkitan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1097.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:3101",
       "type": "series",
       "name": "F-Zero: GP Legend",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3101-e2ahQRuSCGBV.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:631",
+      "type": "series",
+      "name": "Mahoromatic Summer Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx631-evpm5edHXGPs.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:261",
+      "type": "series",
+      "name": "HAPPY☆LESSON: ADVANCE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/261.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:236",
+      "type": "series",
+      "name": "E's Otherwise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx236-cjx0M7rLnLjO.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1424",
+      "type": "series",
+      "name": "Lupin the 3rd: Operation Return the Treasure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1424-2yFiHF2N8gUa.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1156,10 +673,73 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:2486",
+      "type": "series",
+      "name": "Takahashi Rumiko Anthology",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2486.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:776",
+      "type": "series",
+      "name": "Nanaka 6/17",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/776.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:301",
+      "type": "series",
+      "name": "Cinderella Boy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx301-d1nydrJp8FuW.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1683",
+      "type": "series",
+      "name": "Di Gi Charat Nyo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1683.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:2734",
+      "type": "series",
+      "name": "Mazinkaiser vs. Great General of Darkness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2734.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1128",
       "type": "series",
       "name": "UFO Ultramaiden Valkyrie 2: December Nocturne",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1128.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:920",
+      "type": "series",
+      "name": "Nurse Witch Komugi Special Ep: Hunch of another Festival",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx920-X9YfGSVJLnZN.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:176",
+      "type": "series",
+      "name": "Triangle Heart: Sweet Songs Forever",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/176.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:824",
+      "type": "series",
+      "name": "Guardian Hearts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx824-z56Er0WtFZDy.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1837",
+      "type": "series",
+      "name": "Dokkoida?!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1837-42rHARqkhRW8.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1170,10 +750,94 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:559",
+      "type": "series",
+      "name": "RahXephon Interlude: Her and Herself/Thatness and Thereness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx559-6mRieXd0qnua.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1373",
       "type": "series",
       "name": "Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1373.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1037",
+      "type": "series",
+      "name": "Saint Beast: Seijuu Kourin-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1037.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1083",
+      "type": "series",
+      "name": "Human Crossing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1083.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1456",
+      "type": "series",
+      "name": "L/R: Licensed by Royalty",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1456-AKZCK1HcMOkI.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:3381",
+      "type": "series",
+      "name": "Nadia: Secret of Blue Water Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3381.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1039",
+      "type": "series",
+      "name": "Mizuiro (2003)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1039.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1964",
+      "type": "series",
+      "name": "Sakura Wars: School of Paris",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1964.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1234",
+      "type": "series",
+      "name": "Hand Maid Mai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1234-FxtX1sh0KkLy.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1748",
+      "type": "series",
+      "name": "Leave it to Piyoko pyo!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1748-Yc38NaWB7Trp.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:14685",
+      "type": "series",
+      "name": "Onegai☆Teacher: Reminiscence",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14685.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1617",
+      "type": "series",
+      "name": "Go Forward",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1617-pCkEhZaqt2xx.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:362",
+      "type": "series",
+      "name": "Memories Off 2nd",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/362.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1184,6 +848,27 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:1928",
+      "type": "series",
+      "name": "Early Reins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1928.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:684",
+      "type": "series",
+      "name": "Tenshi no Shippo Chu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx684-RLuERptYBXIq.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:545",
+      "type": "series",
+      "name": "Wacky Science Fiction Series: Wandaba Style",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/545.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:625",
       "type": "series",
       "name": "Moekko Company",
@@ -1191,10 +876,31 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:1014",
+      "type": "series",
+      "name": "A Little Snow Fairy Sugar OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1014.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:5715",
+      "type": "series",
+      "name": "Arcade Gamer Fubuki: Paradise Beyond the Wall",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5715-EhQRvet0aCUj.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1582",
       "type": "series",
       "name": "Submarine 707R",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1582.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1904",
+      "type": "series",
+      "name": "In a Distant Time OVA 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1904.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1212,6 +918,13 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:1708",
+      "type": "series",
+      "name": "Beast Fighter: The Apocalypse",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1708-CRLcERPFVCia.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:1129",
       "type": "series",
       "name": "UFO Princess Valkyrie Special: Bridal Training",
@@ -1226,10 +939,52 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:707",
+      "type": "series",
+      "name": "Comic Party Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/707.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:1713",
+      "type": "series",
+      "name": "Submarine Super 99",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1713-Ri3Y5SbCpfs4.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:12225",
+      "type": "series",
+      "name": "Galaxy Angel S",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12225.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:5147",
       "type": "series",
       "name": "Comic Party Revolution OVA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5147.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:3519",
+      "type": "series",
+      "name": "Mr. Stain on Junk Alley",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3519.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:3098",
+      "type": "series",
+      "name": "Shutsugeki! Machine Robo Rescue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3098-laXxqrlgi6HB.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:2778",
+      "type": "series",
+      "name": "Generation of Chaos III: Time of the Seal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2778-BTSHEiLLfPkH.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1240,10 +995,24 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:4298",
+      "type": "series",
+      "name": "Joe vs Joe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4298.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:592",
       "type": "series",
       "name": "Popolocrois",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/592.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:9568",
+      "type": "series",
+      "name": "Peace Maker Kurogane: Festival of Gion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9568.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1254,10 +1023,38 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:8949",
+      "type": "series",
+      "name": "Hamtaro: Ham-Hams Ahoy!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8949.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:5071",
+      "type": "series",
+      "name": "CROKET!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5071-ZzbBZjAfYwYx.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:5865",
+      "type": "series",
+      "name": "Nanaka the Distraction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5865.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:3190",
       "type": "series",
       "name": "The Boy Who Carried a Guitar: Kikaider vs. Inazuman",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3190.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:7048",
+      "type": "series",
+      "name": "Crush Gear Nitro",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7048-UIq7tVN7hzH2.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1282,6 +1079,34 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:2382",
+      "type": "series",
+      "name": "FIRESTORM",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2382.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:4266",
+      "type": "series",
+      "name": "Vie Durant",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4266-fupOR6fRYTAo.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:7466",
+      "type": "series",
+      "name": "Hashire!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7466.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:5129",
+      "type": "series",
+      "name": "Zentrix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5129.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:5492",
       "type": "series",
       "name": "Platonic Chain: Web",
@@ -1289,10 +1114,52 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:13779",
+      "type": "series",
+      "name": "House Foods: Ouchi de Tabeyou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13779.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:3637",
+      "type": "series",
+      "name": "Bouken Yuuki Pluster World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3637-Ts2vPsMs7SDG.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:6523",
       "type": "series",
       "name": "Bborongbborong Bbororo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6523-chLhY9Pus8ew.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:20235",
+      "type": "series",
+      "name": "Tako ni Natta Okaa-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20235-diRsc3zIrgLb.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:16027",
+      "type": "series",
+      "name": "Greek Roman Sinhwa: Olympus Guardian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16027.jpg",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "anilist:2738",
+      "type": "series",
+      "name": "Kasumin 3rd Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2738-51ZQGGgeetNT.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:145503",
+      "type": "series",
+      "name": "G-on Riders: Andro Hakusho",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png",
       "releaseInfo": "2003"
     },
     {
@@ -1310,10 +1177,45 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:6434",
+      "type": "series",
+      "name": "Saiyuki RELOAD Urasai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6434.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:7750",
+      "type": "series",
+      "name": "Digi-girl POP!: STRAWBERRY＆POP MIX FLAVOR",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7750-yNCHGXn9PNSt.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:2421",
+      "type": "series",
+      "name": "Super Kuma-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2421.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:119134",
       "type": "series",
       "name": "Heart Cocktail Again",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119134-JvypIHUPL4n2.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:12359",
+      "type": "series",
+      "name": "Pecola",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12359.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:10112",
+      "type": "series",
+      "name": "Alexandros no Ketsudan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10112-Ie2mLxTWcjW6.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1324,10 +1226,24 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:18447",
+      "type": "series",
+      "name": "Spheres",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18447.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:12497",
       "type": "series",
       "name": "Mr. Stain on Junk Alley: Epilogue",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12497.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:4801",
+      "type": "series",
+      "name": "Michel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4801.jpg",
       "releaseInfo": "2003"
     },
     {
@@ -1338,10 +1254,66 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:111939",
+      "type": "series",
+      "name": "The Legend of Nezha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111939-x5BK4fxoKtnw.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:2735",
+      "type": "series",
+      "name": "Mugen Senki Portriss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2735-NQAu3EkYKvmv.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:12809",
+      "type": "series",
+      "name": "Wonder Bebil-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12809.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:8229",
+      "type": "series",
+      "name": "On-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8229-6pnHkO0r6TKh.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:15479",
+      "type": "series",
+      "name": "Hey Yo Yorang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15479.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:143390",
+      "type": "series",
+      "name": "Nyancos: Hello! Our Brilliant Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143390-AwWOuLYoZO3A.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:20123",
+      "type": "series",
+      "name": "Kappamaki and the Sushi Kids",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20123.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:10239",
       "type": "series",
       "name": "Mayutoro THE TOONS",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10239.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:186750",
+      "type": "series",
+      "name": "Mousou Kagaku Series: Wandaba Style - Mix JUICE no Tsukurikata",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186750-ezZwN8d4yqIo.png",
       "releaseInfo": "2003"
     },
     {
@@ -1352,6 +1324,13 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:19497",
+      "type": "series",
+      "name": "Kagerouka-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19497.jpg",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:145774",
       "type": "series",
       "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Bakusou Ressha! Abashiri-hatsu Tokyo-yuki! Ryoutsu VS Kenpou Baa-san!",
@@ -1359,10 +1338,31 @@
       "releaseInfo": "2003"
     },
     {
+      "id": "anilist:145772",
+      "type": "series",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Giboshi-ke go Ikkou-sama IN Hawaiian Dai Panic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145772-3ClCpuJRnVJe.png",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:145773",
+      "type": "series",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special: Sekai Number One Police Ketteisen!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145773-8TL9V1tnWUNf.png",
+      "releaseInfo": "2003"
+    },
+    {
       "id": "anilist:208054",
       "type": "series",
       "name": "Heart Cocktail Again: Koi no Rensa",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208054-jXlGZPyguypK.jpg",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "anilist:213430",
+      "type": "series",
+      "name": "Baby First Class",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213430-xECSXJgth6hU.png",
       "releaseInfo": "2003"
     }
   ]

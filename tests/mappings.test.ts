@@ -112,21 +112,29 @@ it("builds one readable/mapped export with verified arbitrary offsets and no sou
     await fs.unlink(path.join(root, "catalog/series/test.json"));
     const manifest = Manifest.default(path.join(root, "manifest.json"));
     await manifest.writeToFile();
-    await refreshCatalogs(root, new Date(), true, async () => ({ series: [meta(1), meta(2), meta(3)], movie: [] }));
-    const source = await fs.readFile(path.join(root, "catalog/series/latest_anime_seasons.json"));
-    const network = jest.spyOn(global, "fetch").mockResolvedValue(new Response(JSON.stringify([row(1, 10), row(2, undefined, "tt2222222")])));
+    await refreshCatalogs(root, new Date(), true, async () => {
+        const annual = { series: [meta(1), meta(2), meta(3)], movie: [] };
+        const seasonal = { series: [meta(3), meta(2), meta(1)], movie: [] };
+        return { annual, seasons: [seasonal, seasonal, seasonal, seasonal] };
+    });
+    const source = await fs.readFile(path.join(root, "catalog/series/trending_anime_seasons.json"));
+    const network = jest.spyOn(global, "fetch").mockResolvedValue(new Response(JSON.stringify([row(1, 10), row(2, undefined, "tt2222222"), row(3, undefined, "tt2222222")])));
     const result = await buildAllPages(root);
     expect(network).toHaveBeenCalledTimes(1);
     const verification = await verifyPages(root, { mixed: true });
     expect(verification.bytes).toBe(result.bytes);
     expect(verification.files).toBe(result.files);
-    const body = await fs.readFile(path.join(root, ".pages/catalog/series/latest_anime_seasons.json"), "utf8");
+    const body = await fs.readFile(path.join(root, ".pages/catalog/series/trending_anime_seasons.json"), "utf8");
     expect(body).toContain('\n  "metas"');
-    expect(JSON.parse(body).metas.map((m: any) => m.id)).toEqual(["kitsu:10", "tt2222222"]);
-    expect(await fs.readFile(path.join(root, "catalog/series/latest_anime_seasons.json"))).toEqual(source);
+    expect(JSON.parse(body).metas.map((m: any) => m.id)).toEqual(["tt2222222", "kitsu:10"]);
+    expect(JSON.parse(body).metas[0].name).toBe("Anime 3");
+    const annual = JSON.parse(await fs.readFile(path.join(root, ".pages/catalog/series/archive_anime_seasons.json"), "utf8")).metas;
+    expect(annual.map((m: any) => m.id)).toEqual(["kitsu:10", "tt2222222"]);
+    expect(annual[1].name).toBe("Anime 2");
+    expect(await fs.readFile(path.join(root, "catalog/series/trending_anime_seasons.json"))).toEqual(source);
     network.mockResolvedValue(new Response("forbidden", { status: 403 }));
     await expect(buildAllPages(root)).rejects.toThrow("403");
-    expect(await fs.readFile(path.join(root, ".pages/catalog/series/latest_anime_seasons.json"), "utf8")).toBe(body);
+    expect(await fs.readFile(path.join(root, ".pages/catalog/series/trending_anime_seasons.json"), "utf8")).toBe(body);
 });
 
 it("accepts only canonical Kitsu/IMDb IDs in published previews", () => {

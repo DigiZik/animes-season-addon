@@ -1,9 +1,50 @@
-import { Catalog, fetchSeasonCatalogs } from "../src/stremio";
+import { Catalog, fetchSeasonCatalogs, fetchYearCatalogs } from "../src/stremio";
 import { Anilist } from "../src/request";
 import { Season } from "../src/query";
 afterEach(()=>jest.restoreAllMocks());
 const anime=(id:number,isAdult=false)=>({id,isAdult,title:{english:`Title ${id}`}});
 const response=(media:any[],hasNextPage=false)=>({data:{Page:{media,pageInfo:{hasNextPage}}}});
+const ranked = (id: number, season: string | null, trending = 0, format = "TV") => ({ ...anime(id), season, trending, popularity: 100 - id, format });
+it("uses one yearly sequence for popularity-ordered years and trending-ordered seasons", async () => {
+    const fetch = jest.spyOn(Anilist.prototype, "fetch")
+        .mockResolvedValueOnce(response([ranked(1, "WINTER"), ranked(2, "SPRING", 20, "MOVIE"), ranked(3, "WINTER", 10)], true))
+        .mockResolvedValueOnce(response([ranked(3, "WINTER", 10), ranked(4, "WINTER", 10), ranked(5, null)]));
+    const data = await fetchYearCatalogs(2026);
+    expect(data.annual.series.map(m => m.id)).toEqual([1, 3, 4].map(id => `anilist:${id}`));
+    expect(data.annual.movie.map(m => m.id)).toEqual(["anilist:2"]);
+    expect(data.seasons[0].series.map(m => m.id)).toEqual([3, 4, 1].map(id => `anilist:${id}`));
+    expect(data.seasons[1].movie).toEqual(data.annual.movie);
+    expect(data.seasons[2]).toEqual({ movie: [], series: [] });
+    expect(JSON.stringify(data)).not.toMatch(/trending|popularity/);
+    expect(fetch).toHaveBeenCalledTimes(2);
+    for (const [q] of fetch.mock.calls) { expect(q).not.toMatch(/season:/); expect(q).toContain("seasonYear:2026"); expect(q).toContain("POPULARITY_DESC"); }
+});
+it("continues past unseasoned or adult-only pages but rejects repeated pages", async () => {
+    const fetch = jest.spyOn(Anilist.prototype, "fetch")
+        .mockResolvedValueOnce(response([ranked(1, null)], true))
+        .mockResolvedValueOnce(response([{ ...ranked(2, "FALL"), isAdult: true }], true))
+        .mockResolvedValueOnce(response([ranked(3, "FALL")]));
+    expect((await fetchYearCatalogs(2026)).annual.series.map(m => m.id)).toEqual(["anilist:3"]);
+    fetch.mockResolvedValue(response([ranked(1, null)], true));
+    await expect(fetchYearCatalogs(2026)).rejects.toThrow("did not advance");
+});
+it("aborts the yearly result when a later page fails and accepts legitimate empty years", async () => {
+    const fetch = jest.spyOn(Anilist.prototype, "fetch")
+        .mockResolvedValueOnce(response([ranked(1, "WINTER")], true))
+        .mockRejectedValueOnce(new Error("outage"));
+    await expect(fetchYearCatalogs(2026)).rejects.toThrow("outage");
+    fetch.mockResolvedValue(response([]));
+    expect(await fetchYearCatalogs(2026)).toEqual({ annual: { movie: [], series: [] }, seasons: Array.from({ length: 4 }, () => ({ movie: [], series: [] })) });
+});
+it.each([
+    { ...ranked(1, "FALL"), trending: undefined },
+    { ...ranked(1, "FALL"), popularity: -1 },
+    { ...ranked(1, "FALL"), season: undefined },
+    { ...ranked(1, "FALL"), isAdult: undefined },
+])("rejects incomplete or invalid yearly records", async row => {
+    jest.spyOn(Anilist.prototype, "fetch").mockResolvedValue(response([row]));
+    await expect(fetchYearCatalogs(2026)).rejects.toThrow();
+});
 it("fetches all pages, excludes adult entries, and deduplicates",async()=>{
     const fetch=jest.spyOn(Anilist.prototype,"fetch").mockResolvedValueOnce(response(Array.from({length:50},(_,i)=>anime(i+1)),true)).mockResolvedValueOnce(response([anime(50),anime(51),anime(52,true)]));
     const catalog=new Catalog("unused");await catalog.populate(2026,Season.FALL,"series");

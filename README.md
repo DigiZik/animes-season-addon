@@ -38,15 +38,15 @@ Each catalog is available for **series and movies**.
 | **Anime Seasons** | Current season of the current year | Winter, Spring, Summer, Fall |
 | **Anime Years** | Current calendar year | Current year back to 2001 |
 
-AniList supplies season membership and popularity ordering. Annual lists combine Winter → Spring → Summer → Fall and remove duplicate output IDs in first-occurrence order. A year indicates season membership; a series may have debuted earlier.
+AniList supplies season membership. Anime Seasons uses trending order; Anime Years uses overall popularity across all four seasons, including the current year. Annual lists remove duplicate output IDs. A year indicates season membership; a series may have debuted earlier.
 
-Refreshes fetch every AniList page with adult titles excluded, then split movies and series locally. AniList may classify ecchi as non-adult. Client pagination does not call AniList. Anime Seasons offers seasons for the current year only.
+Refreshes fetch every AniList page once per year with adult titles excluded, then split movies, series and seasons locally. Entries without season membership are excluded. AniList may classify ecchi as non-adult. Client pagination does not call AniList. Anime Seasons offers seasons for the current year only.
 
 The default-season calendar uses UTC dates: December–February for Winter, March–May for Spring, June–August for Summer, and September–November for Fall. In December, the default is Winter of the current calendar year.
 
 ## Updates
 
-The daily refresh at **12:30 PM UTC** fetches all four seasons of the current year. At year rollover it also finalizes the previous year. Older years keep their committed data until a manual history refresh.
+The daily refresh at **12:30 PM UTC** fetches the current year once and derives all four seasons. At year rollover it also finalizes the previous year. Older years keep their committed data until a manual history refresh. Trending is a snapshot at refresh time.
 
 Every Pages build downloads the Fribb ID mapping once. If fetching, conversion, building or validation fails, publishing stops and the previous Pages deployment stays online. There is no seasonal snapshot cache or automatic history refresh.
 

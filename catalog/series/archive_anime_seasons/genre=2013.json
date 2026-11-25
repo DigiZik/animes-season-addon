@@ -1,10 +1,136 @@
 {
   "metas": [
     {
+      "id": "anilist:16498",
+      "type": "series",
+      "name": "Attack on Titan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18679",
+      "type": "series",
+      "name": "Kill la Kill",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18679-lbkq7iYESoFW.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15809",
+      "type": "series",
+      "name": "The Devil is a Part-Timer!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15809-ECv3HyOYJKrk.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14813",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14813-3mNvcKNEQcDs.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18153",
+      "type": "series",
+      "name": "Beyond the Boundary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18153-oDqA9zQzQPOq.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17895",
+      "type": "series",
+      "name": "Golden Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17895-M8yjOyMxHf5X.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15583",
+      "type": "series",
+      "name": "Date A Live",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-Sxd2J4RJdRhj.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17265",
+      "type": "series",
+      "name": "Log Horizon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17265-RyErURYesjJt.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16592",
+      "type": "series",
+      "name": "Danganronpa: The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16592-mFn1gfMXlKtw.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15451",
+      "type": "series",
+      "name": "High School DxD NEW",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx15451-A5T54vmxUq9t.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16894",
+      "type": "series",
+      "name": "Kuroko's Basketball 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16894-iXt8GDs1L6dr.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18507",
+      "type": "series",
+      "name": "Free! -Iwatobi Swim Club-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17074",
+      "type": "series",
+      "name": "Monogatari Series Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17074-xMhVAZsEDH66.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18115",
+      "type": "series",
+      "name": "Magi: The Kingdom of Magic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18115-dilbAD4yGMfc.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16742",
+      "type": "series",
+      "name": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16742-apAy622TmkVd.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:11633",
+      "type": "series",
+      "name": "Blood Lad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11633-vIjtabJq64Xt.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16067",
+      "type": "series",
+      "name": "A Lull in the Sea",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16067-CFX0g435pLob.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:14749",
       "type": "series",
       "name": "Oreshura",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14749-aq6aPtIPPVOY.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18397",
+      "type": "series",
+      "name": "Attack on Titan OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18397-AnpwhLkSjYL1.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -15,10 +141,24 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18277",
+      "type": "series",
+      "name": "Strike the Blood",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18277-Vwm314Nr6vsg.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:15315",
       "type": "series",
       "name": "Problem Children Are Coming From Another World, Aren't They?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15315-mvKPcy8Z2QkB.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17549",
+      "type": "series",
+      "name": "Non Non Biyori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17549-ROdV36u4nWkU.png",
       "releaseInfo": "2013"
     },
     {
@@ -43,507 +183,10 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:15379",
+      "id": "anilist:16011",
       "type": "series",
-      "name": "The Troubled Life of Miss Kotoura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15379-tSZbUJQzAvRi.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14397",
-      "type": "series",
-      "name": "Chihayafuru 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14397-k2mzAGlUthAb.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15085",
-      "type": "series",
-      "name": "AMNESIA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15085-GA9iJnPgjY1H.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14811",
-      "type": "series",
-      "name": "GJ Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14811-lTAtgO4OHE3I.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15119",
-      "type": "series",
-      "name": "Senran Kagura: Ninja Flash!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15119-rcnXA3JFYvU1.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14355",
-      "type": "series",
-      "name": "Encouragement of Climb",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14355-ZsPYtTYa1b4v.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16005",
-      "type": "series",
-      "name": "Unlimited Psychic Squad",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16005-79QCNJTaNHqK.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15751",
-      "type": "series",
-      "name": "Senyuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15751-ozQ3AyCfaUgJ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16916",
-      "type": "series",
-      "name": "Kuroko's Basketball: Tip Off",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16916.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15879",
-      "type": "series",
-      "name": "Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15879.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:15109",
-      "type": "series",
-      "name": "Cuticle Detective Inaba",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15109-zGeYvSvJmgA2.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14515",
-      "type": "series",
-      "name": "Sasami-san@Ganbaranai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14515-sKyS4qxbaS7y.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15613",
-      "type": "series",
-      "name": "Hakkenden: Eight Dogs of the East",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15613-Wy2QXvj3BmSN.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17535",
-      "type": "series",
-      "name": "Fairy Tail the Movie: Prologue - The First Morning",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17535-9WPwCKsR2S5W.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14283",
-      "type": "series",
-      "name": "Vividred Operation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14283-kLbZyR6Km5mA.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17115",
-      "type": "series",
-      "name": "Pokémon BW: Adventures in Unova",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17115-FpxJtU5CkDK9.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14511",
-      "type": "series",
-      "name": "Minami-ke Tadaima",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14511-OiJu2uyufahP.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15811",
-      "type": "series",
-      "name": "Girls und Panzer OVA Series",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15811-xa6AKWptSjG1.png",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:15195",
-      "type": "series",
-      "name": "Hetalia: The Beautiful World",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15195.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15881",
-      "type": "series",
-      "name": "OniAi Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15881.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:16419",
-      "type": "series",
-      "name": "Glitter Force Doki Doki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16419-rWEwkEDnKYQ0.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17409",
-      "type": "series",
-      "name": "Say \"I love you\". Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17409.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:14045",
-      "type": "series",
-      "name": "Mangirl!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14045-K98vghbjYwpS.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20608",
-      "type": "series",
-      "name": "The \"Hentai\" Prince and the Stony Cat.: Henneko BBS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20608.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16169",
-      "type": "series",
-      "name": "Ai-Mai-Mi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16169-JOD1GwgA0D5G.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15591",
-      "type": "series",
-      "name": "Joshiraku OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15591-WU1PBaAwOVcJ.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14941",
-      "type": "series",
-      "name": "AKB0048: next stage",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14941-1O4YajpBThuM.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15933",
-      "type": "series",
-      "name": "Vassalord.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15933.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14827",
-      "type": "series",
-      "name": "D.C.III: Da Capo III",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14827.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15611",
-      "type": "series",
-      "name": "Cardfight!! Vanguard Link Joker",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15611-gz8DLFwKLzpk.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16395",
-      "type": "series",
-      "name": "SKET DANCE: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16395-D3YJ00FMwhB5.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15989",
-      "type": "series",
-      "name": "Saki - Episode of Side A Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15989-RHAaDyzOL5mf.png",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:15649",
-      "type": "series",
-      "name": "Puchimas!: Petit iDOLM@STER",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15649-Ed1YptqquXTb.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17717",
-      "type": "series",
-      "name": "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17717-REaqCXYVrL6N.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16317",
-      "type": "series",
-      "name": "Ishida and Asakura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16317.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17277",
-      "type": "series",
-      "name": "Code Geass: Oz the Reflection Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17277.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16211",
-      "type": "series",
-      "name": "Bakumatsu Gijinden Roman",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16211.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:130362",
-      "type": "series",
-      "name": "Fushou Akiyama Yukari no Sensha Kouza",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130362-NtlKokle27ke.png",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:16023",
-      "type": "series",
-      "name": "Kuro to Kin no Akanai Kagi.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16023-OraV3aqJw0mG.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17871",
-      "type": "series",
-      "name": "Yonhyakunijuu Renpai Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17871.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14889",
-      "type": "series",
-      "name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14889.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16726",
-      "type": "series",
-      "name": "gdgd Fairies 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16726.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16319",
-      "type": "series",
-      "name": "Asako Get You!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16319.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17127",
-      "type": "series",
-      "name": "Straight Title Robot Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17127.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16692",
-      "type": "series",
-      "name": "Jigoku Youchien",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16692.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16906",
-      "type": "series",
-      "name": "LINE OFFLINE: Salaryman",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16906.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16119",
-      "type": "series",
-      "name": "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16119.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:104385",
-      "type": "series",
-      "name": "Larva Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104385-iCuUNxE0HiEW.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17147",
-      "type": "series",
-      "name": "Gakkatsu! 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17147.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15795",
-      "type": "series",
-      "name": "Beast Saga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15795.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:111859",
-      "type": "series",
-      "name": "Delinquent Hamsters",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111859-njEsdORzo9S4.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17353",
-      "type": "series",
-      "name": "Tenpou Suikoden NEO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17353.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:112145",
-      "type": "series",
-      "name": "Usagi no Mofy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112145-unzWZHLlL8uW.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:17563",
-      "type": "series",
-      "name": "Koutetsu no Vendetta Episode 0",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17563.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20459",
-      "type": "series",
-      "name": "Ganbare! Lulu Lolo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20459.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:115765",
-      "type": "series",
-      "name": "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115765-fw9tspjNYgNK.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16908",
-      "type": "series",
-      "name": "The Adventure of Oden-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16908-Yk5M8mYeI1jg.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:102369",
-      "type": "series",
-      "name": "Pororo's English Show",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102369-ZDBGc37qvncl.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:126607",
-      "type": "series",
-      "name": "Nintama Rantarou: Ninjutsu Gakuen to Nazo no Onna - Kore wa Jiken Da yo! no Dan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126607-UDSkbFSZWPSi.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:151281",
-      "type": "series",
-      "name": "Boonie Bears: Homeward Journey",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151281-HwHxxtvqAV48.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:103704",
-      "type": "series",
-      "name": "Kkoma Sinseon Tao 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103704-SVwmfPPMDud1.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:131591",
-      "type": "series",
-      "name": "Pleasant Goat and Big Big Wolf: The Happy Diary",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131591-qxQvbBOTngWn.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:129586",
-      "type": "series",
-      "name": "Sai Er Hao 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129586-HvcdQj7uJmxD.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:131853",
-      "type": "series",
-      "name": "Tiandi Fengyun Lu: Jiulong Bian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131853-r5uT07xwrrOU.jpg",
-      "releaseInfo": "2012"
-    },
-    {
-      "id": "anilist:154042",
-      "type": "series",
-      "name": "Liv & Bell",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154042-012S3WOvTua3.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:119813",
-      "type": "series",
-      "name": "Stuck Rabbit",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119813-KefC0toNBbWS.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:183823",
-      "type": "series",
-      "name": "Oh! Wooper Looper",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183823-kT0sK6iWX6VF.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:193471",
-      "type": "series",
-      "name": "Electro Boy 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b193471-wZdaD0NpJidT.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16498",
-      "type": "series",
-      "name": "Attack on Titan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15809",
-      "type": "series",
-      "name": "The Devil is a Part-Timer!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15809-ECv3HyOYJKrk.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14813",
-      "type": "series",
-      "name": "My Teen Romantic Comedy SNAFU",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14813-3mNvcKNEQcDs.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15583",
-      "type": "series",
-      "name": "Date A Live",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-Sxd2J4RJdRhj.jpg",
+      "name": "Tokyo Ravens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16011-orxVpks3jG9U.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -568,724 +211,10 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:16524",
+      "id": "anilist:19221",
       "type": "series",
-      "name": "Gargantia on the Verdurous Planet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16524-xox2OUR3L1at.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16201",
-      "type": "series",
-      "name": "Flowers of Evil",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16201-rYR0GXDBve8Y.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15699",
-      "type": "series",
-      "name": "Nyarko-san: Another Crawling Chaos W",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15699-x4ifamV2eqrh.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16035",
-      "type": "series",
-      "name": "Karneval (TV)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16035-TAbW2i7rtXVM.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16668",
-      "type": "series",
-      "name": "Valvrave the Liberator",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16668-ShG8DE2t0ryW.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15911",
-      "type": "series",
-      "name": "Yuyushiki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15911-eS0Q6p7vBd0i.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16397",
-      "type": "series",
-      "name": "Photo Kano",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16397-dSCC0RzWjWnk.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16512",
-      "type": "series",
-      "name": "Devil Survivor 2: The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16512-6oMTjK0Vndto.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17082",
-      "type": "series",
-      "name": "AIURA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17082-aibgI1fdiFzS.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14921",
-      "type": "series",
-      "name": "Red Data Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14921-w925e6kTfEHW.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16355",
-      "type": "series",
-      "name": "The Severing Crime Edge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16355-hZ0rDhXEbsDl.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15377",
-      "type": "series",
-      "name": "Samurai Bride",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15377-PHthXBKOeheF.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17505",
-      "type": "series",
-      "name": "Mushibugyo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17505-dfSZb4xZEOoQ.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:14893",
-      "type": "series",
-      "name": "So, I Can't Play H?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14893.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:12711",
-      "type": "series",
-      "name": "Uta no Prince Sama 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12711-L2zKL1kjYMio.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18097",
-      "type": "series",
-      "name": "Inazuma Eleven Go: Galaxy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18097-dAqYhaGafOqS.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17873",
-      "type": "series",
-      "name": "Pokémon BW: Adventures in Unova and Beyond",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17873-okffpXavyuVm.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16518",
-      "type": "series",
-      "name": "Arata: The Legend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16518-ncwLS26659Tf.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15863",
-      "type": "series",
-      "name": "Majestic Prince",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15863-QskWXArq9Gqh.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15609",
-      "type": "series",
-      "name": "NAKAIMO - My Little Sister Is Among Them!: Ani, Imouto, Koibito",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15609.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18045",
-      "type": "series",
-      "name": "Love, Election and Chocolate OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18045.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16910",
-      "type": "series",
-      "name": "Muromi-san",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16910-QL0eRd65nv4x.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17879",
-      "type": "series",
-      "name": "Tamako Market Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17879.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17397",
-      "type": "series",
-      "name": "Cyclops Shoujo Saipuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17397.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16982",
-      "type": "series",
-      "name": "Hayate the Combat Butler: Cuties",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16982-ZCoj55IoGd6Q.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17341",
-      "type": "series",
-      "name": "Yama no Susume: Kabette Kowakunai no?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17341-bhIn7JZDrtQD.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17637",
-      "type": "series",
-      "name": "Miyakawa-ke no Kuufuku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17637-qgT06ZkpXpNK.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16241",
-      "type": "series",
-      "name": "You're Being Summoned, Azazel Z",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16241.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17681",
-      "type": "series",
-      "name": "Leviathan: The Last Defense",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17681.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16436",
-      "type": "series",
-      "name": "Angel's Drop",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16436.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17345",
-      "type": "series",
-      "name": "Senran Kagura Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17345.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15411",
-      "type": "series",
-      "name": "Arcana Famiglia: Capriccio - stile Arcana Famiglia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15411.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17391",
-      "type": "series",
-      "name": "Senyuu. OVAs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17391.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17635",
-      "type": "series",
-      "name": "Koitabi: True Tours Nanto",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17635.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17249",
-      "type": "series",
-      "name": "Pretty Rhythm: Rainbow Live",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17249-FIqUTQWXkBWf.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16363",
-      "type": "series",
-      "name": "VANQUISHED QUEENS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16363.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19029",
-      "type": "series",
-      "name": "Yuyushiki: Nyanyashiki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19029-nJMtbaEvDzy2.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17273",
-      "type": "series",
-      "name": "Hetalia: The Beautiful World OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17273.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17849",
-      "type": "series",
-      "name": "Sparrow's Hotel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17849-Crzt9B6gbNLQ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17731",
-      "type": "series",
-      "name": "Ketsuekigata-kun!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17731-V3oZtJnbmWjl.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18413",
-      "type": "series",
-      "name": "Puchitto Gargantia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18413.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15847",
-      "type": "series",
-      "name": "Iron Man: Rise of Technovore",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15847.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17351",
-      "type": "series",
-      "name": "Mangirl!: Asobu Henshuu Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17351-VVqvYOdWbPKM.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18231",
-      "type": "series",
-      "name": "VANQUISHED QUEENS Bonus Content",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18231.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18599",
-      "type": "series",
-      "name": "Chokotan!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18599.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:127045",
-      "type": "series",
-      "name": "Persona 4 the Animation -A Brief Lesson on Izanagi & Izanami-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127045-hAe723BvrYsa.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17917",
-      "type": "series",
-      "name": "Danball Senki Wars",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17917-GbEBPto3bo9L.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:127042",
-      "type": "series",
-      "name": "Persona 4 the Animation: Mr. Experiment Shorts",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127042-DWStTFbS4fJT.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16928",
-      "type": "series",
-      "name": "Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16928.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17497",
-      "type": "series",
-      "name": "Jewelpet Happiness",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17497-cnlpNKbtMIBC.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17727",
-      "type": "series",
-      "name": "Haitai Nanafa 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17727-owUS2NOjoSdu.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17705",
-      "type": "series",
-      "name": "DD Fist of the North Star",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17705.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18781",
-      "type": "series",
-      "name": "Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Harukasan Matsuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18781.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18419",
-      "type": "series",
-      "name": "Boku no Imouto wa \"Osaka Okan\": Uchi no Onii-chan wa Tokyo Rule",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18419.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16738",
-      "type": "series",
-      "name": "Wooser's Hand-to-Mouth Life Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16738.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18835",
-      "type": "series",
-      "name": "Hakuouki Reimeiroku Tokuten Disc",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18835.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:136110",
-      "type": "series",
-      "name": "Beyblade: Shogun Steel Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136110-sDzQOOwVtxyj.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18149",
-      "type": "series",
-      "name": "Ishida to Asakura Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18149.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15279",
-      "type": "series",
-      "name": "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15279.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17137",
-      "type": "series",
-      "name": "Saiyuuki Gaiden: Kouge no Shou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17137.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19877",
-      "type": "series",
-      "name": "Battle Spirits: Sword Eyes Fierce Battle Legend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19877.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18391",
-      "type": "series",
-      "name": "Mini Van",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18391-PptwEVitGwJ5.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:108549",
-      "type": "series",
-      "name": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108549-aeTFlEfoxrge.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:121754",
-      "type": "series",
-      "name": "Show by Rock!!: Legend of Shingan Crimsonz",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121754-4zz3UlgoeZO8.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:121755",
-      "type": "series",
-      "name": "SHOW BY ROCK!!: Plasmagica na Gogo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121755-hfhVCCTZzoSL.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17707",
-      "type": "series",
-      "name": "Glass no Kamen Desu ga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17707-kFwlfIfEXCE7.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17969",
-      "type": "series",
-      "name": "Tanken Driland: 1000-nen no Mahou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17969-uAxnH1lqpEMZ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:21022",
-      "type": "series",
-      "name": "Duel Masters Victory V3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21022-TR9xhXgbSXNj.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17703",
-      "type": "series",
-      "name": "Danchi Tomoo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17703-mEvfP0mEKmZc.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18205",
-      "type": "series",
-      "name": "World Fool News",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18205.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18155",
-      "type": "series",
-      "name": "Line Town",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18155.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:104469",
-      "type": "series",
-      "name": "Balala Xiao Moxian: Qiji Wubu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104469-xhkoz1mKmUve.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17141",
-      "type": "series",
-      "name": "KARA THE ANIMATION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17141.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18365",
-      "type": "series",
-      "name": "Mazinger ZIP!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18365.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18137",
-      "type": "series",
-      "name": "Train Heroes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18137.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17733",
-      "type": "series",
-      "name": "Dibetagurashi: Ahiru no Seikatsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17733.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:115758",
-      "type": "series",
-      "name": "Glass no Kamen Desu ga Z",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115758-TKVvf8LllfY6.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18241",
-      "type": "series",
-      "name": "Himitsukessha Taka no Tsume MAX",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18241.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18723",
-      "type": "series",
-      "name": "Soul Reviver",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18723.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19337",
-      "type": "series",
-      "name": "Momoya × Peeping Life: Go en Desu yo!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19337.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:177121",
-      "type": "series",
-      "name": "Baku TECH! Bakugan Gachi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177121-4Oy5BFUhyQzy.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18191",
-      "type": "series",
-      "name": "Boku wa Ou-sama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18191-iRnkI36qJwCC.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18227",
-      "type": "series",
-      "name": "Bakujuu Gasshin Ziguru Hazeru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18227.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:116908",
-      "type": "series",
-      "name": "Little Charo 4: New York Again",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116908-vS63Z7BkwrMN.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:197976",
-      "type": "series",
-      "name": "Monsuno: Combat Chaos",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197976-fsMlz6Qve99x.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:131973",
-      "type": "series",
-      "name": "Ikemen Kyuugo-tai Nurse Angels",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131973-AvvjctUO0pzm.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19445",
-      "type": "series",
-      "name": "Tetsujin 28-gou Gao!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19445.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:104465",
-      "type": "series",
-      "name": "Brinken: Skate Revolution",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104465-8mGEmZOwUZmO.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18469",
-      "type": "series",
-      "name": "Odoriko Clinoppe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18469.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18389",
-      "type": "series",
-      "name": "Heisei Policemen!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18389.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:129869",
-      "type": "series",
-      "name": "KUBBE: kort animasjon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129869-ex0MRQgHAd6p.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:130675",
-      "type": "series",
-      "name": "LaLaLa Demacia 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130675-1dKQyLqfvf26.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:129845",
-      "type": "series",
-      "name": "FunaQ: Funassyi to Soutai-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129845-FoiZbXm19iwh.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:183822",
-      "type": "series",
-      "name": "Passionate Elephant",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183822-i0SQ36HbtQY8.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:129301",
-      "type": "series",
-      "name": "Duo Bao Xingyun Xing 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129301-2iB0BvKySuiF.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:183821",
-      "type": "series",
-      "name": "Pokojiro's Weather Report",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183821-oxYnkURPGV2i.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:213632",
-      "type": "series",
-      "name": "Genki Genki Nontan: Spoon Tan Tan Tan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213632-gRNv1l6Kfya0.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16592",
-      "type": "series",
-      "name": "Danganronpa: The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16592-mFn1gfMXlKtw.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15451",
-      "type": "series",
-      "name": "High School DxD NEW",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx15451-A5T54vmxUq9t.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18507",
-      "type": "series",
-      "name": "Free! -Iwatobi Swim Club-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18507-RajfCYPpBfT3.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17074",
-      "type": "series",
-      "name": "Monogatari Series Second Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17074-xMhVAZsEDH66.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16742",
-      "type": "series",
-      "name": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16742-apAy622TmkVd.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:11633",
-      "type": "series",
-      "name": "Blood Lad",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11633-vIjtabJq64Xt.jpg",
+      "name": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19221-gYYDXIVzas7u.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1303,10 +232,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:19369",
+      "type": "series",
+      "name": "Outbreak Company",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19369-tqo5gtkecbSZ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18247",
+      "type": "series",
+      "name": "Infinite Stratos 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18247.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16934",
       "type": "series",
       "name": "Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16934-tq1Ytb82cwwa.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20021",
+      "type": "series",
+      "name": "Sword Art Online EXTRA EDITION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20021-BZA5XTwahXPj.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15379",
+      "type": "series",
+      "name": "The Troubled Life of Miss Kotoura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15379-tSZbUJQzAvRi.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18753",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18753-0UHzxB54fYHY.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16524",
+      "type": "series",
+      "name": "Gargantia on the Verdurous Planet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16524-xox2OUR3L1at.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18677",
+      "type": "series",
+      "name": "I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18677-RslU1i7Ke7zL.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17513",
+      "type": "series",
+      "name": "Diabolik Lovers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17513-gfqhEF7XYYvm.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1324,6 +309,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:17247",
+      "type": "series",
+      "name": "Unbreakable Machine-Doll",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17247-6rBtW91NX882.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16706",
       "type": "series",
       "name": "The World God Only Knows: Goddesses",
@@ -1331,10 +323,80 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:19703",
+      "type": "series",
+      "name": "Kyousougiga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19703-OpohqKDqXIp9.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18689",
+      "type": "series",
+      "name": "Ace of the Diamond",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18689-LRIiRcgTJS1f.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18245",
+      "type": "series",
+      "name": "White Album 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18245-7eMtaBsi00dl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19647",
+      "type": "series",
+      "name": "Hajime No Ippo: The Fighting! - Rising -",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19647-cIy7ShTL6e9h.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16201",
+      "type": "series",
+      "name": "Flowers of Evil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16201-rYR0GXDBve8Y.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14397",
+      "type": "series",
+      "name": "Chihayafuru 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14397-k2mzAGlUthAb.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17641",
+      "type": "series",
+      "name": "Date A Live: Date to Date",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17641-q5VVIoHcFZAZ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18119",
       "type": "series",
       "name": "Servant x Service",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18119-L4l1JsqrzATj.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20159",
+      "type": "series",
+      "name": "Pokémon Origins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20159-Q4VpDs7q2j3O.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19291",
+      "type": "series",
+      "name": "Pokémon the Series: XY",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19291-jwGqfWIXPtGA.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18179",
+      "type": "series",
+      "name": "Yowamushi Pedal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18179-YG0tghcQBxGe.png",
       "releaseInfo": "2013"
     },
     {
@@ -1349,6 +411,13 @@
       "type": "series",
       "name": "KINMOZA!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16732-LwehgtKf737X.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15085",
+      "type": "series",
+      "name": "AMNESIA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15085-GA9iJnPgjY1H.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1373,10 +442,38 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15699",
+      "type": "series",
+      "name": "Nyarko-san: Another Crawling Chaos W",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15699-x4ifamV2eqrh.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14811",
+      "type": "series",
+      "name": "GJ Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14811-lTAtgO4OHE3I.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16035",
+      "type": "series",
+      "name": "Karneval (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16035-TAbW2i7rtXVM.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18857",
       "type": "series",
       "name": "Oreimo 2 (ONA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18857-su3IlKYL3NS8.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16668",
+      "type": "series",
+      "name": "Valvrave the Liberator",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16668-ShG8DE2t0ryW.png",
       "releaseInfo": "2013"
     },
     {
@@ -1387,10 +484,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18195",
+      "type": "series",
+      "name": "Little Busters! Refrain",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18195-r62KJesiZQWb.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19365",
+      "type": "series",
+      "name": "Samurai Flamenco",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19365-Q6AIDGI2139N.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18497",
+      "type": "series",
+      "name": "Yozakura Quartet: Hana no Uta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18497-LT4KeTvilo8u.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15911",
+      "type": "series",
+      "name": "Yuyushiki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15911-eS0Q6p7vBd0i.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15119",
+      "type": "series",
+      "name": "Senran Kagura: Ninja Flash!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15119-rcnXA3JFYvU1.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:17831",
       "type": "series",
       "name": "Dog & Scissors",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17831-V7uLx7u0gDJv.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14355",
+      "type": "series",
+      "name": "Encouragement of Climb",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14355-ZsPYtTYa1b4v.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18893",
+      "type": "series",
+      "name": "Arpeggio of Blue Steel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18893-WqI68JXKBn2u.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16005",
+      "type": "series",
+      "name": "Unlimited Psychic Squad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16005-79QCNJTaNHqK.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1408,6 +561,34 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18001",
+      "type": "series",
+      "name": "Freezing Vibration",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18001-ORF1Yuxt1z0I.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16397",
+      "type": "series",
+      "name": "Photo Kano",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16397-dSCC0RzWjWnk.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19151",
+      "type": "series",
+      "name": "Walkure Romanze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19151-cfaUlqaOWke9.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16512",
+      "type": "series",
+      "name": "Devil Survivor 2: The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16512-6oMTjK0Vndto.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:17389",
       "type": "series",
       "name": "Kingdom Season 2",
@@ -1415,10 +596,45 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18441",
+      "type": "series",
+      "name": "Blood Lad: Wagahai wa Neko de wa Nai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18441-UKhY0FflBETV.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:19383",
       "type": "series",
       "name": "Theatre of Darkness: Yamishibai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19383-vmpqTraCFNRg.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:9479",
+      "type": "series",
+      "name": "Coppelion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9479-6Y7eko7qxSDS.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15751",
+      "type": "series",
+      "name": "Senyuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15751-ozQ3AyCfaUgJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16916",
+      "type": "series",
+      "name": "Kuroko's Basketball: Tip Off",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16916.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17082",
+      "type": "series",
+      "name": "AIURA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17082-aibgI1fdiFzS.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1436,6 +652,20 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15879",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15879.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:14921",
+      "type": "series",
+      "name": "Red Data Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14921-w925e6kTfEHW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:15793",
       "type": "series",
       "name": "Symphogear G",
@@ -1450,10 +680,59 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:16355",
+      "type": "series",
+      "name": "The Severing Crime Edge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16355-hZ0rDhXEbsDl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16866",
       "type": "series",
       "name": "Tonari no Kaibutsu-kun: Tonari no Gokudou-kun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16866-t5yHiGnGitSF.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15109",
+      "type": "series",
+      "name": "Cuticle Detective Inaba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15109-zGeYvSvJmgA2.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14515",
+      "type": "series",
+      "name": "Sasami-san@Ganbaranai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14515-sKyS4qxbaS7y.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19511",
+      "type": "series",
+      "name": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19511-8DIUleQ5KUgq.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15613",
+      "type": "series",
+      "name": "Hakkenden: Eight Dogs of the East",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15613-Wy2QXvj3BmSN.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15377",
+      "type": "series",
+      "name": "Samurai Bride",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15377-PHthXBKOeheF.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18295",
+      "type": "series",
+      "name": "Valvrave the Liberator 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18295-BhCBBJctIgNp.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1464,10 +743,59 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:19759",
+      "type": "series",
+      "name": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19759-rmrZRS3hv6Tr.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19319",
+      "type": "series",
+      "name": "Gundam Build Fighters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19319-0YuU672PSgix.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16700",
       "type": "series",
       "name": "Higurashi no Naku Koro ni Kaku: Outbreak",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16700.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17505",
+      "type": "series",
+      "name": "Mushibugyo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17505-dfSZb4xZEOoQ.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17535",
+      "type": "series",
+      "name": "Fairy Tail the Movie: Prologue - The First Morning",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17535-9WPwCKsR2S5W.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18767",
+      "type": "series",
+      "name": "BlazBlue: Alter Memory",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18767-d0WG5AuetQZ9.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14893",
+      "type": "series",
+      "name": "So, I Can't Play H?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14893.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14283",
+      "type": "series",
+      "name": "Vividred Operation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14283-kLbZyR6Km5mA.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1478,10 +806,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:12711",
+      "type": "series",
+      "name": "Uta no Prince Sama 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12711-L2zKL1kjYMio.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:20359",
       "type": "series",
       "name": "Yamada-kun to 7-nin no Majo (ONA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20359-08eintz3ClgK.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17115",
+      "type": "series",
+      "name": "Pokémon BW: Adventures in Unova",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17115-FpxJtU5CkDK9.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20554",
+      "type": "series",
+      "name": "Love Live! School idol project OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20554-6Jk1w1FtOrFA.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19671",
+      "type": "series",
+      "name": "FrFr! ~Free! short movie~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19671-UTBAhj1bTxtj.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:11763",
+      "type": "series",
+      "name": "Wanna be the Strongest in the World!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11763-ONGmRd3P4Djv.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18097",
+      "type": "series",
+      "name": "Inazuma Eleven Go: Galaxy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18097-dAqYhaGafOqS.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17873",
+      "type": "series",
+      "name": "Pokémon BW: Adventures in Unova and Beyond",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17873-okffpXavyuVm.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19109",
+      "type": "series",
+      "name": "Fate/kaleid liner Prisma☆Illya Short Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1520,11 +904,32 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:20045",
+      "type": "series",
+      "name": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20045.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18495",
       "type": "series",
       "name": "Chronicles of the Going Home Club",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18495.jpg",
       "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14511",
+      "type": "series",
+      "name": "Minami-ke Tadaima",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14511-OiJu2uyufahP.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15811",
+      "type": "series",
+      "name": "Girls und Panzer OVA Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15811-xa6AKWptSjG1.png",
+      "releaseInfo": "2012"
     },
     {
       "id": "anilist:18465",
@@ -1541,6 +946,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:16518",
+      "type": "series",
+      "name": "Arata: The Legend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16518-ncwLS26659Tf.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18523",
       "type": "series",
       "name": "Senyuu. 2",
@@ -1548,10 +960,45 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15863",
+      "type": "series",
+      "name": "Majestic Prince",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15863-QskWXArq9Gqh.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20033",
+      "type": "series",
+      "name": "Miss Monochrome - The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20033-rJv0C1BASZMJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19367",
+      "type": "series",
+      "name": "Galilei Donna",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19367-4Z0HfR4AQ3Dd.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18411",
+      "type": "series",
+      "name": "Gingitsune: Messenger Fox of the Gods",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18411-yKvlUayZ6Bz2.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18121",
       "type": "series",
       "name": "Teekyuu 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18121-k8UaPii7p9sl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15195",
+      "type": "series",
+      "name": "Hetalia: The Beautiful World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15195.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1569,6 +1016,34 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15609",
+      "type": "series",
+      "name": "NAKAIMO - My Little Sister Is Among Them!: Ani, Imouto, Koibito",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15609.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19669",
+      "type": "series",
+      "name": "Kuroko's Basketball OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19669-QUUj3sy8egt5.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18045",
+      "type": "series",
+      "name": "Love, Election and Chocolate OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18045.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16910",
+      "type": "series",
+      "name": "Muromi-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16910-QL0eRd65nv4x.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18055",
       "type": "series",
       "name": "Hakkenden: Eight Dogs of the East Season 2",
@@ -1576,10 +1051,80 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15881",
+      "type": "series",
+      "name": "OniAi Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15881.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:19653",
+      "type": "series",
+      "name": "Neppuu Kairiku Bushi Road",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19653-bnJEpdrrIrHB.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17879",
+      "type": "series",
+      "name": "Tamako Market Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17879.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18745",
+      "type": "series",
+      "name": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18745.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16419",
+      "type": "series",
+      "name": "Glitter Force Doki Doki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16419-rWEwkEDnKYQ0.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17397",
+      "type": "series",
+      "name": "Cyclops Shoujo Saipuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17397.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17409",
+      "type": "series",
+      "name": "Say \"I love you\". Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17409.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:20444",
+      "type": "series",
+      "name": "Teekyuu 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20444.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16982",
+      "type": "series",
+      "name": "Hayate the Combat Butler: Cuties",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16982-ZCoj55IoGd6Q.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:16051",
       "type": "series",
       "name": "Ro-Kyu-Bu! SS",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16051.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17341",
+      "type": "series",
+      "name": "Yama no Susume: Kabette Kowakunai no?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx17341-bhIn7JZDrtQD.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1597,10 +1142,80 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:14045",
+      "type": "series",
+      "name": "Mangirl!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14045-K98vghbjYwpS.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20608",
+      "type": "series",
+      "name": "The \"Hentai\" Prince and the Stony Cat.: Henneko BBS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20608.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18849",
+      "type": "series",
+      "name": "Natsume's Book of Friends: Nyanko-sensei & The First Errand",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18849.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18499",
+      "type": "series",
+      "name": "Yozakura Quartet: Tsuki ni Naku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18499.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20524",
+      "type": "series",
+      "name": "Beyond the Boundary: Idol Trial!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20524-v5vNMF3Pw8eD.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16169",
+      "type": "series",
+      "name": "Ai-Mai-Mi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16169-JOD1GwgA0D5G.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17637",
+      "type": "series",
+      "name": "Miyakawa-ke no Kuufuku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17637-qgT06ZkpXpNK.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15591",
+      "type": "series",
+      "name": "Joshiraku OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15591-WU1PBaAwOVcJ.png",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:20035",
       "type": "series",
       "name": "A Certain Magical Index Movie Special",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20035-0sBJcXZpjZTl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16241",
+      "type": "series",
+      "name": "You're Being Summoned, Azazel Z",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16241.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14941",
+      "type": "series",
+      "name": "AKB0048: next stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14941-1O4YajpBThuM.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1618,10 +1233,80 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15933",
+      "type": "series",
+      "name": "Vassalord.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15933.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14827",
+      "type": "series",
+      "name": "D.C.III: Da Capo III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14827.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19841",
+      "type": "series",
+      "name": "Super Seisyun Brothers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19841.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15651",
+      "type": "series",
+      "name": "Phi-Brain ~ Puzzle of God Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15651.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:15883",
       "type": "series",
       "name": "Fantasista Doll",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15883-LiGZJONhkfdJ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17681",
+      "type": "series",
+      "name": "Leviathan: The Last Defense",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17681.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19257",
+      "type": "series",
+      "name": "MEGANEBU!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19257-X1MvE1Qdy289.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16436",
+      "type": "series",
+      "name": "Angel's Drop",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16436.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20734",
+      "type": "series",
+      "name": "AMNESIA OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20734-iwEdamPsODfG.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17739",
+      "type": "series",
+      "name": "Hidamari Sketch Sae & Hiro Graduation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17739-RWF701d4svmX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15611",
+      "type": "series",
+      "name": "Cardfight!! Vanguard Link Joker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15611-gz8DLFwKLzpk.png",
       "releaseInfo": "2013"
     },
     {
@@ -1646,6 +1331,34 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:17345",
+      "type": "series",
+      "name": "Senran Kagura Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17345.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15411",
+      "type": "series",
+      "name": "Arcana Famiglia: Capriccio - stile Arcana Famiglia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15411.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16395",
+      "type": "series",
+      "name": "SKET DANCE: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16395-D3YJ00FMwhB5.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19919",
+      "type": "series",
+      "name": "Tesagure! Bukatsumono",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19919-VMzqb5GSKa4B.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:15807",
       "type": "series",
       "name": "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
@@ -1653,10 +1366,108 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:15989",
+      "type": "series",
+      "name": "Saki - Episode of Side A Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15989-RHAaDyzOL5mf.png",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:19251",
+      "type": "series",
+      "name": "Uta no☆Prince-sama♪ Maji LOVE 2000%: Shining Star Xmas",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19251.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17391",
+      "type": "series",
+      "name": "Senyuu. OVAs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17391.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20039",
+      "type": "series",
+      "name": "Kill Me Baby OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20039.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18177",
       "type": "series",
       "name": "Yowamushi Pedal: SPECIAL RIDE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18177.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15649",
+      "type": "series",
+      "name": "Puchimas!: Petit iDOLM@STER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15649-Ed1YptqquXTb.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17635",
+      "type": "series",
+      "name": "Koitabi: True Tours Nanto",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17635.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17249",
+      "type": "series",
+      "name": "Pretty Rhythm: Rainbow Live",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17249-FIqUTQWXkBWf.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16363",
+      "type": "series",
+      "name": "VANQUISHED QUEENS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16363.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19029",
+      "type": "series",
+      "name": "Yuyushiki: Nyanyashiki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19029-nJMtbaEvDzy2.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20450",
+      "type": "series",
+      "name": "Teekyuu 2 Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20450.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17717",
+      "type": "series",
+      "name": "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17717-REaqCXYVrL6N.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20181",
+      "type": "series",
+      "name": "Aikatsu! 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20181-7Guz6yHESWQY.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17273",
+      "type": "series",
+      "name": "Hetalia: The Beautiful World OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17273.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16317",
+      "type": "series",
+      "name": "Ishida and Asakura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16317.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1674,6 +1485,27 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:17277",
+      "type": "series",
+      "name": "Code Geass: Oz the Reflection Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17277.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20570",
+      "type": "series",
+      "name": "Pocket Monsters Best Wishes! Season 2: Decolora Adventure Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20570-Pa7k5XxvReui.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:101928",
+      "type": "series",
+      "name": "Kenichi: The Mightiest Disciple OVA Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101928-kMGQQiunTbnP.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:19133",
       "type": "series",
       "name": "Turning Girls",
@@ -1681,10 +1513,24 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:110253",
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch Picture Drama STAGE 0.97 - Hajimari no Zenya",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110253-dLuK4JGoZkRv.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18989",
       "type": "series",
       "name": "Ghost in the Shell: Arise - Another Mission",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18989.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:109002",
+      "type": "series",
+      "name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109002-a9XsiOylyLer.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1702,10 +1548,52 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:17849",
+      "type": "series",
+      "name": "Sparrow's Hotel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17849-Crzt9B6gbNLQ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17731",
+      "type": "series",
+      "name": "Ketsuekigata-kun!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17731-V3oZtJnbmWjl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20673",
+      "type": "series",
+      "name": "Control Bear [WONDER GARDEN]",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20673.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:19845",
       "type": "series",
       "name": "Oreimo 2 Extras",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19845.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16211",
+      "type": "series",
+      "name": "Bakumatsu Gijinden Roman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16211.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20896",
+      "type": "series",
+      "name": "Kon ga Oshiete Moshi Agemasu! Maru Wakari TOKYO RAVENS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20896.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18413",
+      "type": "series",
+      "name": "Puchitto Gargantia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18413.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1716,10 +1604,38 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:130362",
+      "type": "series",
+      "name": "Fushou Akiyama Yukari no Sensha Kouza",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130362-NtlKokle27ke.png",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:19099",
       "type": "series",
       "name": "Pokémon: Mewtwo—Prologue to Awakening",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19099.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15847",
+      "type": "series",
+      "name": "Iron Man: Rise of Technovore",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15847.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17351",
+      "type": "series",
+      "name": "Mangirl!: Asobu Henshuu Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17351-VVqvYOdWbPKM.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19889",
+      "type": "series",
+      "name": "Genshiken Second Generation Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19889.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1730,6 +1646,13 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18231",
+      "type": "series",
+      "name": "VANQUISHED QUEENS Bonus Content",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18231.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:20776",
       "type": "series",
       "name": "Ghost in the Shell: Arise Specials",
@@ -1737,10 +1660,52 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:16023",
+      "type": "series",
+      "name": "Kuro to Kin no Akanai Kagi.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16023-OraV3aqJw0mG.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20828",
+      "type": "series",
+      "name": "Recorder to Randoseru Mi☆ Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20828.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20141",
+      "type": "series",
+      "name": "Lupin the 3rd: Princess of the Breeze!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20141-1VtZnvaHOHGl.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18771",
       "type": "series",
       "name": "Gifu Dodo!! Kanetsugu and Keiji",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18771.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17871",
+      "type": "series",
+      "name": "Yonhyakunijuu Renpai Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17871.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:14889",
+      "type": "series",
+      "name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14889.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20329",
+      "type": "series",
+      "name": "Koroshiya-san: The hired gun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20329.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1779,10 +1744,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18599",
+      "type": "series",
+      "name": "Chokotan!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18599.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:127045",
+      "type": "series",
+      "name": "Persona 4 the Animation -A Brief Lesson on Izanagi & Izanami-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127045-hAe723BvrYsa.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17917",
+      "type": "series",
+      "name": "Danball Senki Wars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17917-GbEBPto3bo9L.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:18755",
       "type": "series",
       "name": "Donyatsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18755.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:127042",
+      "type": "series",
+      "name": "Persona 4 the Animation: Mr. Experiment Shorts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127042-DWStTFbS4fJT.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:99660",
+      "type": "series",
+      "name": "Lu Shidai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99660-Bg9YJTlDn8aq.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16928",
+      "type": "series",
+      "name": "Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16928.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17497",
+      "type": "series",
+      "name": "Jewelpet Happiness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17497-cnlpNKbtMIBC.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17727",
+      "type": "series",
+      "name": "Haitai Nanafa 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17727-owUS2NOjoSdu.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1800,10 +1821,38 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:16726",
+      "type": "series",
+      "name": "gdgd Fairies 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16726.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16319",
+      "type": "series",
+      "name": "Asako Get You!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16319.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:19297",
       "type": "series",
       "name": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19297-NM7Wso4qic10.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17705",
+      "type": "series",
+      "name": "DD Fist of the North Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17705.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18781",
+      "type": "series",
+      "name": "Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Harukasan Matsuri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18781.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -1814,731 +1863,52 @@
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:18953",
+      "id": "anilist:18419",
       "type": "series",
-      "name": "Hitotsubu ni Kawaranu Ai wo Komete",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18953.jpg",
+      "name": "Boku no Imouto wa \"Osaka Okan\": Uchi no Onii-chan wa Tokyo Rule",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18419.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:20707",
+      "id": "anilist:17127",
       "type": "series",
-      "name": "Mobile Suit Gundam UC: One of Seventy Two",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20707.jpg",
+      "name": "Straight Title Robot Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17127.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:19619",
+      "id": "anilist:16738",
       "type": "series",
-      "name": "Jewelpet Twinkle☆: Hohoemi no Niji ni Dokki☆Doki!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19619-AMhryvDwI9V7.png",
+      "name": "Wooser's Hand-to-Mouth Life Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16738.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:19447",
+      "id": "anilist:18835",
       "type": "series",
-      "name": "Arata Kangatari Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19447.jpg",
+      "name": "Hakuouki Reimeiroku Tokuten Disc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18835.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:19397",
+      "id": "anilist:136110",
       "type": "series",
-      "name": "Zettai Bouei Leviathan: Mini Takibi Gekijou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19397.jpg",
+      "name": "Beyblade: Shogun Steel Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136110-sDzQOOwVtxyj.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:98567",
+      "id": "anilist:18149",
       "type": "series",
-      "name": "Picotopia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98567-MCDJ6PkwOuGb.jpg",
+      "name": "Ishida to Asakura Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18149.jpg",
       "releaseInfo": "2013"
     },
     {
-      "id": "anilist:19925",
+      "id": "anilist:15279",
       "type": "series",
-      "name": "KY-kei JC Kuuki-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19925.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:102236",
-      "type": "series",
-      "name": "Zinba",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102236-nk6PnsNbq0QX.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:98133",
-      "type": "series",
-      "name": "Promise",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98133-PrRQRRs6pTmb.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:98568",
-      "type": "series",
-      "name": "Wasureboshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98568-ndecaQoygG1I.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:21226",
-      "type": "series",
-      "name": "Lovely Movie: Lovely Muuuuuuuco!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21226-GXgJ2rnzJmDI.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19171",
-      "type": "series",
-      "name": "Sanjougattai Transformers Go!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19171-4QHPL8qa57kO.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20899",
-      "type": "series",
-      "name": "Toukiden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20899.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19305",
-      "type": "series",
-      "name": "Nyuru Nyuru!! KAKUSEN-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19305.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19495",
-      "type": "series",
-      "name": "Hakusai Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19495.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:108748",
-      "type": "series",
-      "name": "Anisava",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108748-Xvn5K6MnrIVm.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:117409",
-      "type": "series",
-      "name": "Peeping Life: YouTuber-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117409-kZxfb61ILOem.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:121961",
-      "type": "series",
-      "name": "Ponkotsu Quest: Maou to Haken no Mamono-tachi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121961-TBZgtFr1UvCH.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19169",
-      "type": "series",
-      "name": "Go! Go! Kadendanshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19169.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18919",
-      "type": "series",
-      "name": "The Midnight★Animal",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18919.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18983",
-      "type": "series",
-      "name": "Yuuto-kun ga Iku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18983.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:118638",
-      "type": "series",
-      "name": "The Guardians of Carcosa",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118638-gSKAHXC2qHmt.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:148974",
-      "type": "series",
-      "name": "Xiong Chumo: Conglin Zhongdongyuan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148974-69v8jPb9Z6dX.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:103967",
-      "type": "series",
-      "name": "Zhuzhu Xia: Xingfu Jiuyuandui",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103967-6bogpgrS6VDw.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:131592",
-      "type": "series",
-      "name": "Pleasant Goat and Big Big Wolf: Happy Formula",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131592-0omNc6pqwy9N.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:131854",
-      "type": "series",
-      "name": "Tiandi Fengyun Lu: Jian Xing Mo Zong",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131854-xy1VbtaC0tcE.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:182547",
-      "type": "series",
-      "name": "Da-yoshi P Produce: Ashita no Jobuubu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182547-1nKiqKgzUVKJ.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:202428",
-      "type": "series",
-      "name": "Shimajirou to Korasho no Saigo no Daiundoukai Tsunage! Nakayoshi Relay",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202428-XTYUfmIk4Bdw.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18679",
-      "type": "series",
-      "name": "Kill la Kill",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18679-lbkq7iYESoFW.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18153",
-      "type": "series",
-      "name": "Beyond the Boundary",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18153-oDqA9zQzQPOq.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17895",
-      "type": "series",
-      "name": "Golden Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17895-M8yjOyMxHf5X.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17265",
-      "type": "series",
-      "name": "Log Horizon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17265-RyErURYesjJt.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16894",
-      "type": "series",
-      "name": "Kuroko's Basketball 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16894-iXt8GDs1L6dr.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18115",
-      "type": "series",
-      "name": "Magi: The Kingdom of Magic",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18115-dilbAD4yGMfc.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16067",
-      "type": "series",
-      "name": "A Lull in the Sea",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16067-CFX0g435pLob.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18397",
-      "type": "series",
-      "name": "Attack on Titan OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18397-AnpwhLkSjYL1.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18277",
-      "type": "series",
-      "name": "Strike the Blood",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18277-Vwm314Nr6vsg.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17549",
-      "type": "series",
-      "name": "Non Non Biyori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17549-ROdV36u4nWkU.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:16011",
-      "type": "series",
-      "name": "Tokyo Ravens",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16011-orxVpks3jG9U.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19221",
-      "type": "series",
-      "name": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19221-gYYDXIVzas7u.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19369",
-      "type": "series",
-      "name": "Outbreak Company",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19369-tqo5gtkecbSZ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18247",
-      "type": "series",
-      "name": "Infinite Stratos 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18247.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20021",
-      "type": "series",
-      "name": "Sword Art Online EXTRA EDITION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20021-BZA5XTwahXPj.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18753",
-      "type": "series",
-      "name": "My Teen Romantic Comedy SNAFU OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18753-0UHzxB54fYHY.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18677",
-      "type": "series",
-      "name": "I Couldn’t Become a Hero, So I Reluctantly Decided to Get a Job.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18677-RslU1i7Ke7zL.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17513",
-      "type": "series",
-      "name": "Diabolik Lovers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17513-gfqhEF7XYYvm.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17247",
-      "type": "series",
-      "name": "Unbreakable Machine-Doll",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17247-6rBtW91NX882.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19703",
-      "type": "series",
-      "name": "Kyousougiga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19703-OpohqKDqXIp9.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18689",
-      "type": "series",
-      "name": "Ace of the Diamond",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18689-LRIiRcgTJS1f.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18245",
-      "type": "series",
-      "name": "White Album 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18245-7eMtaBsi00dl.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19647",
-      "type": "series",
-      "name": "Hajime No Ippo: The Fighting! - Rising -",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19647-cIy7ShTL6e9h.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17641",
-      "type": "series",
-      "name": "Date A Live: Date to Date",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17641-q5VVIoHcFZAZ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20159",
-      "type": "series",
-      "name": "Pokémon Origins",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20159-Q4VpDs7q2j3O.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19291",
-      "type": "series",
-      "name": "Pokémon the Series: XY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19291-jwGqfWIXPtGA.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18179",
-      "type": "series",
-      "name": "Yowamushi Pedal",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18179-YG0tghcQBxGe.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18195",
-      "type": "series",
-      "name": "Little Busters! Refrain",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18195-r62KJesiZQWb.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19365",
-      "type": "series",
-      "name": "Samurai Flamenco",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19365-Q6AIDGI2139N.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18497",
-      "type": "series",
-      "name": "Yozakura Quartet: Hana no Uta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18497-LT4KeTvilo8u.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18893",
-      "type": "series",
-      "name": "Arpeggio of Blue Steel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18893-WqI68JXKBn2u.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18001",
-      "type": "series",
-      "name": "Freezing Vibration",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18001-ORF1Yuxt1z0I.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19151",
-      "type": "series",
-      "name": "Walkure Romanze",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19151-cfaUlqaOWke9.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18441",
-      "type": "series",
-      "name": "Blood Lad: Wagahai wa Neko de wa Nai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18441-UKhY0FflBETV.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:9479",
-      "type": "series",
-      "name": "Coppelion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9479-6Y7eko7qxSDS.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19511",
-      "type": "series",
-      "name": "NARUTO: Shippuuden - Sunny Side Battle!!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19511-8DIUleQ5KUgq.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18295",
-      "type": "series",
-      "name": "Valvrave the Liberator 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18295-BhCBBJctIgNp.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19759",
-      "type": "series",
-      "name": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19759-rmrZRS3hv6Tr.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19319",
-      "type": "series",
-      "name": "Gundam Build Fighters",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19319-0YuU672PSgix.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18767",
-      "type": "series",
-      "name": "BlazBlue: Alter Memory",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18767-d0WG5AuetQZ9.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20554",
-      "type": "series",
-      "name": "Love Live! School idol project OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20554-6Jk1w1FtOrFA.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19671",
-      "type": "series",
-      "name": "FrFr! ~Free! short movie~",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19671-UTBAhj1bTxtj.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:11763",
-      "type": "series",
-      "name": "Wanna be the Strongest in the World!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11763-ONGmRd3P4Djv.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19109",
-      "type": "series",
-      "name": "Fate/kaleid liner Prisma☆Illya Short Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20045",
-      "type": "series",
-      "name": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20045.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20033",
-      "type": "series",
-      "name": "Miss Monochrome - The Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20033-rJv0C1BASZMJ.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19367",
-      "type": "series",
-      "name": "Galilei Donna",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19367-4Z0HfR4AQ3Dd.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18411",
-      "type": "series",
-      "name": "Gingitsune: Messenger Fox of the Gods",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18411-yKvlUayZ6Bz2.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19669",
-      "type": "series",
-      "name": "Kuroko's Basketball OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19669-QUUj3sy8egt5.png",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19653",
-      "type": "series",
-      "name": "Neppuu Kairiku Bushi Road",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19653-bnJEpdrrIrHB.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18745",
-      "type": "series",
-      "name": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18745.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20444",
-      "type": "series",
-      "name": "Teekyuu 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20444.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18849",
-      "type": "series",
-      "name": "Natsume's Book of Friends: Nyanko-sensei & The First Errand",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18849.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:18499",
-      "type": "series",
-      "name": "Yozakura Quartet: Tsuki ni Naku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18499.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20524",
-      "type": "series",
-      "name": "Beyond the Boundary: Idol Trial!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20524-v5vNMF3Pw8eD.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19841",
-      "type": "series",
-      "name": "Super Seisyun Brothers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19841.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:15651",
-      "type": "series",
-      "name": "Phi-Brain ~ Puzzle of God Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15651.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19257",
-      "type": "series",
-      "name": "MEGANEBU!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19257-X1MvE1Qdy289.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20734",
-      "type": "series",
-      "name": "AMNESIA OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20734-iwEdamPsODfG.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:17739",
-      "type": "series",
-      "name": "Hidamari Sketch Sae & Hiro Graduation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17739-RWF701d4svmX.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19919",
-      "type": "series",
-      "name": "Tesagure! Bukatsumono",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19919-VMzqb5GSKa4B.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19251",
-      "type": "series",
-      "name": "Uta no☆Prince-sama♪ Maji LOVE 2000%: Shining Star Xmas",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19251.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20039",
-      "type": "series",
-      "name": "Kill Me Baby OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20039.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20450",
-      "type": "series",
-      "name": "Teekyuu 2 Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20450.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20181",
-      "type": "series",
-      "name": "Aikatsu! 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20181-7Guz6yHESWQY.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20570",
-      "type": "series",
-      "name": "Pocket Monsters Best Wishes! Season 2: Decolora Adventure Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20570-Pa7k5XxvReui.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:101928",
-      "type": "series",
-      "name": "Kenichi: The Mightiest Disciple OVA Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101928-kMGQQiunTbnP.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:110253",
-      "type": "series",
-      "name": "Code Geass: Hangyaku no Lelouch Picture Drama STAGE 0.97 - Hajimari no Zenya",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110253-dLuK4JGoZkRv.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:109002",
-      "type": "series",
-      "name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109002-a9XsiOylyLer.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20673",
-      "type": "series",
-      "name": "Control Bear [WONDER GARDEN]",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20673.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20896",
-      "type": "series",
-      "name": "Kon ga Oshiete Moshi Agemasu! Maru Wakari TOKYO RAVENS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20896.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:19889",
-      "type": "series",
-      "name": "Genshiken Second Generation Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19889.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20828",
-      "type": "series",
-      "name": "Recorder to Randoseru Mi☆ Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20828.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20141",
-      "type": "series",
-      "name": "Lupin the 3rd: Princess of the Breeze!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20141-1VtZnvaHOHGl.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:20329",
-      "type": "series",
-      "name": "Koroshiya-san: The hired gun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20329.jpg",
-      "releaseInfo": "2013"
-    },
-    {
-      "id": "anilist:99660",
-      "type": "series",
-      "name": "Lu Shidai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99660-Bg9YJTlDn8aq.png",
+      "name": "Kira☆Kira 5th Anniversary Live Anime: KICK START GENERATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15279.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2570,10 +1940,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:17137",
+      "type": "series",
+      "name": "Saiyuuki Gaiden: Kouge no Shou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17137.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:19871",
       "type": "series",
       "name": "Gaist Crusher",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19871-7vq6KJEHfjsW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18953",
+      "type": "series",
+      "name": "Hitotsubu ni Kawaranu Ai wo Komete",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18953.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20707",
+      "type": "series",
+      "name": "Mobile Suit Gundam UC: One of Seventy Two",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20707.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19877",
+      "type": "series",
+      "name": "Battle Spirits: Sword Eyes Fierce Battle Legend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19877.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16692",
+      "type": "series",
+      "name": "Jigoku Youchien",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16692.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19619",
+      "type": "series",
+      "name": "Jewelpet Twinkle☆: Hohoemi no Niji ni Dokki☆Doki!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19619-AMhryvDwI9V7.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18391",
+      "type": "series",
+      "name": "Mini Van",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18391-PptwEVitGwJ5.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:108549",
+      "type": "series",
+      "name": "Mahou Shoujo Lyrical Nanoha: The MOVIE 2nd A's Mini Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108549-aeTFlEfoxrge.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2584,10 +2010,206 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:121754",
+      "type": "series",
+      "name": "Show by Rock!!: Legend of Shingan Crimsonz",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121754-4zz3UlgoeZO8.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16906",
+      "type": "series",
+      "name": "LINE OFFLINE: Salaryman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16906.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19447",
+      "type": "series",
+      "name": "Arata Kangatari Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19447.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16119",
+      "type": "series",
+      "name": "Chouyaku Hyakuninisshu: Uta Koi. - Sake to Kikoushi ~ Murasaki Kishikibu to Kintou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16119.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:121755",
+      "type": "series",
+      "name": "SHOW BY ROCK!!: Plasmagica na Gogo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121755-hfhVCCTZzoSL.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17707",
+      "type": "series",
+      "name": "Glass no Kamen Desu ga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17707-kFwlfIfEXCE7.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19397",
+      "type": "series",
+      "name": "Zettai Bouei Leviathan: Mini Takibi Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19397.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:104385",
+      "type": "series",
+      "name": "Larva Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104385-iCuUNxE0HiEW.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17147",
+      "type": "series",
+      "name": "Gakkatsu! 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17147.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17969",
+      "type": "series",
+      "name": "Tanken Driland: 1000-nen no Mahou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17969-uAxnH1lqpEMZ.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:98567",
+      "type": "series",
+      "name": "Picotopia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98567-MCDJ6PkwOuGb.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:15795",
+      "type": "series",
+      "name": "Beast Saga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15795.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:21022",
+      "type": "series",
+      "name": "Duel Masters Victory V3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21022-TR9xhXgbSXNj.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17703",
+      "type": "series",
+      "name": "Danchi Tomoo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17703-mEvfP0mEKmZc.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19925",
+      "type": "series",
+      "name": "KY-kei JC Kuuki-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19925.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:102236",
+      "type": "series",
+      "name": "Zinba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102236-nk6PnsNbq0QX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18205",
+      "type": "series",
+      "name": "World Fool News",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18205.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:98133",
+      "type": "series",
+      "name": "Promise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98133-PrRQRRs6pTmb.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:98568",
+      "type": "series",
+      "name": "Wasureboshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98568-ndecaQoygG1I.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:111859",
+      "type": "series",
+      "name": "Delinquent Hamsters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111859-njEsdORzo9S4.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18155",
+      "type": "series",
+      "name": "Line Town",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18155.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:21226",
+      "type": "series",
+      "name": "Lovely Movie: Lovely Muuuuuuuco!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21226-GXgJ2rnzJmDI.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:20975",
       "type": "series",
       "name": "Mattsu, Yamma and Moburi - The Mystery of the Seven Gems and the Flying Castle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20975-rngRKzWL6z65.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17353",
+      "type": "series",
+      "name": "Tenpou Suikoden NEO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17353.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:104469",
+      "type": "series",
+      "name": "Balala Xiao Moxian: Qiji Wubu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104469-xhkoz1mKmUve.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17141",
+      "type": "series",
+      "name": "KARA THE ANIMATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17141.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19171",
+      "type": "series",
+      "name": "Sanjougattai Transformers Go!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19171-4QHPL8qa57kO.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18365",
+      "type": "series",
+      "name": "Mazinger ZIP!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18365.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:20899",
+      "type": "series",
+      "name": "Toukiden",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20899.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2605,10 +2227,94 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:18137",
+      "type": "series",
+      "name": "Train Heroes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18137.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19305",
+      "type": "series",
+      "name": "Nyuru Nyuru!! KAKUSEN-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19305.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19495",
+      "type": "series",
+      "name": "Hakusai Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19495.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17733",
+      "type": "series",
+      "name": "Dibetagurashi: Ahiru no Seikatsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17733.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:115758",
+      "type": "series",
+      "name": "Glass no Kamen Desu ga Z",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115758-TKVvf8LllfY6.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:112145",
+      "type": "series",
+      "name": "Usagi no Mofy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112145-unzWZHLlL8uW.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:19755",
       "type": "series",
       "name": "Bottom Biting Bug 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19755.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18241",
+      "type": "series",
+      "name": "Himitsukessha Taka no Tsume MAX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18241.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:108748",
+      "type": "series",
+      "name": "Anisava",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108748-Xvn5K6MnrIVm.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18723",
+      "type": "series",
+      "name": "Soul Reviver",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18723.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:17563",
+      "type": "series",
+      "name": "Koutetsu no Vendetta Episode 0",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17563.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:117409",
+      "type": "series",
+      "name": "Peeping Life: YouTuber-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117409-kZxfb61ILOem.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19337",
+      "type": "series",
+      "name": "Momoya × Peeping Life: Go en Desu yo!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19337.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2619,10 +2325,66 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:20459",
+      "type": "series",
+      "name": "Ganbare! Lulu Lolo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20459.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:177121",
+      "type": "series",
+      "name": "Baku TECH! Bakugan Gachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177121-4Oy5BFUhyQzy.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18191",
+      "type": "series",
+      "name": "Boku wa Ou-sama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18191-iRnkI36qJwCC.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:121961",
+      "type": "series",
+      "name": "Ponkotsu Quest: Maou to Haken no Mamono-tachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121961-TBZgtFr1UvCH.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18227",
+      "type": "series",
+      "name": "Bakujuu Gasshin Ziguru Hazeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18227.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:115765",
+      "type": "series",
+      "name": "Himitsukessha Taka no Tsume × Glass no Kamen Desu ga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115765-fw9tspjNYgNK.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:116908",
+      "type": "series",
+      "name": "Little Charo 4: New York Again",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116908-vS63Z7BkwrMN.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:126647",
       "type": "series",
       "name": "Donyatsu Specials",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126647-xgRy2g6saFEF.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:197976",
+      "type": "series",
+      "name": "Monsuno: Combat Chaos",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197976-fsMlz6Qve99x.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2633,10 +2395,101 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:131973",
+      "type": "series",
+      "name": "Ikemen Kyuugo-tai Nurse Angels",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131973-AvvjctUO0pzm.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19169",
+      "type": "series",
+      "name": "Go! Go! Kadendanshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19169.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:19445",
+      "type": "series",
+      "name": "Tetsujin 28-gou Gao!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19445.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18919",
+      "type": "series",
+      "name": "The Midnight★Animal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18919.jpg",
+      "releaseInfo": "2013"
+    },
+    {
       "id": "anilist:102689",
       "type": "series",
       "name": "Chao Shen Youxi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102689-myID5XnlQZgU.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:104465",
+      "type": "series",
+      "name": "Brinken: Skate Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104465-8mGEmZOwUZmO.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18469",
+      "type": "series",
+      "name": "Odoriko Clinoppe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18469.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18389",
+      "type": "series",
+      "name": "Heisei Policemen!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18389.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:16908",
+      "type": "series",
+      "name": "The Adventure of Oden-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16908-Yk5M8mYeI1jg.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:18983",
+      "type": "series",
+      "name": "Yuuto-kun ga Iku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18983.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:118638",
+      "type": "series",
+      "name": "The Guardians of Carcosa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118638-gSKAHXC2qHmt.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129869",
+      "type": "series",
+      "name": "KUBBE: kort animasjon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129869-ex0MRQgHAd6p.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:102369",
+      "type": "series",
+      "name": "Pororo's English Show",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102369-ZDBGc37qvncl.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:126607",
+      "type": "series",
+      "name": "Nintama Rantarou: Ninjutsu Gakuen to Nazo no Onna - Kore wa Jiken Da yo! no Dan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126607-UDSkbFSZWPSi.jpg",
       "releaseInfo": "2013"
     },
     {
@@ -2661,10 +2514,157 @@
       "releaseInfo": "2013"
     },
     {
+      "id": "anilist:151281",
+      "type": "series",
+      "name": "Boonie Bears: Homeward Journey",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151281-HwHxxtvqAV48.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:148974",
+      "type": "series",
+      "name": "Xiong Chumo: Conglin Zhongdongyuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148974-69v8jPb9Z6dX.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:103967",
+      "type": "series",
+      "name": "Zhuzhu Xia: Xingfu Jiuyuandui",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103967-6bogpgrS6VDw.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:103704",
+      "type": "series",
+      "name": "Kkoma Sinseon Tao 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103704-SVwmfPPMDud1.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:130675",
+      "type": "series",
+      "name": "LaLaLa Demacia 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130675-1dKQyLqfvf26.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131591",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Happy Diary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131591-qxQvbBOTngWn.jpg",
+      "releaseInfo": "2012"
+    },
+    {
       "id": "anilist:185967",
       "type": "series",
       "name": "Choegang Top Plate",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185967-AZzzqbfn0cnz.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131592",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Happy Formula",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131592-0omNc6pqwy9N.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129586",
+      "type": "series",
+      "name": "Sai Er Hao 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129586-HvcdQj7uJmxD.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129845",
+      "type": "series",
+      "name": "FunaQ: Funassyi to Soutai-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129845-FoiZbXm19iwh.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131854",
+      "type": "series",
+      "name": "Tiandi Fengyun Lu: Jian Xing Mo Zong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131854-xy1VbtaC0tcE.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:131853",
+      "type": "series",
+      "name": "Tiandi Fengyun Lu: Jiulong Bian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131853-r5uT07xwrrOU.jpg",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "anilist:182547",
+      "type": "series",
+      "name": "Da-yoshi P Produce: Ashita no Jobuubu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182547-1nKiqKgzUVKJ.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:154042",
+      "type": "series",
+      "name": "Liv & Bell",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154042-012S3WOvTua3.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:119813",
+      "type": "series",
+      "name": "Stuck Rabbit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119813-KefC0toNBbWS.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:183823",
+      "type": "series",
+      "name": "Oh! Wooper Looper",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183823-kT0sK6iWX6VF.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:183822",
+      "type": "series",
+      "name": "Passionate Elephant",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183822-i0SQ36HbtQY8.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:129301",
+      "type": "series",
+      "name": "Duo Bao Xingyun Xing 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129301-2iB0BvKySuiF.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:193471",
+      "type": "series",
+      "name": "Electro Boy 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b193471-wZdaD0NpJidT.jpg",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:183821",
+      "type": "series",
+      "name": "Pokojiro's Weather Report",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183821-oxYnkURPGV2i.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:202428",
+      "type": "series",
+      "name": "Shimajirou to Korasho no Saigo no Daiundoukai Tsunage! Nakayoshi Relay",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202428-XTYUfmIk4Bdw.png",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "anilist:213632",
+      "type": "series",
+      "name": "Genki Genki Nontan: Spoon Tan Tan Tan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213632-gRNv1l6Kfya0.png",
       "releaseInfo": "2013"
     }
   ]

@@ -26,7 +26,7 @@ export type BuildOptions = { root?: string; maxBytes?: number; catalogs?: Map<st
 export type BuildResult = { outputDir: string; pageSize: number; catalogs: number; variants: number; files: number; bytes: number };
 
 function segment(value: unknown, label: string): asserts value is string {
-    if (typeof value !== "string" || !/^[A-Za-z0-9_-]+$/.test(value)) {
+    if (typeof value !== "string" || !/^[A-Za-z0-9_() -]+$/.test(value)) {
         throw new Error(`Invalid ${label}: expected a safe catalog path segment.`);
     }
 }

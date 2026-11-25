@@ -7,6 +7,14 @@ export enum Season {
     FALL = "FALL" // September to November
 }
 
+const SEASON_LABELS: Record<Season, string> = { WINTER: "WINTER (Dec - Feb)", SPRING: "SPRING (Mar - May)", SUMMER: "SUMMER (Jun - Aug)", FALL: "FALL (Sep - Nov)" };
+export const seasonLabel = (season: Season): string => SEASON_LABELS[season];
+export function seasonFromLabel(label: string): Season {
+    const season = (Object.keys(SEASON_LABELS) as Season[]).find(key => SEASON_LABELS[key] === label);
+    if (!season) throw new Error("Invalid season label.");
+    return season;
+}
+
 export const SEASONS = [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
 
 /**
@@ -48,7 +56,7 @@ export function createSortedSeasonList(firstSeason: Season): Season[] {
  * @param season Queried season
  * @returns The query string
  */
-export function query(year: number, season: Season, format?: TitleType, page = 1): string{
+export function query(year: number, season: Season | undefined, format?: TitleType, page = 1): string{
     if (!Number.isSafeInteger(page) || page < 1) throw new Error("Invalid AniList page.");
     if (year < 2000 || year > (new Date()).getUTCFullYear()) throw new Error("Year must be between 2000 and now");
     const formatFilter = format === "movie" ? "format:MOVIE" : format === "series" ?
@@ -56,8 +64,9 @@ export function query(year: number, season: Season, format?: TitleType, page = 1
     return `query {
         Page(perPage: 50, page: ${page}) {
           pageInfo { hasNextPage }
-          media(seasonYear:${year}, season:${season}, sort:[POPULARITY_DESC,ID_DESC], type:ANIME, isAdult:false, ${formatFilter}) {
+          media(seasonYear:${year}, ${season ? `season:${season}, ` : ""}sort:[POPULARITY_DESC,ID_DESC], type:ANIME, isAdult:false, ${formatFilter}) {
             id
+            ${season ? "" : "season trending popularity"}
             format
             isAdult
             title {

@@ -1,11 +1,11 @@
 import { promises as fs } from "fs";
 import path from "path";
-import { monthToSeason, SEASONS } from "./query";
-import { fetchSeasonCatalogs, Manifest, SeasonCatalogs } from "./stremio";
+import { monthToSeason } from "./query";
+import { fetchYearCatalogs, Manifest } from "./stremio";
 import { Meta, validateMeta } from "./native-meta";
 import { yearCatalogs } from "./current-year";
 export async function refreshCatalogs(root = process.cwd(), today = new Date(), history = false,
-    fetchSeason = fetchSeasonCatalogs) {
+    fetchYear = fetchYearCatalogs) {
     const yearNow = today.getUTCFullYear();
     const manifest = await Manifest.fromFile(path.join(root, "manifest.json"));
     const pending: { file: string; metas: Meta[] }[] = [];
@@ -14,15 +14,11 @@ export async function refreshCatalogs(root = process.cwd(), today = new Date(), 
     const firstYear = history ? 2001 : Number.isInteger(lastYear) && lastYear >= 2001 && lastYear <= yearNow ? lastYear : yearNow;
     let fetched = 0;
     for (let year = yearNow; year >= firstYear; year--) {
-        const seasons: SeasonCatalogs[] = [];
-        for (const season of SEASONS) {
-            console.log(`Fetching ${year}/${season}`);
-            const datasets = await fetchSeason(year, season);
-            for (const type of ["series", "movie"] as const) datasets[type].forEach(meta => validateMeta(meta, type));
-            seasons.push(datasets);
-            fetched++;
-        }
-        pending.push(...yearCatalogs(year, seasons, year === yearNow ? monthToSeason(today.getUTCMonth()) : undefined).sources);
+        console.log(`Fetching ${year}`);
+        const data = await fetchYear(year);
+        for (const datasets of [data.annual, ...data.seasons]) for (const type of ["series", "movie"] as const) datasets[type].forEach(meta => validateMeta(meta, type));
+        pending.push(...yearCatalogs(year, data, year === yearNow ? monthToSeason(today.getUTCMonth()) : undefined).sources);
+        fetched++;
     }
     // Finish all requested fetches before replacing any catalog sources.
     let changed = false;
@@ -33,7 +29,7 @@ export async function refreshCatalogs(root = process.cwd(), today = new Date(), 
         if (body !== previous) { await fs.mkdir(path.dirname(file), { recursive: true }); await fs.writeFile(file, body); changed = true; }
     }
     if (changed || yearNow !== manifest.getLastUpdate().getUTCFullYear() || manifest.getSeasons()[0] !== monthToSeason(today.getUTCMonth())) await manifest.update(today);
-    console.log(`Refresh complete: ${fetched} seasons fetched (movies and series together).`);
+    console.log(`Refresh complete: ${fetched} years fetched (movies and series together).`);
     return { fetched, firstYear, yearNow };
 }
 if (require.main === module) {

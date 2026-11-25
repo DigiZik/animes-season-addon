@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
-import { Season, createSortedSeasonList, monthToSeason, query } from "./query";
+import { Season, createSortedSeasonList, monthToSeason, query, SEASONS, seasonLabel, seasonFromLabel } from "./query";
 import { Anilist } from "./request";
 import { fallbackMeta, Meta, TitleType, validateMeta } from "./native-meta";
 export type { Meta } from "./native-meta";
@@ -31,6 +31,48 @@ export async function fetchSeasonCatalogs(year: number, season: Season, onlyType
         if (!fresh || page >= 1000) throw new Error("AniList pagination did not advance.");
     }
     return catalogs;
+}
+
+export type YearCatalogs = { annual: SeasonCatalogs; seasons: SeasonCatalogs[] };
+
+// One paginated sequence supplies both types and all four seasons.
+export async function fetchYearCatalogs(year: number): Promise<YearCatalogs> {
+    const rows: { meta: Meta; season: Season; trending: number; popularity: number }[] = [];
+    const seen = new Set<string>(), client = new Anilist();
+    for (let page = 1; ; page++) {
+        const response = await client.fetch(query(year, undefined, undefined, page));
+        const media = response?.data?.Page?.media, more = response?.data?.Page?.pageInfo?.hasNextPage;
+        if (!Array.isArray(media) || typeof more !== "boolean") throw new Error("Invalid AniList yearly pagination response.");
+        let fresh = 0;
+        for (const anime of media) {
+            if (typeof anime?.isAdult !== "boolean") throw new Error("Missing AniList adult classification.");
+            const type = anime.format === "MOVIE" ? "movie" : SERIES_FORMATS.has(anime.format) ? "series" : undefined;
+            if (!type) throw new Error("Missing or unsupported AniList format.");
+            const meta = fallbackMeta(anime, type, year);
+            if (seen.has(meta.id)) continue;
+            seen.add(meta.id); fresh++;
+            if (anime.isAdult) continue;
+            // Match the original seasonal catalogs: exclude unseasoned entries.
+            if (anime.season === null) continue;
+            if (!SEASONS.includes(anime.season)) throw new Error("Invalid AniList season.");
+            for (const field of ["trending", "popularity"]) {
+                if (anime[field] !== null && (!Number.isSafeInteger(anime[field]) || anime[field] < 0)) throw new Error("Invalid AniList ranking score.");
+            }
+            rows.push({ meta, season: anime.season, trending: anime.trending ?? 0, popularity: anime.popularity ?? 0 });
+        }
+        if (!more) break;
+        if (!fresh || page >= 1000) throw new Error("AniList pagination did not advance.");
+    }
+    const split = (items: typeof rows): SeasonCatalogs => {
+        const catalogs: SeasonCatalogs = { movie: [], series: [] };
+        for (const row of items) catalogs[row.meta.type].push(row.meta);
+        return catalogs;
+    };
+    // AniList already supplies overall popularity order; ties use descending ID.
+    const annual = split(rows);
+    const seasons = SEASONS.map(season => split(rows.filter(row => row.season === season).sort((a, b) =>
+        b.trending - a.trending || b.popularity - a.popularity || Number(b.meta.id.slice(8)) - Number(a.meta.id.slice(8)))));
+    return { annual, seasons };
 }
 
 export class Catalog {
@@ -87,8 +129,8 @@ export class Manifest implements AbstractManifest {
                 catalog.extra[0].options = this.years;
                 catalog.extra[0].isRequired = false;
             }
-            else if (catalog.id == "latest_anime_seasons") {
-                catalog.extra[0].options = this.seasons;
+            else if (catalog.id == "trending_anime_seasons") {
+                catalog.extra[0].options = this.seasons.map(seasonLabel);
             }
         }
         await this.writeToFile();
@@ -141,7 +183,7 @@ export class Manifest implements AbstractManifest {
         }
         else {
             this.catalogs = catalogs;
-            this.seasons = catalogs.find(catalog => catalog.id == "latest_anime_seasons")?.extra[0].options as Season[];
+            this.seasons = catalogs.find(catalog => catalog.id == "trending_anime_seasons")?.extra[0].options.map(seasonFromLabel) as Season[];
             this.years = catalogs.find(catalog => catalog.id == "archive_anime_seasons")?.extra[0].options as string[];
         }
     }
@@ -200,11 +242,11 @@ export class Manifest implements AbstractManifest {
     private addCatalog(contentType: TitleType, catalogType: CatalogType) {
         this.catalogs.push({
             type: contentType,
-            id: catalogType == CatalogType.LATEST ? "latest_anime_seasons" : "archive_anime_seasons",
+            id: catalogType == CatalogType.LATEST ? "trending_anime_seasons" : "archive_anime_seasons",
             name: catalogType == CatalogType.LATEST ? "Anime Seasons" : "Anime Years",
             extra: [{ 
                 name: "genre", 
-                options: catalogType == CatalogType.LATEST ? this.seasons : this.years, 
+                options: catalogType == CatalogType.LATEST ? this.seasons.map(seasonLabel) : this.years,
                 isRequired: false}
             ],
             "extraSupported": ["genre"]

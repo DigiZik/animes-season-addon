@@ -1,10 +1,80 @@
 {
   "metas": [
     {
+      "id": "anilist:113415",
+      "type": "series",
+      "name": "JUJUTSU KAISEN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112641",
+      "type": "series",
+      "name": "Kaguya-sama: Love is War?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108632",
+      "type": "series",
+      "name": "Re:ZERO -Starting Life in Another World- Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115230",
+      "type": "series",
+      "name": "Tower of God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115230-QHOdSN7yt8ab.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113813",
+      "type": "series",
+      "name": "Rent-a-Girlfriend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113813-SnljeXpU3Pw7.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114236",
+      "type": "series",
+      "name": "Fire Force Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116006",
+      "type": "series",
+      "name": "The God of High School",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116006-Wt8JSA1ZQxlM.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:106625",
       "type": "series",
       "name": "HAIKYU!! TO THE TOP",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112301",
+      "type": "series",
+      "name": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-f88Fs2es4pSr.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113538",
+      "type": "series",
+      "name": "HAIKYU!! TO THE TOP Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113538-tHVE8j5mOPLu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116267",
+      "type": "series",
+      "name": "TONIKAWA: Over The Moon For You",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116267-Eo1biPBTlL4i.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -15,10 +85,45 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:110349",
+      "type": "series",
+      "name": "Great Pretender",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110349-59hhZ9CNHVdk.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108489",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU Climax!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108489-yGmYCE6dhFta.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112124",
+      "type": "series",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112124-ZmoOntBuiSUU.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114308",
+      "type": "series",
+      "name": "Sword Art Online: Alicization - War of Underworld Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114308-8UBiS7U9buzu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:105228",
       "type": "series",
       "name": "Dorohedoro",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105228-I4xr84QS9Pvk.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111762",
+      "type": "series",
+      "name": "Fruits Basket Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111762-C8TNf5uRlVNQ.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -36,10 +141,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116566",
+      "type": "series",
+      "name": "Akudama Drive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116566-PPIVQt359vQY.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114888",
+      "type": "series",
+      "name": "The Millionaire Detective - Balance: UNLIMITED",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114888-lgecUF3O1AWS.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:107201",
       "type": "series",
       "name": "In/Spectre",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107201-zQYOPotwmSXO.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114124",
+      "type": "series",
+      "name": "Moriarty the Patriot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112609",
+      "type": "series",
+      "name": "Wandering Witch: The Journey of Elaina",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112609-hBCbnYlEHluz.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108241",
+      "type": "series",
+      "name": "Gleipnir",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108241-Mc28QvkdUkfp.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115113",
+      "type": "series",
+      "name": "Uzaki-chan Wants to Hang Out!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114043",
+      "type": "series",
+      "name": "Food Wars! The Fifth Plate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114043-QkgiycojrojN.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:104647",
+      "type": "series",
+      "name": "My Next Life as a Villainess: All Routes Lead to Doom!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104647-dMGZSavRxHcM.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -54,6 +215,13 @@
       "type": "series",
       "name": "Plunderer",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101168-LY3XA61byAVo.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110354",
+      "type": "series",
+      "name": "BNA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -78,10 +246,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:117343",
+      "type": "series",
+      "name": "Talentless Nana",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117343-NgCLZTaxallv.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:109298",
       "type": "series",
       "name": "Keep Your Hands Off Eizouken!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109298-suwdIUbJEPJx.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112300",
+      "type": "series",
+      "name": "The Irregular at Magic High School: Visitor Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112300-I5ucx66OvqWX.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112667",
+      "type": "series",
+      "name": "Our Last Crusade or the Rise of a New World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112667-GYFeAlZ38mXK.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113311",
+      "type": "series",
+      "name": "Kakushigoto",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113311-6bSvvCHBpjpI.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116673",
+      "type": "series",
+      "name": "BURN THE WITCH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116673-cy4sgiliurpR.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116242",
+      "type": "series",
+      "name": "I'm Standing on a Million Lives",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116242-JY81Khmbqysn.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110353",
+      "type": "series",
+      "name": "DECA-DENCE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110353-XGYSsii7qJeK.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:109020",
+      "type": "series",
+      "name": "SING \"YESTERDAY\" FOR ME",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109020-sRBusiVXbsLH.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -92,6 +316,69 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116005",
+      "type": "series",
+      "name": "Noblesse",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116005-yfngIe9aBaJw.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:107871",
+      "type": "series",
+      "name": "Princess Connect! Re:Dive",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107871-ZOh7oeDd0kq9.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118419",
+      "type": "series",
+      "name": "The Day I Became a God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118419-li8RpQcLgiKK.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:106319",
+      "type": "series",
+      "name": "The 8th Son? Are You Kidding Me?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106319-LDDmqyV2rs4D.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114446",
+      "type": "series",
+      "name": "Higurashi: When They Cry - GOU",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114446-H6uxjVi8wBoo.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115740",
+      "type": "series",
+      "name": "By the Grace of the Gods",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115740-IRwSQo96Qs2Q.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111428",
+      "type": "series",
+      "name": "Sleepy Princess in the Demon Castle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111428-JGrnjBDHLGQb.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:109287",
+      "type": "series",
+      "name": "Adachi and Shimamura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109287-yHDlERSIEjsL.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113693",
+      "type": "series",
+      "name": "Ascendance of a Bookworm Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113693-3tHbslFxD47R.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:104462",
       "type": "series",
       "name": "A Certain Scientific Railgun T",
@@ -99,10 +386,38 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:113286",
+      "type": "series",
+      "name": "Monster Girl Doctor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113286-AUS3PAJ5n6BU.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:110178",
       "type": "series",
       "name": "Isekai Quartet 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110178-UhigZiRQVwLf.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113260",
+      "type": "series",
+      "name": "Heaven Official's Blessing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113260-4LPAAKCSJe8f.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111965",
+      "type": "series",
+      "name": "Peter Grill and the Philosopher's Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111965-iUYaDivDR4BG.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114340",
+      "type": "series",
+      "name": "Kuma Kuma Kuma Bear",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114340-9KovjbYWlNGa.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -134,6 +449,69 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:108522",
+      "type": "series",
+      "name": "Baki: The Great Raitai Tournament Saga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108522-XQmYISWCnTGg.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122349",
+      "type": "series",
+      "name": "My Hero Academia: Make It! Do-or-Die Survival Training",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122349-DkEdG7N1231n.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110355",
+      "type": "series",
+      "name": "Golden Kamuy Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110355-yXOXm5tr8kgr.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112357",
+      "type": "series",
+      "name": "Japan Sinks: 2020",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112357-N03rYtjPxJtE.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112818",
+      "type": "series",
+      "name": "SUPER HXEROS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112818-9sOdhLPYX3eL.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112444",
+      "type": "series",
+      "name": "APPARE-RANMAN!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112444-S7bhKskrAqSI.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114195",
+      "type": "series",
+      "name": "ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114195-3h9rxnFnNkzw.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110547",
+      "type": "series",
+      "name": "Arte",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110547-Jo4VNdR3DlOx.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111324",
+      "type": "series",
+      "name": "Ikebukuro West Gate Park",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111324-yp1jtH1XjxS3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:111501",
       "type": "series",
       "name": "Smile Down the Runway",
@@ -155,10 +533,52 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:118399",
+      "type": "series",
+      "name": "Yashahime: Princess Half-Demon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118399-sgHg8NQVQixB.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112479",
+      "type": "series",
+      "name": "Assault Lily BOUQUET",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112479-5EiZWhEK8l0x.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117757",
+      "type": "series",
+      "name": "Iwakakeru -Sport Climbing Girls-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117757-FZgl5V5Ae5Ar.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:104461",
       "type": "series",
       "name": "ROOM CAMP",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104461-rdwSQwNxFIyu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113917",
+      "type": "series",
+      "name": "PSYCHO-PASS 3: First Inspector",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113917-lmW1flyIYU78.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113970",
+      "type": "series",
+      "name": "Love Live! Nijigasaki High School Idol Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113970-peyHsjypxse0.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:102997",
+      "type": "series",
+      "name": "The King's Avatar S2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102997-M638Ly1gxVmG.png",
       "releaseInfo": "2020"
     },
     {
@@ -169,10 +589,143 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:110458",
+      "type": "series",
+      "name": "Shironeko Project ZERO CHRONICLE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110458-Fnh88lYo5pfl.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112353",
+      "type": "series",
+      "name": "Wave, Listen to Me!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112353-hAtUOoapou7V.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108266",
+      "type": "series",
+      "name": "Tsugumomo2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108266-XIxj8RVcidLX.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126287",
+      "type": "series",
+      "name": "PUPARIA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126287-dgh91tFWDlPg.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110857",
+      "type": "series",
+      "name": "Aggretsuko: Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110857-hrnuyBLnnCDX.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112296",
+      "type": "series",
+      "name": "Strike the Blood IV",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112296-fkwRQQpfNJX2.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113108",
+      "type": "series",
+      "name": "Kingdom Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113108-ArjAmFLubVyu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:109019",
+      "type": "series",
+      "name": "Diary of Our Days at the Breakwater",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109019-xlrVQRdo1EQi.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122137",
+      "type": "series",
+      "name": "<DOGEZA>I Tried Asking While Kowtowing.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122137-wqDaJxQWVXaa.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113652",
+      "type": "series",
+      "name": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113652-EVDrKLfnuy3X.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114622",
+      "type": "series",
+      "name": "Dorohedoro: Ma no Omake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114622-mpMhXM8JqCjc.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114099",
+      "type": "series",
+      "name": "Dragon Quest: The Adventure of Dai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114099-LRnlm1t6LE5o.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118376",
+      "type": "series",
+      "name": "KING's RAID: Successors of the Will",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118376-V0mSf2LG0OOs.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:109856",
+      "type": "series",
+      "name": "Listeners",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109856-zDYLvuF4Vuno.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112803",
+      "type": "series",
+      "name": "No Guns Life Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112803-GTBPrkKvlyV5.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122807",
+      "type": "series",
+      "name": "The Gymnastics Samurai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122807-m8jdQLQRSSUI.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:101367",
       "type": "series",
       "name": "Sorcerous Stabber Orphen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101367-8z688YGVx0C3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:107069",
+      "type": "series",
+      "name": "Wu Shan Wu Xing: Zhuo Yuan Shen Huo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107069-mABDNDDtWWiW.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:104198",
+      "type": "series",
+      "name": "Is the Order a Rabbit? BLOOM",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104198-bT8qBPJWxtiY.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114811",
+      "type": "series",
+      "name": "Digimon Adventure:",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114811-SLZ6cMMhx6Im.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -190,6 +743,20 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:126661",
+      "type": "series",
+      "name": "Boku no Hero Academia THE MOVIE: Heroes:Rising - Epilogue Plus: Yume wo Genjitsu ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126661-61SI7n5njMNM.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110371",
+      "type": "series",
+      "name": "Mr Love: Queen's Choice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110371-iQC5FQ6FuTuX.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:104936",
       "type": "series",
       "name": "A Destructive God Sits Next to Me",
@@ -197,10 +764,38 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:110446",
+      "type": "series",
+      "name": "GIBIATE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110446-vqrjx22U4T9N.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112686",
+      "type": "series",
+      "name": "7SEEDS Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112686-vZCeCpw9oYB4.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115069",
+      "type": "series",
+      "name": "D4DJ First Mix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115069-hKrmZDt2oZ8Q.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:99807",
       "type": "series",
       "name": "22/7 (nanabun no nijyuuni)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99807-bkaSfYalAcbf.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:104937",
+      "type": "series",
+      "name": "Lapis Re:LiGHTs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104937-2TM6AffYAvxM.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -218,10 +813,38 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116173",
+      "type": "series",
+      "name": "Warlords of Sigrdrifa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116173-1oLcZkw6lkvM.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:107294",
+      "type": "series",
+      "name": "Dropkick on My Devil!! Dash",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107294-zWscZpb7wYLH.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:110445",
       "type": "series",
       "name": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?: Do You Love Your Mom on the Shore?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110445-0QgiZGhqwXn1.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108713",
+      "type": "series",
+      "name": "Dropout Idol Fruit Tart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108713-6rHQTEA9ptyb.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114411",
+      "type": "series",
+      "name": "Bungo and Alchemist -Gears of Judgement-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114411-PnXaweOf99xA.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -253,10 +876,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:111323",
+      "type": "series",
+      "name": "Gal & Dino",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111323-quqYgAchD9PM.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120193",
+      "type": "series",
+      "name": "Yingxiong Zailin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120193-KAMiBZ4Nw3xA.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114555",
+      "type": "series",
+      "name": "All Saints Street",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114555-2Srjv4lqeGYA.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:109586",
       "type": "series",
       "name": "Cagaster of an Insect Cage",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109586-kCEXqdiTMX0j.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110130",
+      "type": "series",
+      "name": "TAMAYOMI: The Baseball Girls",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110130-QqvIQ5B2X3EJ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:106154",
+      "type": "series",
+      "name": "Ghost in the Shell: SAC_2045",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106154-14XxxKUUwh13.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120700",
+      "type": "series",
+      "name": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120700-buuy9COgsBTa.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115800",
+      "type": "series",
+      "name": "Quanzhi Fashi 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115800-IUbsQeRT92YC.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113570",
+      "type": "series",
+      "name": "Shachibato! President, It's Time for Battle!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113570-c0YmZUj7f5eH.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -267,10 +946,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116147",
+      "type": "series",
+      "name": "One Room 3rd",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116147-ihwpyRJMuFKx.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:113932",
       "type": "series",
       "name": "Pokémon: Twilight Wings",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113932-2sY3uAQq9qSz.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117755",
+      "type": "series",
+      "name": "MAGATSU WAHRHEIT",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117755-feOzwxzB9gEk.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:105401",
+      "type": "series",
+      "name": "Yi Ren Zhi Xia 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105401-Wwj6ZWHUdOuo.png",
       "releaseInfo": "2020"
     },
     {
@@ -281,6 +981,27 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:103110",
+      "type": "series",
+      "name": "IDOLiSH7 Second BEAT!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103110-tmjraaFRlEt5.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114263",
+      "type": "series",
+      "name": "Rail Romanesque",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114263-A1mhjXwElS78.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108941",
+      "type": "series",
+      "name": "UMAYON",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108941-QDNpgawkxytg.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:112324",
       "type": "series",
       "name": "Strike the Blood: Kieta Seisou-hen",
@@ -288,10 +1009,94 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:117496",
+      "type": "series",
+      "name": "Yesterday wo Utatte Extras",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117496-CP35rVXw69hq.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:103119",
+      "type": "series",
+      "name": "Strike Witches: Road to Berlin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103119-5x83l4nwlloI.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108629",
+      "type": "series",
+      "name": "Woodpecker Detective’s Office",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108629-KZRQimMl3eGN.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:113397",
       "type": "series",
       "name": "Natsunagu!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113397-Js0fp84kcgiS.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114981",
+      "type": "series",
+      "name": "ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114981-YkNZTH8Jfsn2.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120046",
+      "type": "series",
+      "name": "Take My Brother Away! 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120046-YWcYUdha79t5.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:141950",
+      "type": "series",
+      "name": "False Memory",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141950-zAmZROOecLLP.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116384",
+      "type": "series",
+      "name": "Sol Levante",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116384-xn0nQAKGFSd7.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108356",
+      "type": "series",
+      "name": "Dragon's Dogma",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108356-qxHmuNVZFRwJ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111145",
+      "type": "series",
+      "name": "A3! Season Autumn & Winter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111145-bYNGacLaqHQq.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:108978",
+      "type": "series",
+      "name": "Scumbag System",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108978-GtIXqzO8RaAz.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:123769",
+      "type": "series",
+      "name": "Dokyuu Hentai HxEros OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123769-ClztG4bhi1hD.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110028",
+      "type": "series",
+      "name": "Muhyo & Roji’s Bureau of Supernatural Investigation Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110028-bosDZpze4Chn.png",
       "releaseInfo": "2020"
     },
     {
@@ -309,10 +1114,38 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:120343",
+      "type": "series",
+      "name": "The Master of Diabolism Q",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120343-8zVgrYFOl7GV.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120851",
+      "type": "series",
+      "name": "Mr. Osomatsu 3rd season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120851-94u8CMlI599g.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111500",
+      "type": "series",
+      "name": "Sakura Wars the Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111500-YqqWk16db7FX.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:108714",
       "type": "series",
       "name": "ACCA: 13-Territory Inspection Dept. - Regards",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108714-7QDTectcCIa3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112325",
+      "type": "series",
+      "name": "Shadowverse",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112325-NXi6RerKkbi6.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -323,10 +1156,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:123901",
+      "type": "series",
+      "name": "Kanojo, Okarishimasu Petit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:112033",
       "type": "series",
       "name": "Zenonzard: THE ANIMATION",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112033-OJCATuZi1FGz.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110595",
+      "type": "series",
+      "name": "Yi Nian Yongheng",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110595-vHd33fbqdK6B.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115186",
+      "type": "series",
+      "name": "Extra Olympia Kyklos",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115186-WZrskMhidMgg.png",
       "releaseInfo": "2020"
     },
     {
@@ -351,10 +1205,24 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:112302",
+      "type": "series",
+      "name": "MAJOR SECOND Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112302-VZZnJ1NY0waA.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:110613",
       "type": "series",
       "name": "Oda Cinnamon Nobunaga",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110613-UVk4CINXaRnX.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114136",
+      "type": "series",
+      "name": "Fairies Albums",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114136-9bmTbEk4aV4x.png",
       "releaseInfo": "2020"
     },
     {
@@ -365,10 +1233,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:117086",
+      "type": "series",
+      "name": "Grand Blues!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117086-5ZF0aUiKRugq.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122497",
+      "type": "series",
+      "name": "All Saints Street 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122497-vrY4EfwCCp9a.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114072",
+      "type": "series",
+      "name": "Yu-Gi-Oh! SEVENS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114072-3C6Bbv490sNj.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118125",
+      "type": "series",
+      "name": "Dropkick on My Devil!! Dash: Chapter Chitose",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118125-7ob1bSjvOMfr.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:114113",
       "type": "series",
       "name": "Jieyao",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114113-v0LtTzpFiCrM.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113906",
+      "type": "series",
+      "name": "BanG Dream! Girls Band Party!☆PICO～OHMORI～",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113906-XWfukSUYMS5K.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116700",
+      "type": "series",
+      "name": "With a Dog AND a Cat, Every Day is Fun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116700-5BXjWj2zSx4S.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110632",
+      "type": "series",
+      "name": "Maesetsu! Opening Act",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110632-WxTfHGRIZ4BJ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:111310",
+      "type": "series",
+      "name": "Mewkledreamy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111310-KTLldElz3BSp.png",
       "releaseInfo": "2020"
     },
     {
@@ -379,10 +1303,59 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:113051",
+      "type": "series",
+      "name": "ARGONAVIS from BanG Dream!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113051-R2V4aqfv0pau.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122041",
+      "type": "series",
+      "name": "Toaru Kagaku no Railgun T: Motto Marutto Railgun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122041-klwXsG3pN9Nb.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:115217",
       "type": "series",
       "name": "Haikyuu!! Ningyou Anime",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115217-5Q8RImxnZc9a.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120180",
+      "type": "series",
+      "name": "Ninja Collection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120180-NSws10rGLbIZ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119964",
+      "type": "series",
+      "name": "POKÉTOON",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119964-9CGb99VzyuCQ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:154541",
+      "type": "series",
+      "name": "Junior High and High School!! Kimetsu Academy Story: Kimetsu no Utage Special Edition",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154541-Q7djLI2ttMp9.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114233",
+      "type": "series",
+      "name": "Gundam Build Divers Re:RISE 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114233-FUlAGLqFOVrT.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:127225",
+      "type": "series",
+      "name": "Slimetachi no Idobata Kaigi: Slime Tsukai to Slime no Maou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127225-rOkSrij8NdQp.png",
       "releaseInfo": "2020"
     },
     {
@@ -393,10 +1366,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:117012",
+      "type": "series",
+      "name": "Swallowed Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117012-l2rktMbQbn0Z.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115651",
+      "type": "series",
+      "name": "Sorcerous Stabber Orphen: Celestial Artifacts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115651-KuMrmCmjkkyh.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114117",
+      "type": "series",
+      "name": "Memory of Chang'an",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114117-B5kJyQUnW5iO.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119696",
+      "type": "series",
+      "name": "Cooking with Valkyries 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119696-JjixBLB2fgMj.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124896",
+      "type": "series",
+      "name": "Bear Bear Bear Kuma!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124896-iHBskSeXJDnd.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125308",
+      "type": "series",
+      "name": "Pokémon: Twilight Wings - The Gathering of Stars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125308-rxK3icoDdhGl.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114249",
+      "type": "series",
+      "name": "22/7: 8+3=?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114249-IF4chK3U982a.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:113851",
       "type": "series",
       "name": "Breakers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113851-BKAhdzil2CIp.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116786",
+      "type": "series",
+      "name": "Beyblade Burst Surge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116786-ZIUM2E11AK0y.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -414,10 +1443,24 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116182",
+      "type": "series",
+      "name": "Legend of Exorcism",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116182-W5Uj5asq3KSI.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:115107",
       "type": "series",
       "name": "DIGIMON ADVENTURE 20th memorial story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115107-GUXZ5XoMfNYW.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110699",
+      "type": "series",
+      "name": "Bureau of Paranormal Investigation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110699-b3eAF20wVjAT.png",
       "releaseInfo": "2020"
     },
     {
@@ -428,11 +1471,25 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:115844",
+      "type": "series",
+      "name": "A Record Of Mortal's Journey To Immortality",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115844-UFnSJplzMwRr.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:114561",
       "type": "series",
       "name": "Zhen Hun Jie 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114561-0cGF44fOpOvS.png",
       "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:114030",
+      "type": "series",
+      "name": "Katana Maidens ~ Tomoshibi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114030-FK92LNOsOT3U.jpg",
+      "releaseInfo": "2020"
     },
     {
       "id": "anilist:112166",
@@ -442,10 +1499,66 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:105244",
+      "type": "series",
+      "name": "TSUKIUTA. The Animation Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105244-0EhJURYarzXl.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124703",
+      "type": "series",
+      "name": "Boukyaku Battery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124703-6kSUmYMWvG0L.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:98875",
+      "type": "series",
+      "name": "Hizukuri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98875-DaOUqpdr99ng.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124028",
+      "type": "series",
+      "name": "That is the Bottleneck",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124028-TQx8cy5DM2k4.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114119",
+      "type": "series",
+      "name": "Dali Si Rizhi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114119-fvKpSLNiz7pd.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:110615",
       "type": "series",
       "name": "ARP Backstage Pass",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110615-BPAvwgEZ7iTn.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117532",
+      "type": "series",
+      "name": "Case File nº221: Kabukicho OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117532-QC0klw2IFiQD.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114891",
+      "type": "series",
+      "name": "The House Spirit Tatami-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114891-XMuVHEbi68mJ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:123803",
+      "type": "series",
+      "name": "Munou na Nana: Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123803-frGulQh4dlMH.png",
       "releaseInfo": "2020"
     },
     {
@@ -463,10 +1576,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:129349",
+      "type": "series",
+      "name": "Douluo Dalu: Xiaowu Juebie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129349-q9rQenoTegnx.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:129348",
       "type": "series",
       "name": "Douluo Dalu: Qian Hua Xi Jin",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129348-X24UHyN5as12.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:129350",
+      "type": "series",
+      "name": "Douluo Dalu: Xingdou Xianji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129350-pacPQReq3nWl.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115656",
+      "type": "series",
+      "name": "Cardfight!! Vanguard Extra Story -if-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115656-Dt4eRb2enm3p.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -484,10 +1618,52 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:122536",
+      "type": "series",
+      "name": "Rick and Morty vs. Genocider",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122536-XijayOJsswIZ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:129351",
+      "type": "series",
+      "name": "Douluo Dalu: Hanhai Qiankun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129351-9SZKw96PJyzY.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116848",
+      "type": "series",
+      "name": "Spicy Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116848-C8dwoS3QwrSs.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116964",
+      "type": "series",
+      "name": "Yao Shen Ji: Hei Yu Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116964-8ogwaqY2bWXg.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:114442",
       "type": "series",
       "name": "Tenchi Muyo! Ryo-Ohki Season 5",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114442-wEY2gcxKFhdg.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117168",
+      "type": "series",
+      "name": "The God of War Dominates",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117168-UlG02tQC3K8m.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119960",
+      "type": "series",
+      "name": "Katarina to Manabou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119960-0ZORn7CdbAQh.png",
       "releaseInfo": "2020"
     },
     {
@@ -512,738 +1688,24 @@
       "releaseInfo": "2019"
     },
     {
-      "id": "anilist:114448",
+      "id": "anilist:121799",
       "type": "series",
-      "name": "Knights of the Zodiac: Saint Seiya Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114448-nnpndNstYUNF.png",
+      "name": "Anime KAPIBARASAN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121799-32cdW6JKWb6Z.png",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:131923",
+      "id": "anilist:112258",
       "type": "series",
-      "name": "ID: INDEED",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131923-mPMf89cY0ZpC.png",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "anilist:116923",
-      "type": "series",
-      "name": "Eizouken Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116923-ASmRIGda4ZZb.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113864",
-      "type": "series",
-      "name": "Special Crime Investigation Unit - Special 7 OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113864-x75Ts1B8QYjf.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:134047",
-      "type": "series",
-      "name": "BLUE: line・step・brush",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134047-KVQPYLYRWw59.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114424",
-      "type": "series",
-      "name": "Koisuru Asteroid: KiraKira Zoukangou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114424-cl1NjmDfnExt.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113472",
-      "type": "series",
-      "name": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113472-eCohv2grT8J4.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:116138",
-      "type": "series",
-      "name": "Ling Jian Zun 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116138-NKaaA4PJo3Cu.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:116328",
-      "type": "series",
-      "name": "Runway de Waratte Mini",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116328-8A0lsY232bTF.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:110495",
-      "type": "series",
-      "name": "Microphone Soul Spinners: Kotodama Shoujo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110495-oc5PuvNCXfPx.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:104868",
-      "type": "series",
-      "name": "Wu Geng Ji 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104868-35yv710VMDUs.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:114562",
-      "type": "series",
-      "name": "Xue Ying Lingzhu: Qiyu Pian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114562-1unfHq5iTWCh.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118077",
-      "type": "series",
-      "name": "Pachislot Eureka Seven 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118077-jIxMjIASqJ4U.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:138687",
-      "type": "series",
-      "name": "\"RabbiTube\" Creator ni Chousen!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138687-80kl9N7WQ6x1.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116620",
-      "type": "series",
-      "name": "Ni Zai Xingguang Shenchu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116620-J68CgI8FoJdB.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:114557",
-      "type": "series",
-      "name": "Fei Ren Zai Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114557-nFORbfSNAr67.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114765",
-      "type": "series",
-      "name": "Saezuru Doubutsu wa Yarushikanai!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114765-g72SKDpOl1Ph.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:113463",
-      "type": "series",
-      "name": "Hulaing Babies☆Petit",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113463-zHcmCnrgiKTK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:109638",
-      "type": "series",
-      "name": "Haishin Yuusha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109638-40ErBK1rAn93.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:116246",
-      "type": "series",
-      "name": "ARP Backstage Pass Episode 6.5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116246-5m5ISaTDcIG4.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114196",
-      "type": "series",
-      "name": "Urashimasakatasen no Nichijou OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114196-CiyGipoGtXeq.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115178",
-      "type": "series",
-      "name": "Wan Jie Shenzhu 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115178-x45ycdFaH9F0.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113907",
-      "type": "series",
-      "name": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113907-LJqhJbPnc57b.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:114760",
-      "type": "series",
-      "name": "Mobile Suit Gakuen: Kaette Kita G-Reco Koushien",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114760-zRmWhTYpgfgp.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117280",
-      "type": "series",
-      "name": "Ooya-san to Boku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117280-KhkjbibochSF.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114657",
-      "type": "series",
-      "name": "Marumaru Manul",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114657-TfKEg5xEN0h1.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113863",
-      "type": "series",
-      "name": "Gaina Tamager",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113863-0spZC2wRaTwb.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:154119",
-      "type": "series",
-      "name": "Marco to Ginga Ryuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154119-z25XciBCbUwQ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119922",
-      "type": "series",
-      "name": "Qiang Shen Ji: Xuezu Mishi Pian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119922-LmDjHzAoqsWf.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:114656",
-      "type": "series",
-      "name": "LALALACOCO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114656-pBzIXwe35hOk.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116966",
-      "type": "series",
-      "name": "Xing You Ji: Fengbao Famila 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116966-Sej5lBaN6ekn.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114558",
-      "type": "series",
-      "name": "Qing Chi Hong Xiaodou Ba! 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114558-qbES85w38CWZ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129544",
-      "type": "series",
-      "name": "Toutiao Dou Shi Ta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129544-8U23Ad2b9CYF.jpg",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:123028",
-      "type": "series",
-      "name": "Wo de San Ti: Zhang Beihai Zhuan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123028-yJylqwIDzA79.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121392",
-      "type": "series",
-      "name": "Xiao Cangshu Didi de  Chibo Richang",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121392-Fv3eBTpfE0AK.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131729",
-      "type": "series",
-      "name": "Pleasant Goat and Big Big Wolf: The Intriguing Alien Guests",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131729-WeEWCWnXQqJh.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121201",
-      "type": "series",
-      "name": "Jingju Mao: Jiaotashidi Part 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121201-O80EyGBY5Eba.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120510",
-      "type": "series",
-      "name": "Kung Fu Bunny 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120510-685INIkfMGyR.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116996",
-      "type": "series",
-      "name": "Xiagu Zhong An Zu 4th Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116996-W2OSeJcESnx6.png",
-      "releaseInfo": "2019"
-    },
-    {
-      "id": "anilist:188053",
-      "type": "series",
-      "name": "Spookiz Season 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188053-mCOEbnqYo7f6.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112641",
-      "type": "series",
-      "name": "Kaguya-sama: Love is War?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115230",
-      "type": "series",
-      "name": "Tower of God",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115230-QHOdSN7yt8ab.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110349",
-      "type": "series",
-      "name": "Great Pretender",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110349-59hhZ9CNHVdk.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111762",
-      "type": "series",
-      "name": "Fruits Basket Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111762-C8TNf5uRlVNQ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114888",
-      "type": "series",
-      "name": "The Millionaire Detective - Balance: UNLIMITED",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114888-lgecUF3O1AWS.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108241",
-      "type": "series",
-      "name": "Gleipnir",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108241-Mc28QvkdUkfp.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114043",
-      "type": "series",
-      "name": "Food Wars! The Fifth Plate",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114043-QkgiycojrojN.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:104647",
-      "type": "series",
-      "name": "My Next Life as a Villainess: All Routes Lead to Doom!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104647-dMGZSavRxHcM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110354",
-      "type": "series",
-      "name": "BNA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113311",
-      "type": "series",
-      "name": "Kakushigoto",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113311-6bSvvCHBpjpI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:109020",
-      "type": "series",
-      "name": "SING \"YESTERDAY\" FOR ME",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109020-sRBusiVXbsLH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:107871",
-      "type": "series",
-      "name": "Princess Connect! Re:Dive",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107871-ZOh7oeDd0kq9.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:106319",
-      "type": "series",
-      "name": "The 8th Son? Are You Kidding Me?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106319-LDDmqyV2rs4D.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113693",
-      "type": "series",
-      "name": "Ascendance of a Bookworm Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113693-3tHbslFxD47R.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108522",
-      "type": "series",
-      "name": "Baki: The Great Raitai Tournament Saga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108522-XQmYISWCnTGg.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112444",
-      "type": "series",
-      "name": "APPARE-RANMAN!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112444-S7bhKskrAqSI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110547",
-      "type": "series",
-      "name": "Arte",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110547-Jo4VNdR3DlOx.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113917",
-      "type": "series",
-      "name": "PSYCHO-PASS 3: First Inspector",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113917-lmW1flyIYU78.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110458",
-      "type": "series",
-      "name": "Shironeko Project ZERO CHRONICLE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110458-Fnh88lYo5pfl.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112353",
-      "type": "series",
-      "name": "Wave, Listen to Me!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112353-hAtUOoapou7V.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108266",
-      "type": "series",
-      "name": "Tsugumomo2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108266-XIxj8RVcidLX.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112296",
-      "type": "series",
-      "name": "Strike the Blood IV",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112296-fkwRQQpfNJX2.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113108",
-      "type": "series",
-      "name": "Kingdom Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113108-ArjAmFLubVyu.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:109019",
-      "type": "series",
-      "name": "Diary of Our Days at the Breakwater",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109019-xlrVQRdo1EQi.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114622",
-      "type": "series",
-      "name": "Dorohedoro: Ma no Omake",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114622-mpMhXM8JqCjc.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:109856",
-      "type": "series",
-      "name": "Listeners",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109856-zDYLvuF4Vuno.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114811",
-      "type": "series",
-      "name": "Digimon Adventure:",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114811-SLZ6cMMhx6Im.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112686",
-      "type": "series",
-      "name": "7SEEDS Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112686-vZCeCpw9oYB4.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:107294",
-      "type": "series",
-      "name": "Dropkick on My Devil!! Dash",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107294-zWscZpb7wYLH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114411",
-      "type": "series",
-      "name": "Bungo and Alchemist -Gears of Judgement-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114411-PnXaweOf99xA.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111323",
-      "type": "series",
-      "name": "Gal & Dino",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111323-quqYgAchD9PM.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114555",
-      "type": "series",
-      "name": "All Saints Street",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114555-2Srjv4lqeGYA.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110130",
-      "type": "series",
-      "name": "TAMAYOMI: The Baseball Girls",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110130-QqvIQ5B2X3EJ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:106154",
-      "type": "series",
-      "name": "Ghost in the Shell: SAC_2045",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106154-14XxxKUUwh13.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115800",
-      "type": "series",
-      "name": "Quanzhi Fashi 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115800-IUbsQeRT92YC.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113570",
-      "type": "series",
-      "name": "Shachibato! President, It's Time for Battle!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113570-c0YmZUj7f5eH.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:105401",
-      "type": "series",
-      "name": "Yi Ren Zhi Xia 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105401-Wwj6ZWHUdOuo.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:103110",
-      "type": "series",
-      "name": "IDOLiSH7 Second BEAT!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103110-tmjraaFRlEt5.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117496",
-      "type": "series",
-      "name": "Yesterday wo Utatte Extras",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117496-CP35rVXw69hq.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108629",
-      "type": "series",
-      "name": "Woodpecker Detective’s Office",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108629-KZRQimMl3eGN.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114981",
-      "type": "series",
-      "name": "ROOM CAMP: Saunas and Grub and Three-Wheeler Bikes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114981-YkNZTH8Jfsn2.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116384",
-      "type": "series",
-      "name": "Sol Levante",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116384-xn0nQAKGFSd7.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111500",
-      "type": "series",
-      "name": "Sakura Wars the Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111500-YqqWk16db7FX.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112325",
-      "type": "series",
-      "name": "Shadowverse",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112325-NXi6RerKkbi6.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115186",
-      "type": "series",
-      "name": "Extra Olympia Kyklos",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115186-WZrskMhidMgg.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112302",
-      "type": "series",
-      "name": "MAJOR SECOND Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112302-VZZnJ1NY0waA.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114136",
-      "type": "series",
-      "name": "Fairies Albums",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114136-9bmTbEk4aV4x.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114072",
-      "type": "series",
-      "name": "Yu-Gi-Oh! SEVENS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114072-3C6Bbv490sNj.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118125",
-      "type": "series",
-      "name": "Dropkick on My Devil!! Dash: Chapter Chitose",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118125-7ob1bSjvOMfr.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113906",
-      "type": "series",
-      "name": "BanG Dream! Girls Band Party!☆PICO～OHMORI～",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113906-XWfukSUYMS5K.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111310",
-      "type": "series",
-      "name": "Mewkledreamy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111310-KTLldElz3BSp.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113051",
-      "type": "series",
-      "name": "ARGONAVIS from BanG Dream!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113051-R2V4aqfv0pau.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122041",
-      "type": "series",
-      "name": "Toaru Kagaku no Railgun T: Motto Marutto Railgun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122041-klwXsG3pN9Nb.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119964",
-      "type": "series",
-      "name": "POKÉTOON",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119964-9CGb99VzyuCQ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114233",
-      "type": "series",
-      "name": "Gundam Build Divers Re:RISE 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114233-FUlAGLqFOVrT.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115651",
-      "type": "series",
-      "name": "Sorcerous Stabber Orphen: Celestial Artifacts",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115651-KuMrmCmjkkyh.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116786",
-      "type": "series",
-      "name": "Beyblade Burst Surge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116786-ZIUM2E11AK0y.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114119",
-      "type": "series",
-      "name": "Dali Si Rizhi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114119-fvKpSLNiz7pd.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114891",
-      "type": "series",
-      "name": "The House Spirit Tatami-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114891-XMuVHEbi68mJ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129349",
-      "type": "series",
-      "name": "Douluo Dalu: Xiaowu Juebie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129349-q9rQenoTegnx.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115656",
-      "type": "series",
-      "name": "Cardfight!! Vanguard Extra Story -if-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115656-Dt4eRb2enm3p.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116848",
-      "type": "series",
-      "name": "Spicy Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116848-C8dwoS3QwrSs.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116964",
-      "type": "series",
-      "name": "Yao Shen Ji: Hei Yu Pian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116964-8ogwaqY2bWXg.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117168",
-      "type": "series",
-      "name": "The God of War Dominates",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117168-UlG02tQC3K8m.jpg",
+      "name": "Chou Futsuu Toshi Kashiwa Densetsu R",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112258-euCskvIy0fix.jpg",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:119960",
+      "id": "anilist:162800",
       "type": "series",
-      "name": "Katarina to Manabou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119960-0ZORn7CdbAQh.png",
+      "name": "Kanojo, Okarishimasu: Date Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162800-WYuKTx8iBwHB.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -1265,6 +1727,48 @@
       "type": "series",
       "name": "Aikatsu on Parade! (ONA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116979-tBMPi7SqfMPO.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114448",
+      "type": "series",
+      "name": "Knights of the Zodiac: Saint Seiya Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114448-nnpndNstYUNF.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131923",
+      "type": "series",
+      "name": "ID: INDEED",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131923-mPMf89cY0ZpC.png",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "anilist:123464",
+      "type": "series",
+      "name": "Kanojo, Okarishimasu Collab Mini Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123464-IDRajV9Vikko.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121177",
+      "type": "series",
+      "name": "Wu Dong Qiankun 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121177-E9coc2I3sTVl.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116923",
+      "type": "series",
+      "name": "Eizouken Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116923-ASmRIGda4ZZb.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121684",
+      "type": "series",
+      "name": "Shiro, the Giant, and the Castle of Ice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121684-VOEm4ipW5uoA.png",
       "releaseInfo": "2020"
     },
     {
@@ -1303,682 +1807,38 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:116248",
+      "id": "anilist:126662",
       "type": "series",
-      "name": "Garugaku.: Sei Girls Square Gakuin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116248-xpAfte1Hy4qm.jpg",
+      "name": "Gundam Build Divers Battlogue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126662-b7uVrmrOHFeW.jpg",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:120771",
+      "id": "anilist:113864",
       "type": "series",
-      "name": "Manly Appetites: Minegishi Loves Otsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120771-n87AYzmR9zCc.jpg",
+      "name": "Special Crime Investigation Unit - Special 7 OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113864-x75Ts1B8QYjf.jpg",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:115519",
+      "id": "anilist:121679",
       "type": "series",
-      "name": "Cinderella Girls Gekijou: Extra Stage",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115519-9b8GNmYAyLZx.png",
+      "name": "God Troubles Me 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121679-YiCOoRNYk8I5.png",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:109148",
+      "id": "anilist:125208",
       "type": "series",
-      "name": "Li Shi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109148-7h8yK3wYAZtQ.jpg",
+      "name": "Tales of Crestoria: The Wake of Sin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125208-4IjXX7ybKYyk.jpg",
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:143391",
+      "id": "anilist:134047",
       "type": "series",
-      "name": "Chiyuki no Fashion Check",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143391-iFj8UKciDab3.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119924",
-      "type": "series",
-      "name": "Wu Shang Shen Di",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119924-mHlNS3HujyKu.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:138474",
-      "type": "series",
-      "name": "Super Secret",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138474-YoQOY4IX1Lzk.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114717",
-      "type": "series",
-      "name": "Tomica Kizuna Mode Combine Earth Granner",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114717-BrI8RVqye7Sd.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115654",
-      "type": "series",
-      "name": "Watanuki-san Chi to",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115654-9nQBxGRaPQQw.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115839",
-      "type": "series",
-      "name": "Ze Tian Ji 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115839-FfLiNIVq8yAq.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116793",
-      "type": "series",
-      "name": "Motto! Majime ni Fumajime Kaiketsu Zorori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116793-6TUNMzgucLpk.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112534",
-      "type": "series",
-      "name": "Mashin Hero Wataru: The Seven Spirits of Ryujinmaru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112534-mS6QUAeU21vO.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118630",
-      "type": "series",
-      "name": "Duel Masters King",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118630-tSFqf4Qlgv1m.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114105",
-      "type": "series",
-      "name": "Wang Gu Shenhua Zhi Tian Xuanzhe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114105-yCyTJCBXedEU.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114402",
-      "type": "series",
-      "name": "Genie Family 2020",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114402-1PtmZciRzBqD.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115794",
-      "type": "series",
-      "name": "Dino Girl Gauko Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115794-pxCRlV2cs6Q6.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116408",
-      "type": "series",
-      "name": "Anoyo no Subete wa, Obakegumi!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116408-OXGNh2Ii3Wi0.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116320",
-      "type": "series",
-      "name": "Wacky TV Nanana Chase the Kraken Monster!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116320-UTTrMFuyP8GC.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117325",
-      "type": "series",
-      "name": "Puso Ni Comi: Okawari",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117325-f1ijlg6Ow73I.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119926",
-      "type": "series",
-      "name": "Wan Jie Chun Qiu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119926-jnUUFCoAUglZ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120211",
-      "type": "series",
-      "name": "Hulaing Babies Aratame: Staying Babies",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120211-VglgB9Se1wVE.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116258",
-      "type": "series",
-      "name": "Norimono Man: Mobile Land no Car-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116258-dxkCAk1PC7PV.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116789",
-      "type": "series",
-      "name": "Micchiri Wanko! Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116789-QCRGjlJzvLjl.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:132034",
-      "type": "series",
-      "name": "Catch! Teenieping: Fairies of Emotion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132034-i9f5cF02xwS3.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123382",
-      "type": "series",
-      "name": "Ninjala Episode 0: Ninja-Gum is Born",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123382-vF7dgppbF4eR.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115845",
-      "type": "series",
-      "name": "Wuxian Shaonü 48",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115845-wMtfDzks5M14.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118200",
-      "type": "series",
-      "name": "Semi wa Magic Cube Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118200-oDY3MJtk3bHB.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118168",
-      "type": "series",
-      "name": "Welcome to the JAPARI PARK Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118168-s2xCagiRynkz.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119929",
-      "type": "series",
-      "name": "Yi Shijie Zhongyao Pu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119929-fTn42lsmQS8g.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116965",
-      "type": "series",
-      "name": "Wangu Xian Qiong 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116965-oqYqa3UU69Zl.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126643",
-      "type": "series",
-      "name": "Zo Zo Zombie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126643-SkX9PTgcMMZZ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116791",
-      "type": "series",
-      "name": "Neko Neko Nihonshi 5th Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116791-T92IxbomsJsf.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131413",
-      "type": "series",
-      "name": "Chong Qi Chengyin: Lu Shao de Xinjian Chong",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131413-hcwfcPASplc9.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115199",
-      "type": "series",
-      "name": "Poccolies",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115199-ta7IspS4uVSn.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120324",
-      "type": "series",
-      "name": "Bai Gui Youeryuan 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120324-tJT77YF0VQMf.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:132696",
-      "type": "series",
-      "name": "Oshiri Tantei 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132696-TIe7Ebn0vVSP.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119925",
-      "type": "series",
-      "name": "Dou Hun Wei Zhi Xuan Yue Qi Yuan 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119925-VsgDnmsxpp9C.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116787",
-      "type": "series",
-      "name": "Origami Ninja Koyan @ KinTele",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116787-bY3XdWwCXTV9.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126168",
-      "type": "series",
-      "name": "Mottainai Baasan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126168-J8LyDc5qs4Dw.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:153521",
-      "type": "series",
-      "name": "Gu Xiong: Huo Qi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153521-MTFcs4KehfCn.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117000",
-      "type": "series",
-      "name": "Guan Hai Ce 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117000-V92Bmf5eCZeP.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131459",
-      "type": "series",
-      "name": "wasimo 8",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131459-QzLf2Jwn0T0J.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:177122",
-      "type": "series",
-      "name": "Sinbi Apateu: Ghost Ball Double X",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177122-1sryaIGYXQYo.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120326",
-      "type": "series",
-      "name": "Fengyu Lang Qiao",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120326-6MpZjW5fYt5h.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:138956",
-      "type": "series",
-      "name": "Mukashi Keiba Nashi 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138956-MdZggjUEEqoC.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123417",
-      "type": "series",
-      "name": "Xiang Shi Chuanshuo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123417-2B9vhyN0aPzf.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116999",
-      "type": "series",
-      "name": "Menghuan Shuyuan 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116999-Wc2QiCL8ejQf.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:132348",
-      "type": "series",
-      "name": "Maeumuisori Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132348-WPh2pjDheCBM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:149039",
-      "type": "series",
-      "name": "Ooya-san to Boku 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149039-0Igkmq92A5KT.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120485",
-      "type": "series",
-      "name": "Dai Luan - Zhou Enlai Tongnian Dushu de Gushi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120485-KuiED2bkQq79.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:132345",
-      "type": "series",
-      "name": "Amhaengeosa Byeol☆Ko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132345-QRw98QyOq1yG.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108632",
-      "type": "series",
-      "name": "Re:ZERO -Starting Life in Another World- Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113813",
-      "type": "series",
-      "name": "Rent-a-Girlfriend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113813-SnljeXpU3Pw7.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114236",
-      "type": "series",
-      "name": "Fire Force Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116006",
-      "type": "series",
-      "name": "The God of High School",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116006-Wt8JSA1ZQxlM.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112301",
-      "type": "series",
-      "name": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-f88Fs2es4pSr.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108489",
-      "type": "series",
-      "name": "My Teen Romantic Comedy SNAFU Climax!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108489-yGmYCE6dhFta.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114308",
-      "type": "series",
-      "name": "Sword Art Online: Alicization - War of Underworld Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114308-8UBiS7U9buzu.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115113",
-      "type": "series",
-      "name": "Uzaki-chan Wants to Hang Out!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115113-bJDZV7kP0XrP.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110353",
-      "type": "series",
-      "name": "DECA-DENCE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110353-XGYSsii7qJeK.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113286",
-      "type": "series",
-      "name": "Monster Girl Doctor",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113286-AUS3PAJ5n6BU.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111965",
-      "type": "series",
-      "name": "Peter Grill and the Philosopher's Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111965-iUYaDivDR4BG.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122349",
-      "type": "series",
-      "name": "My Hero Academia: Make It! Do-or-Die Survival Training",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122349-DkEdG7N1231n.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112357",
-      "type": "series",
-      "name": "Japan Sinks: 2020",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112357-N03rYtjPxJtE.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112818",
-      "type": "series",
-      "name": "SUPER HXEROS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112818-9sOdhLPYX3eL.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114195",
-      "type": "series",
-      "name": "ORESUKI: Are you the only one who loves me?: Our Playball / Our End Run / Our Game",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114195-3h9rxnFnNkzw.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110857",
-      "type": "series",
-      "name": "Aggretsuko: Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110857-hrnuyBLnnCDX.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112803",
-      "type": "series",
-      "name": "No Guns Life Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112803-GTBPrkKvlyV5.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:107069",
-      "type": "series",
-      "name": "Wu Shan Wu Xing: Zhuo Yuan Shen Huo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107069-mABDNDDtWWiW.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126661",
-      "type": "series",
-      "name": "Boku no Hero Academia THE MOVIE: Heroes:Rising - Epilogue Plus: Yume wo Genjitsu ni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126661-61SI7n5njMNM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110371",
-      "type": "series",
-      "name": "Mr Love: Queen's Choice",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110371-iQC5FQ6FuTuX.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110446",
-      "type": "series",
-      "name": "GIBIATE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110446-vqrjx22U4T9N.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:104937",
-      "type": "series",
-      "name": "Lapis Re:LiGHTs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104937-2TM6AffYAvxM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120700",
-      "type": "series",
-      "name": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120700-buuy9COgsBTa.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108941",
-      "type": "series",
-      "name": "UMAYON",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108941-QDNpgawkxytg.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120046",
-      "type": "series",
-      "name": "Take My Brother Away! 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120046-YWcYUdha79t5.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:141950",
-      "type": "series",
-      "name": "False Memory",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141950-zAmZROOecLLP.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108356",
-      "type": "series",
-      "name": "Dragon's Dogma",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108356-qxHmuNVZFRwJ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110028",
-      "type": "series",
-      "name": "Muhyo & Roji’s Bureau of Supernatural Investigation Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110028-bosDZpze4Chn.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120343",
-      "type": "series",
-      "name": "The Master of Diabolism Q",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120343-8zVgrYFOl7GV.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123901",
-      "type": "series",
-      "name": "Kanojo, Okarishimasu Petit",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110595",
-      "type": "series",
-      "name": "Yi Nian Yongheng",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110595-vHd33fbqdK6B.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120180",
-      "type": "series",
-      "name": "Ninja Collection",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120180-NSws10rGLbIZ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:154541",
-      "type": "series",
-      "name": "Junior High and High School!! Kimetsu Academy Story: Kimetsu no Utage Special Edition",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154541-Q7djLI2ttMp9.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119696",
-      "type": "series",
-      "name": "Cooking with Valkyries 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119696-JjixBLB2fgMj.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114249",
-      "type": "series",
-      "name": "22/7: 8+3=?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114249-IF4chK3U982a.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116182",
-      "type": "series",
-      "name": "Legend of Exorcism",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116182-W5Uj5asq3KSI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110699",
-      "type": "series",
-      "name": "Bureau of Paranormal Investigation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110699-b3eAF20wVjAT.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115844",
-      "type": "series",
-      "name": "A Record Of Mortal's Journey To Immortality",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115844-UFnSJplzMwRr.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117532",
-      "type": "series",
-      "name": "Case File nº221: Kabukicho OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117532-QC0klw2IFiQD.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129350",
-      "type": "series",
-      "name": "Douluo Dalu: Xingdou Xianji",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129350-pacPQReq3nWl.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122536",
-      "type": "series",
-      "name": "Rick and Morty vs. Genocider",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122536-XijayOJsswIZ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112258",
-      "type": "series",
-      "name": "Chou Futsuu Toshi Kashiwa Densetsu R",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112258-euCskvIy0fix.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:162800",
-      "type": "series",
-      "name": "Kanojo, Okarishimasu: Date Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162800-WYuKTx8iBwHB.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123464",
-      "type": "series",
-      "name": "Kanojo, Okarishimasu Collab Mini Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123464-IDRajV9Vikko.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121177",
-      "type": "series",
-      "name": "Wu Dong Qiankun 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121177-E9coc2I3sTVl.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121684",
-      "type": "series",
-      "name": "Shiro, the Giant, and the Castle of Ice",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121684-VOEm4ipW5uoA.png",
+      "name": "BLUE: line・step・brush",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134047-KVQPYLYRWw59.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -2003,11 +1863,109 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116248",
+      "type": "series",
+      "name": "Garugaku.: Sei Girls Square Gakuin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116248-xpAfte1Hy4qm.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:128392",
+      "type": "series",
+      "name": "Maou-jou de Oyasumi Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128392-hioyw5F2xyb0.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:124668",
       "type": "series",
       "name": "Slimetachi no Idobata Kaigi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124668-2OPGrDAnX4O0.png",
       "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126874",
+      "type": "series",
+      "name": "MARS RED Mini Anime: Zero Kikan Nippou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126874-2YkH8dT5hw89.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120771",
+      "type": "series",
+      "name": "Manly Appetites: Minegishi Loves Otsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120771-n87AYzmR9zCc.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115519",
+      "type": "series",
+      "name": "Cinderella Girls Gekijou: Extra Stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115519-9b8GNmYAyLZx.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:109148",
+      "type": "series",
+      "name": "Li Shi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109148-7h8yK3wYAZtQ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115907",
+      "type": "series",
+      "name": "What's Wrong with My Big Brother",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115907-Nlv5Upw8o4G1.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:127465",
+      "type": "series",
+      "name": "Adachi to Shimamura Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127465-xIDQyk51nZ1h.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:143391",
+      "type": "series",
+      "name": "Chiyuki no Fashion Check",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143391-iFj8UKciDab3.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119924",
+      "type": "series",
+      "name": "Wu Shang Shen Di",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119924-mHlNS3HujyKu.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114424",
+      "type": "series",
+      "name": "Koisuru Asteroid: KiraKira Zoukangou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114424-cl1NjmDfnExt.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124230",
+      "type": "series",
+      "name": "Shaonü Qianxian: Renxing Xiaojuchang 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124230-XYplYySO12M7.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125870",
+      "type": "series",
+      "name": "Don't Call Us A JUNK GAME!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125870-P5e7zgZ0fQ7x.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113472",
+      "type": "series",
+      "name": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113472-eCohv2grT8J4.png",
+      "releaseInfo": "2019"
     },
     {
       "id": "anilist:119927",
@@ -2021,6 +1979,20 @@
       "type": "series",
       "name": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita Mini Anime",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123903-cJ6u0i5u44EL.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126831",
+      "type": "series",
+      "name": "Tokyo Gambo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126831-8XVFkwWM3ZSi.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:138474",
+      "type": "series",
+      "name": "Super Secret",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138474-YoQOY4IX1Lzk.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -2038,10 +2010,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:122521",
+      "type": "series",
+      "name": "Jueshi Wu Hun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122521-X1G88FEG4oyP.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:123612",
       "type": "series",
       "name": "Sakura Kakumei: Hanasaku Otome-tachi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123612-GwKx370yIzDi.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:157172",
+      "type": "series",
+      "name": "Munou na Nana Mini Anime: Yaminabe Party",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157172-hNyuKSjvn3lg.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120272",
+      "type": "series",
+      "name": "Ling Jian Zun 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120272-v1UXPGEyyVDb.png",
       "releaseInfo": "2020"
     },
     {
@@ -2052,6 +2045,27 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116138",
+      "type": "series",
+      "name": "Ling Jian Zun 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116138-NKaaA4PJo3Cu.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:114721",
+      "type": "series",
+      "name": "OBSOLETE Part II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114721-knheUh9iVVFK.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116328",
+      "type": "series",
+      "name": "Runway de Waratte Mini",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116328-8A0lsY232bTF.png",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:123885",
       "type": "series",
       "name": "Rebirth: Virtual to no Souguu",
@@ -2059,10 +2073,94 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:114717",
+      "type": "series",
+      "name": "Tomica Kizuna Mode Combine Earth Granner",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114717-BrI8RVqye7Sd.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125491",
+      "type": "series",
+      "name": "Gebäude-Bäude",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125491-8DuV6JfT3KkM.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:110495",
+      "type": "series",
+      "name": "Microphone Soul Spinners: Kotodama Shoujo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110495-oc5PuvNCXfPx.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125647",
+      "type": "series",
+      "name": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125647-jwD3FkarbTAr.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:104868",
+      "type": "series",
+      "name": "Wu Geng Ji 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104868-35yv710VMDUs.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:117014",
       "type": "series",
       "name": "Dawang Bu Gaoxing 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117014-JNmOjpgbAqj5.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115654",
+      "type": "series",
+      "name": "Watanuki-san Chi to",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115654-9nQBxGRaPQQw.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122689",
+      "type": "series",
+      "name": "Wan Jie Xian Zong 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122689-8SZ5aIJFTWH3.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114562",
+      "type": "series",
+      "name": "Xue Ying Lingzhu: Qiyu Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114562-1unfHq5iTWCh.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:99659",
+      "type": "series",
+      "name": "Chu Feng: Eden Zhi Zi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99659-4iWcXqN2m7GN.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124960",
+      "type": "series",
+      "name": "OTMGirls no YOKIYOKI Channel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124960-8pHA2k0lNBZt.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120270",
+      "type": "series",
+      "name": "The Warrior From Qin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120270-L4gMCJxrm8hG.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118077",
+      "type": "series",
+      "name": "Pachislot Eureka Seven 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118077-jIxMjIASqJ4U.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -2073,10 +2171,108 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:115839",
+      "type": "series",
+      "name": "Ze Tian Ji 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115839-FfLiNIVq8yAq.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120203",
+      "type": "series",
+      "name": "Wo Shi Da Shenxian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120203-i2kkh2joRb3b.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121567",
+      "type": "series",
+      "name": "Seizei Ganbare! Mahou Shoujo Kurumi 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121567-pkDcX5mRucwQ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:127041",
+      "type": "series",
+      "name": "Monogatari wo kimi e. - Fukakai 2 Q1 Ending Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127041-HR9Q2iimt3ql.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:138687",
+      "type": "series",
+      "name": "\"RabbiTube\" Creator ni Chousen!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138687-80kl9N7WQ6x1.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116620",
+      "type": "series",
+      "name": "Ni Zai Xingguang Shenchu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116620-J68CgI8FoJdB.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:116793",
+      "type": "series",
+      "name": "Motto! Majime ni Fumajime Kaiketsu Zorori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116793-6TUNMzgucLpk.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:112534",
+      "type": "series",
+      "name": "Mashin Hero Wataru: The Seven Spirits of Ryujinmaru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112534-mS6QUAeU21vO.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125153",
+      "type": "series",
+      "name": "Eagle Talon: Golden Spell",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125153-ROvjT0nsLAwa.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118630",
+      "type": "series",
+      "name": "Duel Masters King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118630-tSFqf4Qlgv1m.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126650",
+      "type": "series",
+      "name": "Bottleman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126650-HLLWxMxOWGn6.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114105",
+      "type": "series",
+      "name": "Wang Gu Shenhua Zhi Tian Xuanzhe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114105-yCyTJCBXedEU.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:116259",
       "type": "series",
       "name": "Obake Zukan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116259-xm1SLrhBB3mg.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114557",
+      "type": "series",
+      "name": "Fei Ren Zai Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114557-nFORbfSNAr67.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114402",
+      "type": "series",
+      "name": "Genie Family 2020",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114402-1PtmZciRzBqD.png",
       "releaseInfo": "2020"
     },
     {
@@ -2091,6 +2287,111 @@
       "type": "series",
       "name": "ARP Backstage Pass: Paradise",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117034-54zfftA9i76c.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122520",
+      "type": "series",
+      "name": "Tian Huang Zhan Shen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122520-XLzcwM0lYMiZ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:122632",
+      "type": "series",
+      "name": "Saikyou Kamizmode!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122632-nwu9D6gnbThG.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114765",
+      "type": "series",
+      "name": "Saezuru Doubutsu wa Yarushikanai!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114765-g72SKDpOl1Ph.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:128397",
+      "type": "series",
+      "name": "2.43 Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128397-uOWDGizrOZit.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:128398",
+      "type": "series",
+      "name": "2.43 Mini Anime: Volleyball Kouza-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128398-ZEfGugGybTTl.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:128418",
+      "type": "series",
+      "name": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128418-Yr1ap4zy8v7L.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115794",
+      "type": "series",
+      "name": "Dino Girl Gauko Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115794-pxCRlV2cs6Q6.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116408",
+      "type": "series",
+      "name": "Anoyo no Subete wa, Obakegumi!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116408-OXGNh2Ii3Wi0.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116320",
+      "type": "series",
+      "name": "Wacky TV Nanana Chase the Kraken Monster!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116320-UTTrMFuyP8GC.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113463",
+      "type": "series",
+      "name": "Hulaing Babies☆Petit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113463-zHcmCnrgiKTK.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117325",
+      "type": "series",
+      "name": "Puso Ni Comi: Okawari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117325-f1ijlg6Ow73I.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119926",
+      "type": "series",
+      "name": "Wan Jie Chun Qiu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119926-jnUUFCoAUglZ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:125264",
+      "type": "series",
+      "name": "Kaeru no Pickles: Kimochi no Iro",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125264-CxX3gQn2U8L4.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120211",
+      "type": "series",
+      "name": "Hulaing Babies Aratame: Staying Babies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120211-VglgB9Se1wVE.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124345",
+      "type": "series",
+      "name": "Hallelujah - Unmei no Sentaku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124345-IHWNqxE47GCo.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -2122,6 +2423,13 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:109638",
+      "type": "series",
+      "name": "Haishin Yuusha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109638-40ErBK1rAn93.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:117150",
       "type": "series",
       "name": "GET UP! GET LIVE! #Geragera",
@@ -2129,10 +2437,59 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:116258",
+      "type": "series",
+      "name": "Norimono Man: Mobile Land no Car-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116258-dxkCAk1PC7PV.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116246",
+      "type": "series",
+      "name": "ARP Backstage Pass Episode 6.5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116246-5m5ISaTDcIG4.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:120301",
       "type": "series",
       "name": "Xian Feng Jian Yu Lu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120301-EeZ13eqxVVjB.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114196",
+      "type": "series",
+      "name": "Urashimasakatasen no Nichijou OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114196-CiyGipoGtXeq.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115178",
+      "type": "series",
+      "name": "Wan Jie Shenzhu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115178-x45ycdFaH9F0.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116789",
+      "type": "series",
+      "name": "Micchiri Wanko! Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116789-QCRGjlJzvLjl.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120405",
+      "type": "series",
+      "name": "Xin Jue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120405-iBaXzat5UkVs.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:132034",
+      "type": "series",
+      "name": "Catch! Teenieping: Fairies of Emotion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132034-i9f5cF02xwS3.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -2150,6 +2507,20 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:123382",
+      "type": "series",
+      "name": "Ninjala Episode 0: Ninja-Gum is Born",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123382-vF7dgppbF4eR.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113907",
+      "type": "series",
+      "name": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113907-LJqhJbPnc57b.png",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:154196",
       "type": "series",
       "name": "Tsugu Tsugumomo Mini Anime Specials",
@@ -2157,899 +2528,10 @@
       "releaseInfo": "2020"
     },
     {
-      "id": "anilist:121592",
+      "id": "anilist:115845",
       "type": "series",
-      "name": "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121592-kFwbOab16RSM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:143477",
-      "type": "series",
-      "name": "The Love Story of my Immortal Dad",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143477-4JKPJ1TbNiLd.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:130473",
-      "type": "series",
-      "name": "LIP×LIP FILM×LIVE Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130473-BhJ4bqTnR7yA.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:137613",
-      "type": "series",
-      "name": "Shabake",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137613-Wo4fsGKOjwiL.png",
-      "releaseInfo": "2021"
-    },
-    {
-      "id": "anilist:127213",
-      "type": "series",
-      "name": "Tensei mae no Ryouma to Tabuchi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127213-kxndbSeGn6uu.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120519",
-      "type": "series",
-      "name": "Mei Chuxi De Yinyangshi Yijia 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120519-WKcHXk2foK1c.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:136950",
-      "type": "series",
-      "name": "XPICE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136950-USjjHRgILCSh.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118637",
-      "type": "series",
-      "name": "There She Is!! another step",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118637-VWvuAVNG03oV.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:150491",
-      "type": "series",
-      "name": "The Fabulous Sword God",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150491-xs7EoHHt1wyQ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121215",
-      "type": "series",
-      "name": "Big Talk Youth Tour",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121215-cgBBv9wxRdAJ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120486",
-      "type": "series",
-      "name": "Liu Yi Chuanqi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120486-ZHXOn3d7BaZ0.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120126",
-      "type": "series",
-      "name": "Lie Yang Tiandao",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120126-Ss2tDSwZilS1.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:139535",
-      "type": "series",
-      "name": "Devour Eternity",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139535-QqT9E0JQaaOS.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120419",
-      "type": "series",
-      "name": "Museum of Humanity",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120419-dLEa0SeCvAYI.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124243",
-      "type": "series",
-      "name": "Miao Qiansui de Chengnian Li",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124243-l3XnPAo8PL00.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129227",
-      "type": "series",
-      "name": "Renwu Dashi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129227-8J2CP9IzS8uL.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:155918",
-      "type": "series",
-      "name": "Yichang Shengwu Jianwen Lu Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155918-7Q2paD0Rawym.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:119923",
-      "type": "series",
-      "name": "Qing Chi Hong Xiaodou Ba! 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119923-vAUcL19pOWu0.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:149074",
-      "type": "series",
-      "name": "Asi Yu Xiao Liangdang",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149074-PVM2LhqMGutn.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:200643",
-      "type": "series",
-      "name": "Kanojo wa Utau, Dakara Boku wa.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200643-9IYRuie7PsYH.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:154156",
-      "type": "series",
-      "name": "Back to the Palace",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154156-oP087prodW6t.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131731",
-      "type": "series",
-      "name": "Pleasant Goat and Big Big Wolf: Against the Dark Force",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131731-CgS0JUfLRxtI.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120522",
-      "type": "series",
-      "name": "Mengyou Dunhuang",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120522-Njl0GYnzIbpM.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120521",
-      "type": "series",
-      "name": "Sansan De Ezuoju Chufang",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120521-hceYTcU7c2Qi.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:149345",
-      "type": "series",
-      "name": "Gon De Hanta: Tata Turan Xiangdao",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149345-G5Z5fKPLFgFy.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131008",
-      "type": "series",
-      "name": "Chunqiu Feng Shen: Luanshi Chang Ge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131008-bcu0nCWoRjPo.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120404",
-      "type": "series",
-      "name": "Jingzhong Baoguo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120404-hJ2qOeR6ukZR.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129548",
-      "type": "series",
-      "name": "AOTU Xueyuan 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129548-BHmnxvIoxtKv.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131781",
-      "type": "series",
-      "name": "Pleasant Goat Fun Class: Mighty Goat Squad",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131781-yjHy8Jmqmpq2.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:131014",
-      "type": "series",
-      "name": "Ashuai 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131014-8RoSFuvDytuI.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:137803",
-      "type": "series",
-      "name": "Renzhe Bixu Si: Yue Hu Zhi Zhan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137803-IwzuLg8w7PzP.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:188822",
-      "type": "series",
-      "name": "Miniforce: Super Dino Power 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188822-MO6KtsszCrD5.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113415",
-      "type": "series",
-      "name": "JUJUTSU KAISEN",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113538",
-      "type": "series",
-      "name": "HAIKYU!! TO THE TOP Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113538-tHVE8j5mOPLu.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116267",
-      "type": "series",
-      "name": "TONIKAWA: Over The Moon For You",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116267-Eo1biPBTlL4i.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112124",
-      "type": "series",
-      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112124-ZmoOntBuiSUU.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116566",
-      "type": "series",
-      "name": "Akudama Drive",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116566-PPIVQt359vQY.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114124",
-      "type": "series",
-      "name": "Moriarty the Patriot",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112609",
-      "type": "series",
-      "name": "Wandering Witch: The Journey of Elaina",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112609-hBCbnYlEHluz.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117343",
-      "type": "series",
-      "name": "Talentless Nana",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117343-NgCLZTaxallv.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112300",
-      "type": "series",
-      "name": "The Irregular at Magic High School: Visitor Arc",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112300-I5ucx66OvqWX.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112667",
-      "type": "series",
-      "name": "Our Last Crusade or the Rise of a New World",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112667-GYFeAlZ38mXK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116673",
-      "type": "series",
-      "name": "BURN THE WITCH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116673-cy4sgiliurpR.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116242",
-      "type": "series",
-      "name": "I'm Standing on a Million Lives",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116242-JY81Khmbqysn.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116005",
-      "type": "series",
-      "name": "Noblesse",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116005-yfngIe9aBaJw.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118419",
-      "type": "series",
-      "name": "The Day I Became a God",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118419-li8RpQcLgiKK.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114446",
-      "type": "series",
-      "name": "Higurashi: When They Cry - GOU",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114446-H6uxjVi8wBoo.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115740",
-      "type": "series",
-      "name": "By the Grace of the Gods",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115740-IRwSQo96Qs2Q.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111428",
-      "type": "series",
-      "name": "Sleepy Princess in the Demon Castle",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111428-JGrnjBDHLGQb.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:109287",
-      "type": "series",
-      "name": "Adachi and Shimamura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109287-yHDlERSIEjsL.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113260",
-      "type": "series",
-      "name": "Heaven Official's Blessing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113260-4LPAAKCSJe8f.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114340",
-      "type": "series",
-      "name": "Kuma Kuma Kuma Bear",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114340-9KovjbYWlNGa.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110355",
-      "type": "series",
-      "name": "Golden Kamuy Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110355-yXOXm5tr8kgr.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111324",
-      "type": "series",
-      "name": "Ikebukuro West Gate Park",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111324-yp1jtH1XjxS3.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118399",
-      "type": "series",
-      "name": "Yashahime: Princess Half-Demon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118399-sgHg8NQVQixB.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:112479",
-      "type": "series",
-      "name": "Assault Lily BOUQUET",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112479-5EiZWhEK8l0x.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117757",
-      "type": "series",
-      "name": "Iwakakeru -Sport Climbing Girls-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117757-FZgl5V5Ae5Ar.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113970",
-      "type": "series",
-      "name": "Love Live! Nijigasaki High School Idol Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113970-peyHsjypxse0.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:102997",
-      "type": "series",
-      "name": "The King's Avatar S2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102997-M638Ly1gxVmG.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126287",
-      "type": "series",
-      "name": "PUPARIA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126287-dgh91tFWDlPg.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122137",
-      "type": "series",
-      "name": "<DOGEZA>I Tried Asking While Kowtowing.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122137-wqDaJxQWVXaa.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:113652",
-      "type": "series",
-      "name": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113652-EVDrKLfnuy3X.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114099",
-      "type": "series",
-      "name": "Dragon Quest: The Adventure of Dai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114099-LRnlm1t6LE5o.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:118376",
-      "type": "series",
-      "name": "KING's RAID: Successors of the Will",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118376-V0mSf2LG0OOs.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122807",
-      "type": "series",
-      "name": "The Gymnastics Samurai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122807-m8jdQLQRSSUI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:104198",
-      "type": "series",
-      "name": "Is the Order a Rabbit? BLOOM",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104198-bT8qBPJWxtiY.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115069",
-      "type": "series",
-      "name": "D4DJ First Mix",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115069-hKrmZDt2oZ8Q.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116173",
-      "type": "series",
-      "name": "Warlords of Sigrdrifa",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116173-1oLcZkw6lkvM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108713",
-      "type": "series",
-      "name": "Dropout Idol Fruit Tart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108713-6rHQTEA9ptyb.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120193",
-      "type": "series",
-      "name": "Yingxiong Zailin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120193-KAMiBZ4Nw3xA.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116147",
-      "type": "series",
-      "name": "One Room 3rd",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116147-ihwpyRJMuFKx.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117755",
-      "type": "series",
-      "name": "MAGATSU WAHRHEIT",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117755-feOzwxzB9gEk.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114263",
-      "type": "series",
-      "name": "Rail Romanesque",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114263-A1mhjXwElS78.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:103119",
-      "type": "series",
-      "name": "Strike Witches: Road to Berlin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103119-5x83l4nwlloI.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:111145",
-      "type": "series",
-      "name": "A3! Season Autumn & Winter",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111145-bYNGacLaqHQq.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:108978",
-      "type": "series",
-      "name": "Scumbag System",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108978-GtIXqzO8RaAz.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123769",
-      "type": "series",
-      "name": "Dokyuu Hentai HxEros OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123769-ClztG4bhi1hD.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120851",
-      "type": "series",
-      "name": "Mr. Osomatsu 3rd season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120851-94u8CMlI599g.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117086",
-      "type": "series",
-      "name": "Grand Blues!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117086-5ZF0aUiKRugq.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122497",
-      "type": "series",
-      "name": "All Saints Street 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122497-vrY4EfwCCp9a.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:116700",
-      "type": "series",
-      "name": "With a Dog AND a Cat, Every Day is Fun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116700-5BXjWj2zSx4S.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:110632",
-      "type": "series",
-      "name": "Maesetsu! Opening Act",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110632-WxTfHGRIZ4BJ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:127225",
-      "type": "series",
-      "name": "Slimetachi no Idobata Kaigi: Slime Tsukai to Slime no Maou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127225-rOkSrij8NdQp.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:117012",
-      "type": "series",
-      "name": "Swallowed Star",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117012-l2rktMbQbn0Z.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114117",
-      "type": "series",
-      "name": "Memory of Chang'an",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114117-B5kJyQUnW5iO.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124896",
-      "type": "series",
-      "name": "Bear Bear Bear Kuma!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124896-iHBskSeXJDnd.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125308",
-      "type": "series",
-      "name": "Pokémon: Twilight Wings - The Gathering of Stars",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125308-rxK3icoDdhGl.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114030",
-      "type": "series",
-      "name": "Katana Maidens ~ Tomoshibi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114030-FK92LNOsOT3U.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:105244",
-      "type": "series",
-      "name": "TSUKIUTA. The Animation Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105244-0EhJURYarzXl.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124703",
-      "type": "series",
-      "name": "Boukyaku Battery",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124703-6kSUmYMWvG0L.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:98875",
-      "type": "series",
-      "name": "Hizukuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98875-DaOUqpdr99ng.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124028",
-      "type": "series",
-      "name": "That is the Bottleneck",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124028-TQx8cy5DM2k4.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:123803",
-      "type": "series",
-      "name": "Munou na Nana: Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123803-frGulQh4dlMH.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:129351",
-      "type": "series",
-      "name": "Douluo Dalu: Hanhai Qiankun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129351-9SZKw96PJyzY.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121799",
-      "type": "series",
-      "name": "Anime KAPIBARASAN",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121799-32cdW6JKWb6Z.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126662",
-      "type": "series",
-      "name": "Gundam Build Divers Battlogue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126662-b7uVrmrOHFeW.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121679",
-      "type": "series",
-      "name": "God Troubles Me 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121679-YiCOoRNYk8I5.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125208",
-      "type": "series",
-      "name": "Tales of Crestoria: The Wake of Sin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125208-4IjXX7ybKYyk.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:128392",
-      "type": "series",
-      "name": "Maou-jou de Oyasumi Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128392-hioyw5F2xyb0.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126874",
-      "type": "series",
-      "name": "MARS RED Mini Anime: Zero Kikan Nippou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126874-2YkH8dT5hw89.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:115907",
-      "type": "series",
-      "name": "What's Wrong with My Big Brother",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115907-Nlv5Upw8o4G1.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:127465",
-      "type": "series",
-      "name": "Adachi to Shimamura Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127465-xIDQyk51nZ1h.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124230",
-      "type": "series",
-      "name": "Shaonü Qianxian: Renxing Xiaojuchang 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124230-XYplYySO12M7.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125870",
-      "type": "series",
-      "name": "Don't Call Us A JUNK GAME!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125870-P5e7zgZ0fQ7x.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126831",
-      "type": "series",
-      "name": "Tokyo Gambo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126831-8XVFkwWM3ZSi.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122521",
-      "type": "series",
-      "name": "Jueshi Wu Hun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122521-X1G88FEG4oyP.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:157172",
-      "type": "series",
-      "name": "Munou na Nana Mini Anime: Yaminabe Party",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157172-hNyuKSjvn3lg.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120272",
-      "type": "series",
-      "name": "Ling Jian Zun 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120272-v1UXPGEyyVDb.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:114721",
-      "type": "series",
-      "name": "OBSOLETE Part II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114721-knheUh9iVVFK.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125491",
-      "type": "series",
-      "name": "Gebäude-Bäude",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125491-8DuV6JfT3KkM.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125647",
-      "type": "series",
-      "name": "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125647-jwD3FkarbTAr.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122689",
-      "type": "series",
-      "name": "Wan Jie Xian Zong 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122689-8SZ5aIJFTWH3.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:99659",
-      "type": "series",
-      "name": "Chu Feng: Eden Zhi Zi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99659-4iWcXqN2m7GN.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124960",
-      "type": "series",
-      "name": "OTMGirls no YOKIYOKI Channel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124960-8pHA2k0lNBZt.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120270",
-      "type": "series",
-      "name": "The Warrior From Qin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120270-L4gMCJxrm8hG.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120203",
-      "type": "series",
-      "name": "Wo Shi Da Shenxian",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120203-i2kkh2joRb3b.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:121567",
-      "type": "series",
-      "name": "Seizei Ganbare! Mahou Shoujo Kurumi 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121567-pkDcX5mRucwQ.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:127041",
-      "type": "series",
-      "name": "Monogatari wo kimi e. - Fukakai 2 Q1 Ending Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127041-HR9Q2iimt3ql.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125153",
-      "type": "series",
-      "name": "Eagle Talon: Golden Spell",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125153-ROvjT0nsLAwa.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:126650",
-      "type": "series",
-      "name": "Bottleman",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126650-HLLWxMxOWGn6.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122520",
-      "type": "series",
-      "name": "Tian Huang Zhan Shen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122520-XLzcwM0lYMiZ.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:122632",
-      "type": "series",
-      "name": "Saikyou Kamizmode!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122632-nwu9D6gnbThG.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:128397",
-      "type": "series",
-      "name": "2.43 Mini Anime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128397-uOWDGizrOZit.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:128398",
-      "type": "series",
-      "name": "2.43 Mini Anime: Volleyball Kouza-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128398-ZEfGugGybTTl.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:128418",
-      "type": "series",
-      "name": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128418-Yr1ap4zy8v7L.png",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:125264",
-      "type": "series",
-      "name": "Kaeru no Pickles: Kimochi no Iro",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125264-CxX3gQn2U8L4.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:124345",
-      "type": "series",
-      "name": "Hallelujah - Unmei no Sentaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124345-IHWNqxE47GCo.jpg",
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "anilist:120405",
-      "type": "series",
-      "name": "Xin Jue",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120405-iBaXzat5UkVs.png",
+      "name": "Wuxian Shaonü 48",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115845-wMtfDzks5M14.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3057,6 +2539,13 @@
       "type": "series",
       "name": "Dear My Patron",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125887-VFs2TfUhmzCy.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121592",
+      "type": "series",
+      "name": "Kamen Rider Zero-One: EVERYONE'S DAILY LIFE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121592-kFwbOab16RSM.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3074,10 +2563,45 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:118200",
+      "type": "series",
+      "name": "Semi wa Magic Cube Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118200-oDY3MJtk3bHB.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114760",
+      "type": "series",
+      "name": "Mobile Suit Gakuen: Kaette Kita G-Reco Koushien",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114760-zRmWhTYpgfgp.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:143477",
+      "type": "series",
+      "name": "The Love Story of my Immortal Dad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143477-4JKPJ1TbNiLd.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:109940",
       "type": "series",
       "name": "Qin Shi Mingyue: Canghai Hengliu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109940-0oF46AZ01CH6.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118168",
+      "type": "series",
+      "name": "Welcome to the JAPARI PARK Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118168-s2xCagiRynkz.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:130473",
+      "type": "series",
+      "name": "LIP×LIP FILM×LIVE Mini Anime",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130473-BhJ4bqTnR7yA.png",
       "releaseInfo": "2020"
     },
     {
@@ -3088,10 +2612,73 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:137613",
+      "type": "series",
+      "name": "Shabake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137613-Wo4fsGKOjwiL.png",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "anilist:119929",
+      "type": "series",
+      "name": "Yi Shijie Zhongyao Pu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119929-fTn42lsmQS8g.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:127213",
+      "type": "series",
+      "name": "Tensei mae no Ryouma to Tabuchi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127213-kxndbSeGn6uu.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:147764",
       "type": "series",
       "name": "Zoids Wild Senki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147764-zFU2zVAoPkRZ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:117280",
+      "type": "series",
+      "name": "Ooya-san to Boku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117280-KhkjbibochSF.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120519",
+      "type": "series",
+      "name": "Mei Chuxi De Yinyangshi Yijia 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120519-WKcHXk2foK1c.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116965",
+      "type": "series",
+      "name": "Wangu Xian Qiong 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116965-oqYqa3UU69Zl.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:136950",
+      "type": "series",
+      "name": "XPICE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136950-USjjHRgILCSh.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126643",
+      "type": "series",
+      "name": "Zo Zo Zombie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126643-SkX9PTgcMMZZ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:118637",
+      "type": "series",
+      "name": "There She Is!! another step",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118637-VWvuAVNG03oV.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3102,10 +2689,24 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:150491",
+      "type": "series",
+      "name": "The Fabulous Sword God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150491-xs7EoHHt1wyQ.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:126506",
       "type": "series",
       "name": "Pont Qiao Booth",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126506-aF5YdvHd5DUZ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121215",
+      "type": "series",
+      "name": "Big Talk Youth Tour",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121215-cgBBv9wxRdAJ.png",
       "releaseInfo": "2020"
     },
     {
@@ -3116,10 +2717,52 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:114657",
+      "type": "series",
+      "name": "Marumaru Manul",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114657-TfKEg5xEN0h1.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116791",
+      "type": "series",
+      "name": "Neko Neko Nihonshi 5th Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116791-T92IxbomsJsf.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:113863",
+      "type": "series",
+      "name": "Gaina Tamager",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113863-0spZC2wRaTwb.png",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:126315",
       "type": "series",
       "name": "Kaoru no Taisetsu na Mono",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126315-hEWRtIXISfnU.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131413",
+      "type": "series",
+      "name": "Chong Qi Chengyin: Lu Shao de Xinjian Chong",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131413-hcwfcPASplc9.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120486",
+      "type": "series",
+      "name": "Liu Yi Chuanqi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120486-ZHXOn3d7BaZ0.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:115199",
+      "type": "series",
+      "name": "Poccolies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115199-ta7IspS4uVSn.png",
       "releaseInfo": "2020"
     },
     {
@@ -3130,10 +2773,52 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:120324",
+      "type": "series",
+      "name": "Bai Gui Youeryuan 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120324-tJT77YF0VQMf.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:154119",
+      "type": "series",
+      "name": "Marco to Ginga Ryuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154119-z25XciBCbUwQ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120126",
+      "type": "series",
+      "name": "Lie Yang Tiandao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120126-Ss2tDSwZilS1.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:119922",
+      "type": "series",
+      "name": "Qiang Shen Ji: Xuezu Mishi Pian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119922-LmDjHzAoqsWf.jpg",
+      "releaseInfo": "2019"
+    },
+    {
       "id": "anilist:131517",
       "type": "series",
       "name": "Wangu Shen Wang",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131517-66Li1Z04smNR.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:139535",
+      "type": "series",
+      "name": "Devour Eternity",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139535-QqT9E0JQaaOS.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:132696",
+      "type": "series",
+      "name": "Oshiri Tantei 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132696-TIe7Ebn0vVSP.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3151,10 +2836,24 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:120419",
+      "type": "series",
+      "name": "Museum of Humanity",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120419-dLEa0SeCvAYI.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:176863",
       "type": "series",
       "name": "Tales of Crestoria Behind the Scenes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b176863-NABxznB07b6S.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114656",
+      "type": "series",
+      "name": "LALALACOCO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114656-pBzIXwe35hOk.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3165,10 +2864,45 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:119925",
+      "type": "series",
+      "name": "Dou Hun Wei Zhi Xuan Yue Qi Yuan 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119925-VsgDnmsxpp9C.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116787",
+      "type": "series",
+      "name": "Origami Ninja Koyan @ KinTele",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116787-bY3XdWwCXTV9.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116966",
+      "type": "series",
+      "name": "Xing You Ji: Fengbao Famila 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116966-Sej5lBaN6ekn.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:126656",
       "type": "series",
       "name": "Tsukiusa. Gekijou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126656-lcAOXwrVOUHy.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:124243",
+      "type": "series",
+      "name": "Miao Qiansui de Chengnian Li",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124243-l3XnPAo8PL00.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:126168",
+      "type": "series",
+      "name": "Mottainai Baasan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126168-J8LyDc5qs4Dw.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3179,10 +2913,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:129227",
+      "type": "series",
+      "name": "Renwu Dashi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129227-8J2CP9IzS8uL.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:131414",
       "type": "series",
       "name": "Chong Qi Chengyin: Lu Shao de Xinjian Chong 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131414-YEpBa7h51nUu.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:153521",
+      "type": "series",
+      "name": "Gu Xiong: Huo Qi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153521-MTFcs4KehfCn.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:155918",
+      "type": "series",
+      "name": "Yichang Shengwu Jianwen Lu Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155918-7Q2paD0Rawym.jpg",
       "releaseInfo": "2020"
     },
     {
@@ -3193,10 +2948,143 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:117000",
+      "type": "series",
+      "name": "Guan Hai Ce 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117000-V92Bmf5eCZeP.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:114558",
+      "type": "series",
+      "name": "Qing Chi Hong Xiaodou Ba! 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114558-qbES85w38CWZ.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131459",
+      "type": "series",
+      "name": "wasimo 8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131459-QzLf2Jwn0T0J.jpg",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:124340",
       "type": "series",
       "name": "My Little Invisible Being",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124340-x3SnjeUXkMex.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:129544",
+      "type": "series",
+      "name": "Toutiao Dou Shi Ta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129544-8U23Ad2b9CYF.jpg",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:119923",
+      "type": "series",
+      "name": "Qing Chi Hong Xiaodou Ba! 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119923-vAUcL19pOWu0.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:177122",
+      "type": "series",
+      "name": "Sinbi Apateu: Ghost Ball Double X",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177122-1sryaIGYXQYo.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:149074",
+      "type": "series",
+      "name": "Asi Yu Xiao Liangdang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149074-PVM2LhqMGutn.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120326",
+      "type": "series",
+      "name": "Fengyu Lang Qiao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120326-6MpZjW5fYt5h.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:200643",
+      "type": "series",
+      "name": "Kanojo wa Utau, Dakara Boku wa.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200643-9IYRuie7PsYH.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:138956",
+      "type": "series",
+      "name": "Mukashi Keiba Nashi 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138956-MdZggjUEEqoC.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:154156",
+      "type": "series",
+      "name": "Back to the Palace",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154156-oP087prodW6t.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:123028",
+      "type": "series",
+      "name": "Wo de San Ti: Zhang Beihai Zhuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123028-yJylqwIDzA79.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121392",
+      "type": "series",
+      "name": "Xiao Cangshu Didi de  Chibo Richang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121392-Fv3eBTpfE0AK.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131731",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: Against the Dark Force",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131731-CgS0JUfLRxtI.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131729",
+      "type": "series",
+      "name": "Pleasant Goat and Big Big Wolf: The Intriguing Alien Guests",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131729-WeEWCWnXQqJh.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:123417",
+      "type": "series",
+      "name": "Xiang Shi Chuanshuo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123417-2B9vhyN0aPzf.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:121201",
+      "type": "series",
+      "name": "Jingju Mao: Jiaotashidi Part 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121201-O80EyGBY5Eba.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120522",
+      "type": "series",
+      "name": "Mengyou Dunhuang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120522-Njl0GYnzIbpM.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116999",
+      "type": "series",
+      "name": "Menghuan Shuyuan 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116999-Wc2QiCL8ejQf.png",
       "releaseInfo": "2020"
     },
     {
@@ -3221,10 +3109,31 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:120521",
+      "type": "series",
+      "name": "Sansan De Ezuoju Chufang",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120521-hceYTcU7c2Qi.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:149345",
+      "type": "series",
+      "name": "Gon De Hanta: Tata Turan Xiangdao",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149345-G5Z5fKPLFgFy.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:124204",
       "type": "series",
       "name": "Ruguo Lishi Shi Yi Qun Miao 5",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124204-2SbOm5gXfU5h.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131008",
+      "type": "series",
+      "name": "Chunqiu Feng Shen: Luanshi Chang Ge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131008-bcu0nCWoRjPo.png",
       "releaseInfo": "2020"
     },
     {
@@ -3235,10 +3144,73 @@
       "releaseInfo": "2020"
     },
     {
+      "id": "anilist:120404",
+      "type": "series",
+      "name": "Jingzhong Baoguo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120404-hJ2qOeR6ukZR.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:129548",
+      "type": "series",
+      "name": "AOTU Xueyuan 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129548-BHmnxvIoxtKv.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131781",
+      "type": "series",
+      "name": "Pleasant Goat Fun Class: Mighty Goat Squad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131781-yjHy8Jmqmpq2.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120510",
+      "type": "series",
+      "name": "Kung Fu Bunny 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120510-685INIkfMGyR.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:132348",
+      "type": "series",
+      "name": "Maeumuisori Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132348-WPh2pjDheCBM.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:131014",
+      "type": "series",
+      "name": "Ashuai 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131014-8RoSFuvDytuI.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:149039",
+      "type": "series",
+      "name": "Ooya-san to Boku 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149039-0Igkmq92A5KT.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:120485",
+      "type": "series",
+      "name": "Dai Luan - Zhou Enlai Tongnian Dushu de Gushi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120485-KuiED2bkQq79.png",
+      "releaseInfo": "2020"
+    },
+    {
       "id": "anilist:176084",
       "type": "series",
       "name": "Bborongbborong Bbororo 7",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176084-KzYapGd50ww6.jpg",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:137803",
+      "type": "series",
+      "name": "Renzhe Bixu Si: Yue Hu Zhi Zhan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137803-IwzuLg8w7PzP.png",
       "releaseInfo": "2020"
     },
     {
@@ -3253,6 +3225,34 @@
       "type": "series",
       "name": "Tayo and Little Wizards",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188076-WnFUEveufp1c.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:116996",
+      "type": "series",
+      "name": "Xiagu Zhong An Zu 4th Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116996-W2OSeJcESnx6.png",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "anilist:188822",
+      "type": "series",
+      "name": "Miniforce: Super Dino Power 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b188822-MO6KtsszCrD5.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:132345",
+      "type": "series",
+      "name": "Amhaengeosa Byeol☆Ko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132345-QRw98QyOq1yG.png",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "anilist:188053",
+      "type": "series",
+      "name": "Spookiz Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188053-mCOEbnqYo7f6.png",
       "releaseInfo": "2020"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.22.5",
+  "version": "1.23.5",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://digizik.github.io/animes-season-addon/logo.png",
@@ -14,16 +14,16 @@
   "catalogs": [
     {
       "type": "series",
-      "id": "latest_anime_seasons",
+      "id": "trending_anime_seasons",
       "name": "Anime Seasons",
       "extra": [
         {
           "name": "genre",
           "options": [
-            "FALL",
-            "WINTER",
-            "SPRING",
-            "SUMMER"
+            "FALL (Sep - Nov)",
+            "WINTER (Dec - Feb)",
+            "SPRING (Mar - May)",
+            "SUMMER (Jun - Aug)"
           ],
           "isRequired": false
         }
@@ -34,16 +34,16 @@
     },
     {
       "type": "movie",
-      "id": "latest_anime_seasons",
+      "id": "trending_anime_seasons",
       "name": "Anime Seasons",
       "extra": [
         {
           "name": "genre",
           "options": [
-            "FALL",
-            "WINTER",
-            "SPRING",
-            "SUMMER"
+            "FALL (Sep - Nov)",
+            "WINTER (Dec - Feb)",
+            "SPRING (Mar - May)",
+            "SUMMER (Jun - Aug)"
           ],
           "isRequired": false
         }
@@ -140,5 +140,5 @@
   "idPrefixes": [
     "anilist"
   ],
-  "lastUpdatedAt": "2026-11-25T13:18:12.149Z"
+  "lastUpdatedAt": "2026-11-25T15:23:05.017Z"
 }
