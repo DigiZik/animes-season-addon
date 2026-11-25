@@ -53,11 +53,45 @@ it.each(["20","50","invalid"])("uses fixed 100-item pages even with a stale page
 it("keeps the previous export intact on provider failure or invalid input",async()=>{
     await exportCinemeta(root,[series(1,"tt1234567")]);
     const file=path.join(root,"cinemeta/catalog/series/latest_anime_seasons.json"),before=await fs.readFile(file);
-    const network=jest.spyOn(global,"fetch").mockResolvedValue(new Response("unavailable",{status:503}));
-    await expect(exportCinemeta(root)).rejects.toThrow("HTTP 503");expect(network).toHaveBeenCalledTimes(1);expect(await fs.readFile(file)).toEqual(before);
+    const network=jest.spyOn(global,"fetch").mockResolvedValue(new Response("unavailable",{status:403}));
+    await expect(exportCinemeta(root)).rejects.toThrow("HTTP 403");expect(network).toHaveBeenCalledTimes(1);expect(await fs.readFile(file)).toEqual(before);
     await expect(exportCinemeta(root,[series(99,"tt1234567")])).rejects.toThrow("no titles");expect(await fs.readFile(file)).toEqual(before);
 });
-it("fails oversized or invalid downloads without retries or cache fallback",async()=>{
+it.each(["network", "503", "429"])("retries a transient %s failure once, honoring Retry-After", async failure => {
+    const network = jest.spyOn(global, "fetch");
+    if (failure === "network") network.mockRejectedValueOnce(new Error("network"));
+    else network.mockResolvedValueOnce(new Response("unavailable", { status: Number(failure), headers: { "Retry-After": "3" } }));
+    network.mockResolvedValueOnce(new Response(JSON.stringify([series(1, "tt1234567")])));
+    // Keep filesystem I/O real; replace only the retry delay.
+    const timer = jest.spyOn(global, "setTimeout").mockImplementation(((callback: () => void) => {
+        callback(); return 0;
+    }) as any);
+    await expect(exportCinemeta(root)).resolves.toMatchObject({ exportedEntries: 1 });
+    expect(network).toHaveBeenCalledTimes(2);
+    expect(timer).toHaveBeenCalledWith(expect.any(Function), failure === "network" ? 2000 : 3000);
+});
+
+it("stops after a second transient failure and retains the previous export", async () => {
+    await exportCinemeta(root, [series(1, "tt1234567")]);
+    const file = path.join(root, "cinemeta/catalog/series/latest_anime_seasons.json");
+    const before = await fs.readFile(file);
+    const network = jest.spyOn(global, "fetch").mockImplementation(async () => new Response("unavailable", { status: 503 }));
+    jest.spyOn(global, "setTimeout").mockImplementation(((callback: () => void) => { callback(); return 0; }) as any);
+    await expect(exportCinemeta(root)).rejects.toThrow("HTTP 503");
+    expect(network).toHaveBeenCalledTimes(2);
+    expect(await fs.readFile(file)).toEqual(before);
+});
+
+it("fails invalid JSON and excessive Retry-After without another request", async () => {
+    const network = jest.spyOn(global, "fetch").mockResolvedValueOnce(new Response("not JSON"));
+    await expect(exportCinemeta(root)).rejects.toThrow();
+    expect(network).toHaveBeenCalledTimes(1);
+    network.mockResolvedValueOnce(new Response("unavailable", { status: 429, headers: { "Retry-After": "120" } }));
+    await expect(exportCinemeta(root)).rejects.toThrow("HTTP 429");
+    expect(network).toHaveBeenCalledTimes(2);
+});
+
+it("fails oversized downloads without retries or cache fallback",async()=>{
     const network=jest.spyOn(global,"fetch").mockResolvedValue(new Response("",{headers:{"content-length":String(17*1024*1024)}}));
     await expect(exportCinemeta(root)).rejects.toThrow("oversized");expect(network).toHaveBeenCalledTimes(1);
 });

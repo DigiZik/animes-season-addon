@@ -46,10 +46,26 @@ export function imdbIndex(rows: unknown): Map<string, string | null> {
 }
 
 async function download(): Promise<unknown> {
-    const response = await fetch(URL, { signal: AbortSignal.timeout(30000), redirect: "error" });
-    if (!response.ok) {
+    let response!: Response;
+    // One retry only for transient request failures; parsing and size errors stay fatal.
+    for (let attempt = 0; attempt < 2; attempt++) {
+        try {
+            response = await fetch(URL, { signal: AbortSignal.timeout(30000), redirect: "error" });
+        } catch {
+            if (attempt) throw new Error("Cinemeta cross-reference network request failed.");
+            await new Promise(resolve => setTimeout(resolve, 2000));
+            continue;
+        }
+        if (response.ok) break;
         await response.body?.cancel();
-        throw new Error(`Cinemeta cross-reference download failed (HTTP ${response.status}).`);
+        const retry = response.headers.get("retry-after");
+        const delay = retry ? (/^\d+$/.test(retry) ? Number(retry) * 1000 : Date.parse(retry) - Date.now()) : 2000;
+        const wait = Number.isFinite(delay) ? Math.max(2000, delay) : 2000;
+        const retryable = response.status === 429 || response.status >= 500;
+        if (attempt || !retryable || wait > 60000) {
+            throw new Error(`Cinemeta cross-reference download failed (HTTP ${response.status}).`);
+        }
+        await new Promise(resolve => setTimeout(resolve, wait));
     }
     const limit = 16 * 1024 * 1024;
     if (Number(response.headers.get("content-length")) > limit || !response.body) {
@@ -106,7 +122,7 @@ export async function exportCinemeta(root = process.cwd(), rows?: unknown) {
     for (const file of oldFiles) if (!current.has(file.relative)) await fs.unlink(path.join(root, "cinemeta", file.relative));
     const report = { files: files.length, inputEntries, exportedEntries, omittedOrDeduplicated: inputEntries - exportedEntries };
     console.log(`Cinemeta export: ${JSON.stringify(report)}`);
-    if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `\n### Catalog exports\n\nNative AniList: ${inputEntries} entries. Cinemeta: ${exportedEntries} entries; ${inputEntries - exportedEntries} unmapped, ambiguous, or duplicate entries omitted. One bulk IMDb cross-reference request; no mapping cache.\n`);
+    if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `\n### Catalog exports\n\nNative AniList: ${inputEntries} entries. Cinemeta: ${exportedEntries} entries; ${inputEntries - exportedEntries} unmapped, ambiguous, or duplicate entries omitted. Bulk IMDb cross-reference download with at most one transient retry; no mapping cache.\n`);
     return report;
 }
 

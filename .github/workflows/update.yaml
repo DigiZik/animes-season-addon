@@ -41,13 +41,15 @@ jobs:
         if: github.event_name == 'workflow_dispatch' && (inputs.refresh_catalogs || inputs.refresh_history)
         run: |
           if [ "${{ inputs.refresh_history }}" = "true" ]; then
-            npm start -- --history
+            node build/src/index.js --history
           else
-            npm start
+            node build/src/index.js
           fi
           node build/src/cinemeta.js
       - name: Build paginated site
-        run: npm run build:pages
+        run: |
+          node build/src/current-year.js
+          node build/src/build-pages.js
       - name: Verify native anime identities
         run: npm run verify:ids
       - name: Verify every published catalog and filter

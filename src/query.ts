@@ -7,6 +7,8 @@ export enum Season {
     FALL = "FALL" // September to November
 }
 
+export const SEASONS = [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
+
 /**
  * Convert month to season
  * @param month Month must be between 0 and 11
@@ -46,15 +48,17 @@ export function createSortedSeasonList(firstSeason: Season): Season[] {
  * @param season Queried season
  * @returns The query string
  */
-export function query(year: number, season: Season, format: TitleType = "movie", page = 1): string{
+export function query(year: number, season: Season, format?: TitleType, page = 1): string{
     if (!Number.isSafeInteger(page) || page < 1) throw new Error("Invalid AniList page.");
     if (year < 2000 || year > (new Date()).getUTCFullYear()) throw new Error("Year must be between 2000 and now");
-    const formatFilter = format === "movie" ? "format:MOVIE" : "format_in:[TV,TV_SHORT,OVA,SPECIAL,ONA]";
+    const formatFilter = format === "movie" ? "format:MOVIE" : format === "series" ?
+        "format_in:[TV,TV_SHORT,OVA,SPECIAL,ONA]" : "format_in:[MOVIE,TV,TV_SHORT,OVA,SPECIAL,ONA]";
     return `query {
         Page(perPage: 50, page: ${page}) {
           pageInfo { hasNextPage }
           media(seasonYear:${year}, season:${season}, sort:[POPULARITY_DESC,ID_DESC], type:ANIME, isAdult:false, ${formatFilter}) {
             id
+            format
             isAdult
             title {
               romaji

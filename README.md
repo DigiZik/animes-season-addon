@@ -47,7 +47,7 @@ Each catalog is available for **series and movies**.
 
 AniList supplies season membership and popularity ordering. The current-year list combines seasons in Winter → Spring → Summer → Fall order and removes duplicate IDs. A year indicates season membership; a series may have debuted earlier.
 
-Refreshes fetch every AniList page for each season and content type, excluding titles AniList marks as adult. AniList may classify ecchi as non-adult. Client pagination browses these results; it does not call AniList. Anime Seasons offers seasons for the current year only—it does not combine a season filter with a historical year.
+Refreshes fetch every AniList page for each season with adult titles excluded, then split movies and series locally. AniList may classify ecchi as non-adult. Client pagination browses these results; it does not call AniList. Anime Seasons offers seasons for the current year only—it does not combine a season filter with a historical year.
 
 The default-season calendar uses UTC dates: December–February for Winter, March–May for Spring, June–August for Summer, and September–November for Fall. It can differ from AniChart’s boundaries. In December, the default is Winter of the current calendar year.
 
@@ -95,7 +95,7 @@ The native export supports normal first pages, explicit `skip=0`, integer offset
 <details>
 <summary>How IDs and fallback metadata work</summary>
 
-The AIOmetadata catalog passes AniList IDs directly to the metadata provider. The Cinemeta export downloads the [Fribb anime cross-reference](https://github.com/Fribb/anime-lists) once per refresh and produces IMDb IDs; it uses exact ID associations rather than title matching. Missing, conflicting, wrong-type and ambiguous movie mappings are omitted. Series sharing an IMDb ID are deduplicated in source order. A dataset link is not independent proof that a mapping is correct.
+The AIOmetadata catalog passes AniList IDs directly to the metadata provider. The Cinemeta export downloads the [Fribb anime cross-reference](https://github.com/Fribb/anime-lists) once per successful refresh, with one retry for a transient request failure, and produces IMDb IDs; it uses exact ID associations rather than title matching. Missing, conflicting, wrong-type and ambiguous movie mappings are omitted. Series sharing an IMDb ID are deduplicated in source order. A dataset link is not independent proof that a mapping is correct.
 
 Both exports keep fallback names, posters and years when available. Metadata enrichment and stream matching are handled downstream. A missing downstream mapping can affect details or playback. Changing ID formats may affect existing ID-based watch-state associations.
 
@@ -113,7 +113,7 @@ npm run verify:ids
 npm run verify:pages
 ```
 
-`npm start` refreshes the current year; `npm start -- --history` refreshes all years from 2001. History refreshes are slower and restart from the beginning if they fail. Both modes finish their requested fetches before replacing catalog sources; `npm run export:cinemeta` refreshes the IMDb export using one bulk mapping download. The offline Pages build reads the committed exports and writes `.pages/`. Source catalogs are in `catalog/` and `cinemeta/catalog/`. Complete unpaginated manifests are also published at `/manifest.json` and `/cinemeta/manifest.json`.
+`npm start` refreshes the current year; `npm start -- --history` refreshes all years from 2001. History refreshes are slower and restart from the beginning if they fail. Both modes finish their requested fetches before replacing catalog sources; `npm run export:cinemeta` refreshes the IMDb export using one bulk mapping download. Changed native data updates the manifest timestamp; identical refreshes do not rewrite it. The offline Pages build validates both committed exports without repairing source files, then writes `.pages/`. Source catalogs are in `catalog/` and `cinemeta/catalog/`. Complete unpaginated manifests are also published at `/manifest.json` and `/cinemeta/manifest.json`.
 
 The build validates pagination and enforces the combined 1 GB Pages artifact limit. See [performance results](docs/performance.md) for the ID-export benchmark.
 

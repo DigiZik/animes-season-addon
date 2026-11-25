@@ -5,6 +5,34 @@ import { Anilist } from "./request";
 import { fallbackMeta, Meta, TitleType, validateMeta } from "./native-meta";
 export type { Meta } from "./native-meta";
 
+export type SeasonCatalogs = Record<TitleType, Meta[]>;
+const SERIES_FORMATS = new Set(["TV", "TV_SHORT", "OVA", "SPECIAL", "ONA"]);
+
+export async function fetchSeasonCatalogs(year: number, season: Season, onlyType?: TitleType): Promise<SeasonCatalogs> {
+    const catalogs: SeasonCatalogs = { movie: [], series: [] };
+    const seen = new Set<string>();
+    const client = new Anilist();
+    for (let page = 1; ; page++) {
+        const response = await client.fetch(query(year, season, onlyType, page));
+        const results = response?.data?.Page?.media;
+        if (!Array.isArray(results)) throw new Error(`Unexpected AniList response for ${season}/${year}: missing data.Page.media`);
+        const more = response.data.Page.pageInfo?.hasNextPage;
+        if (typeof more !== "boolean") throw new Error("Missing AniList pagination state.");
+        let fresh = 0;
+        for (const anime of results) {
+            if (typeof anime?.isAdult !== "boolean") throw new Error("Missing AniList adult classification.");
+            if (anime.isAdult) continue;
+            const type = onlyType || (anime.format === "MOVIE" ? "movie" : SERIES_FORMATS.has(anime.format) ? "series" : undefined);
+            if (!type) throw new Error("Missing or unsupported AniList format.");
+            const meta = fallbackMeta(anime, type, year);
+            if (!seen.has(meta.id)) { seen.add(meta.id); catalogs[type].push(meta); fresh++; }
+        }
+        if (!more) break;
+        if (!fresh || page >= 1000) throw new Error("AniList pagination did not advance.");
+    }
+    return catalogs;
+}
+
 export class Catalog {
     private metas: Meta[] = [];
     constructor(private pathFile: string) {}
@@ -15,25 +43,8 @@ export class Catalog {
         await fs.writeFile(this.pathFile, JSON.stringify({ metas: this.metas }, null, 2) + "\n");
     }
     async populate(year: number, season: Season, type: TitleType) {
-        const metas: Meta[] = [], seen = new Set<string>();
-        for (let page = 1; ; page++) {
-            const response = await new Anilist().fetch(query(year, season, type, page));
-            const results = response?.data?.Page?.media;
-            if (!Array.isArray(results)) throw new Error(`Unexpected AniList response for ${type}/${season}/${year}: missing data.Page.media`);
-            const more = response.data.Page.pageInfo?.hasNextPage;
-            if (typeof more !== "boolean") throw new Error("Missing AniList pagination state.");
-            let fresh = 0;
-            for (const anime of results) {
-                if (typeof anime?.isAdult !== "boolean") throw new Error("Missing AniList adult classification.");
-                if (anime.isAdult) continue;
-                const meta = fallbackMeta(anime, type, year);
-                if (!seen.has(meta.id)) { seen.add(meta.id); metas.push(meta); fresh++; }
-            }
-            if (!more) break;
-            if (!fresh || page >= 1000) throw new Error("AniList pagination did not advance.");
-        }
         // Append only after the entire season succeeds.
-        this.metas.push(...metas);
+        this.metas.push(...(await fetchSeasonCatalogs(year, season, type))[type]);
     }
 }
 export type CatalogExtra = {
@@ -98,7 +109,7 @@ export class Manifest implements AbstractManifest {
             catalogs: this.catalogs,
             idPrefixes: this.idPrefixes,
             lastUpdatedAt: this.lastUpdatedAt,
-        }, null, 2));
+        }, null, 2) + "\n");
     }
 
     getLastUpdate() : Date {
