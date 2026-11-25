@@ -45,19 +45,17 @@ jobs:
           else
             node build/src/index.js
           fi
-          node build/src/cinemeta.js
       - name: Build paginated site
         run: |
-          node build/src/current-year.js
           node build/src/build-pages.js
-      - name: Verify native anime identities
+      - name: Verify source and published identities
         run: npm run verify:ids
       - name: Verify every published catalog and filter
         run: npm run verify:pages
       - name: Commit updated source catalogs
         shell: bash
         run: |
-          git add manifest.json catalog cinemeta
+          git add manifest.json catalog
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

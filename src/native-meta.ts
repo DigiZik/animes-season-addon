@@ -21,9 +21,12 @@ export function fallbackMeta(anime: any, type: TitleType, fallbackYear?: number)
     const year = anime.startDate?.year ?? fallbackYear;
     return { id, type, name, ...(poster ? { poster } : {}), ...(Number.isInteger(year) && year >= 1000 && year <= 9999 ? { releaseInfo: String(year) } : {}) };
 }
-export function validateMeta(value: unknown, type?: string, kind: "anilist" | "imdb" = "anilist"): asserts value is Meta {
+export function validateMeta(value: unknown, type?: string, kind: "anilist" | "imdb" | "mixed" = "anilist"): asserts value is Meta {
     const meta = value as Meta;
-    if (!meta || typeof meta.id !== "string" || (kind === "anilist" ? !/^anilist:[1-9]\d*$/.test(meta.id) || anilistId(meta.id.slice(8)) !== meta.id : !/^tt\d{7,10}$/.test(meta.id))) throw new Error(`Invalid ${kind} identity.`);
+    const validId = typeof meta?.id === "string" && (kind === "anilist"
+        ? /^anilist:[1-9]\d*$/.test(meta.id) && Number.isSafeInteger(Number(meta.id.slice(8)))
+        : /^tt\d{7,10}$/.test(meta.id) || kind === "mixed" && /^kitsu:[1-9]\d*$/.test(meta.id) && Number.isSafeInteger(Number(meta.id.slice(6))));
+    if (!validId) throw new Error(`Invalid ${kind} identity.`);
     if ((meta.type !== "movie" && meta.type !== "series") || type && meta.type !== type) throw new Error("Catalog type differs from item type.");
     if (typeof meta.name !== "string" || !meta.name.trim()) throw new Error("Missing fallback title.");
     if (meta.poster !== undefined && !image(meta.poster)) throw new Error("Invalid fallback poster.");

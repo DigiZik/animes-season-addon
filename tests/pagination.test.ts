@@ -151,9 +151,8 @@ it("rejects invalid or missing source data before replacing the previous output"
     expect(await digest(path.join(root, ".pages"))).toBe(before);
 });
 
-it("rejects invalid manifests, unsafe paths, offset steps, and oversized sites", async () => {
+it("rejects invalid manifests, unsafe paths, and oversized sites", async () => {
     await fixture();
-    await expect(buildPages({ root, offsetStep: 20 as any })).rejects.toThrow("Offset step");
     await expect(buildPages({ root, maxBytes: 10 })).rejects.toThrow("size limit");
     const manifest = await json("manifest.json");
     manifest.catalogs[0].id = "../escape";

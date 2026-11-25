@@ -1,119 +1,43 @@
-# Compact catalog performance
+# Unified catalog performance
 
-Historical ID-conversion comparison with resolver commit `59024c0` on Node v24.12.0, win32/x64.
-CPU results are medians of 7 fresh processes using 6389 source
-AniList IDs and the same full cross-reference inputs as the earlier audit.
-
-| Work | Previous resolver | Native feed | Separate IMDb converter |
-| --- | ---: | ---: | ---: |
-| Parse/index/select IDs | 192.36 ms | 0.70 ms | 29.99 ms |
-| Retained heap for this work | 16.42 MiB | 0.025 MiB | 0.74 MiB |
-| Mapping provider requests per refresh | Up to two conditional/download requests | 0 | 1 bulk download |
-
-The native path formats existing AniList IDs. The IMDb path uses one exact-ID,
-type-aware cross-reference index only for Cinemeta. It omits missing or ambiguous
-links and never guesses from names. Neither path maintains a mapping snapshot,
-provider cache or dataset-merging layer. The bulk IMDb download now permits one
-retry for a transient request failure; successful first attempts use one request.
+Measured on 25 November 2026 with Node.js 24.12.0 and the current committed AniList inputs.
 
 ## Publishing footprint
 
-Current fixed-100 build, measured on 25 November 2026 using catalogs from
-`25158cb`:
-
 | Artifact | Bytes | Files |
 | --- | ---: | ---: |
-| Native feed, every integer offset | 332,342,112 | 34,701 |
-| Cinemeta feed, offsets in steps of 100 | 4,113,781 | 447 |
-| Combined published site | 336,455,893 | 35,148 |
-| Compressed GitHub Pages upload | 63,120,352 | — |
+| Previous native + Cinemeta site | 336,455,893 | 35,148 |
+| Unified Kitsu/IMDb site | 294,763,124 | 32,890 |
+| Reduction | 41,692,769 (12.4%) | 2,258 (6.4%) |
 
-The latest successful Actions run spent 3 seconds building, 4 seconds validating
-Pages, and 6 seconds uploading. Published file bytes and compressed upload bytes
-are different measurements. Readable source catalogs add only 852,752 bytes over
-compact copies. Generated paginated JSON remains compact. Both parameter orders,
-native arbitrary offsets, fallback artwork and years are retained.
+These are uncompressed published file bytes. The previous figure is the recorded two-export baseline; it was not rebuilt after removing the separate export. Fixed 100-item responses, arbitrary offsets, both filter parameter orders, readable complete catalogs, and compact paginated responses remain supported. Removing only the old Cinemeta feed would save about 4.1 MB; most remaining savings come from fewer mapped titles and shorter IDs. Omissions are a coverage trade-off, not a compression improvement.
 
-The older compact-preview migration below used smaller source catalogs and
-configurable native page sizes; its sizes are not the current footprint:
+One local build took 9.99 seconds including the bulk mapping download, conversion, and file generation. This is a single Windows measurement; it excludes compilation, separate verification, and deployment. Machine-readable results are in [performance.json](performance.json).
 
-| Artifact | Bytes |
+## Mapping coverage and overhead
+
+| Measurement | Count |
 | --- | ---: |
-| Previous native feed alone | 217,234,501 |
-| Compact native feed | 44,748,506 |
-| Additional Cinemeta feed | 3,111,925 |
-| Both compact feeds combined | 47,860,431 |
+| Internal source files / published variants | 64 |
+| Source entries across all variants | 11,398 |
+| Unique AniList source titles | 10,264 |
+| Published Kitsu entries across variants | 10,407 |
+| Published IMDb fallback entries across variants | 34 |
+| Unmapped/conflicting entries omitted across variants | 957 |
+| Duplicate selected IDs removed across variants | 0 |
+| Unique published IDs | 9,491 |
 
-At that migration, both new feeds together used **78.0% less space** than the
-previous single feed. The current native feed uses fixed 100-item responses and
-every supported integer offset. Cinemeta uses standard 100-item Stremio pages
-and only their required offsets.
+The published unique IDs comprise 9,464 Kitsu IDs and 27 IMDb IDs. Consequently, 773 unique source titles are omitted in this build. Preliminary audit counts were slightly higher because final mapping checks reject malformed Kitsu associations. Counts include historical titles and can change as providers update their datasets.
 
-Previews contain only ID, type, title, poster URL and optional release year.
-Descriptions, tags, genres, backgrounds, duplicate source-ID fields and movie
-playback hints were removed. Poster images are not downloaded or embedded by
-the generator. Provider metadata remains responsible for detailed information.
+The build downloads Fribb once and constructs two type-aware indexes in memory. A transient request failure can trigger one retry. There are no per-title requests, title matching, persistent mapping files, or mapping caches. All seasons and years share those indexes; annual lists require no provider requests. Publish-only builds now require network access for this single bulk download. The normal build does not modify committed inputs.
 
-## Refresh requests and build overhead
+AniList refresh requests are unchanged: movies and series share one paginated sequence per season, adult titles are excluded, and annual lists derive locally. Only the source catalogs and source manifest are committed by workflow refreshes. A failed fetch, mapping conversion, build, or validation prevents Pages deployment.
 
-Movies and series are now retrieved in one paginated sequence per season and
-split locally by format. The same adult exclusion and popularity/ID sort apply.
-Annual catalogs use the four seasonal lists locally; they require no additional
-AniList requests. AniList pages still contain at most 50 entries, and pagination
-continues using `hasNextPage`.
+## Verification and limits
 
-With the committed current-year counts, this models 12 requests instead of 16
-(25% fewer), or about 8.8 seconds less pacing delay. This is not a live timing
-claim: changing source counts and retries affect the actual result. Historical
-season refreshes use the same method. Existing rate-limit pacing stays intact.
+- Offline tests cover mapping priority, conflicts, type collisions, movie safeguards, omissions, exact-ID deduplication, bounded retries, download limits, and wholly empty conversion failures.
+- Pagination tests cover first pages, both filter orders, terminal pages, arbitrary offsets, and 20/50/100-item traversal. Every generated page is checked against its complete converted catalog.
+- Current-year defaults, annual order, rollover, no-op refreshes, and failure handling remain tested. Source catalogs are retained as readable AniList inputs; public catalogs contain only Kitsu/IMDb IDs.
+- An isolated harness exercised the actual importer and Jellyfin item/season/episode conversion functions from the existing AIOmetadata 4.1.0 image with published Kitsu and IMDb examples for both content types. IDs and artwork survived import; both episode-ID forms round-tripped. Metadata-provider dependencies were stubbed and container networking was disabled. This does not verify live metadata accuracy or AIOStreams playback.
 
-Actions compiles TypeScript once in the offline test step, then reuses the
-compiled refresh and build entry points. Local npm commands still compile when
-needed. Shared catalog derivation preserves seasonal order, annual deduplication
-and defaults. Offline builds validate both exports without modifying sources.
-Changed native data advances its manifest timestamp; identical refreshes do not.
-
-## Method and limits
-
-CPU measurements include JSON parsing, index construction and ID selection. Raw
-input reads happen before timing. They exclude HTTP latency, AniList queries,
-fallback metadata construction, pagination and deployment. This is **not an
-end-to-end speed claim**. The native benchmark formats every source ID; the IMDb
-benchmark checks both content-type keys and includes IDs omitted by the final
-source-type-specific export.
-
-The previous snapshot cache could avoid mapping response bodies when providers
-returned HTTP 304, at the cost of cache restoration. The simplified IMDb export
-downloads its single dataset on each requested refresh. Publish-only builds use
-committed exports and make no provider requests. Building two feeds does require
-additional work; smaller previews and standard Cinemeta pagination keep its
-publishing footprint small. Daily provider updates can change these measured sizes.
-
-## Verification
-
-- Offline tests cover mixed-format pagination, adult exclusion, order and
-  deduplication, late failures, rollover, no-op refreshes and bounded mapping
-  retries, plus 20/50/100-item client traversal of fixed-100 native responses.
-- Current native export: 64 variants, 11,398 entries, 10,264 unique AniList IDs.
-- Current Cinemeta export: 64 variants, 5,634 entries, 3,784 unique IMDb IDs.
-- The earlier ID migration exercised the actual AIOmetadata v4.1.0 importer
-  with mapped/unmapped native IDs and IMDb IDs, plus live Cinemeta metadata.
-  That historical check is not a new AIOStreams UI test of these changes.
-- Both artifacts pass complete filesystem traversal and the combined 1 GB limit.
-
-## Reproduce
-
-```sh
-npm run benchmark:ids
-# Optional offline comparison with the old resolver, using saved raw inputs:
-npm run benchmark:ids -- --baseline-snapshots=/path/to/fribb-and-animeapi --samples=7
-```
-
-The optional folder contains `fribb.json` and `animeapi.tsv`. The benchmark reads
-the old implementation from Git history, builds it in its own temporary directory
-and removes that directory afterward. Production code does not use these files.
-Local results go to `.cache/id-benchmark.json`; the recorded measurement is in
-[performance.json](performance.json).
-
-The footprint and Actions timings above come from the build of `25158cb` and
-[its successful workflow](https://github.com/DigiZik/animes-season-addon/actions/runs/45557268579).
+The separate Cinemeta URL is retired. Kitsu entries require a compatible metadata provider. The ID migration can affect downstream library/watch-state associations; no state migration is performed.

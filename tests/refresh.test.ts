@@ -97,6 +97,15 @@ it("preserves the committed native catalogs byte-for-byte across combined-page b
     await fs.copyFile(manifestPath, path.join(root, "manifest.json"));
     const source = path.resolve(__dirname, "../../catalog");
     await fs.cp(source, path.join(root, "catalog"), { recursive: true });
+    // Windows checkouts may contain CRLF; compare the generator's canonical LF bytes.
+    async function normalize(directory: string) {
+        for (const entry of await fs.readdir(directory, { withFileTypes: true })) {
+            const file = path.join(directory, entry.name);
+            if (entry.isDirectory()) await normalize(file);
+            else await fs.writeFile(file, (await fs.readFile(file, "utf8")).replace(/\r\n/g, "\n"));
+        }
+    }
+    await normalize(path.join(root, "catalog"));
     const media = new Map<string, any[]>();
     let expectedRequests = 0, separateRequests = 0;
     for (const season of Object.values(Season)) {

@@ -2,7 +2,7 @@ import path from "path";
 import { catalogFiles } from "./catalog-files";
 import { validateMeta } from "./native-meta";
 
-export async function verifyIds(root = process.cwd(), kind: "anilist" | "imdb" = "anilist") {
+export async function verifyIds(root = process.cwd(), kind: "anilist" | "imdb" | "mixed" = "anilist") {
     const files = await catalogFiles(root);
     let entries = 0;
     const unique = new Set<string>();
@@ -14,6 +14,6 @@ export async function verifyIds(root = process.cwd(), kind: "anilist" | "imdb" =
     }
     return { files: files.length, entries, uniqueTitles: unique.size };
 }
-if (require.main === module) Promise.all([verifyIds(), verifyIds(path.join(process.cwd(), "cinemeta"), "imdb")])
-    .then(([aiometadata, cinemeta]) => console.log(`Verified source identities: ${JSON.stringify({ aiometadata, cinemeta })}`))
+if (require.main === module) Promise.all([verifyIds(), verifyIds(path.join(process.cwd(), ".pages"), "mixed")])
+    .then(([source, published]) => console.log(`Verified source and published identities: ${JSON.stringify({ source, published })}`))
     .catch(error => { console.error((error as Error).message); process.exitCode = 1; });

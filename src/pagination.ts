@@ -22,7 +22,7 @@ type Manifest = {
     [key: string]: unknown;
 };
 type Source = { catalog: Catalog; genre?: string; serialized: string[]; prefixBytes: number[] };
-export type BuildOptions = { root?: string; maxBytes?: number; paginatedId?: string; offsetStep?: 1 | 100 };
+export type BuildOptions = { root?: string; maxBytes?: number; catalogs?: Map<string, { metas: Meta[] }>; publishedManifest?: Manifest };
 export type BuildResult = { outputDir: string; pageSize: number; catalogs: number; variants: number; files: number; bytes: number };
 
 function segment(value: unknown, label: string): asserts value is string {
@@ -87,7 +87,7 @@ async function readJson(file: string): Promise<any> {
     }
 }
 
-async function readSources(root: string, manifest: Manifest): Promise<Source[]> {
+async function readSources(root: string, manifest: Manifest, catalogs?: Map<string, { metas: Meta[] }>): Promise<Source[]> {
     const sources: Source[] = [];
     for (const catalog of manifest.catalogs) {
         const genre = catalog.extra?.find(extra => extra.name === "genre");
@@ -96,7 +96,7 @@ async function readSources(root: string, manifest: Manifest): Promise<Source[]> 
         for (const option of variants) {
             const relativePath = path.join("catalog", catalog.type,
                 option === undefined ? `${catalog.id}.json` : path.join(catalog.id, `genre=${option}.json`));
-            const data = await readJson(path.join(root, relativePath));
+            const data = catalogs ? catalogs.get(relativePath.replace(/\\/g, "/")) : await readJson(path.join(root, relativePath));
             const serialized = uniqueMetas(data?.metas, catalog.type, relativePath).map(meta => JSON.stringify(meta));
             const prefixBytes = [0];
             for (const meta of serialized) prefixBytes.push(prefixBytes[prefixBytes.length - 1] + Buffer.byteLength(meta));
@@ -116,18 +116,17 @@ function pagePaths(source: Source, skip?: number): string[] {
         path.join(base, `genre=${source.genre}&skip=${skip}.json`)];
 }
 
-function lastOffset(count: number, offsetStep: number): number {
+function lastOffset(count: number): number {
     // Every possible next request after the last title for steps up to PAGE_SIZE.
-    // Standard Stremio clients only need the first empty multiple of PAGE_SIZE.
-    return offsetStep === 1 ? count + PAGE_SIZE - 1 : Math.ceil(count / PAGE_SIZE) * PAGE_SIZE;
+    return count + PAGE_SIZE - 1;
 }
 
-function* pages(sources: Source[], offsetStep: number): Generator<{ paths: string[]; body: string }> {
+function* pages(sources: Source[]): Generator<{ paths: string[]; body: string }> {
     for (const source of sources) {
         const body = (skip: number) => '{"metas":[' + source.serialized.slice(skip, skip + PAGE_SIZE).join(",") + ']}';
         const first = body(0);
         yield { paths: pagePaths(source), body: first };
-        for (let skip = 0; skip <= lastOffset(source.serialized.length, offsetStep); skip += offsetStep) {
+        for (let skip = 0; skip <= lastOffset(source.serialized.length); skip++) {
             yield { paths: pagePaths(source, skip), body: skip === 0 ? first : body(skip) };
         }
     }
@@ -149,16 +148,14 @@ async function listFiles(root: string, relative: string): Promise<string[]> {
 
 export async function buildPages(options: BuildOptions = {}): Promise<BuildResult> {
     const root = path.resolve(options.root || process.cwd());
-    const offsetStep = options.offsetStep ?? 1;
-    if (offsetStep !== 1 && offsetStep !== PAGE_SIZE) throw new Error("Offset step must be one or 100.");
     const maxBytes = Math.min(options.maxBytes ?? PAGES_MAX_BYTES, PAGES_MAX_BYTES);
     if (!Number.isSafeInteger(maxBytes) || maxBytes <= 0) throw new Error("Invalid Pages size limit.");
-    const manifest = await readJson(path.join(root, "manifest.json"));
+    const manifest = options.publishedManifest || await readJson(path.join(root, "manifest.json"));
     validateManifest(manifest);
-    const sources = await readSources(root, manifest);
+    const sources = await readSources(root, manifest, options.catalogs);
     const paginated = JSON.parse(JSON.stringify(manifest)) as Manifest;
-    paginated.id = options.paginatedId || PAGINATED_ID;
-    paginated.version = "1.4.1";
+    paginated.id = PAGINATED_ID;
+    paginated.version = options.publishedManifest?.version || "1.4.1";
     paginated.name = `${manifest.name} (Paginated)`;
     for (const catalog of paginated.catalogs) {
         catalog.extra = [...(catalog.extra || []).filter(extra => extra.name !== "skip"), { name: "skip", isRequired: false }];
@@ -166,9 +163,16 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     }
     const manifestBody = JSON.stringify(paginated, null, 2) + "\n";
     const originals = ["manifest.json", ...await listFiles(root, "catalog")];
+    const originalBodies = new Map<string, Buffer>();
+    for (const relative of originals) {
+        const mapped = options.catalogs?.get(relative.replace(/\\/g, "/"));
+        if (options.catalogs && relative !== "manifest.json" && !mapped) throw new Error(`Missing converted catalog: ${relative}`);
+        const body = relative === "manifest.json" && options.publishedManifest ? options.publishedManifest : mapped;
+        originalBodies.set(relative, body ? Buffer.from(JSON.stringify(body, null, 2) + "\n") : await fs.readFile(path.join(root, relative)));
+    }
     let bytes = Buffer.byteLength(manifestBody);
     let files = originals.length + 2; // The generated manifest and .nojekyll.
-    for (const relative of originals) bytes += (await fs.stat(path.join(root, relative))).size;
+    for (const body of originalBodies.values()) bytes += body.length;
     const checkBudget = () => {
         if (bytes > maxBytes) throw new Error(`Generated site exceeds the GitHub Pages size limit (${maxBytes} bytes).`);
     };
@@ -184,9 +188,9 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
         };
         bytes += pageBytes(0);
         files++;
-        for (let skip = 0; skip < count; skip += offsetStep) bytes += pageBytes(skip) * aliases;
-        const offsets = Math.floor(lastOffset(count, offsetStep) / offsetStep) + 1;
-        bytes += 12 * (offsets - Math.ceil(count / offsetStep)) * aliases;
+        for (let skip = 0; skip < count; skip++) bytes += pageBytes(skip) * aliases;
+        const offsets = lastOffset(count) + 1;
+        bytes += 12 * (offsets - count) * aliases;
         files += offsets * aliases;
         checkBudget();
     }
@@ -204,7 +208,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     for (const relative of originals) {
         const target = path.join(outputDir, relative);
         await ensureParent(target);
-        await fs.copyFile(path.join(root, relative), target);
+        await fs.writeFile(target, originalBodies.get(relative)!);
     }
     const manifestPath = path.join(outputDir, "paginated", "manifest.json");
     await ensureParent(manifestPath);
@@ -214,7 +218,7 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     await Promise.all([...pageDirectories].map(directory => fs.mkdir(directory, { recursive: true })));
     // Bound filesystem pressure and queued payloads instead of queueing the whole site.
     let pending: Promise<void>[] = [];
-    for (const page of pages(sources, offsetStep)) {
+    for (const page of pages(sources)) {
         for (const relative of page.paths) {
             const target = path.join(outputDir, relative);
             pending.push(fs.writeFile(target, page.body));
@@ -226,13 +230,4 @@ export async function buildPages(options: BuildOptions = {}): Promise<BuildResul
     }
     await Promise.all(pending);
     return { outputDir, pageSize: PAGE_SIZE, catalogs: manifest.catalogs.length, variants: sources.length, files, bytes };
-}
-
-if (require.main === module) {
-    buildPages().then(result => {
-        console.log(`Built ${result.catalogs} catalogs / ${result.variants} variants with page size ${result.pageSize}: ${result.files} files, ${result.bytes} bytes in ${result.outputDir}`);
-    }).catch(error => {
-        console.error(`Pages build failed: ${(error as Error).message}`);
-        process.exitCode = 1;
-    });
 }

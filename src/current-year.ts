@@ -56,7 +56,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
         for (const type of ["series", "movie"] as const) datasets[type] = (await read(`catalog/${type}/latest_anime_seasons/genre=${season}.json`)).metas;
         seasons.push(datasets);
     }
-    // Check committed defaults without repairing native data after IMDb conversion.
+    // Validate defaults without repairing committed source data.
     const { sources, counts } = yearCatalogs(year, seasons, defaultSeason);
     for (const { file, metas } of sources) {
         assert.deepStrictEqual((await read(file)).metas, metas, `Stale catalog: ${file}. Refresh AniList data before publishing.`);
@@ -65,7 +65,7 @@ export async function prepareCurrentYear(root = process.cwd(), today = new Date(
 }
 
 if (require.main === module) {
-    Promise.all([prepareCurrentYear(), prepareCurrentYear(path.join(process.cwd(), "cinemeta"))])
+    prepareCurrentYear()
         .then(result => console.log(`Validated current-year defaults: ${JSON.stringify(result)}`))
         .catch(error => { console.error(`Current-year validation failed: ${(error as Error).message}`); process.exitCode = 1; });
 }
