@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "anilist:182206",
-      "type": "movie",
-      "name": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:182317",
       "type": "movie",
       "name": "The Dangers in My Heart: The Movie",
@@ -15,24 +8,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:113971",
+      "id": "anilist:182206",
       "type": "movie",
-      "name": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:204949",
-      "type": "movie",
-      "name": "Milky☆Subway: The Galactic Limited Express – the Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204949-1eneer7CutVn.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:195384",
-      "type": "movie",
-      "name": "LABYRINTH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
+      "name": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-LcitQfDLsdnC.png",
       "releaseInfo": "2026"
     },
     {
@@ -47,6 +26,13 @@
       "type": "movie",
       "name": "Assassination Classroom the Movie: Our Time",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198373-bJ7PYyknp4ln.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:113971",
+      "type": "movie",
+      "name": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-GIit95PnSGvt.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -75,6 +61,20 @@
       "type": "movie",
       "name": "Kusunoki no Bannin",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189956-6CFMaDqxTTNl.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:204949",
+      "type": "movie",
+      "name": "Milky☆Subway: The Galactic Limited Express – the Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204949-1eneer7CutVn.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:195384",
+      "type": "movie",
+      "name": "LABYRINTH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195384-mi810JewTu08.jpg",
       "releaseInfo": "2026"
     },
     {
