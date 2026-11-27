@@ -1,10 +1,10 @@
 {
   "metas": [
     {
-      "id": "anilist:199340",
+      "id": "anilist:212539",
       "type": "movie",
-      "name": "Rascal Does Not Dream of a Dear Friend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199340-YQlmzvmcJzyt.jpg",
+      "name": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212539-uiod38Ml39AZ.png",
       "releaseInfo": "2026"
     },
     {
@@ -15,17 +15,17 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:200929",
+      "type": "movie",
+      "name": "The Apothecary Diaries: The Late Lady’s Treasure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-dx3hnftE7K7C.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:178972",
       "type": "movie",
       "name": "GROTESQQQUE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178972-THp4trZ9uR9b.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:206163",
-      "type": "movie",
-      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206163-mX4zuFtmeDFE.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -36,10 +36,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:200929",
+      "id": "anilist:199340",
       "type": "movie",
-      "name": "The Apothecary Diaries: The Late Lady’s Treasure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200929-dx3hnftE7K7C.jpg",
+      "name": "Rascal Does Not Dream of a Dear Friend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199340-YQlmzvmcJzyt.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:206163",
+      "type": "movie",
+      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206163-mX4zuFtmeDFE.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -47,13 +54,6 @@
       "type": "movie",
       "name": "To You in the Beyond",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207327-OSrMbh8DrGE4.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:212539",
-      "type": "movie",
-      "name": "Takopii no Genzai: Arigatou, Mata Ashita",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212539-uiod38Ml39AZ.png",
       "releaseInfo": "2026"
     },
     {

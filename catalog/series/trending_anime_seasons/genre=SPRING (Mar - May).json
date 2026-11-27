@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "anilist:147105",
-      "type": "series",
-      "name": "Witch Hat Atelier",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:189046",
       "type": "series",
       "name": "Re:ZERO -Starting Life in Another World- Season 4",
@@ -22,6 +15,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:147105",
+      "type": "series",
+      "name": "Witch Hat Atelier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:182205",
       "type": "series",
       "name": "That Time I Got Reincarnated as a Slime Season 4",
@@ -33,6 +33,13 @@
       "type": "series",
       "name": "The Ramparts of Ice",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:194393",
+      "type": "series",
+      "name": "I Want to End this Love Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -57,31 +64,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:169580",
+      "id": "anilist:206914",
       "type": "series",
-      "name": "I Made Friends with the Second Prettiest Girl in My Class",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199588",
-      "type": "series",
-      "name": "Gals Can't Be Kind to Otaku!?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:194393",
-      "type": "series",
-      "name": "I Want to End this Love Game",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:184492",
-      "type": "series",
-      "name": "Welcome to Demon School! Iruma-kun Season 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "name": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -92,10 +78,52 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:182483",
+      "id": "anilist:198113",
       "type": "series",
-      "name": "The Warrior Princess and the Barbaric King",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
+      "name": "KILL BLUE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:169580",
+      "type": "series",
+      "name": "I Made Friends with the Second Prettiest Girl in My Class",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:170019",
+      "type": "series",
+      "name": "The Angel Next Door Spoils Me Rotten2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:197824",
+      "type": "series",
+      "name": "Farming Life in Another World 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:184492",
+      "type": "series",
+      "name": "Welcome to Demon School! Iruma-kun Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:189987",
+      "type": "series",
+      "name": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:187869",
+      "type": "series",
+      "name": "Botan Kamiina Fully Blossoms When Drunk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -113,31 +141,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:196935",
+      "id": "anilist:173172",
       "type": "series",
-      "name": "Akane-banashi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:182578",
-      "type": "series",
-      "name": "Mission: Yozakura Family Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:170019",
-      "type": "series",
-      "name": "The Angel Next Door Spoils Me Rotten2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:206914",
-      "type": "series",
-      "name": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
+      "name": "Dorohedoro Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -148,17 +155,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:198113",
+      "id": "anilist:196935",
       "type": "series",
-      "name": "KILL BLUE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:187869",
-      "type": "series",
-      "name": "Botan Kamiina Fully Blossoms When Drunk",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187869-LUn3dyTzuKUq.jpg",
+      "name": "Akane-banashi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -166,13 +166,6 @@
       "type": "series",
       "name": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:192808",
-      "type": "series",
-      "name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -190,6 +183,69 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:199029",
+      "type": "series",
+      "name": "Rent-a-Girlfriend Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:196012",
+      "type": "series",
+      "name": "MAO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:199588",
+      "type": "series",
+      "name": "Gals Can't Be Kind to Otaku!?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:182483",
+      "type": "series",
+      "name": "The Warrior Princess and the Barbaric King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:192808",
+      "type": "series",
+      "name": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192808-tfrX4Gn2Y1Ye.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:180228",
+      "type": "series",
+      "name": "Go For It, Nakamura-kun!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:182578",
+      "type": "series",
+      "name": "Mission: Yozakura Family Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:185211",
+      "type": "series",
+      "name": "Yowayowa Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:195333",
+      "type": "series",
+      "name": "Haibara's Teenage New Game+",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:195268",
       "type": "series",
       "name": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
@@ -204,17 +260,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:212563",
+      "id": "anilist:196144",
       "type": "series",
-      "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212563-8YkPUqUDReu9.png",
+      "name": "SNOWBALL EARTH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:197824",
+      "id": "anilist:177634",
       "type": "series",
-      "name": "Farming Life in Another World 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+      "name": "Ace of the Diamond act II -Second Season-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
       "releaseInfo": "2026"
     },
     {
@@ -225,59 +281,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:204356",
+      "id": "anilist:197754",
       "type": "series",
-      "name": "My Hero Academia More",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204356-RNYmxUVVz3Z2.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:189987",
-      "type": "series",
-      "name": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:195333",
-      "type": "series",
-      "name": "Haibara's Teenage New Game+",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199029",
-      "type": "series",
-      "name": "Rent-a-Girlfriend Season 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199029-8eMkhHlD62Ik.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:206951",
-      "type": "series",
-      "name": "My Ribdiculous Reincarnation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:196012",
-      "type": "series",
-      "name": "MAO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:202381",
-      "type": "series",
-      "name": "Killed again, Mr. Detective.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:186744",
-      "type": "series",
-      "name": "Even a Replica Can Fall in Love",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
+      "name": "LIAR GAME",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
       "releaseInfo": "2026"
     },
     {
@@ -288,17 +295,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:177501",
+      "id": "anilist:181284",
       "type": "series",
-      "name": "A Hundred Scenes of AWAJIMA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-BwdlSMEXGZWz.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:197868",
-      "type": "series",
-      "name": "The Food Diary of Miss Maid",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
+      "name": "Kirio Fan Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -309,59 +309,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:183231",
+      "id": "anilist:168179",
       "type": "series",
-      "name": "RILAKKUMA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "name": "Biaoren 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168179-wKRVDrZWcT5k.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:212994",
+      "id": "anilist:205772",
       "type": "series",
-      "name": "Detective Conan: The Gold-Star Answer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212994-y8ByUgm6GOjq.jpg",
+      "name": "Candy Caries",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:210932",
+      "id": "anilist:204356",
       "type": "series",
-      "name": "Shiguang Dailiren: Xiao Juchang 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b210932-Fd1o3LGCMAzs.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:206523",
-      "type": "series",
-      "name": "Onegai AiPri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:184872",
-      "type": "series",
-      "name": "Nitian Xie Shen: Nian Fan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184872-itLkYq3Yr3Ho.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:211270",
-      "type": "series",
-      "name": "Fei Ren Zai 3 Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:173172",
-      "type": "series",
-      "name": "Dorohedoro Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:197754",
-      "type": "series",
-      "name": "LIAR GAME",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+      "name": "My Hero Academia More",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204356-RNYmxUVVz3Z2.png",
       "releaseInfo": "2026"
     },
     {
@@ -369,20 +334,6 @@
       "type": "series",
       "name": "NEEDY GIRL OVERDOSE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:180228",
-      "type": "series",
-      "name": "Go For It, Nakamura-kun!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180228-MuZ7adbGiYVj.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:185211",
-      "type": "series",
-      "name": "Yowayowa Sensei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -400,6 +351,27 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:206951",
+      "type": "series",
+      "name": "My Ribdiculous Reincarnation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:202381",
+      "type": "series",
+      "name": "Killed again, Mr. Detective.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:186744",
+      "type": "series",
+      "name": "Even a Replica Can Fall in Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186744-nFH4y2slUrO4.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:198939",
       "type": "series",
       "name": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
@@ -414,10 +386,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:196144",
+      "id": "anilist:177501",
       "type": "series",
-      "name": "SNOWBALL EARTH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
+      "name": "A Hundred Scenes of AWAJIMA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177501-BwdlSMEXGZWz.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:197868",
+      "type": "series",
+      "name": "The Food Diary of Miss Maid",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
       "releaseInfo": "2026"
     },
     {
@@ -425,13 +404,6 @@
       "type": "series",
       "name": "Pardon the Intrusion, I'm Home!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202985-lyp5TYpTnqSg.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:181284",
-      "type": "series",
-      "name": "Kirio Fan Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -446,13 +418,6 @@
       "type": "series",
       "name": "Eren the Southpaw",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:177634",
-      "type": "series",
-      "name": "Ace of the Diamond act II -Second Season-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
       "releaseInfo": "2026"
     },
     {
@@ -540,6 +505,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:212563",
+      "type": "series",
+      "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212563-8YkPUqUDReu9.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:205054",
       "type": "series",
       "name": "The Dark History of the Reincarnated Villainess: Yomi, Jealousy, and a Birthday / Iana and Sol's Feverish Day",
@@ -547,17 +519,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:168179",
-      "type": "series",
-      "name": "Biaoren 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168179-wKRVDrZWcT5k.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:206354",
       "type": "series",
       "name": "Versatile Mage Season 7",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206354-JDkdtdhrd6mD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:183231",
+      "type": "series",
+      "name": "RILAKKUMA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:212994",
+      "type": "series",
+      "name": "Detective Conan: The Gold-Star Answer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212994-y8ByUgm6GOjq.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -582,6 +561,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:210932",
+      "type": "series",
+      "name": "Shiguang Dailiren: Xiao Juchang 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b210932-Fd1o3LGCMAzs.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:209312",
       "type": "series",
       "name": "Girls und Panzer: Ribbon no Musha Pilot-ban",
@@ -603,10 +589,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:205772",
+      "id": "anilist:206523",
       "type": "series",
-      "name": "Candy Caries",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205772-kb2YOaXFfPAB.png",
+      "name": "Onegai AiPri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -642,6 +628,13 @@
       "type": "series",
       "name": "Ever Night",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186833-BnuqxWjFh1HR.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:184872",
+      "type": "series",
+      "name": "Nitian Xie Shen: Nian Fan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184872-itLkYq3Yr3Ho.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -775,6 +768,13 @@
       "type": "series",
       "name": "Kumarba Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206950-pNm7O5inBKBX.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:211270",
+      "type": "series",
+      "name": "Fei Ren Zai 3 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211270-JL9g9jogYvl2.png",
       "releaseInfo": "2026"
     },
     {

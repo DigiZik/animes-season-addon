@@ -8,6 +8,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:211308",
+      "type": "movie",
+      "name": "THE RIBBON HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211308-KG8w6IyCI3r0.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:209961",
       "type": "movie",
       "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: CLOUDY BEACH",
@@ -15,17 +22,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:202717",
+      "id": "anilist:198654",
       "type": "movie",
-      "name": "Chiikawa: Ningyo no Shima no Himitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202717-kHDn7BRiP9CR.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:211308",
-      "type": "movie",
-      "name": "THE RIBBON HERO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211308-KG8w6IyCI3r0.png",
+      "name": "Meitantei Precure! Fushigi na Niwa to Futari no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198654-0Uvq9VnZWPtN.png",
       "releaseInfo": "2026"
     },
     {
@@ -57,17 +57,17 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:202717",
+      "type": "movie",
+      "name": "Chiikawa: Ningyo no Shima no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202717-kHDn7BRiP9CR.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:176373",
       "type": "movie",
       "name": "Shiranuhi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176373-355WYOUefrCt.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:198654",
-      "type": "movie",
-      "name": "Meitantei Precure! Fushigi na Niwa to Futari no Himitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198654-0Uvq9VnZWPtN.png",
       "releaseInfo": "2026"
     },
     {
