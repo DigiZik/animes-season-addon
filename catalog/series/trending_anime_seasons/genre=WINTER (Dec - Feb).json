@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "anilist:166613",
-      "type": "series",
-      "name": "Hell’s Paradise Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:190327",
-      "type": "series",
-      "name": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:172463",
       "type": "series",
       "name": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
@@ -22,10 +8,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:182255",
+      "id": "anilist:166613",
       "type": "series",
-      "name": "Frieren: Beyond Journey’s End Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+      "name": "Hell’s Paradise Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -36,17 +22,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:176276",
+      "id": "anilist:182255",
       "type": "series",
-      "name": "Chained Soldier Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:192507",
-      "type": "series",
-      "name": "In the Clear Moonlit Dusk",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+      "name": "Frieren: Beyond Journey’s End Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -57,24 +36,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:187942",
+      "id": "anilist:179062",
       "type": "series",
-      "name": "Tune In to the Midnight Heart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+      "name": "Fire Force Season 3 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:202957",
+      "id": "anilist:202955",
       "type": "series",
-      "name": "Star Detective Precure!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:182587",
-      "type": "series",
-      "name": "OSHI NO KO Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg",
+      "name": "Love Through A Prism",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202955-9ESiLpN9AynZ.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -92,6 +64,27 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:187942",
+      "type": "series",
+      "name": "Tune In to the Midnight Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:182587",
+      "type": "series",
+      "name": "OSHI NO KO Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:190327",
+      "type": "series",
+      "name": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:185262",
       "type": "series",
       "name": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
@@ -99,17 +92,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:195322",
+      "id": "anilist:195515",
       "type": "series",
-      "name": "My Hero Academia: Vigilantes Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+      "name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:201903",
+      "id": "anilist:186333",
       "type": "series",
-      "name": "Cosmic Princess Kaguya!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201903-v43gxQKw8Tc8.jpg",
+      "name": "Kunon the Sorcerer Can See",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:176276",
+      "type": "series",
+      "name": "Chained Soldier Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
       "releaseInfo": "2026"
     },
     {
@@ -120,31 +120,31 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:170110",
+      "id": "anilist:189565",
       "type": "series",
-      "name": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special) - The Legendary Dragon—Awakens",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
+      "name": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:179062",
+      "id": "anilist:195518",
       "type": "series",
-      "name": "Fire Force Season 3 Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
+      "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:177385",
+      "id": "anilist:183984",
       "type": "series",
-      "name": "Journal with Witch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+      "name": "The Case Book of Arne",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:195515",
+      "id": "anilist:201903",
       "type": "series",
-      "name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
+      "name": "Cosmic Princess Kaguya!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201903-v43gxQKw8Tc8.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -162,6 +162,13 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:170110",
+      "type": "series",
+      "name": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special) - The Legendary Dragon—Awakens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:185039",
       "type": "series",
       "name": "The Invisible Man and His Soon-to-Be Wife",
@@ -176,59 +183,17 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:195518",
+      "id": "anilist:183661",
       "type": "series",
-      "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+      "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:166521",
+      "id": "anilist:183270",
       "type": "series",
-      "name": "Golden Kamuy Final Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:187267",
-      "type": "series",
-      "name": "BEASTARS Final Season Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:137662",
-      "type": "series",
-      "name": "Release that Witch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:189137",
-      "type": "series",
-      "name": "Anyway, I'm Falling in Love with You. Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:198706",
-      "type": "series",
-      "name": "The Great Ruler 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198706-H4PFRULtM4VH.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:202955",
-      "type": "series",
-      "name": "Love Through A Prism",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202955-9ESiLpN9AynZ.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:187901",
-      "type": "series",
-      "name": "Dead Account",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+      "name": "The Holy Grail of Eris",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -246,20 +211,6 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:181443",
-      "type": "series",
-      "name": "DARK MOON: THE BLOOD ALTAR",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:198374",
-      "type": "series",
-      "name": "A Misanthrope Teaches a Class for Demi-Humans",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:176509",
       "type": "series",
       "name": "BAKI-DOU: The Invincible Samurai",
@@ -267,38 +218,24 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:205905",
+      "id": "anilist:185753",
       "type": "series",
-      "name": "Beyond Time's Gaze",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg",
-      "releaseInfo": "2025"
+      "name": "MF GHOST Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:177385",
+      "type": "series",
+      "name": "Journal with Witch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+      "releaseInfo": "2026"
     },
     {
       "id": "anilist:180746",
       "type": "series",
       "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-eqDiHbzoHMFh.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:186333",
-      "type": "series",
-      "name": "Kunon the Sorcerer Can See",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:163144",
-      "type": "series",
-      "name": "TRIGUN STARGAZE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:189565",
-      "type": "series",
-      "name": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189565-OHhadYSsd0Bg.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -309,17 +246,17 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:187901",
+      "type": "series",
+      "name": "Dead Account",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:177679",
       "type": "series",
       "name": "The Darwin Incident",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:183661",
-      "type": "series",
-      "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -330,10 +267,80 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:183270",
+      "id": "anilist:166521",
       "type": "series",
-      "name": "The Holy Grail of Eris",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
+      "name": "Golden Kamuy Final Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:189275",
+      "type": "series",
+      "name": "Medalist Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189275-eHsK0lNnFfXH.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:137662",
+      "type": "series",
+      "name": "Release that Witch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:181443",
+      "type": "series",
+      "name": "DARK MOON: THE BLOOD ALTAR",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:185514",
+      "type": "series",
+      "name": "Champignon Witch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:202957",
+      "type": "series",
+      "name": "Star Detective Precure!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:199446",
+      "type": "series",
+      "name": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:195877",
+      "type": "series",
+      "name": "Apotheosis 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195877-8ZwkzV0zsJI9.jpg",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "anilist:192507",
+      "type": "series",
+      "name": "In the Clear Moonlit Dusk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:195322",
+      "type": "series",
+      "name": "My Hero Academia: Vigilantes Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:163144",
+      "type": "series",
+      "name": "TRIGUN STARGAZE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -351,17 +358,17 @@
       "releaseInfo": "2026"
     },
     {
+      "id": "anilist:187267",
+      "type": "series",
+      "name": "BEASTARS Final Season Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187267-clvlTabOPdPo.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:187989",
       "type": "series",
       "name": "Scum of the Brave",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:189275",
-      "type": "series",
-      "name": "Medalist Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189275-eHsK0lNnFfXH.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -372,10 +379,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:185514",
+      "id": "anilist:198374",
       "type": "series",
-      "name": "Champignon Witch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185514-mfJqhtz22l1Z.jpg",
+      "name": "A Misanthrope Teaches a Class for Demi-Humans",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -393,13 +400,6 @@
       "releaseInfo": "2025"
     },
     {
-      "id": "anilist:185753",
-      "type": "series",
-      "name": "MF GHOST Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185753-fKim5yXjaE9I.png",
-      "releaseInfo": "2026"
-    },
-    {
       "id": "anilist:176370",
       "type": "series",
       "name": "'Tis Time for \"Torture,\" Princess Season 2",
@@ -414,10 +414,10 @@
       "releaseInfo": "2026"
     },
     {
-      "id": "anilist:183984",
+      "id": "anilist:189137",
       "type": "series",
-      "name": "The Case Book of Arne",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183984-uq5scAXrhEdx.jpg",
+      "name": "Anyway, I'm Falling in Love with You. Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189137-cCXaEiX0bJb4.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -460,13 +460,6 @@
       "type": "series",
       "name": "Terror Man",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166039-HT7Hzg3lE6hW.png",
-      "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:199446",
-      "type": "series",
-      "name": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
       "releaseInfo": "2026"
     },
     {
@@ -531,6 +524,13 @@
       "name": "Theatre of Darkness: Yamishibai 16",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203939-F8YG2X9LgfAX.png",
       "releaseInfo": "2026"
+    },
+    {
+      "id": "anilist:205905",
+      "type": "series",
+      "name": "Beyond Time's Gaze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205905-lbDVh7foIfjt.jpg",
+      "releaseInfo": "2025"
     },
     {
       "id": "anilist:204432",
@@ -603,6 +603,13 @@
       "releaseInfo": "2025"
     },
     {
+      "id": "anilist:198706",
+      "type": "series",
+      "name": "The Great Ruler 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198706-H4PFRULtM4VH.jpg",
+      "releaseInfo": "2026"
+    },
+    {
       "id": "anilist:205290",
       "type": "series",
       "name": "Sword of Coming 2nd Season",
@@ -629,13 +636,6 @@
       "name": "Huhuan Shaonü Special: Xiang Zuo de Shi Daodi Shi Shenme",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210376-1z3KgIvnh7ky.jpg",
       "releaseInfo": "2026"
-    },
-    {
-      "id": "anilist:195877",
-      "type": "series",
-      "name": "Apotheosis 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195877-8ZwkzV0zsJI9.jpg",
-      "releaseInfo": "2025"
     },
     {
       "id": "anilist:186834",
